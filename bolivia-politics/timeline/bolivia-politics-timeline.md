@@ -123,3 +123,31 @@
 |- **October 13:** La Paz coordinating prosecutor Armando Rojas arrested at his home, charged with criminal organization and drug trafficking cover-up linking to Mariaca network — Mariaca purge widens. Also investigated: fiscal superior Martín Irusta, Santa Cruz fiscal Alberto Zeballos. Police major Rubén Aparicio captured.
 |
 |- **October 13-14:** Fox News publishes exclusive interview with Defense Minister Justiniano: Shield of the Americas facing first real-world test; preventive troop deployments at strategic routes and critical infrastructure. State Dept visa restrictions on Bolivian officials. Justiniano: "We are preparing for a risk, not declaring that a coup is underway."
+
+- **October 15:** COB declares a state of emergency at its national assembly in Cochabamba over living costs, the 83% diesel price surge, and decrees threatening state-company workers with layoffs — but Secretary General Mario Argollo announces no strike, keeping the movement strictly "reivindicativo" and refusing to align with Morales-aligned (evista) sectors, who had postponed their march to La Paz.
+
+- **October 15-16:** IMF October World Economic Outlook projects Bolivia as South America's only economy contracting through 2027 (-3.0% in 2026); gross reserves projected to rise to $5.7B (end-2026) and $7.3B (2027) as the EFF unlocks ~$4B in additional lending.
+
+- **October 16:** Chilean President José Antonio Kast makes the first state visit by a Chilean president to Bolivia in 71 years (since Carlos Ibáñez del Campo, 1955). Kast and Paz pledge to normalize diplomatic relations "at the highest level" (broken since 1978) and sign accords on trade, mining, energy and border security. Bolivia's constitutional Pacific sea-access claim absent from the agenda; Kast invites Paz for a 2027 state visit to Chile. Both leaders are Shield of the Americas members.
+
+- **October 19:** Latin Times reports the fragile social truce fracturing: COB emergency declaration sets stage for a threatened Oct 23 national strike; evista sectors openly disappointed the COB declined to endorse their campaign.
+
+- **October 20 & 23:** Teachers demonstrate before the Ministry of Education in La Paz (Oct 20), then hold a 24-hour national strike (Oct 23) against rising prices and the government's education decentralization plan — schools shut across the country; police respond with tear gas, rubber bullets, beatings and detentions. The COB declines to call a general strike.
+
+- **October 22:** ECLAC's October projections see Bolivia growing just 0.2% in 2026 vs the IMF's -3.0% — a 3.2pp gap between the UN body and the Fund.
+
+- **October 22:** US State Department names 15 of 40 Bolivians subject to visa restrictions under the policy announced Sep 28 — including two national deputies, former Attorney General Juan Lanchipa Ponce, prosecutors, judges and police officials; the Department says it "stands with the government of Bolivia."
+
+- **October 24:** At the "Evo Pueblo" congress in Lauca Ñ, Morales warns "at any moment armed struggle can return" if his movement keeps being eliminated, says he does not agree with that path, and blames the political right. Ombudsman Pedro Callisaya warns conflict levels have not declined despite the state of exception.
+
+- **October 25:** Lula defeats Flávio Bolsonaro in Brazil's presidential runoff — the rightward wave's biggest setback, denying Trump a powerful ally in South America's largest economy. Analysts note Trump-aligned leaders are already losing support in Chile, Bolivia and Peru.
+
+- **October 29:** Police arrest two brothers in Quillacollo (near Cochabamba) after seizing dynamite, ANFO mining explosive and firearms; Government Minister Oviedo alleges one brother, Alain Torrico, received phone instructions connected to Evo Morales about violence planned for November protests. CSUTCB leaders call it a smokescreen diverting attention from audio recordings in a separate scandal.
+
+- **October 30:** Chamber of Deputies closes its 2025-2026 legislature and begins transition; leadership had come from three different parties, reflecting fragmentation. Government's Agenda 50/50 tax-sharing talks with governors ongoing. Paz says ~40% of Bolivians lack toilets and safe drinking water, announcing a US$4.5B program to close the gap.
+
+- **October 31 / November 1:** Paz declares a nationwide state of emergency over the intensifying "super" El Niño — severe droughts and floods with at least 78,000 families already affected by drought; decree mobilizes rescue teams and coordinates armed forces and police.
+
+- **November 2-5:** Paz travels to Madrid for the XXX Ibero-American Summit (Nov 4-5) courting European investment in hydrocarbons, mining, energy and technology; bilaterals with European business leaders, UNESCO and CAF. Described as Bolivia's most assertive push onto the world stage in years.
+
+- **November 6 (upcoming):** Morales-aligned sectors plan to march from Patacamaya (~100 km south of La Paz) to La Paz, against the government's economic policies; US advisory guidance flags the date. Government says it will enforce the state of exception against blockades.

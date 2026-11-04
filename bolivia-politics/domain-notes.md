@@ -47,6 +47,10 @@
 - "Bolivia MAS fragmentation election 2026"
 - "Bolivia coca growers Chapare protests 2026"
 - "Latin America right-wing populism Bukele 2026"
+- "Bolivia Chile Kast relations normalization 2026"
+- "Bolivia COB strike teachers October 2026"
+- "Bolivia El Nino drought emergency 2026"
+- "Brazil Lula Bolsonaro election impact region"
 
 ## Key Entities Tracked
 | Entity | Role | Key Context |
@@ -55,6 +59,8 @@
 | Evo Morales | Former president (2006-2019), MAS leader | Confined to Chapare; faces second arrest warrant (armed insurrection, terrorism, July 29, 2026); warns "if not with votes, with bullets" |
 | Movement for Socialism (MAS) | Long-dominant socialist party, now in opposition | Destroyed by three-way infighting (Morales vs Arce vs Rodríguez); collapsed to 2 lower house seats |
 | Jorge Quiroga | Former president, conservative runoff opponent | Defeated by Paz in 2025 runoff |
+| Luis Arce | Former president (2020-2025), MAS | Held in preventive detention since December 2025 by Paz administration (per leftist analysis Yahoo/The Intercept, Oct 2026 — single-source, verify); judge refused release on health grounds; source of the 2009 killings investigation target alongside Morales |
+| Chile | Historic diplomatic reset partner | Kast-Paz Oct 16, 2026 summit: first Chilean presidential visit in 71 years; normalization pledge (ties broken since 1978); trade/mining/energy/border accords; shield ally; sea-access claim shelved from agenda |
 | United States | Key external backer of Paz | Rubio/Hegseth support; $20M security agreement; DEA returns; "narco-terrorist" framing of protesters |
 
 ## Key Concepts Tracked
@@ -142,6 +148,17 @@
 ||- **Evista march postponement (Oct 13, 2026):** Morales-aligned groups postpone Oct 13 march to new start Oct 16 from Patacamaya, arriving La Paz Oct 19 — signals coordination difficulties
 ||- **Santa Cruz Oct 10 deadline:** Passed without mass escalation; government offered partial fuel concessions; phased street pressure begins
 ||- **Shield of the Americas test:** Fox News exclusive — Justiniano confirms preventive troop deployments nationwide
+- **ECLAC vs IMF forecast gap (Oct 22-23, 2026):** ECLAC sees +0.2% growth for 2026; IMF WEO sees -3.0% — 3.2pp divergence; IMF projects Bolivia as South America's ONLY economy shrinking through 2027
+- **External debt (Sep 30, 2026):** US$14.1B = 26.1% of GDP; IDB/CAF/World Bank hold 65.7% (Rio Times)
+- **US visa restrictions:** 40 Bolivians targeted (policy announced Sep 28); 15 named Oct 22 incl. ex-AG Juan Lanchipa Ponce, two deputies, judges
+- **Official BOB/USD:** 11.88 (Oct 24-26) — continuing slide from 12.05 (Oct 5)
+- **2025 inflation:** 20.40% (highest in 36 years, up from 2.12% in 2023); yoy inflation 5.70% Sept 2026 but rising again since July (4.93%) (WSWS)
+- **Arce detention:** Former president Luis Arce held in preventive detention since December 2025; judge refused release on health grounds (single-source, Yahoo/The Intercept Oct 2026)
+- **Chile-Bolivia reset (Oct 16, 2026):** First Chilean presidential visit in 71 years; normalization pledge (broken since 1978); economic integration + border security accords; sea-access claim absent from agenda
+- **El Niño emergency (Oct 31, 2026):** Nationwide state of emergency; 78,000+ families affected by drought; "super" El Niño with severe drought/flood impacts
+- **Nov 6 Patacamaya march:** Evista march to La Paz rescheduled to start Friday Nov 6 — third scheduling iteration; govt seized dynamite/ANFO in Quillacollo Oct 29 alleging Morales-linked violence planning
+- **Lithium status (Oct 2026):** CBC/Uranium One contracts (~$2B per CEDIB) still unratified; carbonate sales to China only $20.4M in 2025 (1.1%); China due to activate lithium-refining export controls Nov 10, 2026
+- **Brazil result (Oct 25, 2026):** Lula defeats Flávio Bolsonaro in runoff — rightward wave's biggest defeat; 13 of 17 subcontinent presidential elections since 2023 won by right
 
 ## Prediction History
 | Date | Probability | Δ | Key Driver |
@@ -168,6 +185,11 @@
 |- **Rio Times "automated newsroom system":** Many Rio Times articles are AI-generated summaries of other wire reports and carry a disclaimer — treat as secondary curation, not original reporting; useful for aggregation but cross-check key claims against primary sources
 |- **BSS (Bangladesh Sangbad Sangstha):** A Bangladeshi state news agency syndicating AFP — the AFP core is high quality but the republishing/formatting may truncate or lose nuance; extract AFP content directly if possible
 |- **lacommunis.org:** Independent leftist analytical publication — provides deep framing analysis but treat as opinion/analysis, not breaking news; useful for narrative context and overlooked data points
+- **El Niño story syndication:** The Oct 31/Nov 1 El Niño emergency was carried nearly identically by Al Jazeera, DW, SANA, ABS-CBN and others — extract ONE (Al Jazeera or DW) and skip the rest
+- **Chile-Kast summit coverage:** AP, MercoPress, Buenos Aires Times, Bloomberg all covered the Oct 16 Kast-Paz summit — AP is the cleanest; MercoPress adds the sea-access constitutional quote; Bloomberg adds accords detail. Pick one + merge unique details
+- **COB/teachers strike overlap:** Latin Times (Oct 19, pre-strike build-up, Argollo quotes) and WSWS (Oct 26, strike outcome + inflation data) cover the same event from different angles — both can be valid if each carries facts the other lacks; skip generic re-syndications (television networks re-reporting the same strike)
+- **Rio Times guide pages paywall:** Rio Times "Explained/Guide" pages (power structure, foreign players, geopolitics) are partially paywalled but the free portion (FAQ schema JSON) contains hard data — extract once per run; they are reference aggregations (treat as curated secondary data, cross-check figures) rather than primary reporting
+- **Yahoo syndication of US left outlets:** Yahoo News carries The Intercept/Jacobin-style analysis (e.g., "Under Trump Pressure, Bolivia Arrests Its Own Attorney General") — high-value context (Arce detention, DEA intel) but explicitly anti-Paz framing; verify single-source claims (Arce detention since Dec 2025) against later reporting before treating as established fact
 
 ## High-Signal Source Types
 - **IMF press releases/staff statements:** Highest-quality economic data (inflation, fiscal targets, program conditions)
