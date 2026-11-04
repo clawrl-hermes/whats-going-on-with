@@ -25,7 +25,8 @@ ECDPM analysis (Jones/Hameiri, July 2026) argues the Lobito Corridor narrative i
 - 70% of DRC's exports currently go to China; the Lobito Corridor would give these exports an Atlantic option
 - US Millennium Challenge Corporation has expanded a $491M agriculture compact with Zambia to also support Lobito Corridor infrastructure
 
-## September 2026 developments
+## October-November 2026 developments
+- **AFC names Lobito builders (Oct 27, 2026):** AFC names Webuild (Italy), Mota-Engil (Portugal), Ictas (Turkey) as preferred bidders for Zambia's 515km Lobito railway section. Mota-Engil and Odebrecht selected for Angolan section. Construction cost up to $5B. AFC CEO pitches Lobito energy corridor using 2 GW Angolan stranded hydro. Contract talks to start November 2026. $3-5B fundraising targeting late 2027 close. (Source 94, Semafor)
 - **Mota-Engil concession:** DRC awards Mota-Engil a 30-year concession covering ~1,004-km Dilolo-Sakania railway through Kolwezi, Tenke, and Lubumbashi with up to $1.8B investment — the Congolese section of the wider Lobito system (Newsbase, September 2026).
 - **AFC fundraising:** Africa Finance Corporation raising $3-5B for Lobito extension (315 km new rail in DRC, 515 km in Zambia), with financial close targeted Q4 2027 and completion planned 2030. At least 10 African and international lenders in discussions (Newsbase).
 - **Capacity targets:** Lobito rehabilitation to increase capacity from ~400,000 to 4.6M tonnes/year. Current throughput ~200,000 tonnes international cargo in 2025.

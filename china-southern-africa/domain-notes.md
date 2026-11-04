@@ -55,8 +55,21 @@
 | Zambia | Copperbelt; Lobito Corridor & TAZARA node | CNMC, Wonderful Group (Ndola Lime JV) |
 | Angola | Lobito Corridor Atlantic gateway | China Railway Construction Corp |
 | Tanzania | Indian Ocean hub; emerging rare earths | Hongji Mining Co. Ltd |
+| Botswana | Diamonds, emerging copper/battery metals; comprehensive strategic cooperative partnership (Oct 2026) | MMG (Khoemacau copper mine 100%), Chinese green mining cooperation |
 
-## Key Data Points (as of September 2026)
+## Key Data Points (as of October-November 2026)
+|- **China's BRI mining and metals spending: $32B in 2025** (record, up from $21B in 2024) (Foreign Affairs, Nov 2026/Source 92)
+|- **China's BRI investment in Africa across all sectors: $39B in 2025** (Africa Center, Oct 2026/Source 91)
+|- **US invested ~$300M vs China $8-10B** in African critical mineral projects in 2023 (Foreign Affairs, Nov 2026/Source 92)
+|- **Chinese banks extended >$9B in credit** for DRC mine development (2008-2020) plus $3B in Eximbank infrastructure loans (Foreign Affairs, Nov 2026/Source 92)
+|- **Zijin acquired Kamoa-Kakula stake** after no Western investors would take the risk; mine now one of world's largest copper operations (Foreign Affairs, Nov 2026/Source 92)
+|- **Project Vault and Project Forge:** new Western initiatives for coordinated strategic stockpiling and midstream processing outside China (OECD, Oct 2026/Source 90)
+|- **2026 Critical Minerals Ministerial in Washington** marked more overtly strategic Western posture (OECD, Oct 2026/Source 90)
+|- **Botswana elevated to comprehensive strategic cooperative partnership** with China (Oct 13-14, 2026) — first such elevation with a new Southern African country in the 2026 cycle (SCMP/Streamline, Sources 93, 97)
+|- **MMG acquired 100% of Khoemacau copper mine** in Botswana, expanding Chinese Copperbelt footprint (White & Case, Oct 2026/Source 89)
+|- **AFC names builders for 515km Zambian Lobito section:** cost estimated up to $5B; AFC raising $3-5B (Semafor, Oct 27/Source 94)
+|- **Mtwara Development Corridor:** port cargo handling increased from 592,000 MT (2021-22) to 2.58M MT (2024-25) (Africa Center, Oct 2026/Source 91)
+|- **African governments finance >40% of active infrastructure commitments** against $130-170B annual requirement (Africa Center, Oct 2026/Source 91)
 - Chinese mining investment in Africa: **largest of any bilateral partner** (more than next 8 combined, per ACCPA)
 - DRC Chinese development finance (2000-2023): **$22 billion via 112 loans + 169 grants** (AidData)
 - Africa holds **~30% of world's critical mineral reserves**

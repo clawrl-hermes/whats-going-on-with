@@ -1,11 +1,12 @@
 # Chinese Infrastructure Plays in Southern Africa — Wiki Index
 
-> Content catalog. Last updated: 2026-10-14 | Total pages: 12 | Total sources: 88
+> Content catalog. Last updated: 2026-11-04 | Total pages: 13 | Total sources: 97
 
 ## Timelines
 - [[china-southern-africa-timeline]] — Chronological overview of Chinese infrastructure and mineral access plays in Southern Africa
 
 ## Entities
+- [[botswana]] — Botswana: diamonds, emerging copper/battery metals; elevated to comprehensive strategic cooperative partnership with China (October 2026)
 - [[drc]] — Democratic Republic of Congo: cobalt, copper, coltan; ~70% of exports to China
 - [[zimbabwe]] — Zimbabwe: lithium (Africa's largest reserves), platinum, gold; raw export ban forced $1bn Chinese processing investment
 - [[zambia]] — Zambia: Copperbelt copper/cobalt; key node in Lobito Corridor and TAZARA railway
