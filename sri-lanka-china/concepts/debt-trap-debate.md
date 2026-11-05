@@ -1,13 +1,6 @@
 ---
 title: The Debt-Trap Diplomacy Debate
 summary: "The contested claim that China lends to trap borrowers into asset seizures, with Sri Lanka's Hambantota lease as the central case."
-created: 2026-05-20
-updated: 2026-05-20
-type: concept
-tags: [debt-trap, diplomacy, BRI, geopolitics, contested]
-sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-confidence: medium
-contested: true
 ---
 
 # The Debt-Trap Diplomacy Debate
