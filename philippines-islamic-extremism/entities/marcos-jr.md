@@ -1,3 +1,9 @@
+---
+title: "Ferdinand Marcos Jr. (Bongbong Marcos)"
+summary: "President of the Philippines, overseeing the Bangsamoro peace process and the country's South China Sea posture."
+role: "President of the Philippines"
+---
+
 # Ferdinand Marcos Jr. (Bongbong Marcos)
 
 President of the Philippines since June 2022. His administration oversees both the BARMM peace process completion and the Philippines' increasingly confrontational posture toward China in the South China Sea.

@@ -1,3 +1,9 @@
+---
+title: "Abu Sayyaf Group (ASG)"
+summary: "The Islamic State-affiliated jihadist group based in Sulu and Basilan, degraded but still capable of low-level attacks."
+role: "Militant group"
+---
+
 # Abu Sayyaf Group (ASG)
 
 Jihadist militant organization based in the Sulu Archipelago (Jolo and Basilan islands). Once the Philippines' most feared terrorist group, now significantly degraded.

@@ -1,3 +1,8 @@
+---
+title: "Spoiler Dynamics in the Mindanao Conflict"
+summary: "The armed groups, clan networks and political actors that undermine the Bangsamoro peace process."
+---
+
 # Spoiler Dynamics in the Mindanao Conflict
 
 "Spoilers" are actors who actively undermine peace processes because they benefit from continued conflict. The Mindanao conflict has a complex spoiler ecology.

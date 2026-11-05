@@ -1,110 +1,65 @@
 # Timeline: Islamic Extremism in the Philippines
 
 ## 1991
-- **Founding:** Abu Sayyaf splits from the Moro National Liberation Front (MNLF) under Abdurajak Abubakar Janjalani, seeking a more radical Islamist state in Mindanao.
+- Abu Sayyaf splits from the Moro National Liberation Front under Abdurajak Abubakar Janjalani, seeking a radical Islamist state in Mindanao.
 
 ## 2004
-- **February:** Abu Sayyaf bombs MV Superferry 14 in Manila Bay, killing 116 — the Philippines' deadliest terrorist attack.
+- Abu Sayyaf bombs the MV Superferry 14 in Manila Bay in February, killing 116 in the Philippines' deadliest terrorist attack.
 
 ## 2014
-- **March:** Abu Sayyaf leader Isnilon Habilon pledges allegiance to ISIS leader Abu Bakr al-Baghdadi.
+- Abu Sayyaf leader Isnilon Hapilon pledges allegiance to ISIS in March.
 
 ## 2017
-- **May–October:** The Marawi Siege — IS-affiliated Maute Group and Abu Sayyaf seize Marawi City. Philippine military retakes the city after 5 months. Over 1,200 killed, 350,000 displaced. The battle draws foreign fighters from across Southeast Asia and the Middle East.
+- IS-affiliated Maute and Abu Sayyaf fighters seize Marawi in May; the military retakes the city in October after five months, with more than 1,200 killed and 350,000 displaced.
 
 ## 2019
-- **January–February:** Bangsamoro Organic Law ratified via plebiscite; BARMM formally established, replacing ARMM.
-- **March:** Duterte orders "All-Out-War" against Abu Sayyaf following the Jolo Cathedral bombing (23 killed). The campaign significantly degrades the group.
+- The Bangsamoro Organic Law is ratified in January-February and BARMM replaces ARMM.
+- Duterte orders an "all-out war" on Abu Sayyaf in March after the Jolo cathedral bombing, significantly degrading the group.
 
 ## 2020
-- **July:** Anti-Terrorism Act of 2020 enacted, expanding government surveillance and detention powers. Criticized by human rights groups but defended as necessary counter-terrorism tool.
+- The Anti-Terrorism Act expands surveillance and detention powers in July.
 
-## 2023–2024
-- Abu Sayyaf remnants splinter further. Some factions attempt to rebrand and exploit local grievances (poverty, land disputes, clan politics) in Sulu and Basilan. Philippine military continues targeted operations.
+## 2023
+- Abu Sayyaf remnants splinter further as factions rebrand around local grievances in Sulu and Basilan.
+
+## 2024
+- The military continues targeted operations while BARMM prepares for its first parliamentary election.
 
 ## 2025
-- **Throughout:** BARMM prepares for first parliamentary elections. Intra-MILF political rivalries intensify. Marcos administration increases oversight of Bangsamoro transition, raising tensions with the regional government. ISIS-affiliated recruitment cells maintain low-level presence in Lanao del Sur and Maguindanao.
-- **ASEAN:** Philippines deepens security partnerships with Japan, Australia, France, and Vietnam amid rising South China Sea tensions with China.
+- Intra-MILF rivalries intensify as Manila increases oversight of the transition.
+- ISIS-affiliated cells maintain a low-level presence in Lanao del Sur and Maguindanao.
+- The Philippines deepens security partnerships with Japan, Australia, France and Vietnam amid South China Sea tensions.
 
 ## 2026
-- **February 1:** Armed encounter in Patikul, Sulu — suspected Abu Sayyaf remnants kill four, signaling regrouping in Sulu.
-- **April:** Dawla Islamiyah (ISIS-affiliated) emir killed in military operation in Marantao, Lanao del Sur. Three of those killed were former surrenderees, exposing flaws in reintegration programs.
-- **May 14:** BARMM placed under state of calamity due to oil crisis and extended El Niño drought disrupting food security.
-- **May:** Bangsamoro Federalist Party (BFP) formed by Macacua supporters, splitting from MILF's dominant UBJP. Mohagher Iqbal removed as MP/education minister over corruption allegations; ~37,000 MILF supporters hold emergency peace rally in Cotabato City demanding reinstatement of Murad Ebrahim.
-- **May 23:** MILF and Philippine Army forge united front against ISIS-affiliated groups in Munai, Lanao del Norte — unprecedented operational cooperation.
-- **May:** CrisisWatch reports intra-MILF rift exposed by political disputes ahead of September parliamentary election. CCAA data: violent extremism incidents rose to 40 (Jan–May 2026) from 29 (late 2025). Clan feuding at 43 incidents in first four months.
-- **May 29:** FULCRUM/ISEAS analysis concludes South China Sea in structural stalemate — Balikatan 2026 largest ever (17,000 troops, 7 nations), Japan deploys combat troops for first time, China tightens Scarborough barrier.
-- **June 1:** Philippines and Vietnam sign Enhanced Strategic Partnership.
-- **June 2:** Manila Times reports BARMM at crossroads — CCAA warns violence likely to increase ahead of September polls.
-- **June:** Comelec declares "very ready" for September 14 BARMM parliamentary elections — 6,500 ACMs, 2.4M registered voters, 5,212 precincts. Gun ban July 16–Sept 29. ACM shading threshold proposed at 25%.
-- **June 8:** Magnitude-7.8 earthquake strikes offshore Maasim, Sarangani — 65+ dead, 736,400+ affected across Regions IX, XI, XII, and BARMM. Compounds existing state of calamity (oil crisis + El Niño).
-- **June:** MILF Central Committee suspends Macacua as BIAF Chief of Staff — retaliatory move over BFP formation and Iqbal ouster. Rift penetrates MILF's armed wing.
-- **June:** 1,000+ MILF members (including Cotabato City Mayor Bruce Matabalao) leave UBJP for BFP. BFP one of 16 parties contesting September polls.
-- **June 15:** Save Bangsamoro Movement protests at Mendiola, Manila — appeals to Marcos to "restore the leadership" of BARMM, expressing concern over unilateral national government actions on peace agreement.
-- **June 23:** COMELEC confirms September 14 BARMM election will proceed — no legal basis for postponement. Campaign period July 30–September 12. PRO-BAR identifies 92 towns as areas of concern. Up to 7,991 police for election security.
-- **June 23:** Regional Joint Security Control Center established at WestMinCom HQ, Zamboanga City.
-- **June:** Philippines targets end-2026 for SCS Code of Conduct. Monthly COC negotiations underway. 59th AMM scheduled July 21.
-- **June:** UNOCT CT TECH+ workshop in Manila (June 4–5) — UN-INTERPOL-Philippines partnership on counter-terrorism technology capacity-building.
-- **June:** First BARMM parliamentary election scheduled for September 14, 2026. Peace adviser targets exit agreement by 2028.
-- **June:** Philippines holds ASEAN Chairship; South China Sea Code of Conduct negotiations accelerate with China. CoC July deadline considered rhetorical by analysts.
-- **June 7:** MindaNews reports the first BARMM parliament will be male-dominated — 631 candidates for 80 seats, only 196 (31.1%) women. UBJP and BFP have no women in top 10 party nominee ranks.
-- **June 7:** MindaNews reveals Mahardika Party (MNLF-Nur Misuari) is the only party with a woman (Ustadha Nur-Ainee Tan Lim, Misuari's daughter) as #1 nominee.
-- **June 24:** Philippine Foreign Secretary Lazaro tells Straits Times the South China Sea Code of Conduct must be complete this year, calling it "ASEAN's gift to the world"; Hormuz crisis sharpens urgency.
-- **2026 (undated):** RSIS Counter Terrorist Trends & Analyses: BIFF's Salahuddin faction being rebuilt by "Muhammad Usman" via familial networks in SPMS Box marshlands. DIMG attempting to rebuild in Piagapo, Lanao del Sur, recruiting children under 10. ASG's Radullan Sahiron ordered remnants to return to communities but former combatants remain isolated and vulnerable. MILF decommissioning suspended due to OPAPRU delivery failures. Ustaz Bahang (surrendered Feb 2025) killed by unknown elements in Basilan Oct 2025 — retributive violence persists. UBJP only represents Maguindanao, not wider indigenous population.
-- **June 22:** Lazaro exclusive interview with Straits Times: COC must be legally binding, referencing UNCLOS explicitly. Hormuz crisis exposes ASEAN's vulnerability to maritime disruptions beyond its control.
-- **June 23:** MILF 123rd Base Command (Tagoloan, Lanao del Norte) declares Dawlah Islamiyah-Maute Group and NPA's SRC-5 persona non grata in their respective areas of influence, joining 127th Base Command's similar declaration in Munai on May 23. Ceremonies included signing of Pledge of Commitment to Peace with LGUs and 1st Infantry Division.
-|- **July 5:** BIFF-Bungos faction leader Esmael Abubakar (alias Bungos) killed in joint military-police raid in Sitio Tambak, Maguindanao del Norte. Westmincom also reports recent neutralization of DI-Hassan Group leader Emarudin Kulaw (Alpha King), DI-Maute Group leader Amerol Mangoranca (Usman), and CTG Far South Mindanao secretary Anthony Narvasa (Magaw) — sustained campaign weakening terrorist leadership ahead of September BARMM polls.
-|- **July 3:** OPAPRU's Jill Gallardo confirms Sulu remains a priority area for peace work despite BARMM exit — 1996 Final Peace Agreement with MNLF still covers the province. Bangsamoro government retains funding for Sulu offices.
-|- **July 3:** Comelec 2nd Division cancels COC of UBJP candidate Anwar Alamada for Maguindanao del Sur 5th District — BFP rival challenged residency. Alamada vows motion for reconsideration.
-|- **July 15:** Marcos appoints Peace Adviser Mel Sarmiento as chair of Government Peace Implementing Panel for the Bangsamoro — fills long-vacant post after Cesar Yano's resignation. Sarmiento retains OPAPRU role.
-|- **July 15:** AFP-WestMinCom begins crackdown on Abu Sayyaf remnants and BIFF splinters ahead of July 16 BARMM-wide gun ban. CARES framework rolled out in Basilan hotspots.
-|- **July 16:** BARMM-wide election gun ban takes effect (July 16–September 29).
-|- **July 16:** Councilor Nasser Dalandang of Kadayangan town (SGA-BARMM) shot dead by motorcycle-riding gunmen on first day of gun ban — rido or election-related violence under investigation.
-|- **July 18:** Maguindanao del Sur Rep. Esmael Toto Mangudadatu defects from UBJP to BFP, continuing political exodus weeks ahead of September 14 polls.
-- **July 20:** Multisectoral Peace Coalition holds three-hour dialogue with Peace Adviser Sarmiento; Sarmiento commits to MILF coordination and IMT restoration.
-- **July 22:** Marcos distributes P3.4B in projects to BARMM at Camp Siongco, Maguindanao del Norte — no CAB implementation discussion, no MILF leadership meeting. P2.9B (85%) from BARMM funds.
-- **July 23:** BARMM opens Lanao del Norte office — symbolic extension of governance presence outside formal territory.
-- **July 27:** SONA 2026: Bangsamoro peace process receives 40 seconds (3 paragraphs) in 86-minute address — no CAB implementation, decommissioning, or normalization mentions.
-- **July 30:** Campaign period opens for September 14 BARMM parliamentary elections. 631 candidates for 80 seats. 27 areas under red/orange concern. Two BFP candidates in Maguindanao del Norte already assured victory (unopposed).
-- **July 30:** ANFREL/NDI pre-campaign statement flags voter education as immediate priority.
-- **2026 (July):** Crisis Group Report #355: comprehensive diagnosis of peace deal failures; warns stalled CAB could fuel ISIS; educated cadres jihadist network threat.
-|- **July 28:** CCAA data reveals 611 violent incidents across BARMM Jan-July 2026 (235 deaths). Nature of violence shifts from counter-terrorism encounters (Q1) to political rivalry/clan feuds (May-July). 24 firearms/explosives incidents since July 16 gun ban — averaging 2 per day.
-|- **July-August:** CCAA launches 'Boto Mo Bangsamoro!' — real-time conflict monitoring for BARMM elections. Panenekelan Group emerges in Maguindanao del Sur linked to DI and BIFF, recruiting young individuals. Twin bombings target security personnel after gun ban.
-|- **August 4:** COMELEC Chair Garcia: BARMM election winners can be identified within 1 hour of poll closing. 7,000 counting machines, one Starlink per 4 precincts. Early voting (5-7 AM) for seniors/PWD/pregnant. 20,000+ teachers to begin 2-week training.
-|- **August 4:** COMELEC confirms BARMM polls on track; Palce claims violence spike is personal conflicts, not election-related (8,299 PNP deployed). CCAA records 24 firearms incidents since July 16 gun ban — recommends stricter enforcement.
-|- **August 5:** COMELEC declares 95% readiness for September 14 BARMM elections. Garcia: biggest challenge is misinformation. Ballots to be transmitted to hubs by late August/first week Sept.
-|- **August 7-8:** Mindanao Sentinel analysis: CCAA's Boto Mo Bangsamoro! warns 5 conflict drivers converging — political rivalries, clan feuds, MILF internal divisions, extremist threats, incomplete decommissioning. Twin bombing incidents after gun ban show extremist capacity persists despite Bungos killing.
-||- **August 6:** DI-HG mid-level leader Marhom Esmael (sub-leader, explosives expert, #1 most wanted in BARMM) and 4 associates killed in joint military-police operation in Barangay Inug-ug, Pikit, North Cotabato. Joint forces of 40th Infantry Bn, 601st/602nd Infantry Brigades under 6th Infantry Division and Maguindanao del Sur PNP. WestMinCom acting commander Maj. Gen. Jose Vladimir Cagara confirms continued campaign ahead of September 14 polls.
-||- **August 9:** GPH-MILF Peace Implementing Panels meet in Davao City for first time since December 2025 — issue Declaration of Continuity on CAB implementation. PIPs agree to meet in Kuala Lumpur on September 25. Normalization track cannot be completed by Oct 30 deadline. Only 16 BTA session days remain (Oct 5–29) to pass Bangsamoro Revenue Code.
-||- **August 9:** MindaNews reports MILF chair Murad's youngest son Mansor Ebrahim is running for SGA 1st District Representative under UBJP against former MILF commander Butch Malang (BFP) — BFP encroachment into MILF strongholds and dynastic dimension of SGA politics.
-||- **August 9:** MindaNews reports BARMM ballot finalized: 13 RPPPs listed (Moro Ako Party still on ballot despite Aug 4 registration cancellation), 494 nominees for 40 party seats, 107 candidates for 32 district seats, 30 for 6 sectoral seats. Ballot includes party logos and candidate photos — first in Philippine electoral history.
-||- **August 15:** BARMM Interim Chief Minister Abdulraof Macacua survives ambush at 4:45 PM in Datu Odin Sinsuat, Maguindanao del Norte, hours after being named BFP chair at proclamation rally in Kabuntalan. Three armored vehicles hit; Macacua unharmed. Comelec treats incident as election-related, directs PNP/AFP to investigate. MILF made public its June 3 resolution suspending Macacua as BIAF chief of staff. Broad condemnation from MILF chair Murad, 6ID, BARMM police, and MNLF faction chair Sema. Macacua: "It does not weaken our resolve to hold the first Bangsamoro Parliamentary Elections."
-||- **August 17:** Comelec approves additional security for field officials following Macacua ambush. Chair Garcia declares incident "damaged our record of zero election-related violence in the BARMM elections." Preparations proceeding normally.
-||- **August/Sep (undated):** RSIS (Banlaoi) publishes 25-years-after-9/11 analysis: Philippines ranked 23rd in GTI 2026 (best position in years); DIP membership fallen to ~50 individuals; but violence "diffusing" into PAGs, rido, and election intimidation linked to unfinished normalization. Warns ASG remnants in Sulu show renewed low-level activity and DIP retains ambush/bomb-making capability.|
-|||- **August 23:** DI remnant Rambo Guiasalim, wanted for 26 criminal cases (multiple murder, frustrated murder, narcotics, 12 vehicle thefts), killed in shootout with police in Shariff Aguak, Maguindanao del Sur. Connected to 2015 Mamasapano SAF 44 incident. Signals continued low-level DI remnant activity.|
-|||- **August 26:** OPAPRU holds Final Command Conference at Camp BGen Salipada K. Pendatun, emphasizing security and credible conduct of the first BARMM parliamentary elections. Sarmiento: "As we enter these critical final weeks, let us remember that our responsibility goes beyond ensuring the security and credible conduct of the elections."|
-|||- **August 27:** Comelec creates task forces across BARMM provinces, Cotabato City, and Basilan to intensify anti-vote-buying campaign ahead of Sept 14 BPE. Garcia warns of disqualification, registration cancellation, and proclamation withholding.|
-||||- **August 28:** Peace Adviser Sarmiento announces government reassessing socioeconomic assistance for decommissioned MILF combatants; considering monthly stipend system modeled on Colombia's peace framework. Most MILF members 50-65, making vocational training impractical. Move precedes Kuala Lumpur talks in September.|
-||||- **August 27:** First BARMM Parliamentary Elections Debate held at Notre Dame University, Cotabato City. All 13 RPPPs participate. Debates cover economy/human development (poverty, agriculture, electricity gaps), peace/security (exit agreement, rido, decommissioning, Sulu exclusion, violent extremism), and good governance (revenue generation, transparency, dynasties). Only 2 of 13 debaters are women (Dumama-Alba of UBJP and Lim of Mahardika). Party representatives sign covenants with Duyog Bangsamoro and Coalition for Social Accountability and Transparency. (Rappler, MindaNews Aug 26-27)|
-||||- **August 28:** COMELEC en banc rejects Moro Ako Party's motion for reconsideration, affirming August 4 cancellation of its registration for alleged misrepresentation. Party name remains on ballot but votes won't count.|
-||||- **August 28:** COMELEC signs MOA with PPCRV, NAMFREL, PSA, and DepEd for random manual audit of 2026 BARMM parliamentary elections.|
-||||- **(Late Aug/Early Sep):** Marcos speaks at FOCAP Presidential Luncheon: BARMM elections are culmination of peace process beginning in 1968; notes elections come 50 years after the Tripoli Agreement. Expresses confidence that former secessionist fighters now campaigning signal adoption of political process over armed struggle. (PCO)|
-||||- **September 1:** ANFREL and NDI release Pre-Election Assessment Report for the first BARMM Parliamentary Elections. Reports 108 red areas of concern (21 in Lanao del Sur). Warns of MILF-UBJP/BFP political polarization, controlled voting where clan/armed influence overlaps, and limited understanding of parliamentary system. 5 immediate priorities: legal certainty, impartial security, voter education, anti-vote-buying enforcement, observer access. Only 14 of 107 district candidates are women; zero candidates with disabilities. September 14 "is an opportunity to honor decades of struggle by demonstrating political competition can be settled peacefully and democratically."|
-|- **August 29:** DI-Maute member Mohaimen Hadji (alias Ibn Sali/Usama), suspect in the December 2023 MSU gymnasium bombing and the group's media liaison/financial link to ISIS abroad, killed alongside his wife Nesren in joint AFP-PNP operation in Marawi City. Seized: M16 rifle, .45 cal pistol, IED components. (MindaNews)|
-|- **September 3:** Crisis Group publishes Report #358 "Policing the Bangsamoro: Peace in the Southern Philippines" — comprehensive assessment of policing, justice, and security in BARMM. Documents military dominance, police capacity gaps, judicial dysfunction, firearms proliferation, and drug trade resurgence. Recommends police reform, community policing, MILF/MNLF ex-rebel recruitment into police, gun control, and conflict resolution mechanisms. Based on extensive field interviews Jan-Aug 2026.|
-|- **September 8:** CCAA warns BARMM election faces low-turnout risk — violence and low public confidence could depress turnout below COMELEC's 70-75% target. 58 gun-related incidents recorded July 16–Aug 31 (32% increase over pre-ban period). Voters uncertain about parliamentary system; voter education politicized. Moro Consensus Group calls for peaceful, credible elections. Duyog Bangsamoro coalition urges Marcos to prevent external actors from influencing polls. (Rappler, CCAA)|
-|- **September 8:** NAMFREL releases pre-election assessment for BARMM parliamentary elections.|
-|- **September 10–15:** International Republican Institute (IRI) deploys election observer delegation to BARMM, led by Vice Chairman Randy Scheunemann, assessing security, legal framework, election administration.|
-||- **September 3:** MILF Central Committee formally removes Abdulraof Macacua as BIAF Chief of Staff **along with 40+ other BIAF commanders/officers** in a reorganization announced at a general assembly at Camp Darapanan, Sultan Kudarat, Maguindanao del Norte. Finalizes the June 3 indefinite suspension for insubordination (BIAF General Order No. 1). Also removed: J1 Toks Ebrahim (Brahim), J2 Von Al Haq Maslamama, Tomanda Antok — the same names cited in the earlier suspension order. Friction sources: Marcos appointing Macacua Interim CM March 2025 without Central Committee consultation; Macacua's removal of Iqbal as MBHTE minister despite a directive to hold the revamp; and Macacua running as an independent for Maguindanao del Norte 3rd District rather than under UBJP. MILF spokesperson clarifies removal is from BIAF command positions ONLY — officers retain MILF membership; all 41 directed to hand over equipment/documents. Macacua has since been installed as BFP chair. Comes 11 days before the Sept 14 polls, in which he runs for a parliamentary seat. (Luwaran, Manila Times, Newsline, Tribune)
-|- **September 14:** BARMM holds historic first regular parliamentary elections with 2.3M registered voters across 5,212 clustered precincts. Election results in hung parliament — no single party secures 41-seat majority. BFP (Macacua) wins 31 seats, UBJP (Murad) wins 30 seats, other parties hold 19 seats. COMELEC reports 84.34% turnout. (Al Jazeera, Rappler, IRI)
-|- **September 14 (Election Day):** Multiple shooting incidents leave at least 3 dead, several wounded. At least 5 killed and 20+ wounded in Cotabato City pre-election and election-day violence. Pre-shaded ballots discovered in 36 precincts in Maluso, Basilan — COMELEC replaces ballots and extends voting. (Al Jazeera, Rappler, IRI)
-|- **September 14-15:** IRI deploys election observer delegation led by Vice Chairman Randy Scheunemann — 108 international observers deployed. IRI preliminary findings: 84.34% turnout, 10 women elected (12.5% — unchanged from transition parliament), COMELEC managed complex election under difficult conditions. (IRI)
-|- **September 15:** Macacua acknowledges coalition with other parties is "an unavoidable situation." Murad expresses openness to negotiating with other parties. Commander Bravo (Macapaar) votes for first time, warns of possible return to fighting if UBJP fails to win. (Al Jazeera)
-- **September 16 (post-election):** Rappler analysis reveals race for BARMM's top post could turn into Marcos-Duterte proxy war. BGC holds kingmaker position. "Gapangan" (mad scramble for political support) underway as parties negotiate coalition deals ahead of October 30 government formation. (Rappler)
-- **September 16:** COMELEC Regional Board of Canvassers officially proclaims first elected Bangsamoro Parliament in Datu Odin Sinsuat. Official seat count: BFP 31, UBJP 24, BGC 8, SIAP 6, Raayat 1, PBP 1, Al Ittihad-UKB 1, sectoral 8. Macacua wins Maguindanao del Norte 3rd District under BFP. Iqbal: priority is implementing remaining CAB provisions. NMIP reps Jover (Teduray) and Datuwata (Lambangian) selected via customary law Aug 25. (BARMM Official Website)
-|- **September 25:** GPH-MILF Peace Implementing Panels conclude Special Meeting in Kuala Lumpur — first meeting since Dec 2025 and first with new GPH chair Sarmiento. Six major outcomes: (1) Declaration of Continuity signed; (2) TOR for TWG on CAB Roadmap Development approved; (3) Addendum on Socioeconomic Development Program for decommissioned combatants, adopting integrated beneficiary-centered delivery; (4) AHJAG mandate renewed until Sep 2027; (5) CPC mandate renewed until Sep 2028; (6) SALW Management Framework agreed in principle. Resolution No. 3 adopted endorsing NTJRCB legislative enhancements. Sarmiento: "With the political track now complete, the road runs through the Normalization Track." Iqbal: "The task now is to finish what we started." (OPAPRU)
-- **September 28:** BGC leaders meet with UBJP leadership (Chairman Murad Ebrahim, Iqbal) — Sulu Vice Governor Abdusakur Tan attends, signaling Sulu provincial actors remain engaged in BARMM politics despite SC exclusion ruling. (Rappler, Office of the Sulu Vice Governor Facebook)
-- **September 29:** BGC leaders meet with BFP leadership (Macacua, Sinarimbo) — active coalition negotiations ahead of Oct 30 inaugural session. (Rappler)
-- **September 30:** Post-election MILF infighting erupts in Shariff Aguak, Maguindanao del Sur — long-standing territorial dispute between MILF warring groups displaces 65 families (~325 individuals) from Barangays Bialong, Malingao, and Lapok. Child reportedly killed by stray bullet. Government-MILF ceasefire panels and AFP/PNP deployed. Rido resolved by mayor days earlier but fighting resumed. (Inquirer)
-- **October 1:** BFP spokesperson Naguib Sinarimbo claims BFP has "secured" a majority coalition (32 seats) to elect Macacua as first elected BARMM chief minister at Oct 30 inaugural session. BFP, UBJP, BGC hold coalition talks. Urgent agenda: 2027 budget, cabinet formation. (Rappler)
-- **MEMRI 2026 report (published):** ISEAP (Islamic State East Asia Province) lost its status as an ISIS province between Oct 2024 and Jan 2026. Attacks declined from 50 (2019) to 3 (first half 2026). Ceased receiving central funding from 2022. Leadership decimated — multiple commanders killed or surrendered. (MEMRI JTTM)
+- **February:**
+  - Suspected Abu Sayyaf remnants kill four soldiers in Patikul, Sulu, signalling regrouping.
+- **April:**
+  - A Dawlah Islamiyah emir is killed in Marantao, Lanao del Sur; three of those killed were former surrenderees.
+- **May:**
+  - BARMM is placed under a state of calamity over the oil crisis and El Niño drought.
+  - The Bangsamoro Federalist Party splits from MILF's UBJP; Mohagher Iqbal is removed as education minister.
+  - MILF and the Philippine Army declare a joint front against ISIS affiliates in Munai, Lanao del Norte.
+- **June:**
+  - A magnitude-7.8 earthquake off Sarangani kills more than 65 people and affects over 700,000.
+  - The MILF Central Committee suspends Abdulraof Macacua as BIAF chief of staff.
+  - Comelec declares itself ready for the September parliamentary election.
+- **July:**
+  - BIFF-Bungos leader Esmael Abubakar is killed in a joint operation.
+  - Marcos appoints Mel Sarmiento to chair the government peace panel.
+  - The election gun ban takes effect on 16 July; a town councilor is shot dead the same day.
+  - The campaign opens with 631 candidates for 80 seats.
+  - Marcos's SONA gives the peace process 40 seconds and no mention of the peace agreement.
+  - The election is held on 14 September: turnout reaches 84.34% and no party wins a majority.
+- **August:**
+  - Macacua survives an ambush hours after being named BFP chair.
+  - DI-Hassan and DI-Maute leaders are killed in separate operations.
+  - The government and MILF sign a Declaration of Continuity on the peace agreement.
+  - The first BARMM parliamentary debate is held.
+- **September:**
+  - The MILF Central Committee formally removes Macacua and 40 other BIAF officers.
+  - The BFP wins 31 seats and the UBJP 24 in the first elected parliament; a hung parliament follows.
+  - The GPH and MILF panels meet in Kuala Lumpur and sign six agreements on the normalization track.
+- **October:**
+  - The BFP-led coalition secures a 46-seat majority for Macacua ahead of the chief minister vote.
+  - ASG remnants ambush army units in Basilan, reversing the province's "ASG-free" designation.
+  - The PNP reports 74 cases of leaderless youth extremism and 42 minors rescued.

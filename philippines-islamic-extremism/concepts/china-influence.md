@@ -1,4 +1,9 @@
-# China's Influence Operations in Southeast China Sea and the Philippines
+---
+title: "China's Influence in the South China Sea and the Philippines"
+summary: "Beijing's maritime pressure and political influence in the South China Sea and the Philippines."
+---
+
+# China's Influence in the South China Sea and the Philippines
 
 Overview of how Beijing leverages the South China Sea dispute to expand influence in the Philippines and ASEAN.
 

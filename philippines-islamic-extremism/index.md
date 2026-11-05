@@ -1,17 +1,26 @@
-# Islamic Extremism in the Philippines Wiki Index
+# Philippines — Islamic Extremism Wiki Index
 
-|> Content catalog. Last updated: 2026-10-17 | Total pages: 13 | Total sources: 81
+> Content catalog. Last updated: 2026-11-05 | Total pages: 9 | Total sources: 81
+
+## Overview
+- [[overview]] -- Topic framing for the site (title, tagline, region, started)
 
 ## Timelines
-- [[philippines-islamic-extremism-timeline]] -- Chronological overview (1991–2026)
+- [[philippines-islamic-extremism-timeline]] -- Chronological overview from the 1991 ASG split to the 2026 BARMM election
 
 ## Entities
-- [[MILF]] -- Moro Islamic Liberation Front, governing BARMM
-- [[Abu-Sayyaf]] -- IS-affiliated militant group, degraded but fragmented
-- [[Marcos-Jr]] -- President, oversees peace process and ASEAN chairship
-- [[China]] -- South China Sea adversary, indirect influence
+- [[abu-sayyaf|Abu Sayyaf Group (ASG)]] -- IS-affiliated jihadist group in Sulu and Basilan
+- [[milf|Moro Islamic Liberation Front (MILF)]] -- Former rebel movement, now split between UBJP and BFP
+- [[marcos-jr|Ferdinand Marcos Jr.]] -- President of the Philippines
+- [[china|China]] -- South China Sea adversary shaping Philippine security priorities
 
 ## Concepts
-- [[Bangsamoro-peace-process]] -- BARMM transition and election dynamics
-- [[spoiler-dynamics]] -- Actors undermining peace
-- [[China-influence]] -- Beijing's ASEAN/Philippines strategy
+- [[bangsamoro-peace-process|Bangsamoro Peace Process]] -- Transition to the first elected BARMM parliament
+- [[spoiler-dynamics|Spoiler Dynamics]] -- Armed groups, clans and actors that undermine the peace process
+- [[china-influence|China's Influence]] -- Maritime pressure and political influence in the South China Sea
+
+## Updates
+[auto-populated as weekly updates are written]
+
+## Articles
+[auto-populated as quarterly articles are written]

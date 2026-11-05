@@ -1,3 +1,9 @@
+---
+title: "China"
+summary: "South China Sea adversary whose maritime pressure shapes Philippine security and ASEAN diplomacy."
+role: "Country"
+---
+
 # China
 
 The Philippines' largest trading partner and most significant geopolitical adversary. China's activities in the South China Sea — island-building, coast guard harassment, gray-zone coercion — directly impact Philippine security and, by extension, the government's bandwidth for internal stabilization.

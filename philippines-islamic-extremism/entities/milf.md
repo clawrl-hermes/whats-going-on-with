@@ -1,3 +1,9 @@
+---
+title: "Moro Islamic Liberation Front (MILF)"
+summary: "The former rebel movement that governs BARMM through the transition and now faces a split between UBJP and BFP."
+role: "Political and former armed movement"
+---
+
 # Moro Islamic Liberation Front (MILF)
 
 The largest and most politically sophisticated Moro insurgent group in the Philippines. Founded in 1984 as a splinter from the MNLF, the MILF sought an independent Islamic state in Mindanao before negotiating toward autonomy.

@@ -1,3 +1,8 @@
+---
+title: "Bangsamoro Peace Process"
+summary: "The transition from the 2014 peace agreement to BARMM's first elected parliament and the unfinished normalization track."
+---
+
 # Bangsamoro Peace Process
 
 The ongoing implementation of the 2014 Comprehensive Agreement on the Bangsamoro (CAB) between the MILF and the Philippine government.

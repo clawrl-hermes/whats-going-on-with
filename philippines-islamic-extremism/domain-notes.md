@@ -1,124 +1,94 @@
-# Domain Notes: Philippines Islamic Extremism
+# Islamic Extremism in the Philippines: Structural Notes
 
-## Wiki Structure
-- **Slug:** `philippines-islamic-extremism`
-- **Path:** `/root/wiki/philippines-islamic-extremism/`
-- **Topic Name:** Islamic Extremism in the Philippines
+> Recent developments are tracked in `timeline/philippines-islamic-extremism-timeline.md` at month resolution. This file records structural context, recurring dynamics and the data series to watch, not a chronology.
 
-## Key Entities
-- **MILF** — Moro Islamic Liberation Front; now governing BARMM via BTA; facing internal split (UBJP vs BFP)
-- **Abu-Sayyaf** — IS-affiliated militant group, degraded since 2019 but regrouping in Sulu
-- **Marcos-Jr** — President; oversees peace process and ASEAN chairship
-- **China** — South China Sea adversary; indirect influence via resource diversion
+## The Conflict's Arc
 
-## Key Concepts
-- **Bangsamoro-peace-process** — BARMM transition, September 2026 parliamentary election
-- **spoiler-dynamics** — Actors undermining peace (ISIS affiliates, MILF hardliners, warlords)
-- **China-influence** — Beijing's ASEAN/SCS strategy and indirect impact on Mindanao
+- The Mindanao conflict is one of the world's longest-running insurgencies. It began with the Moro National Liberation Front in the 1970s, split into the Moro Islamic Liberation Front in 1978, and fragmented again into jihadist groups after 1991.
+- Jihadist violence peaked with the 2017 Marawi siege, when IS-affiliated fighters held the city for five months. More than 1,200 people were killed and 350,000 displaced.
+- The threat has declined sharply since. The Philippines ranked 20th in the 2025 Global Terrorism Index, down from 9th in 2019, and ISEAP lost its status as an ISIS province in 2025-26.
+- Violence has not disappeared; it has diffused. The main security challenge is now politically instrumentalised violence by private armed groups, disaffected MILF and MNLF elements, and clan feuds tied to unfinished normalization.
 
-## Search Queries
-- "BARMM election 2026 parliamentary September"
-- "Bangsamoro violence clan feud rido 2026"
-- "MILF BFP UBJP split Macacua Iqbal"
-- "Abu Sayyaf Sulu Philippines 2026 ISIS Dawla Islamiyah"
-- "Philippines ASEAN South China Sea Code of Conduct 2026"
-- "BARMM earthquake Mindanao 2026"
-- "Comelec BARMM election preparation 2026"
-- "Philippines counter-terrorism Mindanao 2026"
-- "Mindanao terrorism threat assessment RSIS CTTA"
-- "BIFF Dawlah Islamiyah Maute group Mindanao 2026" — found BIFF-Bungos leader killing July 2026
-- "MILF base commands Dawlah Islamiyah declaration 2026" — found persona non grata declaration
-- "Philippines Islamic extremism Abu Sayyaf MILF 2025 2026" — good yield, found AFP crackdown on ASG/BIFF ahead of gun ban
-- "Bangsamoro Autonomous Region election September 2026" — good yield, found party switching (Inquirer)
-|- "MILF decommissioning Colombia stipend Sarmiento 2026" — new Aug 2026: Colombia-style monthly stipend model for decommissioned MILF combatants
-|- "Saddam Siddick Basilan ASG 2026" — new Oct 2026: ASG remnant group active again in Basilan despite ASG-free declaration
-|- "Philippines NVE nihilistic violent extremism youth 2026" — new Sep 2026: 74 cases handled by PNP, leaderless online radicalization
-|- "BARMM coalition chief minister Macacua Murad October 2026" — new Oct 2026: 46-member coalition deal signed Oct 14
-|- "East Asia Forum Bangsamoro limits institutional change" — key academic post-election analysis Oct 2026
+## The Bangsamoro Peace Process
 
-## Key Data Points
-- BARMM first parliamentary election: September 14, 2026
-- **September 3:** MILF Central Committee formally removes Abdulraof Macacua as BIAF (armed wing) Chief of Staff along with 40+ other BIAF commanders/officers at a general assembly at Camp Darapanan, Maguindanao del Norte — finalizing the June 3 indefinite suspension for insubordination. Friction: Marcos appointing Macacua Interim CM (Mar 2025) without Committee consultation; Macacua's removal of Iqbal from MBHTE; and Macacua running as an independent for Maguindanao del Norte 3rd District rather than under UBJP. Removal is from BIAF command positions ONLY (MILF membership retained). Macacua since installed as BFP chair. Leaves the top BARMM position "an open field" days before the Sept 14 polls. Confirms op-ed reporting (Al Jazeera, Sep 13) and closes a wiki gap — the June suspension was recorded, the Sept 3 finalization was not.
-- Violent extremism incidents: 40 (Jan–May 2026) vs 29 (late 2025)
-- Clan feuding: 43 incidents in first 4 months of 2026 (vs 48 for all of 2025)
-- Deaths from VE: 20 (Jan–May 2026) vs 9 (late 2025)
-- 92 towns / 42 barangays identified as election areas of concern
-- 7,991 police for election security
-- M7.8 earthquake June 8: 65+ dead, 736K+ affected
-- BARMM-wide gun ban: July 16–September 29, 2026
-- **RSIS CTTA 2026:** No major terrorist attacks in 2025; surrender rate plateaued
-- **BIFF rebuilding:** Salahuddin faction being rebuilt by "Muhammad Usman" in SPMS Box marshlands via familial networks
-- **DIMG:** Leadership vacuum post-Abu Zacariah (June 2023); rebuilding in Piagapo, Lanao del Sur; recruited children under 10 for Marawi siege
-- **ASG:** Radullan Sahiron ordered surrenders (late 2022) but former members remain socially isolated in Sulu
-- **MILF decommissioning:** Suspended due to OPAPRU failure to deliver socioeconomic programmes; 40,000 fighters in limbo
-- **Reintegration crisis:** Insufficient livelihood stipends, no psychosocial counseling, retributive violence (Ustaz Bahang killed Oct 2025)
-- **UBJP narrow base:** Only represents Maguindanao; locals trust Manila more than BARMM authorities per census data
-- **BARMM candidate gender gap:** 631 candidates for 80 seats, only 196 (31.1%) women. UBJP and BFP zero women in top 10
-- **BIFF-Bungos leader killed (July 5, 2026):** Esmael Abubakar alias Bungos killed in joint military-police raid in Maguindanao del Norte
-- **DI leadership decapitation (2026):** Westmincom neutralized DI-Hassan leader Emarudin Kulaw and DI-Maute leader Amerol Mangoranca
-- **MILF persona non grata declarations (May-June 2026):** 127th (Munai) and 123rd (Tagoloan) Base Commands declared DI-MG and NPA's SRC-5 persona non grata
-- **AFP CARES framework (July 2026):** Collective Action for Resilience, Economy, and Security
-- **First gun-ban killing (July 16, 2026):** Councilor Nasser Dalandang shot dead on first day of election gun ban
-- **BFP defections continue (July 18, 2026):** Maguindanao del Sur Rep. Esmael Mangudadatu defects UBJP→BFP
-- **Sulu peace process (July 2026):** OPAPRU confirms Sulu remains priority area under 1996 FPA with MNLF despite BARMM exit
-- **Comelec disqualification (July 2026):** UBJP candidate Anwar Alamada disqualified for Maguindanao del Sur 5th District
-- **Sarmiento appointment (July 15, 2026):** Marcos appoints Peace Adviser Mel Sarmiento as chair of Government Peace Implementing Panel
-|- **CAB erosion crisis (July 2026):** Thousands rally; MILF's Commander Bravo warns MILF prepared to return to armed struggle
-|- **Elected MP term:** Newly elected MPs assume duties October 30, 2026, serve until June 2031 (synchronized with national polls)
-|- **GPH-MILF PIPs Declaration of Continuity (Aug 4, 2026):** First PIP meeting since Dec 2025; first with new GPH chair Sarmiento; agreement to meet in Kuala Lumpur Sept 25
-|- **BARMM ballot finalized (Aug 9, 2026):** 13 RPPPs listed; 494 nominees for 40 party seats, 107 for 32 district seats, 30 for 6 sectoral seats; Moro Ako Party cancelled Aug 4 but remains on ballot; first Philippine election with party logos and candidate photos on ballot
-|- **Macacua ambush (Aug 15, 2026):** BARMM Interim CM Macacua survives ambush at 4:45 PM in Datu Odin Sinsuat, Maguindanao del Norte, hours after BFP proclamation rally — 3 armored vehicles hit, unharmed. Comelec treats as election-related. MILF made public June 3 suspension of Macacua as BIAF chief. Formalizes Macacua-MILF political breakup.
-|- **Comelec security escalation (Aug 17, 2026):** Additional security for field officials after Macacua ambush; Garcia: "damaged our record of zero election-related violence"
-|- **Colombia-style MILF stipend proposal (Aug 28, 2026):** GPH reassessing socioeconomic packages; considering monthly conditional stipend modeled on Colombia peace framework. Sarmiento: most MILF members 50-65, vocational training impractical. Precedes Kuala Lumpur talks.
-|- **DI-Maute financial link killed (Aug 29, 2026):** Mohaimen Hadji (alias Ibn Sali/Usama), DI-Maute media liaison and financial link to ISIS abroad, killed with wife in Marawi City. MSU Dec 2023 bombing suspect. Another suspect escaped.
-|- **Crisis Group Report #358 (Sep 3, 2026):** Comprehensive assessment of policing/justice in BARMM. Key data: military dominant, police capacity gaps, drug trade flourished post-Duterte, MILF decommissioning behind schedule, firearms proliferation fuels rido/political violence.
-|- **CCAA gun-ban monitoring (Sep 2026):** 58 gun-related incidents Jul 16-Aug 31 (32% increase over pre-ban). COMELEC targets 70-75% turnout. Voter uncertainty about parliamentary system widespread.
+- The 2014 Comprehensive Agreement on the Bangsamoro created a transition from the Autonomous Region in Muslim Mindanao to the Bangsamoro Autonomous Region in Muslim Mindanao, established in 2019.
+- BARMM has a parliamentary system inside the Philippine presidential state. Its first regular parliamentary election was held on 14 September 2026, with 2.39 million registered voters and 80 seats.
+- The transition period ends on 30 October 2026, when the first elected parliament takes office for a term running to June 2031.
+- The normalization track — decommissioning, reintegration, transitional justice and policing — is behind schedule. Only about 65% of 40,000 combatants and 64% of 7,200 weapons had been processed by mid-2024.
+- The peace process is not the same as counter-terrorism. A functioning BARMM is the main long-term answer to extremism, but a stalled transition is also the main recruiter.
 
-## Dedup Pitfalls
-- Many Manila Times / GMA / PhilStar articles rehash the same CCAA briefer data — treat as one source
-- BARMM election status ("will proceed") is covered by multiple outlets quoting the same COMELEC statement
-- MILF-BFP split is one story — don't add all as separate sources
-- South China Sea articles often touch Philippines only tangentially — verify direct BARMM/Mindanao relevance before adding
-- RSIS CTTA is a comprehensive annual assessment — treat as ONE source, not multiple unrelated articles
-- Rappler's "BARMM transition strained" (July 2026) covers same peace rally as "CAB erosion" but is a standalone analysis with new quotes — keep both
-- The "AFP begins crackdown on ASG/BIFF" and "BARMM town councilor shot dead" are related but distinct — keep both
-- Sulu peace process article (Rappler, July 3) is a standalone piece about MNLF engagement — not covered elsewhere
-|- **Rappler is the most reliable source** for in-depth BARMM coverage — prioritize over wire-service rehashes
-|- **Inquirer.net** has good political reporting but less consistent on MILF/ASG security details
-|- **Philippine Star / Manila Bulletin / PNA** useful for official statements but often rehash the same press release
-|- **New (Aug 2026): Macacua ambush covered by Inquirer, SunStar, PNA, Facebook — all covering SAME event from different angles. Pick best single source for event report, add supplementary for unique angles (e.g. Inquirer for BIAF suspension detail, SunStar for Comelec reaction, PNA for unified condemnation quotes).**
-|- **New concept tracking:** Banlaoi's "diffusing violence" thesis — shift from ideological terrorism to PAGs/rido/election intimidation tied to unfinished normalization. Track via RSIS and academic sources.
-- **New (Oct 2026): Basilan ASG ambushes (Oct 5, 8)** — Single event series covered by Inquirer (Oct 14). The earlier "6 soldiers, 2 civilians hurt" (Oct 5) and "11 gov't troops wounded" (Oct 8) are the INDIVIDUAL incident reports that the Oct 14 article summarizes. Pick Oct 14 as the consolidating source. Do NOT add the earlier incident reports separately.
-- **New (Oct 2026): Macacua coalition deal (Oct 14, 2026)** — Rappler (Oct 16) is the definitive source. Manila Times "Coalition crunch" (Oct 12) is a pre-deal backgrounder now superseded. Use Rappler as the primary source.
-- **New (Oct 2026): NVE youth extremism article** — Straits Times / Asia News Network (Sep 21) is a regional roundup. Philippines-specific data (74 NVE cases, 42 minors) is a small portion. Do not add individual country reports on the same topic — this source consolidates the regional picture.
-|- **ANFREL Pre-Election Assessment Report (Sep 1, 2026)** is a comprehensive standalone source distinct from the pre-campaign statement (Source 40) — the full PEAM report contains detailed analysis of legal framework, representation barriers, and controlled voting risks.
-- **COMELEC areas of concern: earlier reported 92 towns/42 barangays. Later ANFREL reports 108 red areas. These are successive escalations, not the same data — keep both.**
-||- **New (Sep 2026): Crisis Group Report #358 (Policing the Bangsamoro)** is distinct from Report #355 (Moment of Truth, Jul 2026). #355 focuses on peace process/CAB diagnosis; #358 focuses on policing, justice, guns, and community violence. Both are major standalone sources.
-||- **New (Sep 2026): CCAA low-turnout warning (Rappler, Sep 2026)** has new gun-ban period data (58 incidents Jul 16-Aug 31, 32% increase) not covered in earlier CCAA reports (Source 42/44). Keep as separate source.
-||- **New (Sep 2026): IRI Preliminary Findings (Sep 14-15)** is the authoritative international election observation assessment — distinct from ANFREL/NDI reports. Contains unique data: 84.34% turnout, Maluso pre-shaded ballots, 108 observers, 800+ teacher withdrawals. COMELEC praised for managing complex election.
-||- **New (Sep 2026): Al Jazeera hung parliament coverage** provides the most comprehensive on-the-ground voter perspective — human stories, Commander Bravo voting for first time, Coronel-Ferrer commentary. Distinct from Rappler's data-focused seat count coverage.
-||- **New (Sep 2026): Rappler's "proxy war" analysis** is the first to connect BARMM coalition negotiations to Marcos-Duterte 2028 presidential race — unique analytical angle not covered elsewhere.
-||- **New (Sep 2026): MEMRI ISEAP downgrade** is a major terrorism development distinct from all existing sources — ISEAP lost province status, attacks near-zero, central funding ceased. Adds new layer to diffusing violence thesis (Banlaoi).
-|- **New (Sep 2026): Official seat count discrepancy** — Rappler (Source 66) reported UBJP 30 seats; BARMM official proclamation (Source 70) reports UBJP 24 seats (15 RPPP + 9 district). Likely caused by sectoral/recount adjustments. Treat official COMELEC proclamation as authoritative for seat allocation; note Rappler's initial count as near-complete unofficial count.
-- **New source type: OPAPRU official website** (peace.gov.ph) — Primary source for GPH peace panel statements, MILF peace process milestones, and Philippine CT/VE policy at international forums. Authoritative for government positions but represents official framing — complement with independent analysis.
-- **New source type: UNDP / WFD institutional perspectives** (development organizations) — Provide non-news, non-security analysis of election processes, institutional capacity, and governance outcomes. Useful for triangulating COMELEC/party claims and assessing international engagement trajectory.
-- **New (Oct 2026): Post-election coalition dynamics** — BFP claims 32-seat majority coalition (BFP 32, UBJP 30, BGC 15 per negotiated alignment) vs. official COMELEC seat count (BFP 31, UBJP 24, BGC 8). The discrepancy tracks negotiated alliances, not raw seats — note when citing which figure.
-- **Macacua 46-member coalition (Oct 14, 2026):** BFP-led supermajority of 46 of 80 seats signed coalition agreement Oct 14 in Davao City. Marcos welcomes as "historic milestone." BGC's Adiong asks Marcos to continue decommissioning. UBJP members attended first 100-day planning workshop despite party rivalry — suggests cross-party normalization consensus.
-- **Basilan ASG ambushes (Oct 5, 8 2026):** Saddam Siddick group (ASG remnant) ambushed 45th Infantry Battalion: Oct 5 Tipo-Tipo (13 soldiers wounded), Oct 8 Lamitan City (1 killed, 11 soldiers + 2 civilians). AFP 1101st Infantry Brigade intensified round-the-clock ops. Basilan was declared ASG-free in June 2025 — this marks a significant security reversal and ASG regrouping.
-- **NVE data (Sep 2026):** PNP Anti-Cybercrime Group handled 74 cases of Nihilistic Violent Extremism (NVE), rescued 42 minors (30 aged ≤15). New security dimension: leaderless youth extremism via online pathways, often without ideological commitments. Senator Hontiveros calls for school/parent vigilance. Mindanao high school shooting (Sep 18, Banga, South Cotabato) adds local dimension.
-- **East Asia Forum seat breakdown (Oct 2026):** BFP 35.5% valid votes (16 seats), UBJP 32.2% (15 seats), BGC 20.5% (8 seats), Raayat Democratic Party 3.6% (1 seat) — these are PR tier percentages/seat allocations only. Official COMELEC total seat count remains the authoritative source but EAF provides proportional vote-share data.
-||- **New (Oct 2026): Post-election MILF infighting** — Sep 30 rido in Shariff Aguak displaces 65 families. Distinct from election-period violence tracked in prior sources. Confirms Banlaoi's "diffusing violence" thesis: MILF rido continues post-election as normalization remains incomplete.
-||- **New (Oct 2026): GPH-MILF Kuala Lumpur Special Meeting outcomes (Sep 25)** — Six agreements signed: Declaration of Continuity, CAB Roadmap TWG TOR, Socioeconomic Program Addendum (beneficiary-centered delivery), AHJAG mandate (extended Sep 2027), CPC mandate (extended Sep 2028), SALW Management Framework agreed in principle. Resolution No. 3 on Transitional Justice (NTJRCB legislative enhancements) adopted. Sarmiento: normalization track now the primary focus. Distinct from the Aug 4 Declaration of Continuity (Source 49) — the KL meeting is the operational implementation.
-||- **New (Oct 2026): OPAPRU at UN GoF-VOT (Sep 30)** — Philippines first country to implement UNOCT Model Legislative Provisions Project. Victim-centered CT approach derived from Marawi lessons. Adds international CT policy dimension to the domestic security picture.
+## The MILF Split
 
-## Prediction History
-- Report 1 (06-06-2026): 70% — "The Marcos administration will use the BTA extension to increase Manila's direct influence over BARMM governance, reducing MILF autonomy in the name of election stability."
-- Report 2 (27-06-2026): 75% (↑5%) — same prediction, elevated due to earthquake + MILF fragmentation + election security concerns
+- The MILF is both a political party and an armed movement. Its political vehicle, UBJP, dominated the transition parliament.
+- In 2025 Marcos appointed Abdulraof Macacua as interim chief minister without consulting the MILF Central Committee. Macacua then formed the Bangsamoro Federalist Party and removed Mohagher Iqbal as education minister.
+- The Central Committee suspended Macacua as BIAF chief of staff in June 2026 and formally removed him and 40 other officers on 3 September, days before the election.
+- The split produced two rival camps: BFP under Macacua and UBJP under Murad Ebrahim. The election left neither with a majority, making coalition arithmetic the central political question.
+- A MILF fracture is the most plausible path back to armed conflict. Commander Bravo has warned of a return to fighting if the peace agreement is not honoured.
 
-## Topic-Specific Search Tips
-- Disambiguate: "Mindanao" not "Philippines" alone for extremist-specific queries
-- Include "BARMM" in most queries to filter to Bangsamoro-relevant results
-- For SCS/ASEAN stories, always check if they have direct Mindanao impact before adding
-- Facebook/Mindanao Gold Star Daily URLs frequently fail extraction — use snippet if substantive
-- **Time range:** Use `time_range="month"` for weekly source monitors. Results are dominated by the most recent 2-3 weeks.
-- **Tavily rate limiting:** Always add 3-5 second delays between consecutive `tavily_search` calls.
+## Armed Groups and the Threat Landscape
+
+- **Abu Sayyaf (ASG/ISEAP):** based in Sulu and Basilan, responsible for the 2004 Superferry bombing. Degraded by the 2019 all-out war but regrouping in Basilan in 2026 after the province was declared ASG-free in 2025.
+- **Dawlah Islamiyah (DI):** fragmented into the Maute and Hassan groups in Lanao del Sur and Maguindanao. Leadership has been repeatedly decapitated, but remnants retain bomb-making capability and recruit children and marginalised youth.
+- **BIFF:** the Bangsamoro Islamic Freedom Fighters operate in the SPMS Box marshes of Maguindanao. The Salahuddin faction is being rebuilt through family networks.
+- **Private armed groups and rido:** the most lethal violence is now clan feuding and election intimidation. CCAA recorded 611 incidents and 235 deaths in BARMM from January to late July 2026.
+- **Youth extremism:** the PNP handled 74 nihilistic violent extremism cases and rescued 42 minors in 2026, a shift toward leaderless online radicalisation without a clear ideological programme.
+
+## Election Violence and the 2026 Vote
+
+- The election was technically successful: turnout reached 84.34%, above Comelec's 70-75% target, and 108 international observers monitored the vote.
+- It was also violent. At least five people were killed and more than 20 wounded around election day, and pre-shaded ballots were found in 36 precincts in Maluso, Basilan.
+- The result was a hung parliament: BFP 31 seats, UBJP 24, BGC 8, with the remainder held by smaller parties and sectoral representatives.
+- Women won 10 of 80 seats, unchanged from the transition parliament and well below the 30% nominee quota. Only 14 of 107 district candidates were women.
+- A BFP-led coalition of 46 members signed an agreement in October, giving Macacua a majority ahead of the chief minister vote.
+
+## Security Forces and Policing
+
+- The military remains the dominant security actor in BARMM. The police are under-resourced, politicised and slow to respond; courts are distant and backlogged.
+- The 2020 Anti-Terrorism Act expanded surveillance and detention powers but has been criticised for its reach.
+- Crisis Group recommends police professionalisation, community policing, recruitment of former MILF and MNLF fighters, gun control and judicial reform.
+- Martial law-era and Duterte-era practices persist in intelligence and policing, and the drug trade has flourished since 2022.
+
+## South China Sea and External Alignments
+
+- The South China Sea is a separate but connected arena. Philippine security attention and US, Japanese and Australian engagement are increasingly absorbed by maritime confrontation with China.
+- The Philippines and Vietnam elevated ties to an Enhanced Strategic Partnership in June 2026, the first for both countries.
+- The Philippines chairs ASEAN in 2026 and is pushing a Code of Conduct with China, though analysts consider a binding outcome unlikely this year.
+- China's pressure at sea affects the resources and political capital available for Mindanao, and any major maritime crisis would compete with the peace process for national attention.
+
+## Trackable Indicators
+
+| Indicator | What to watch | Source type |
+|-----------|---------------|-------------|
+| BARMM government formation | Chief minister vote and coalition composition after 30 October | Official/media |
+| MILF split | BFP-UBJP negotiations, BIAF command changes, defections | Media/party |
+| Decommissioning | Combatant and weapon totals; stipend programme | Official/OPAPRU |
+| Violent incidents | CCAA monthly counts, deaths and gun-ban violations | Conflict monitors |
+| Extremist attacks | DI, BIFF and ASG incidents and leadership losses | Military/RSIS |
+| Election disputes | Recounts, disqualifications and legal challenges | Comelec/courts |
+| Policing reform | Police capacity, ex-rebel recruitment and gun control | Crisis Group/official |
+| South China Sea | Code of Conduct talks and maritime incidents | Official/media |
+| Youth radicalisation | NVE cases, school and online recruitment | PNP/academic |
+| Sulu and MNLF | Sulu's post-exit status and MNLF electoral role | Official/media |
+
+## High-Signal Source Types
+
+- **MindaNews and Rappler:** the deepest reporting on BARMM politics, the peace process and election administration.
+- **International Crisis Group:** the best structural analysis of the peace process, policing and conflict risks.
+- **CCAA and ANFREL/NDI:** conflict data and election observation.
+- **RSIS and academic sources (Banlaoi, Teehankee, Yusoph):** threat assessments and the "diffusing violence" thesis.
+- **OPAPRU, BARMM and Comelec:** official positions, agreements and election data.
+- **Inquirer, PhilStar, PNA and SunStar:** fast coverage of incidents and official statements.
+
+## Common Dedup Pitfalls
+
+- Manila Times, GMA and PhilStar often rehash the same CCAA briefer; treat as one source.
+- "Election will proceed" stories quote the same Comelec statement.
+- The MILF-BFP split is one story across many outlets.
+- South China Sea pieces often touch the Philippines only tangentially; check for direct BARMM or Mindanao relevance.
+- RSIS CTTA and Crisis Group reports are comprehensive; treat each as one source.
+- The Macacua ambush was covered by Inquirer, SunStar, PNA and Facebook; pick one primary and add only unique angles.
+- Official seat counts differ from early Rappler projections; the Comelec proclamation is authoritative.
+
+## Priority Sources
+
+A categorized list is maintained at `/root/wiki/philippines-islamic-extremism/priority-sources.md` when one exists. Each run should read it first, check regional specialists, official sources and think tanks, then use Tavily searches to catch anything missed.
