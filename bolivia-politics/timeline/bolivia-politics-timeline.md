@@ -1,153 +1,49 @@
 # Timeline: Bolivia's Political Situation
 
 ## 2025
-- **August:** Presidential election — Rodrigo Paz wins runoff against Jorge Quiroga, campaigning as centrist
-- **November:** Paz inaugurated as Bolivia's first right-wing president in decades; inherits severe economic crisis (fuel shortages, depleted central bank reserves, high inflation)
+- Rodrigo Paz wins the presidential runoff against Jorge Quiroga in August, campaigning as a centrist.
+- Paz is inaugurated in November as Bolivia's first right-wing president in decades, inheriting fuel shortages, depleted reserves and rising inflation.
 
 ## 2026
-- **Early May:** Teachers' unions flood La Paz demanding wage increases; accept annual bonus rather than structural raises due to fiscal constraints
-- **Mid-May:** Protests escalate — Indigenous and rural worker groups block roads, demand Paz resign over austerity measures (fuel subsidy cancellation)
-- **May 18:** Anti-government protests turn violent in La Paz; miners clash with police
-- **May 20:** La Paz Prosecutor's Office creates crisis commission; opens 29 criminal investigations into protest-related events (IACHR report)
-- **May 21:** Paz announces cabinet reshuffle amid escalating protests
-- **May 25:** Large rally against Paz in La Paz; former MAS supporters among protesters
-- **Late May:** Protests and blockades paralyze La Paz and El Alto; food and fuel shortages begin
-- **Early June:** Deaths reported from blockades; hospitals run out of oxygen; businesses close. 42% of La Paz restaurants forced to close; tomatoes double in price, chicken up 70%.
-- **June 3:** Defense and Education ministers resign amid deepening crisis; referendum proposal gains momentum for Bolivians to vote on whether Paz should remain
-- **June 5:** Phenomenal World publishes "Bolivia After MAS" — academic analysis of legitimacy crisis and de-institutionalization
-- **June 8:** UPI publishes Evan Ellis analysis linking Bolivia's crisis to broader Latin America-China engagement question. CSMonitor reports Peru's statistically tied presidential runoff, complicating "rightward shift" narrative.
-- **June 19:** Paz signs agreement with Bolivian Workers' Confederation (COB) union — a step toward resolving the conflict. Reuters publishes exclusive interview: Morales from Chapare says discontent "made him think" about return to politics; warns "if not with votes, it's with bullets."
-- **June 20:** Protests mark 50+ days; Paz declares state of emergency, deploys military to clear blockades. At least 17 deaths confirmed. Legislative Assembly approves decree.
-- **June 21:** No active protest blockades reported; Santa Cruz agreement lifts critical blockade in San Julian; rural/Indigenous groups pause La Paz protests while maintaining demands. 365 arrests, 37 injuries confirmed.
-- **Late June:** Peru: Keiko Fujimori wins presidential runoff on law-and-order platform. Colombia: Abelardo de la Espriella (pro-Trump businessman) advances to runoff. CSIS publishes Ellis analysis: Paz likely survives current crisis but could resign before end of 2026; crisis "off the radar" for most of Washington despite centrality to Trump hemispheric strategy.
-- **June 26:** Bolivia ends 15-year dollar peg; boliviano devalued ~30% from 6.96 to 9.73 per dollar. Economy ministry decree transitions to flexible exchange rate.
-- **June 29:** Floating exchange rate goes live at 9.73 bolivianos/dollar. Economy Minister José Gabriel Espinoza announces IMF financing programme advancing, near $5 billion. June inflation hits 5.2% — highest in 38 years.
-- **Late June - Early July:** Trump administration (via State Department) formally endorses Paz's state of emergency. Moody's maintains Caa3 rating, projects 2026 economic contraction. Atlantic Council schedules July 7 virtual conversation with Bolivian Foreign Minister Fernando Aramayo on restoring stability and governability.
-- **June 18:** Paz in CNN interview hints Morales arrest could come "maybe this weekend" or by end of month; describes Morales support base as "a sect"; prosecutors seeking 20-year sentence; government seeking US judicial cooperation on drug trafficking links.
-- **June 25:** Fair Observer publishes comprehensive analysis: blockades cut off Santa Cruz economic hub, chicken prices up 400%, Law 1720 land reform key trigger, Paz's constitutional reform plan, government accuses Morales-linked groups of "narco-terrorism."
-- **July 2:** Human Rights Watch publishes "Bolivia Cleared the Roads, but it Hasn't Cleared the Crisis" — exposes 22,000 pending cases, "jurisprudence à la carte," 0.46% judicial budget, 37 deaths from 2019 still uninvestigated, Supreme Court threatens strike for 5% budget allocation.
-- **July 6:** Supreme Court judicial authorities threaten to begin strike if government does not appropriate 5% of budget to justice system.
-- **July 9:** Reuters reports Bolivia invites Petrobras to return to oil and gas production and help restructure state-owned YPFB — significant energy sector pivot amid crisis.
-- **July 28:** Acute diesel shortage threatens Bolivia's soybean harvest; Santa Cruz needs 3M liters/day to harvest 950,000 hectares of soybeans; soybeans worth $1B+ in 2025 exports.
-- **July 29:** IMF reaches staff-level agreement with Bolivia on a $1.9 billion, three-year Extended Fund Facility — the first multi-year IMF arrangement since 2006. Deal is significantly below the government's $3.3 billion request and earlier $5 billion expectations. Expected to catalyze $3.1 billion from World Bank, IDB, and other lenders.
-- **July 29:** Bolivian prosecutor issues arrest warrant for Evo Morales on charges of armed insurrection and terrorism over the 53-day road blockades (May–June 2026). Second active warrant against Morales. Remains defiant in Chapare stronghold.
-- **Late July:** ALBA suspends Bolivia as member for Paz's "pro-imperialist and colonialist" conduct. Paz had refused to invite Maduro, Ortega, and Díaz-Canel to his November 2025 inauguration.
-- **July 8:** I Foro Internacional del Uranio y el Litio in Lima — Chilean, Argentine, Bolivian, Peruvian ministers discuss lithium leverage window closing before China's November 10 export control activation. Model Diplomat analysis characterizes Bolivia as the "resources-rich spectator" in a two-speed Lithium Triangle.
-- **July 17:** Arrest of David Mamani (Tupac Katari Federation) and David Quispe Machaca (CSUTCB) on terrorism charges under state of emergency. La Paz prosecutor's office reports 114 criminal cases opened (75 ex officio), 335 under investigation, 26 in pretrial detention. COB leadership declines to challenge arrests, calls for renewed dialogue with Paz government.
-- **July 20:** Responsible Statecraft publishes analysis of Paz administration crackdown: $20M US agreement to train/arm Bolivian security forces; DEA returns with new La Paz office; 583 arrests at protest height; IACHR denounces police excessive use of force with vigilante groups; Milei and Kast "humanitarian aid" investigated for repressive material; government signals state of exception indefinite until "no longer needed."
-
-- **July 29:** World Socialist Web Site publishes critical analysis with new data: World Bank/PAHO — 52% of Bolivians suffer food insecurity, 53.7% of young children anemic. 2025 household survey: poverty 38.1% to 44.7% in one year, extreme poverty 12.8% to 16.7%. Law 157 on Agrarian Conversion (April 8, 2026) identified as key protest trigger — enabling purchase of peasant/indigenous lands. Agribusiness figures occupy key cabinet positions: Fernando Romero Pinto (soybean producers assoc) heads development planning; Óscar Mario Justiniano Pinto (Eastern Chamber of Agriculture) as productive development minister. July 2026: government authorizes private fuel importation, partially breaking state monopoly to alleviate shortages.
-
-- **July 30:** Al Jazeera reports Morales defiant after second arrest warrant on armed insurrection/terrorism charges. Complaint filed by Comité pro Santa Cruz civic group and Interior Ministry. Morales: "We will continue fighting alongside the people."
-
-- **Early August:** New Lines Magazine (Aug 5) publishes in-depth analysis of continental rightward shift — Costa Rica Fernández (Feb 2026), Peru Fujimori (June), Colombia de la Espriella (takes office Aug 7), Brazil Lula vs Bolsonaro (Oct 2026). Challenges both "Trump caused it" and "left failed" narratives; frames shift as driven by anxiety rather than ideology.
-
-- **August 10:** GIS Reports analysis: Paz emerges stronger from blockade crisis. July private fuel import authorization partially breaks YPFB monopoly. Bolivia joined Shield of the Americas security alliance. MAS collapsed to 2 lower house seats. Blockade losses estimated ~$2.3B.
-
-- **August 11:** Reuters reports Paz's center-right coalition showing signs of unraveling. Congress fragmented among six center-right blocs. Tensions within PDC between Paz and VP Edmand Lara; several former allies left cabinet. Energy reform package proposed: cap tax/royalty burden at ~50%, reduce YPFB role, incentives for exploration, private electricity participation. Opposition demands transparency on IMF $1.9B program. Congressional debate seen as early measure of Paz's political strength.
-
-- **August 18:** Congress votes to censure Economy Minister José Gabriel Espinoza — a key architect of Paz's economic policy and lead IMF negotiator — for failing to appear before Congress. Government argues 91 of 166 votes falls short of 2/3 majority requirement, challenges before Constitutional Tribunal. Espinoza faces additional controversy over Audi purchase at below-market price. Censure threatens IMF $1.9B program approval.
-
-- **August 18:** Fernando Cerimedo — Argentine political adviser to Paz, Milei, and Bolsonaro — arrested at Santa Cruz airport on suspicion of plotting murder of activist Nadia Beller. Beller, four weeks pregnant, survived shooting in Santa Cruz. Reveals Decree 5503: radical economic reforms including fuel subsidy elimination being prepared by Cerimedo and Paz government. Beller claims she was targeted for opposing Decree 5503 and witnessing high-level corruption. VP Edmand Lara calls for impartial investigation.
-
-- **August 17:** Supreme Decree 5676 sets reference price of 18 bolivianos per litre of diesel for large consumers (83.7% increase). Government seeks to encourage large consumers to import their own fuel while maintaining subsidized supply for small producers.
-
-- **August 20:** Foreign Policy publishes in-depth analysis "Bolivia Struggles to Turn Lithium Into Profits" — 20% of global deposits but <1% production; constitutional change needed for foreign extraction; Indigenous and environmental opposition to Chinese/Russian contracts; DLE tech advances covered.
-
-- **August 24:** Verfassungsblog publishes Bettina Schorr's "Protests Without a Project" — academic analysis arguing 2026 protests failed because Bolivia has entered a "post-constituent era" where protest no longer articulates a shared constitutional renovation project.
-
-- **August 25:** Christian Morales appointed economy and public finance minister, replacing censured Espinoza. Paz reveals $7-10 billion in active multilateral negotiations. Signals policy continuity amid coalition uncertainty.
-
-- **August 26:** Military deployed to Yapacaní, Santa Cruz ahead of announced blockades against Decree 5676. Deputy Interior Minister Paredes admits decree must be annulled. Americas Quarterly publishes Eduardo A. Gamarra's "Bolivia's Post-MAS Transition Is at Risk" — assessment that "earlier optimism requires substantial revision"; Bolivia entering combined crisis of governance, economic credibility, and public safety. VP Lara acting as political adversary. Organized crime more visible.
-
-- **August 27:** Supreme Decree 5683 — government doubles Treasury ceiling for YPFB fuel imports from Bs1B to Bs2B (US$168M). Analyst Fernando Rodriguez calls it "a sticking plaster ... Bs2B buys about ten days of national fuel consumption." Cerimedo faces two new probes: money-laundering (Deputy Transparency Minister Yamil Garcia) and drug trafficking protection (Beni prosecutor investigating irregular flights). Paz in televised address distances himself from Cerimedo, denies formal contractual link. Opposition calls for OAS special committee to investigate independently.
-
-- **August 28:** Official USD/BOB rate reaches Bs11.93 — boliviano devaluation deepens from 9.73 to near 12. 24EcoNews analysis reveals government admitted Decree 5676 diesel adjustment is an IMF condition. Central bank projects GDP contraction of -3.6% for 2026. Bolivia expected to close 2026 with 17% inflation. Gas exports fell below USD500M in H1. Road blockades in 2026 surpass cumulative damage of all 2025 according to FEPC. Santa Cruz agricultural sector issues ultimatum to repeal Decree 5676 by Monday, threatening Asamblea de la Cruceñidad. US$75.1M in damage found at state biodiesel plant. New roadblocks in San Pablo (Beni) — farmers from Marbán province block highway linking Trinidad and Santa Cruz. YPFB reports tankers stranded cutting gas supply to Potosí municipalities. Government deploys police and soldiers with tear gas and rubber bullets, injuring 5 and detaining 2. Six Federations (Coca growers) resume protests in Cochabamba. Quinoa farmers give 48-hour ultimatum to repeal Decree 5676. Truck drivers and cooperative miners threaten strike.
-
-- **September 1:** Supreme Decree 5697 — Paz government orders 180-day state intervention of YPFB (state oil company) over persistent fuel shortages and logistics failures. Intervention commission from 4 ministries + Vice-Ministry of Transparency to oversee YPFB's fuel marketing, logistics, and traceability. Government announces intention to gradually strip YPFB of fuel marketing role and transfer to private enterprises. Hydrocarbons Minister Marcelo Blanco acknowledges regular measures failed. Half of all state-imported fuel was smuggled out with YPFB employee complicity, per Public Works Minister Mauricio Zamora. Bolivia imports ~80% of diesel and ~55% of gasoline consumed domestically (AP). Decree 5697 may be extended once for additional 90 days beyond initial 180 days.
-
-- **September 3:** CES Intelligence (Thierry Marquez) publishes comprehensive geopolitical risk assessment "Bolivia 2026: The Lithium That Waited." New data: boliviano reaches 12.26/USD (76% above old peg of 6.96); liquid reserves fell as low as $73M; gas production declined from 60.8M m³/day in 2014 to 28.6M in mid-2025; Argentina has stopped buying Bolivian gas; Wood Mackenzie projects Brazil exports cease by 2030 absent new drilling; YLB produced ~2,000 tonnes lithium in 2024 against 15,000-tonne nameplate; China's ambassador Wang Liang concurrently lobbied congressmen in Beijing for lithium contract ratification; Shield of the Americas membership formalized March 7, 2026.
-
-- **September 4:** Twin explosions at military barracks in Viacha (~30km from La Paz) kill at least 10, injure 62, leave 7 missing. Blast originates from Defense Ministry fireworks/pyrotechnics stockpile. The cause remains under investigation. Police confirm dozens of nearby homes damaged by shattered glass. Firefighters warn of remaining heat source and risk of another explosion, urging residents to stay 150m away. President Paz declares national mourning.
-
-- **September 8:** US Secretary of State Marco Rubio travels to Colombia, Ecuador, and Peru following recent right-wing electoral victories, as Washington seeks to reassert hemispheric influence. Colombia (de la Espriella) requests Department of War joint military operations against narcoterrorism; Ecuador cooperates in joint operations with US troops. Rubio trip reflects broader rightward consolidation across South America.
-
-- **September 9:** Bolivia's Interior Ministry meets with OAS delegation (Steven Griner, Cristian Taboada) to design RedPolOEA — an unarmed, plainclothes civilian police advisory mission to prevent repeat of blockade crisis. US State Department official Michael Hankey announces US bankrolling initial technical phase.
-
-- **September 11:** Government reveals IMF conditions include ending ALL fuel subsidies by 2027 under $1.9B bailout. Economy Minister Christian Morales defends conditions as "necessary." Deal awaits congressional ratification.
-
-- **September 13:** Morales on weekly radio program: Paz government "agoniza" (agonizing), lacks popular backing. Describes IMF agreement as "imposition and blackmail"; warns subsidy removal could push >50% into poverty by year-end.
-
-- **September 14:** Cabinet approves decree to extend state of exception by 90 more days (to mid-December 2026), ahead of its Sep 18 expiration. Rio Times reports Paz weighing state of siege if blockades resume. Santa Cruz civic committee sets October 10 deadline (Democracy Day) for fuel/tax demands.
-
-- **September 15:** Education workers march in La Paz and other cities to protest state of emergency extension and IMF deal. Hundreds of teachers demonstrate; police presence visible. Reuters and Anadolu Agency cover protests.
-
-- **September 15:** Presidential spokesman José Luis Gálvez warns Bolivia could declare state of siege — stronger than existing state of exception — if road blockades return. "We will use constitutional force, and we will use the military." Diesel subsidy cuts under Decree 5676 cited as trigger for new protest threats. Rio Times reports.
-
-- **September 16:** Bolivia's Legislative Assembly debates 90-day state of emergency extension. VP Edmand Lara presides over session. Government ministers Oviedo and Justiniano justify extension based on police/military reports of renewed mobilization risks.
-
-- **September 17:** Assembly approves 90-day state of emergency extension (100-58 vote), citing persistent risks of new blockades over fuel subsidy cuts. Original period was set to expire Sep 18. Opposition lawmaker Gabriel Corvera warns measure treats symptoms not underlying causes. Reuters reports.
-
-- **September 18:** Bolivian Congress approves $1.9B IMF loan agreement — Senate ratifies day after lower house approval. Conditions include end to ALL fuel subsidies by 2027. Unlocks ~$5B additional financing from World Bank, IDB, other lenders. Paz calls it "historic step" and "resounding signal of political maturity." Economy Minister Christian Morales pledges deal will bring confidence. Unions threaten renewed protests over austerity. Centrist/right-wing coalition rallies behind deal despite Paz lacking majority. AP reports.
-
-- **September 19:** Supreme Decree 5716 ends remaining diesel subsidy — price rises 83% from Bs 9.80 to Bs 17.95/litre tied to import cost. Paz signs hours after Senate ratifies IMF loan. Cash-transfer program of $79M announced for 2.9M Bolivians plus $73M in preferential loans at 6% for transport/small producers. Bolivia imports ~90% of diesel, spending ~$55M weekly on subsidies (Reuters). Gasoline remains subsidized at Bs 6.96/litre, with phaseout scheduled by 2027.
-
-- **September 21:** Secretary of State Marco Rubio meets President Rodrigo Paz at UNGA High-level Week in New York. US emphasizes Bolivia as "critically important regional partner," welcomes economic stabilization including IMF support and fuel/mining/energy reforms. Discusses regional security cooperation against "narcoterrorists."
-
-- **September 25:** Morales files habeas-corpus-style legal challenge in Beni against the Tarija arrest warrant, confirming he remains a fugitive contesting two active warrants (aggravated human trafficking and sedition/terrorism) plus a third in Santa Cruz.
-
-- **September 26:** Morales convenes "Evo Pueblo" National Assembly in Lauca Ñ to define protest roadmap from October onward. Gives Paz until Oct 3 to repeal decrees on diesel and state companies, threatening national protests from Oct 13. "If it isn't the easy way, it will be the hard way." Defense Minister Justiniano: arrest warrants remain in force. Cocalero defenders declare "maximum alert" with estimated 8,000-10,000-strong armed cordon. The day's developments mark the fourth Watch Report for Bolivia's Political Situation (45% probability, held even).
-
-- **September 29:** Lawmakers from Libre, Unidad, and other blocs demand Paz disclose costs/achievements of his US trip (departed Sep 19, UNGA Sep 24, returned Sep 27). VP Lara estimates $200K-250K; Paz claims 32 meetings, ~$10Bn in commitments. Leftist deputy Pacheco: "If he is going to devote himself to travelling, let him resign." Decree 5515 lets Paz govern digitally while abroad, narrowing Lara's role.
-
-- **September 29:** Lawmakers from three parties urge pre-emptive arrests of protest organizers before Morales' Oct 13 protest call. Defence Ministry replies nobody is above the law.
-
-- **October 1:** Attorney General Roger Mariaca arrested at Viru Viru International Airport in Santa Cruz — two days after US revoked his visa over drug trafficking and corruption allegations. Government Minister Oviedo: "dismantled a criminal organization embedded in the justice system." Four senior officials also detained. Part of broader US visa-revocation policy targeting Latin American officials in allied governments (UPI).
-
-- **October 2:** IMF Executive Board approves $1.9B 36-month Extended Fund Facility for Bolivia — first multi-year IMF arrangement since 2006. $214M disbursed immediately. Moody's upgrades sovereign rating to Caa2 with positive outlook amid fiscal surplus (Bloomberg).
-
-- **October 3:** Morales' Oct 3 deadline expires — government does not repeal Supreme Decrees 5716 or 5727. No major mobilization materializes; drivers' strike fizzles as Santa Cruz drivers suspend planned stoppage. USA News-Pravda reports: "the long-awaited social explosion suddenly degenerated into zilch" as Paz government successfully contained protest escalation through state of emergency and targeted negotiations.
-
-- **October 4:** Brazil's first-round presidential election: Flávio Bolsonaro finishes first ahead of Lula, contrary to every final poll. Runoff set for October 25. Jach'a Karangas indigenous nation in Oruro rejects "dieselazo" and declares permanent emergency. YPFB announces increased fuel deliveries nationwide (Rio Times). Santa Cruz drivers suspend planned strike but remain on emergency footing with one-week ultimatum for government ministers to visit.
-
-|- **October 5:** Fuel queues persist across La Paz, Tarija and Santa Cruz despite YPFB delivery increases. Vice-Minister of Transparency Yamil García reports 1,800+ vehicle plates blocked (24 confiscated). Petrol smuggling networks shift from diesel to gasoline as gap widens between regulated Bs 6.96/litre and market-rate diesel at Bs 17.95. 24EcoNews reports paradoxical moment: Moody's upgrade to Caa2, fiscal surplus — but worst economic crisis in 67 years, hydrocarbon production down 13.4% YoY, Cochabamba -4.15% contraction.
-|
-|- **October 7–10:** Santa Cruz October 10 (Democracy Day) deadline passes without major escalation. Government makes partial concessions on fuel distribution but does not meet all five demands (fuel import liberalization, 50-50 revenue sharing, YPFB reform). Comité pro Santa Cruz begins phased street pressure rather than blockades.
-|
-|- **October 12:** The Guardian reports Acting Attorney General José Armando Urioste (one week into job) opens preliminary investigation into Morales and former VP Álvaro García Linera for murder, abuse, torture and unlawful detention over 2009 Las Americas hotel raid. 3 Europeans killed (Rózsa Flores, Dwyer, Magyarosi), 2 survivors tortured. Complaint filed by right-wing lawmakers Tomasa Yarhui and Rodrigo Antonio. IACHR determined 2021 that Bolivia violated human rights. This is a third legal front for Morales alongside human trafficking and armed insurrection/terrorism warrants.
-|
-|- **October 12:** Visión 360 reports security forces taking strategic positions nationwide to prevent blockades. Presidential spokesman Gálvez: "if necessary, we will respond applying the law." Paz in public remarks states: "We will not let Bolivia die, though it will be difficult."
-|
-|- **October 13:** Morales-aligned "evista" groups postpone planned Oct 13 march to La Paz. New proposed start: Friday Oct 16 from Patacamaya, arriving Monday Oct 19. Main demand: repeal of Decree 5716 (diesel subsidy). Hydrocarbons Minister Blanco rules out diesel price revision per IMF commitments. Government opens dialogue but deploys troops preventively. Paz: Morales sectors want "the old logic of grabbing us with gunfire, stones and blockades."
-|
-|- **October 13:** La Paz coordinating prosecutor Armando Rojas arrested at his home, charged with criminal organization and drug trafficking cover-up linking to Mariaca network — Mariaca purge widens. Also investigated: fiscal superior Martín Irusta, Santa Cruz fiscal Alberto Zeballos. Police major Rubén Aparicio captured.
-|
-|- **October 13-14:** Fox News publishes exclusive interview with Defense Minister Justiniano: Shield of the Americas facing first real-world test; preventive troop deployments at strategic routes and critical infrastructure. State Dept visa restrictions on Bolivian officials. Justiniano: "We are preparing for a risk, not declaring that a coup is underway."
-
-- **October 15:** COB declares a state of emergency at its national assembly in Cochabamba over living costs, the 83% diesel price surge, and decrees threatening state-company workers with layoffs — but Secretary General Mario Argollo announces no strike, keeping the movement strictly "reivindicativo" and refusing to align with Morales-aligned (evista) sectors, who had postponed their march to La Paz.
-
-- **October 15-16:** IMF October World Economic Outlook projects Bolivia as South America's only economy contracting through 2027 (-3.0% in 2026); gross reserves projected to rise to $5.7B (end-2026) and $7.3B (2027) as the EFF unlocks ~$4B in additional lending.
-
-- **October 16:** Chilean President José Antonio Kast makes the first state visit by a Chilean president to Bolivia in 71 years (since Carlos Ibáñez del Campo, 1955). Kast and Paz pledge to normalize diplomatic relations "at the highest level" (broken since 1978) and sign accords on trade, mining, energy and border security. Bolivia's constitutional Pacific sea-access claim absent from the agenda; Kast invites Paz for a 2027 state visit to Chile. Both leaders are Shield of the Americas members.
-
-- **October 19:** Latin Times reports the fragile social truce fracturing: COB emergency declaration sets stage for a threatened Oct 23 national strike; evista sectors openly disappointed the COB declined to endorse their campaign.
-
-- **October 20 & 23:** Teachers demonstrate before the Ministry of Education in La Paz (Oct 20), then hold a 24-hour national strike (Oct 23) against rising prices and the government's education decentralization plan — schools shut across the country; police respond with tear gas, rubber bullets, beatings and detentions. The COB declines to call a general strike.
-
-- **October 22:** ECLAC's October projections see Bolivia growing just 0.2% in 2026 vs the IMF's -3.0% — a 3.2pp gap between the UN body and the Fund.
-
-- **October 22:** US State Department names 15 of 40 Bolivians subject to visa restrictions under the policy announced Sep 28 — including two national deputies, former Attorney General Juan Lanchipa Ponce, prosecutors, judges and police officials; the Department says it "stands with the government of Bolivia."
-
-- **October 24:** At the "Evo Pueblo" congress in Lauca Ñ, Morales warns "at any moment armed struggle can return" if his movement keeps being eliminated, says he does not agree with that path, and blames the political right. Ombudsman Pedro Callisaya warns conflict levels have not declined despite the state of exception.
-
-- **October 25:** Lula defeats Flávio Bolsonaro in Brazil's presidential runoff — the rightward wave's biggest setback, denying Trump a powerful ally in South America's largest economy. Analysts note Trump-aligned leaders are already losing support in Chile, Bolivia and Peru.
-
-- **October 29:** Police arrest two brothers in Quillacollo (near Cochabamba) after seizing dynamite, ANFO mining explosive and firearms; Government Minister Oviedo alleges one brother, Alain Torrico, received phone instructions connected to Evo Morales about violence planned for November protests. CSUTCB leaders call it a smokescreen diverting attention from audio recordings in a separate scandal.
-
-- **October 30:** Chamber of Deputies closes its 2025-2026 legislature and begins transition; leadership had come from three different parties, reflecting fragmentation. Government's Agenda 50/50 tax-sharing talks with governors ongoing. Paz says ~40% of Bolivians lack toilets and safe drinking water, announcing a US$4.5B program to close the gap.
-
-- **October 31 / November 1:** Paz declares a nationwide state of emergency over the intensifying "super" El Niño — severe droughts and floods with at least 78,000 families already affected by drought; decree mobilizes rescue teams and coordinates armed forces and police.
-
-- **November 2-5:** Paz travels to Madrid for the XXX Ibero-American Summit (Nov 4-5) courting European investment in hydrocarbons, mining, energy and technology; bilaterals with European business leaders, UNESCO and CAF. Described as Bolivia's most assertive push onto the world stage in years.
-
-- **November 6 (upcoming):** Morales-aligned sectors plan to march from Patacamaya (~100 km south of La Paz) to La Paz, against the government's economic policies; US advisory guidance flags the date. Government says it will enforce the state of exception against blockades.
+- **May:**
+  - Protests spread as Indigenous, rural and transport groups block roads and demand Paz resign over the cancellation of fuel subsidies.
+  - Blockades paralyse La Paz, El Alto and Santa Cruz, producing food, fuel and oxygen shortages.
+- **June:**
+  - The government signs an agreement with the Bolivian Workers' Confederation (COB) on 19 June, the first step toward ending the blockade.
+  - Paz declares a state of emergency on 20 June and deploys the military to clear roads; at least 17 people are killed.
+  - The Legislative Assembly ratifies the emergency decree and blockades lift by 21 June.
+  - Bolivia ends its 15-year dollar peg; the boliviano is devalued about 30% to 9.73 per dollar.
+  - June inflation reaches 5.2%, the highest monthly rate in 38 years.
+- **July:**
+  - Petrobras is invited back to help restructure the state oil company YPFB.
+  - A diesel shortage threatens the Santa Cruz soybean harvest, Bolivia's main agricultural export.
+  - The IMF reaches staff-level agreement on a $1.9 billion, three-year Extended Fund Facility on 29 July, well below the government's $3.3 billion request.
+  - A second arrest warrant is issued for Evo Morales on armed insurrection and terrorism charges over the blockades.
+- **August:**
+  - Supreme Decree 5676 raises the diesel price for large consumers by 83.7% on 17 August; the government concedes within days that it must be annulled.
+  - Congress censures Economy Minister José Gabriel Espinoza on 18 August; the government challenges the vote as unconstitutional.
+  - Fernando Cerimedo, Paz's campaign adviser, is arrested over the shooting of activist Nadia Beller, exposing the unreleased Decree 5503 reform package.
+  - Christian Morales replaces Espinoza as economy minister on 25 August, signalling policy continuity.
+  - The ruling coalition frays: only 6 of 15 original ministers remain and the National Unity party breaks with Paz.
+- **September:**
+  - The government places YPFB under a 180-day state intervention on 1 September over the fuel shortage.
+  - Twin explosions at a military base in Viacha kill at least 10 people on 4 September.
+  - The government discloses that the IMF programme requires all fuel subsidies to end by 2027.
+  - Congress approves the $1.9 billion IMF programme on 18 September; the state of exception is extended for 90 days.
+  - Supreme Decree 5716 ends the remaining diesel subsidy on 19 September, raising the price 83% to Bs17.95 per litre.
+  - Secretary of State Marco Rubio meets Paz at the UN General Assembly on 21 September and reaffirms US support.
+  - Morales gives the government until 3 October to repeal the diesel decrees and threatens national protests from 13 October.
+- **October:**
+  - Attorney General Roger Mariaca is arrested at Santa Cruz airport on 1 October; the purge of the justice system widens.
+  - The IMF Board approves the $1.9 billion facility on 2 October, releasing $214 million immediately; Moody's upgrades Bolivia to Caa2.
+  - The diesel price rise triggers the "dieselazo"; the Jach'a Karangas indigenous nation declares a permanent emergency.
+  - The COB declares a state of emergency on 15 October but declines to call a general strike.
+  - Chilean President José Antonio Kast makes the first Chilean state visit to Bolivia in 71 years; both sides pledge to normalise relations.
+  - ECLAC projects 0.2% growth for 2026 against the IMF's -3.0% forecast.
+  - Morales tells the Evo Pueblo congress that "at any moment armed struggle can return," while saying he does not advocate it.
+  - Lula defeats Flávio Bolsonaro in Brazil's runoff, halting the regional rightward wave's biggest prize.
+  - Police seize dynamite and firearms in Quillacollo and allege a Morales-linked plot for November protests.
+- **November:**
+  - Paz declares a nationwide El Niño emergency on 31 October as drought affects more than 78,000 families.
+  - Paz travels to Madrid for the Ibero-American Summit to court European investment.
+  - Morales-aligned groups plan a march from Patacamaya to La Paz starting 6 November (planned).

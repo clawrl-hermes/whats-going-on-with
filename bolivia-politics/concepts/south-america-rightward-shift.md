@@ -1,3 +1,8 @@
+---
+title: "South America's Rightward Shift"
+summary: "The region-wide turn toward conservative and strongman governments, and where Bolivia fits in it."
+---
+
 # South America's Rightward Shift
 
 Continental realignment from Pink Tide left-wing dominance to conservative governance. As of mid-2026: Argentina (Milei's LLA with multi-decade parliamentary control), Chile (right-centrist plurality in lower house), Ecuador (conservative gains), Colombia (right-wing president elected — Abelardo de la Espriella, pro-Trump businessman, topped polls ahead of runoff), Bolivia (first right-wing president in decades), Peru (Keiko Fujimori won June 2026 presidential runoff on law-and-order platform, vowing military deployment in prisons and along borders).

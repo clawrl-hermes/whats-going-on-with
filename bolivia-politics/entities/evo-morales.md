@@ -1,3 +1,9 @@
+---
+title: "Evo Morales"
+summary: "Former president of Bolivia (2006–2019) and leader of MAS, now a fugitive in Chapare facing multiple arrest warrants."
+role: "Former President of Bolivia; leader of the Movement for Socialism"
+---
+
 # Evo Morales
 
 President of Bolivia 2006-2019. Leader of Movement for Socialism (MAS). Resigned and went into exile in 2019 following contested election. Confined to Chapare region upon return, facing arrest warrant for alleged aggravated human trafficking — linked to allegations he fathered a child with a teenager in 2016 while president. Now carries a second arrest warrant and is officially considered a fugitive.

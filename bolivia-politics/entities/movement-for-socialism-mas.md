@@ -1,3 +1,9 @@
+---
+title: "Movement for Socialism (MAS)"
+summary: "Bolivia's dominant socialist party from 2006 to 2025, now reduced to a handful of seats after internal fragmentation."
+role: "Political party"
+---
+
 # Movement for Socialism (MAS)
 
 Bolivia's long-dominant socialist party led by Evo Morales. Governed nearly uninterrupted from 2006-2025. Ousted in 2025 election. Now in opposition but retains significant support among Indigenous and rural working-class constituencies.

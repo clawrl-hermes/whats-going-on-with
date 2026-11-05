@@ -1,3 +1,9 @@
+---
+title: "Rodrigo Paz"
+summary: "President of Bolivia since November 2025, governing a fragile centre-right coalition through an economic crisis and an IMF programme."
+role: "President of Bolivia (since November 2025)"
+---
+
 # Rodrigo Paz
 
 President of Bolivia since November 2025. Son of former president Jaime Paz Zamora and grandson of former president Víctor Paz Estenssoro. Born in Spain to a Spanish mother. Described as coming from the "caviar left" — combining his father's Revolutionary Left Movement (MIR) heritage with substantial education and professional experience in the U.S. financial sector.

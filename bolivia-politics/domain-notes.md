@@ -1,236 +1,101 @@
-# Bolivia's Political Situation — Topic Notes
+# Bolivia's Political Situation: Structural Notes
 
-## Wiki Location
-- Path: `/root/wiki/bolivia-politics/`
-- Repo: `kent-iscann/signal-fracture-content`
-- Git auth: credential helper (no gh CLI needed)
+> Recent developments are tracked in `timeline/bolivia-politics-timeline.md` at month resolution. This file records structural context, recurring dynamics and the data series to watch, not a chronology.
 
-## Folder Structure
-```
-/root/wiki/bolivia-politics/
-├── index.md                    (source count + last-updated date + page catalog)
-├── sources.md                  (numbered table: # | Title | Date | Summary)
-├── log.md                      (append-only session entries: ## YYYY-MM-DD - ...)
-├── timeline/
-│   └── bolivia-politics-timeline.md  (chronological events by year)
-├── entities/
-│   ├── rodrigo-paz.md          (Current president, centrist-turned-right, backed by US)
-│   ├── evo-morales.md          (Former president, MAS leader, confined to Chapare, arrest warrant)
-│   ├── movement-for-socialism-mas.md  (Long-dominant party, destroyed by infighting)
-│   └── jorge-quiroga.md        (Former president, conservative runoff opponent)
-├── concepts/
-│   ├── bolivia-lithium-geopolitics.md  (China/Russia interest in lithium, contracts in limbo)
-│   ├── south-america-rightward-shift.md  (Continental realignment, "Trumpification")
-│   └── bolivia-post-mas-fragmentation.md  (New fractures beyond left-right binary)
-```
+## The Post-MAS Order
 
-## Search Queries (canonical, 8 queries)
-1. "Bolivia political crisis Rodrigo Paz 2026"
-2. "Bolivia protests blockades fuel crisis 2026"
-3. "Bolivia Evo Morales arrest warrant 2026"
-4. "Bolivia IMF loan agreement 2026"
-5. "Bolivia lithium contracts China Russia 2026"
-6. "Bolivia US relations Trump administration 2026"
-7. "Bolivia economy inflation dollar shortage 2026"
-8. "South America rightward shift conservative wave 2026"
+- MAS governed almost continuously from 2006 to 2025 but collapsed before the election under three-way infighting between Evo Morales, Luis Arce and Andrónico Rodríguez. It won only 2 of 130 lower-house seats in 2025 and none in the Senate.
+- Rodrigo Paz won the 2025 runoff as a centrist, but his coalition lacked a party structure, ideology or clear platform. His Patria alliance took only 2 of 9 governorships in the subnational elections.
+- Congress is fragmented among six centre-right blocs. Paz's bloc holds 65 of 130 seats — the largest, but without a working majority — and all three major blocs are internally divided.
+- The result is a de-institutionalised system in which the government legislates by decree, relies on a state of exception and negotiates ad hoc with governors and civic committees.
 
-**Supplemental (rotate based on emerging themes):**
-- "Bolivia soybean harvest diesel crisis 2026"
-- "Bolivia state of emergency crackdown human rights 2026"
-- "Bolivia YPFB Petrobras energy reform 2026"
-- "Bolivia judicial crisis Supreme Court strike 2026"
-- "Bolivia MAS fragmentation election 2026"
-- "Bolivia coca growers Chapare protests 2026"
-- "Latin America right-wing populism Bukele 2026"
-- "Bolivia Chile Kast relations normalization 2026"
-- "Bolivia COB strike teachers October 2026"
-- "Bolivia El Nino drought emergency 2026"
-- "Brazil Lula Bolsonaro election impact region"
+## The Paz Government
 
-## Key Entities Tracked
-| Entity | Role | Key Context |
-|--------|------|-------------|
-| Rodrigo Paz | Current president; centrist "accidental president" who pivoted right after election | Backed by Trump administration, facing compounded governance crisis; coalition unraveling (Aug 2026); second arrest warrant for Morales |
-| Evo Morales | Former president (2006-2019), MAS leader | Confined to Chapare; faces second arrest warrant (armed insurrection, terrorism, July 29, 2026); warns "if not with votes, with bullets" |
-| Movement for Socialism (MAS) | Long-dominant socialist party, now in opposition | Destroyed by three-way infighting (Morales vs Arce vs Rodríguez); collapsed to 2 lower house seats |
-| Jorge Quiroga | Former president, conservative runoff opponent | Defeated by Paz in 2025 runoff |
-| Luis Arce | Former president (2020-2025), MAS | Held in preventive detention since December 2025 by Paz administration (per leftist analysis Yahoo/The Intercept, Oct 2026 — single-source, verify); judge refused release on health grounds; source of the 2009 killings investigation target alongside Morales |
-| Chile | Historic diplomatic reset partner | Kast-Paz Oct 16, 2026 summit: first Chilean presidential visit in 71 years; normalization pledge (ties broken since 1978); trade/mining/energy/border accords; shield ally; sea-access claim shelved from agenda |
-| United States | Key external backer of Paz | Rubio/Hegseth support; $20M security agreement; DEA returns; "narco-terrorist" framing of protesters |
+- Paz is the son of former president Jaime Paz Zamora and grandson of Víctor Paz Estenssoro, with a background in the "caviar left" and US finance. CSIS described him as an "accidental president" whose intellectual style has slowed decision-making.
+- Approval fell from 65% in November 2025 to 32% in July 2026, with disapproval at 55%. CSIS and local analysts have floated the possibility that he could resign before the end of 2026.
+- Vice-President Edmand Lara has become an internal political adversary rather than a governing partner.
+- Only 6 of the original 15 ministers remained by August 2026. The National Unity party left the coalition over Paz's reliance on decrees, and Economy Minister José Gabriel Espinoza was censured by Congress.
+- The government's external anchor is Washington: Rubio and Hegseth have publicly backed Paz, the US signed a $20 million security assistance agreement, the DEA returned to La Paz, and Bolivia joined the Shield of the Americas. The US has also imposed visa restrictions on Bolivian officials.
 
-## Key Concepts Tracked
-| Concept | Focus |
-|---------|-------|
-| Bolivia's Lithium Geopolitics | China/Russia interest in Lithium Triangle; CBC/Uranium One contracts unratified; Nov 10, 2026 China export control activation |
-| South America's Rightward Shift | Continental realignment from Pink Tide to conservative governance; Peru (Fujimori), Colombia (de la Espriella), Brazil (Oct 2026) |
-| Bolivia's Post-MAS Fragmentation | De-institutionalization; IMF-driven austerity; Paz's fragile 6-party coalition |
+## The Economic Crisis
 
-## Key Data Points
-- **IMF deal:** $1.9B staff-level agreement (well below $5B expectations)
-- **Dollar peg:** Ended June 26, 2026; boliviano devalued ~30% from 6.96 to 9.73 BOB/USD; further weakened to Bs11.93/USD by Aug 28 (parallel rate >Bs11)
-|- **Inflation:** June 2026 monthly 5.2% (38-year high); food inflation 31.48% annually; full-year 2026 projected at 17%
-- **Reserves:** Collapsed from $15B to $4.5B ($3.6B in gold)
-- **Fuel subsidies:** Ended ~20-year policy; gasoline up 86%, diesel up 160%; up to 100% price increases
-- **Blockade duration:** 53 days (May 2–June 23, 2026)
-- **Deaths:** 17+ during protests; 37 from 2019 protests still uninvestigated
-- **Poverty:** 44.7% (up 6.6pp in one year); extreme poverty 16.7%; 52% food insecurity
-- **Food insecurity:** 53.7% child anemia; 52% of Bolivians food insecure
-- **Blockade economic losses:** ~$2.3B
-- **Soybean exports:** $1B+ in 2025; diesel crisis threatens 950,000-hectare harvest
-- **US security package:** $20M agreement to train/arm Bolivian security forces
-- **Arrests:** 583 at protest height; 114 criminal cases; 335 under investigation; 26 in pretrial detention
-- **MAS collapse:** Reduced to 2 lower house seats from decades of dominance
-- **Paz coalition:** 6 center-right blocs in congress; PDC tensions between Paz and VP Lara
-- **Espinoza censure:** Congress voted to censure Economy Minister Espinoza (Aug 18); government challenges constitutionality (91/166 votes); threatens IMF $1.9B approval
-- **Cerimedo arrest:** Paz campaign adviser arrested for murder plot; reveals Decree 5503 — radical economic reforms outside legislative process
-- **Decree 5503:** Radical reform package including fuel subsidy elimination, prepared by Cerimedo and Paz govt; activist Beller shot for opposing it
-- **Supreme Decree 5676:** Aug 17, 2026 — sets 18 BOB/litre diesel for large consumers (83.7% increase); government admits failure within 9 days, deputy minister says "cabinet does want to repeal it"
-- **Christian Morales appointment:** Aug 25, 2026 — replaces censured Espinoza as economy minister; signals policy continuity; Paz reveals $7-10B in active multilateral negotiations
-- **State of emergency:** June 20 – Sept 20, 2026 (90 days); 10+ organizations still defying it as of Aug 26
-- **YPFB intervention (Sep 1, 2026):** Supreme Decree 5697 orders 180-day state takeover of YPFB over fuel shortages. Government intends to strip YPFB of fuel marketing role. Half of all state-imported fuel smuggled with employee complicity.
-- **Petrobras:** Invited to return to Bolivia (July 9, 2026)
-- **ALBA:** Suspended Bolivia
-- **Moody's:** Caa3 rating; 2026 contraction projected
-- **Soybean diesel need:** ~3M liters/day for Santa Cruz harvest
-- **GDP contraction:** Central bank projects -3.6% for 2026
-- **Gas exports:** Fell below USD500M in H1 2026
-- **YPFB Treasury ceiling:** Doubled via Supreme Decree 5683 (Aug 27) from Bs1B to Bs2B; analyst says covers ~10 days of fuel
-- **Biodiesel plant damage:** US$75.1M in damage at state biodiesel plant
-- **Contaminated gasoline:** 10,000+ vehicles damaged; ex-hydrocarbons minister arrested
-- **Paz cabinet erosion:** Only 6 of 15 original ministers remain; National Unity party broke with Paz over decree reliance
-- **Cerimedo probes:** Expanded to money-laundering and drug trafficking (Beni irregular flights); bot farm seized ($44K cash)
-- **Morales warrant #2:** Armed insurrection/terrorism (July 29, 2026); complaint by Comité pro Santa Cruz + Interior Ministry
-- **Coca producers:** Trópico de Cochabamba paused mobilization June 22
-- **Demonstration events:** 200+ in June → ~40 in July (post-COB agreement)
-- **Law 157 on Agrarian Conversion (April 8, 2026):** Enables purchase of peasant lands
-- **Shield of the Americas:** Paz joined regional military-security alliance
-- **Private fuel imports:** Authorized July 2026 — partially breaking YPFB monopoly
-- **Boliviano at 12.26/USD (Sep 2026):** 76% above old peg of 6.96; further weakening from 11.93 on Aug 28
-|- **Liquid reserves nadir:** Fell as low as $73M before recovering towards $1.1B (CES Intelligence, Sep 2026)
-|- **Offshore elite holdings:** ~$10bn (eighth of GDP) held offshore by Bolivian elites (Andrés Arauz/CEPR, cited by The Guardian, Sep 2026)
-|- **Informal labor:** 84% of workforce — Latin America's highest (ILO, 2024)
-|- **Gas production decline:** 60.8M m³/day (2014) → 28.6M (mid-2025); Argentina stopped buying; Brazil exports cease by 2030 per Wood Mackenzie
-|- **YLB lithium output:** ~2,000 tonnes in 2024 against 15,000-tonne nameplate
-- **Shield of the Americas:** Founding member as of March 7, 2026 (NYT)
-- **US critical minerals MOU:** Signed with Bolivia April 27, 2026 (Oakland Institute)
-- **Decree 5675 (Aug 2026):** Eliminated Ministry of Development Planning and Environment
-|- **YPFB intervention (Sep 1, 2026):** Supreme Decree 5697 — 180-day state takeover; intervention commission from 4 ministries; government intends to strip YPFB of fuel marketing role; half of state-imported fuel smuggled with YPFB employee complicity; Minister Blanco admits "regular measures failed"
-|- **Death toll update (Sep 2026):** Defensoría del Pueblo raises to 22 dead (19 bystanders, 3 during police/military ops), 88 injured (up from 17 previous)
-|- **Economic damage (Sep 2026):** Chamber of Industries reports $3B losses across 13,000+ businesses, 150K+ affected workers; ~250K jobs lost; government reports 14,000M BOB in direct revenue losses
-|- **OAS RedPolOEA (Sep 2026):** Unarmed, plainclothes civilian police advisory mission being designed with US funding initial phase; Bolivia formally requested deployment Sep 3 at OAS Permanent Council
-|- **IMF conditions revealed (Sep 11, 2026):** End ALL fuel subsidies by 2027 under $1.9B program; deal awaiting congressional ratification
-|- **Santa Cruz October 10 deadline (Sep 2026):** Asamblea de la Cruceñidad gives government until Oct 10 (Democracy Day) to act on fuel imports, tax cuts, regional revenue/authority devolution
-|- **State of exception extended (Sep 14, 2026):** Cabinet approves 90-day extension to mid-December; Paz weighs state of siege if blockades resume
-|- **Diesel reference price lowered:** Regulators cut to 16.50 BOB/liter in early Sep (from 18.00 BOB via Decree 5676)
-|- **Paz approval rating:** 65% (Nov 2025) → 32% (July 2026); disapproval at 55% (Ipsos Ciesmori)
-|- **IMF deal congressional approval (Sep 18, 2026):** Congress ratified $1.9B program — Senate approved day after lower house. Paz calls "historic step." Conditions: end ALL fuel subsidies by 2027, fiscal consolidation ~8.5% GDP 2026-2029, central bank provides no new net financing to non-financial public sector. Unlocks ~$5B additional from World Bank/IDB.
-|- **State of siege warning (Sep 15, 2026):** Presidential spokesman Gálvez warns state of siege possible if blockades return — stronger than existing state of exception. "We will use constitutional force, and we will use the military."
-|- **State of emergency extension (Sep 17, 2026):** Assembly approves 90-day extension (100-58 vote). Ministers Oviedo/Justiniano cite police/military reports of renewed mobilization risks. Opposition Corvera warns treats symptoms not causes.
-|- **Rubio-Paz UNGA meeting (Sep 21, 2026):** Rubio meets Paz at UNGA High-level Week in New York. US emphasizes Bolivia as "critically important regional partner," welcomes economic stabilization including IMF support and fuel/mining/energy reforms.
-|- **Paz bloc parliamentary arithmetic:** Largest bloc with 65/130 seats but no working majority; all three major blocs fractured internally
-|- **Morales Sep 13 radio:** Describes Paz government as "agoniza"; IMF deal as "imposition and blackmail"; warns subsidy removal could push >50% into poverty; attacks cabinet cohesion
-|- **Morales Oct protest roadmap:** Expanded assembly called for Sep 26 in Lauca Ñ to define protests from October onward
-|- **Sep 15 protests:** Education workers march in La Paz and other cities against state of emergency extension and IMF deal
-||- **Supreme Decree 5716 (Sep 19, 2026):** Ends remaining diesel subsidy; price rises 83% from Bs 9.80 to Bs 17.95/litre tied to import cost; $79M cash-transfer program for 2.9M Bolivians plus $73M in preferential loans at 6%; gasoline remains subsidized at Bs 6.96, phaseout by Jan 2027
-||- **Fuel queues persist (Oct 5, 2026):** 1,800+ vehicle plates blocked (24 confiscated); petrol smuggling shifts from diesel to petrol as regulated/market gap widens; YPFB increases deliveries but queues remain in La Paz, Tarija, Santa Cruz
-||- **Bolivia imports:** ~90% of diesel, ~55% of gasoline; spends ~$55M/week on subsidies (Reuters, Oct 2026)
-||- **Mariaca arrest (Oct 1, 2026):** Attorney General Roger Mariaca detained at Viru Viru Airport after US visa revoked for drug trafficking/corruption; Gov't Minister Oviedo: "dismantled criminal organization embedded in justice system"; four senior officials also detained; US visa-revocation policy targets Latin American officials
-||- **IMF Board approval (Oct 2, 2026):** $1.9B 36-month EFF approved; $214M disbursed immediately; first multi-year IMF arrangement since 2006; Moody's upgrades to Caa2; country risk falls to 485 bps; fiscal surplus in H1 2026
-||- **Hydrocarbon production crisis (Oct 2026):** Down 13.4% YoY; Cochabamba economy -4.15% contraction; worst economic crisis in 67 years per consulted economists (24EcoNews/El Deber)
-||- **Official BOB/USD (Oct 5, 2026):** 12.05; boliviano weakening continues
-||- **Morales third legal front (Oct 12, 2026):** Preliminary investigation opened by Acting AG Urioste for 2009 Las Americas hotel killings (murder, abuse, torture, unlawful detention) — third active legal front alongside human trafficking and armed insurrection/terrorism
-||- **Mariaca purge chain (Oct 13, 2026):** La Paz coordinating prosecutor Armando Rojas arrested; also investigating fiscal superior Martín Irusta, Santa Cruz fiscal Alberto Zeballos, police major Rubén Aparicio
-||- **Evista march postponement (Oct 13, 2026):** Morales-aligned groups postpone Oct 13 march to new start Oct 16 from Patacamaya, arriving La Paz Oct 19 — signals coordination difficulties
-||- **Santa Cruz Oct 10 deadline:** Passed without mass escalation; government offered partial fuel concessions; phased street pressure begins
-||- **Shield of the Americas test:** Fox News exclusive — Justiniano confirms preventive troop deployments nationwide
-- **ECLAC vs IMF forecast gap (Oct 22-23, 2026):** ECLAC sees +0.2% growth for 2026; IMF WEO sees -3.0% — 3.2pp divergence; IMF projects Bolivia as South America's ONLY economy shrinking through 2027
-- **External debt (Sep 30, 2026):** US$14.1B = 26.1% of GDP; IDB/CAF/World Bank hold 65.7% (Rio Times)
-- **US visa restrictions:** 40 Bolivians targeted (policy announced Sep 28); 15 named Oct 22 incl. ex-AG Juan Lanchipa Ponce, two deputies, judges
-- **Official BOB/USD:** 11.88 (Oct 24-26) — continuing slide from 12.05 (Oct 5)
-- **2025 inflation:** 20.40% (highest in 36 years, up from 2.12% in 2023); yoy inflation 5.70% Sept 2026 but rising again since July (4.93%) (WSWS)
-- **Arce detention:** Former president Luis Arce held in preventive detention since December 2025; judge refused release on health grounds (single-source, Yahoo/The Intercept Oct 2026)
-- **Chile-Bolivia reset (Oct 16, 2026):** First Chilean presidential visit in 71 years; normalization pledge (broken since 1978); economic integration + border security accords; sea-access claim absent from agenda
-- **El Niño emergency (Oct 31, 2026):** Nationwide state of emergency; 78,000+ families affected by drought; "super" El Niño with severe drought/flood impacts
-- **Nov 6 Patacamaya march:** Evista march to La Paz rescheduled to start Friday Nov 6 — third scheduling iteration; govt seized dynamite/ANFO in Quillacollo Oct 29 alleging Morales-linked violence planning
-- **Lithium status (Oct 2026):** CBC/Uranium One contracts (~$2B per CEDIB) still unratified; carbonate sales to China only $20.4M in 2025 (1.1%); China due to activate lithium-refining export controls Nov 10, 2026
-- **Brazil result (Oct 25, 2026):** Lula defeats Flávio Bolsonaro in runoff — rightward wave's biggest defeat; 13 of 17 subcontinent presidential elections since 2023 won by right
+- **Fuel:** Bolivia imports about 90% of its diesel and 55% of its gasoline. Fuel subsidies cost roughly $55 million a week. The diesel subsidy was ended by Supreme Decree 5716 on 19 September 2026, lifting the price 83% to Bs17.95 a litre; gasoline remained subsidised at Bs6.96 with a phase-out planned for 2027.
+- **Currency:** The 15-year peg of 6.96 bolivianos per dollar ended in June 2026. The rate moved to 9.73, then 11.93 by late August, 12.26 by September and 11.88 in late October. The parallel rate has traded wider.
+- **Inflation:** 2025 inflation was 20.4%, the highest in 36 years. June 2026 alone ran at 5.2%, and the annual rate is projected near 17% for 2026.
+- **Reserves:** Gross reserves fell from about $15 billion to $4.5 billion, of which $3.6 billion was gold. Liquid reserves fell as low as $73 million before recovering.
+- **Growth:** The central bank projected a 3.6% contraction for 2026 and the IMF projects -3.0%, making Bolivia the only South American economy expected to shrink through 2027. ECLAC's October estimate of +0.2% is a 3.2-point outlier.
+- **Gas and exports:** Gas production fell from 60.8 million cubic metres a day in 2014 to 28.6 million by mid-2025. Argentina stopped buying, and Wood Mackenzie projects Brazilian purchases ending by 2030 without new drilling.
+- **Social cost:** Poverty rose to 44.7% in 2025 and extreme poverty to 16.7%. About 52% of Bolivians face food insecurity, 53.7% of young children are anaemic, and informal labour accounts for 84% of the workforce.
 
-## Prediction History
-| Date | Probability | Δ | Key Driver |
-|------|-------------|---|------------|
-| 24-06-2026 | 65% | — | Baseline: Paz survives but emerges politically crippled |
-| 02-07-2026 | 65% | — | Dollar peg ended, devaluation, IMF advancing, state of emergency |
-| 02-08-2026 | 60% | −5pp | IMF $1.9B undershoots, diesel crisis, Morales warrant #2, judicial crisis |
-|| 28-08-2026 | 50% | −10pp | Coalition ruptures (only 6/15 ministers, Nat'l Unity breaks), Cerimedo scandal expands (money-laundering + drug trafficking), dollar falls to Bs11.93, GDP -3.6%, Decree 5676 revealed as IMF condition, Santa Cruz ag ultimatum |
-|| 16-09-2026 | 45% | −5pp | Paz approval collapses to 32%; education workers resume protests Sep 15; state of exception extended to mid-Dec but Santa Cruz Oct 10 deadline looms; rumors in corridors of power Paz may not survive October; Morales calls Sep 26 assembly for Oct protest roadmap; IMF conditions (end ALL fuel subsidies by 2027) await congressional ratification
-|| 23-09-2026 | 45% | 0pp | Congress approved $1.9B IMF deal Sep 18 (Senate ratified) — major legislative win for Paz; state of emergency extended 90 days (100-58) Sep 17; state of siege warning issued Sep 15 if blockades return; Rubio meets Paz at UNGA Sep 21 affirming US support; IMF conditions (end ALL fuel subsidies by 2027) guarantee continued social conflict; Santa Cruz Oct 10 deadline approaches; Morales Sep 26 assembly for Oct protest roadmap
-||| 26-09-2026 | 45% | ±2pp | Report #4 — prediction refined to single-claim: no structural reform through Congress, governs via military-backed decree. IMF congressional ratification netted even with guaranteed subsidy-conflict. Santa Cruz Oct 10 deadline, Morales Sep 26 protest roadmap, Cerimedo money-laundering/drug-trafficking probes widened. Confidence: Medium.
+## The IMF Programme
 
-## Common Dedup Pitfalls
-- **AP News, Al Jazeera, Reuters often cover the same events** — compare specific data points (death toll, arrest numbers, price figures) to determine if it's the same story or genuinely new reporting
-- **Morales statements** are reported by Reuters, AFP, and Latin Times with near-identical quotes — pick the most detailed version
-- **Human Rights Watch / Fair Observer / CSIS** provide analytical depth on the same crisis period — each has a distinct angle (judicial, economic, political), so all can be valid if they add unique frameworks
-- **Left Voice / WSWS** provide substantive data on repression and social conditions but with explicitly ideological framing — cross-reference specific figures against more neutral sources
-- **GIS Reports** provides a pro-government assessment — useful for tracking Paz's narrative but treat as advocacy, not neutral analysis
-- **Model Diplomat / Stratfor** cover lithium geopolitics — check if Bolivia-specific data is new or just regional context
-- **ACAPS/ReliefWeb** humanitarian assessments are high-quality for conflict data (event counts, displacement, humanitarian access) — prefer these over general news for protest intensity tracking
-- **Spanish-language sources** (La Derecha Diario, MercoPress) may contain granular data not found in English coverage — worth extracting if snippets show unique data points
-- **Social media (Instagram, Facebook)** for Morales/Paz official statements — snippets can be substantive even if full extraction fails
-- **Bolivia's lithium vs political crisis:** Sources about lithium contracts (CBC, Uranium One) are distinct from the political crisis but belong in the wiki when they intersect with governance (e.g., Paz's energy reform, China/Russia relations)
-|- **Rio Times "automated newsroom system":** Many Rio Times articles are AI-generated summaries of other wire reports and carry a disclaimer — treat as secondary curation, not original reporting; useful for aggregation but cross-check key claims against primary sources
-|- **BSS (Bangladesh Sangbad Sangstha):** A Bangladeshi state news agency syndicating AFP — the AFP core is high quality but the republishing/formatting may truncate or lose nuance; extract AFP content directly if possible
-|- **lacommunis.org:** Independent leftist analytical publication — provides deep framing analysis but treat as opinion/analysis, not breaking news; useful for narrative context and overlooked data points
-- **El Niño story syndication:** The Oct 31/Nov 1 El Niño emergency was carried nearly identically by Al Jazeera, DW, SANA, ABS-CBN and others — extract ONE (Al Jazeera or DW) and skip the rest
-- **Chile-Kast summit coverage:** AP, MercoPress, Buenos Aires Times, Bloomberg all covered the Oct 16 Kast-Paz summit — AP is the cleanest; MercoPress adds the sea-access constitutional quote; Bloomberg adds accords detail. Pick one + merge unique details
-- **COB/teachers strike overlap:** Latin Times (Oct 19, pre-strike build-up, Argollo quotes) and WSWS (Oct 26, strike outcome + inflation data) cover the same event from different angles — both can be valid if each carries facts the other lacks; skip generic re-syndications (television networks re-reporting the same strike)
-- **Rio Times guide pages paywall:** Rio Times "Explained/Guide" pages (power structure, foreign players, geopolitics) are partially paywalled but the free portion (FAQ schema JSON) contains hard data — extract once per run; they are reference aggregations (treat as curated secondary data, cross-check figures) rather than primary reporting
-- **Yahoo syndication of US left outlets:** Yahoo News carries The Intercept/Jacobin-style analysis (e.g., "Under Trump Pressure, Bolivia Arrests Its Own Attorney General") — high-value context (Arce detention, DEA intel) but explicitly anti-Paz framing; verify single-source claims (Arce detention since Dec 2025) against later reporting before treating as established fact
+- A $1.9 billion, 36-month Extended Fund Facility — Bolivia's first multi-year IMF arrangement since 2006 — was agreed at staff level on 29 July 2026, approved by Congress on 18 September and by the IMF Board on 2 October. It released $214 million immediately.
+- Conditions include ending all fuel subsidies by 2027, fiscal consolidation of about 8.5% of GDP over 2026–29, and no new net central bank financing of the public sector.
+- The programme is expected to unlock roughly $4–5 billion from the World Bank, IDB, CAF and other lenders. Moody's upgraded Bolivia to Caa2 and country risk fell to about 485 basis points.
+
+## The Morales Legal Front
+
+- Morales faces two active arrest warrants: aggravated human trafficking over a 2016 case, and armed insurrection and terrorism over the 2026 blockades. A third investigation, opened in October 2026, covers the 2009 Las Américas hotel raid.
+- He remains in the Chapare stronghold, describing the government as illegitimate and the IMF deal as "imposition and blackmail." He has warned that "if they don't want it with votes, it's with bullets," while also saying his movement chose the ballot over armed struggle.
+- His influence is real but diminished: he can convene cocalero and evista networks and set protest deadlines, but he cannot translate them into a national programme. The 2026 protest wave lacked the broad social coalition and constitutional project of the 2000–2005 cycle.
+
+## Protest and Security
+
+- The 2026 blockade wave ran 53 days, from early May to 23 June. Official figures record 22 deaths, 88 injuries, 583 arrests at the height of the crisis, 114 criminal cases, 335 people under investigation and 26 in pretrial detention.
+- A state of exception was declared on 20 June, extended for 90 days on 17 September and later extended to the end of the year, with the armed forces authorised to clear blockades.
+- The security response is closely tied to Washington: a $20 million train-and-equip agreement, the DEA's return, US-funded OAS police advisory planning (RedPolOEA), and the Shield of the Americas.
+- Protest capacity is fragmented. The COB and teachers' unions mobilise on wages and prices but refuse to align with the evista campaign, while Santa Cruz civic groups press regional demands on fuel and revenue.
+
+## Lithium and Foreign Alignment
+
+- Bolivia holds roughly 23 million tonnes of lithium reserves, about 20% of the global total, but produces less than 1% of world supply. YLB produced about 2,000 tonnes in 2024 against 15,000 tonnes of nameplate capacity.
+- Chinese (CBC/CATL) and Russian (Uranium One) direct-extraction contracts remain unratified. Paz has ordered reviews and offered Western investors a three-year profit-tax holiday and fast-tracked approvals; a US critical minerals memorandum was signed in April 2026.
+- China took 19.18% of Bolivia's exports and 24.03% of its imports in 2025, but lithium carbonate sales to China were only $20.4 million, 1.1% of the total. China's export controls on lithium-refining technology activate on 10 November 2026.
+- Supreme Decree 5675 abolished the Ministry of Development Planning and Environment, a signal of the government's extractive priority.
+
+## The Regional Context
+
+- The 2026 rightward wave brought Milei in Argentina, Kast in Chile, Fujimori in Peru and de la Espriella in Colombia. Lula's runoff victory over Flávio Bolsonaro in Brazil on 25 October halted its biggest prize and raised questions about the wave's durability.
+- Chile and Bolivia pledged to normalise relations during Kast's October 2026 visit, the first by a Chilean president in 71 years. Trade, mining, energy and border-security accords were signed; Bolivia's sea-access claim was kept off the agenda.
+- ALBA suspended Bolivia over Paz's alignment with Washington. Bolivia has been a member of the Shield of the Americas since March 2026.
+
+## Trackable Indicators
+
+| Indicator | What to watch | Source type |
+|-----------|---------------|-------------|
+| IMF programme | Review missions, disbursements, and whether the 2027 subsidy deadline holds | Official/IMF |
+| Fuel prices and subsidies | Petrol phase-out, diesel price revisions, import volumes | Official/industry |
+| Exchange rate | Official and parallel boliviano rates | Market/official |
+| Reserves and inflation | Central bank and INE monthly data | Official |
+| Morales legal cases | Warrant status, hearings, new investigations | Judicial/media |
+| Protest trajectory | COB, teachers, evista and Santa Cruz mobilisation dates | Media/field reports |
+| Paz coalition | Congressional votes, censures, cabinet departures, approval ratings | Media/polls |
+| Reform legislation | Energy, tax and investment bills in Congress | Official |
+| Lithium contracts | Ratification or cancellation of CBC and Uranium One deals; Western investment | Official/company |
+| US security cooperation | DEA presence, RedPolOEA deployment, Shield of the Americas activity | Official/US |
+| Chile normalisation | Follow-up to the October 2026 summit and planned 2027 visit | Official/diplomatic |
 
 ## High-Signal Source Types
-- **IMF press releases/staff statements:** Highest-quality economic data (inflation, fiscal targets, program conditions)
-- **Reuters exclusive interviews:** Morales and Paz direct quotes — primary source for political signaling
-- **Human Rights Watch:** Institutional analysis of judicial system, protest deaths, and repression patterns
-- **CSIS (Evan Ellis):** Best analytical framework for US-Bolivia-China triangulation
-- **ACAPS/ReliefWeb:** Best conflict-data assessment (event counts, de-escalation patterns)
-- **US official statements (State/Defense):** Key for tracking US commitment to Paz (Rubio, Hegseth)
-- **Bolivian official sources (gacetaoficial.gob.bo):** Decrees, state of emergency, legislative actions
-- **Verfassungsblog (Bettina Schorr):** Academic constitutional analysis — best source for "post-constituent era" framing and structural analysis of protest failure vs. 2000-2005 cycle
-- **MercoPress:** Spanish-language granular data on subnational protest dynamics, decree implementation, and government backtracking
-- **Americas Quarterly (Eduardo Gamarra):** Institutional governance analysis — tracks coalition durability, vice presidential tensions, and organized crime implications
 
-## Key Analysts/Commentators to Track
-- **Evan Ellis (CSIS):** Leading US analyst on China-Latin America; published on Bolivia's lithium crisis
-- **María Teresa Zegada (academic):** Deep analysis of MAS collapse and post-MAS fragmentation
-- **Alejandro Peña Esclusa (GIS Reports):** Pro-government analytical perspective
-- **Santiago Ospina Celis (New Lines):** Continental rightward shift analysis
-- **Bettina Schorr (Verfassungsblog):** Academic analysis of Bolivia's "post-constituent era" and protest exhaustion
-- **Eduardo A. Gamarra (Americas Quarterly):** Institutional governance analysis, coalition durability, organized crime nexus
-- **Evo Morales:** Primary source for opposition narrative (via interviews, social media)
-- **Rodrigo Paz:** Primary source for government narrative (via CNN interviews, press conferences)
-- **Marco Rubio / Pete Hegseth:** US official positions on Bolivia
+- **IMF press releases and staff statements:** the most reliable data on programme conditions, disbursements and macro projections.
+- **Reuters and AP:** primary reporting on congressional votes, cabinet changes and Morales/Paz statements.
+- **Bolivian official sources (gacetaoficial.gob.bo, INE, central bank):** decrees, inflation, reserves and debt data.
+- **Human Rights Watch and ACAPS:** judicial-system analysis and conflict-event data.
+- **Americas Quarterly and CSIS:** coalition durability, governance and US–Bolivia–China analysis.
+- **Rio Times:** fast aggregation of decrees and security incidents, but AI-assisted; cross-check against primary sources.
+- **El Deber, Los Tiempos and MercoPress:** granular local and subnational detail.
 
-## Active Strategic Debates (Late September 2026)
-1. **IMF deal adequacy:** $1.9B program approved by Congress Sep 18 (Senate ratified) — unlocks ~$5B in additional multilateral financing. Paz calls it "historic step." But conditions include end of ALL fuel subsidies by 2027 and fiscal consolidation of ~8.5% GDP, guaranteeing continued social conflict. Unions threaten renewed protests.
-2. **Coalition durability:** Only 6 of 15 original ministers remain; National Unity party broke with Paz over decree reliance; Veronica Rocha says balance of power is now "unfavorable to the government." Paz approval collapsed from 65% to 32% (Ipsos Ciesmori, July 2026).
-3. **Morales arrest impact:** Second warrant for armed insurrection/terrorism; Morales defies from Chapare, describes government as "agoniza" (Sep 13); calls expanded assembly for Sep 26 to define Oct protest roadmap.
-4. **Diesel/soybean crisis:** Fuel shortages threatening Bolivia's key export crop — Supreme Decree 5683 doubles YPFB ceiling to Bs2B but only covers ~10 days of fuel. Diesel reference price lowered to 16.50 BOB/L.
-5. **US commitment depth:** Rubio/Hegseth support strong; US bankrolling OAS RedPolOEA unarmed police mission initial technical phase. Is $20M security deal enough? Is DEA return sustainable?
-6. **Lithium window closing:** Nov 10, 2026 China export control activation — Bolivia's contracts still unratified.
-7. **Protest trajectory:** 200+ events in June → ~40 in July → education workers resume protests Sep 15; Santa Cruz October 10 deadline (Democracy Day); Morales planning Oct protest roadmap.
-8. **Energy reform viability:** Can Paz break YPFB monopoly and attract private investment amid political crisis? YPFB 180-day state intervention (Sep 1) sending conflicting signals.
-9. **Cerimedo shadow governance:** Scandal expands to money-laundering and drug trafficking; bot farm seized; Paz denies formal link; Beller alleges elite police unit under Cerimedo's command — investigations ongoing.
-10. **Boliviano freefall:** Boliviano at 12.26/USD (76% above old 6.96 peg); government reports negative economic growth.
-11. **GDP/inflation spiral:** Central bank projects -3.6% contraction and 17% inflation for 2026.
-12. **Cabinet hemorrhage:** Only 6 of 15 original ministers remain; scandals erode remaining credibility.
-13. **YPFB state intervention viability:** 180-day state takeover (Supreme Decree 5697). Can stripping YPFB of fuel marketing solve shortages, or signals deeper state capacity crisis?
-14. **OAS police mission / October deadlines:** Can RedPolOEA unarmed advisory mission prevent repeat of blockades? Two countdowns: state of exception extended to mid-Dec; Santa Cruz Oct 10 deadline for fuel/tax action.
-15. **Paz resignation risk:** Rumors in corridors of power Paz may last only until October; CSIS warned Paz could be forced to resign before end of 2026; approval at 32%.
+## Common Dedup Pitfalls
 
-## File Update Checklist (per source added)
-When ingesting a new source, update ALL of the following in a single session:
-1. ✅ `sources.md` — append numbered entry
-2. ✅ `timeline/bolivia-politics-timeline.md` — add event if date-relevant
-3. ✅ `entities/<entity>.md` — update if source mentions specific actor
-4. ✅ `concepts/<concept>.md` — update if source relates to a tracked concept
-5. ✅ `index.md` — increment source count, update date
-6. ✅ `log.md` — append session entry
+- AP, Reuters and Al Jazeera often cover the same event; compare death tolls, arrest figures and price data to identify genuinely new reporting.
+- Morales statements are syndicated near-verbatim by Reuters, AFP and Latin Times; keep the most detailed version.
+- The 31 October El Niño emergency was carried almost identically by Al Jazeera, DW and others; use one.
+- The Kast–Paz summit was covered by AP, MercoPress, Buenos Aires Times and Bloomberg; AP is cleanest, MercoPress adds the sea-access quote.
+- Rio Times is largely AI-assisted aggregation and should be treated as secondary curation.
+- Left Voice and WSWS carry useful data but explicit ideological framing; cross-check figures.
+- GIS Reports is a pro-government assessment, not neutral analysis.
+- Lithium coverage often repeats regional context; add only Bolivia-specific data.
+
+## Priority Sources
+
+A categorized list is maintained at `/root/wiki/bolivia-politics/priority-sources.md` when one exists. Each run should read it first, check regional specialists, official sources and think tanks, then use Tavily searches to catch anything missed.
