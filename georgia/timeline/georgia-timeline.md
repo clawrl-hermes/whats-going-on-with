@@ -1,215 +1,61 @@
 # Timeline: Georgia — Geopolitical Positioning
 
 ## 2008
-- **August:** Russia-Georgia war. Russia occupies and recognizes Abkhazia and South Ossetia (~20% of Georgian territory remains under Russian control).
+- Russia-Georgia war in August. Russia occupies and recognises Abkhazia and South Ossetia, about 20% of Georgian territory.
 
 ## 2022
-- **February:** Russia's full-scale invasion of Ukraine fundamentally reshapes Georgia's strategic calculus. Georgian Dream begins distancing from Western alignment, prioritizing regime survival and avoiding provocation of Russia.
-- **March:** Georgia applies for EU membership (alongside Ukraine and Moldova).
+- Russia's full-scale invasion of Ukraine reshapes Georgia's strategic calculus; Georgian Dream prioritises regime survival and avoids provoking Moscow.
+- Georgia applies for EU membership alongside Ukraine and Moldova.
 
 ## 2023
-- **December:** EU grants Georgia candidate status, but concerns about democratic backsliding (foreign agents law, media restrictions) begin mounting.
+- The EU grants Georgia candidate status amid mounting concerns over democratic backsliding.
 
 ## 2024
-- **May:** Georgia passes controversial "foreign agents law" requiring NGOs and media receiving >20% foreign funding to register as "foreign agents." Massive protests erupt in Tbilisi.
-- **October:** Georgian Dream wins disputed parliamentary elections. International observers raise concerns about fairness.
-- **November:** Georgia officially suspends EU accession talks, citing "toxic" relations with Brussels. PM Kobakhidze says membership path is "temporarily frozen" but not abandoned.
-- **December:** US suspends strategic partnership with Georgia over foreign agents law and democratic backsliding.
+- The foreign agents law passes and mass protests erupt in Tbilisi.
+- Georgian Dream wins disputed parliamentary elections in October.
+- Georgia suspends EU accession talks, and the US suspends its strategic partnership with Tbilisi.
 
 ## 2025
-- **January–October:** Sustained protest movement in Tbilisi (519+ days of continuous demonstrations by mid-2026). Protesters demand release of political prisoners, free elections, and European path.
-- **2025:** Armenia passes legislation mandating pursuit of EU membership, accelerating its westward pivot as Russia's security Guarantee fails.
-- **2025:** Armenia and Azerbaijan move toward unprecedented rapprochement, mediated in part by the US. Reshapes South Caucasus dynamics around Georgia.
+- Sustained Tbilisi protests continue past 500 days, demanding political prisoners' release and free elections.
+- Armenia passes an EU membership law and moves toward peace with Azerbaijan, reshaping the South Caucasus around Georgia.
 
 ## 2026
-- **March:** Secretary Rubio speaks by phone with PM Kobakhidze — first high-level US-Georgia contact since partnership suspension.
-- **April:** Trump Tower Tbilisi announced, signaling potential business-track engagement with Trump administration.
-- **May:** Deputy Assistant Secretary Sonata Coulter visits Tbilisi. Georgian Dream frames engagement as "clean slate" for US-Georgia strategic partnership. PM Kobakhidze visits Yerevan, meets Zelenskyy, discusses Middle Corridor.
-- **May:** US signs strategic agreements with Armenia (security, energy, technology, transport) almost simultaneously with Georgia outreach — raising questions about US prioritization.
-- **June 2:** Baku–Tbilisi–Kars railway officially reopened. Daily Tbilisi-Baku passenger service restored. Turkey and Georgia agree electricity barter arrangement.
-- **June:** Economy growing strongly (10.7% YoY in March, 9.1% Q1 average) driven by transit/logistics/ICT, but political isolation deepens.
-- **June (this report):** Georgia's trajectory is one of strategic drift — not a clean pivot to Russia, but a transactional, multi-directional foreign regime survival strategy that risks leaving it without a firm anchor in any camp.
-
-## 2026 (continued)
-
-### June 8
-- **US House passes HR 7668** — "Countering China's Control of the Caucasus Act" fast-tracked with bipartisan support (Wilson/Cohen). Mandates classified report on Russian/Chinese intelligence assets in Georgia within 180 days, and a 5-year US strategy toward Tbilisi. Cites Anaklia deep-water port (Chinese consortium selected over US company) as key concern. Bill moves to Senate.
-
-### June 9
-- **China-Georgia comprehensive strategic partnership** — Xi Jinping and President Kavelashvili announce upgraded bilateral relations on the 34th anniversary of diplomatic ties. Kobakhidze calls China "the only peaceful superpower," says US partnership was "only on paper" while China ties have "concrete substance." Reports 14 agreements signed since 2023, 6 more pending. Trade grew 45% YoY Jan-Apr 2026.
-
-### June 9-10
-- **Kobakhidze doubles down on China** — Despite US House bill, PM holds briefing praising China as "exemplary" partner. Thanks China for "unwavering support for sovereignty and territorial integrity" — despite China abstaining on UN resolution on Georgian IDPs from occupied territories days earlier. Chinese Embassy funds Obieqtivi TV channel for pro-PRC programming.
-
-### June 10
-- **Marco Rubio expresses concern** — Secretary of State tells House hearing the US has "serious concerns" about growing Chinese influence in Georgia, hopes to see "a change in Georgia's current trajectory." Kobakhidze responds: "Georgia is not a schoolboy who can be held back."
-
-### June 9-12
-- **Turkey-Armenia trade resumption** — Turkey and Armenia formally agree to restart direct trade after 33-year freeze. Bureaucratic preparations completed May 11. Reshapes South Caucasus economic geography.
-
-### June 9-12
-- **Rubio congratulates Pashinyan** — US Secretary of State reaffirms commitment to TRIPP after Armenian parliamentary elections (Civil Contract won 49.8%). Georgian FM Botchorishvili welcomes Armenia-Azerbaijan "positive momentum" after Istanbul trilateral with Turkey and Azerbaijan.
-
-### June 2026
-- **EU strategic analysis** — SCEEUS report documents EU's fading influence in the South Caucasus. EU slow to confront Georgia's authoritarian turn while deepening engagement with Armenia (visa liberalization, EUPM mission, €500M energy commitment). Region now characterized as "competitive multipolarity" with Turkey, China, and Gulf states all exerting growing influence. EU sidelined as US brokered Armenia-Azerbaijan peace (TRIPP).
-
-### June 13-18, 2026
-- **Iran influence revelations** — RFE/RL and Eurasia Review report on systematic Iranian expansion in Georgia: 13,000 Iranian companies registered (many phantom addresses), sanctions evasion on massive scale, religious/political influence growing. Hudson Institute report triggered Kobakhidze threats against its co-author. Iran emerges as a new friction point in US-Georgia relations.
-- **TRIPP finalized** — Armenia and US complete signing process for TRIPP agreement. Foreign Minister Mirzoyan confirms document fully finalized and ready for ratification.
-- **Pashinyan election victory** — Civil Contract wins 49.8% in Armenian parliamentary elections. Pro-Russian opposition could slow peace process. Reshapes Georgia's regional positioning as Armenia potentially aligns more closely with Western interests.
-- **Azerbaijan-Türkiye-Georgia trilateral** — 10th trilateral foreign ministers meeting in Istanbul. New regional connectivity logic linking China-Central Asia-Europe via the three countries. Turkey positioned as key gateway to Europe.
-- **Strategic debate in Washington** — National Interest analysis argues normalizing GD without behavioral change would be "strategic self-sabotage." GD's strategy is "reputational rehabilitation without behavioral change."
-- **China partnership questioned** — The Diplomat analysis argues China partnership is "louder signal, empty promise" — Anaklia port flagship hasn't left port, timing suggests reactive posturing.
-- **South Caucasus as great power arena** — Georgia Today analysis frames South Caucasus as "coldest arena of geopolitical competition" — Georgia's transit corridor value is both asset and vulnerability.
-
-### June 4, 2026
-- **US strategy in the South Caucasus** — SovaNews interview with diplomat Valeri Chechelashvili reveals US strategic vision: "3+2" concept (Armenia-Azerbaijan-Georgia + US + EU) or "3+3" (adding Turkey). Georgia described as "an important piece of the puzzle" but project incomplete without Tbilisi. US waiting for concrete Georgian actions (not rhetoric) to demonstrate reliability as partner. Litmus test for genuine reset: US diplomatic help withdrawing Venezuela and Syria's recognition of Abkhazia/Tskhinvali.
-
-### June 16, 2026
-- **Zurabishvili's warning from Washington** — Former President Salome Zurabishvili (in Washington interview) warns West risks "giving away" Georgia to Moscow through inattention as protests mark 560+ days. Describes Georgia increasingly a "gray zone" — 100+ weekly flights to Russia, Russian shadow fleet vessels in Georgian ports, unregulated cryptocurrency, foreign nationals obtaining Georgian documentation. GD's foreign policy shaped by "what Russia would tolerate." Warns GD confidence eroding alongside Russia's wartime image; snap elections possible. Civil society remains defiant but opposition needs "a united national front." Received Freedom House 2026 Mark Palmer Prize for civil society solidarity.
-
-### May 27, 2026
-- **EU norms as political weapons** — PRIF analysis documents how GD captured and weaponized EU language ("transparency," "accountability") to pass repressive media laws. Civil society "practically dead" (per Prof. Stephen Jones). April 2025 Foreign Agents Registration Act introduced criminal penalties (up to 5 years prison). Broadcasting Law banned all foreign funding for broadcasters. Georgia fell 37 places in RSF Press Freedom Index in 2 years. EU's formal conditionality pushed to its limits by domestic political context.
-
-### June 24, 2026
-- **Polling data reveals governor-governed divide** — EU NEIGHBOURS East Programme 2026 survey: 71% of Georgians support EU membership (41% strong, 30% somewhat), only 11% oppose. Trust collapses across institutions: political parties 21% trust/70% distrust; government 41%/54%; judicial/electoral ~60% distrust. 56% say restrictive civil society/media laws harm EU prospects (up from 50% in 2025). Foreign policy: Russia 12% trust/79% distrust; China 26% trust/60% distrust — yet GD is racing to deepen China ties despite public wariness. Same article, US House Armed Services Committee approved two Georgia-related NDAA amendments: one on political prisoners in Georgia, one on Russian/Chinese intelligence operations there.
-- **Shadow fleet vessel incident** — UK Embassy confirms a Russian "shadow fleet" vessel (newly added to UK sanctions list) docked at a Georgian port earlier in 2026. Georgian Maritime Transport Agency said vessel called at Kulevi Port in February 2026 and "was not subject to sanctions" at the time. Kulevi has long been a sanctions flashpoint; Georgia previously promised not to help Russia evade sanctions. Suggests GD may not be upholding commitments.
-
-### June 5, 2026
-- **New hate speech department** — Georgian Dream creates new Interior Ministry department to combat "hate speech." Critics (Georgian Young Lawyers' Association) argue it will monitor social media and automatically prosecute government critics, functioning as a censorship mechanism. Follows warnings that Georgia has experienced "one of the most rapid deteriorations of press freedom ever seen in an EU candidate country." US State Department delegation visit (May 24-29) concludes with statement that Washington needs "a stable domestic political climate that facilitates opposition engagement."
-
-### June 11, 2026
-- **Georgian wine as geopolitical leverage** — Forbes analysis documents Russia's use of wine exports as economic coercion tool: Russia buys 60-65% of Georgia's wine exports; new excise taxes caused 15.8% export drop in Jan-Aug 2025 (Russia-bound shipments down 24%). Historical pattern repeats 2006 embargo (50% export loss). European-owned producers threatened with Russian "bad lists." US market growing slowly (15.5% CAGR) but unable to absorb Russian share shortfall.
-
-### June 19, 2026
-- **Kobakhidze visits Tajikistan** — First-ever official visit of a Georgian PM to Tajikistan. Signed 11 bilateral documents including Joint Intergovernmental Commission on Economic Cooperation. Followed earlier June visit to Kyrgyzstan. Part of Georgia's Central Asia diplomatic pivot: Tbilisi repositioning as bridge between Central Asia, South Caucasus, Turkey, and Europe via the Middle Corridor. Seeks to link China-Kyrgyzstan-Uzbekistan railway with Black Sea routes. Signals GD widening diplomatic room for maneuver beyond Western partners.
-
-### July 6, 2026
-- **China exits Anaklia port** — Georgian government confirms China's CCCC and China Harbour Investment formally withdrawn from Anaklia Deep Sea Port project. Announces "landlord" model: state retains ownership of core infrastructure while seeking multiple limited partners. 2029 target for first phase. Confirms GD's strategy of avoiding Western investment while courting Middle Corridor partners.
-
-### July 21, 2026
-- **Georgia's Asian pivot documented** — JAMnews comprehensive analysis of Kobakhidze's outreach to all five Central Asian states. Strategic partnerships with Kazakhstan and Uzbekistan. First visits to Kyrgyzstan and Tajikistan. Economic data shows exports dominated by vehicle re-exports (95.5% to Kyrgyzstan). Experts warn Central Asia cannot substitute for Western ties.
-
-### July 22, 2026
-- **South Ossetia annexation analysis** — GEOpolitics publishes deep analysis following Gagloev's resignation (June 23) and appointment as Putin adviser. Traces Russian "parachutists" in de facto government since 2004. Documents 2026 Treaty on Deepening Allied Interaction and MRB Bank's role in Donbas and North Korea sanctions evasion. Argues formal annexation possible as political compensation for Ukraine difficulties.
-
-### July 27, 2026
-- **ISPI Middle Corridor paradox** — ISPI analysis documents diverging EU-Georgia Middle Corridor perceptions. Economy Minister invited China/Central Asia/Azerbaijan — not Europe — for Anaklia. TRIPP expected to reduce travel times 25% vs Baku-Tbilisi-Kars.
-
-### July 29, 2026
-- **Kelly/Kramer one-party state warning** — Former US Ambassador Ian Kelly and Bush Institute's David Kramer warn GD creating one-party regime. Proposed legislation to ban opposition parties. Eight opposition leaders face sabotage charges (up to 15 years), verdict fall 2026. No Senate-confirmed US ambassador in Tbilisi.
-
-### August 2, 2026
-- **Fourth watch report published** — Probability unchanged at 75%. China's Anaklia exit weakens one pillar of prediction but South Ossetia integration, Central Asia pivot, and domestic repression reinforce drift thesis.
-
-### August 17, 2026
-- **Gharibashvili accuses Ivanishvili of blackmail** — Jailed former PM Irakli Gharibashvili publishes letter from prison accusing Ivanishvili of pressuring him to confess to new corruption charges and permanently withdraw from politics. First former close ally of Ivanishvili to publicly speak out. Reveals deepening internal power struggle within GD. Government silent; Kobakhidze claims matter is for law enforcement.
-
-### August 17, 2026
-- **Georgia refuses EU sanctions on Iran** — Georgia does not join EU partner countries in backing updated sanctions against Iran. Other candidate countries (Albania, Moldova, Ukraine, Bosnia, Montenegro, North Macedonia) all join. GD MP says decisions based solely on national interest. CFSP alignment at 40%.
-
-### August 18, 2026
-- **White House names Georgia in tariff circumvention** — Trump admin report "The Great Transshipment Scam" names Georgia in third category of countries used by China to circumvent US tariffs. $1.98B Chinese imports vs $120M Georgian exports to US.
-- **Georgian fuel deliveries to Abkhazia** — GD delivers 680 tonnes of petrol amid shortages caused by Ukrainian attacks on Russian refineries. Kobakhidze frames as trust-building with Abkhaz population.
-- **Georgia absent from 2026 NATO Summit** — Forbes reports Georgia excluded from Ankara Summit for second consecutive year. Former Defense Minister Khidasheli says NATO-Georgia relations "effectively frozen." Former Ambassador Dolidze says Georgia's status "called into question." Military cooperation with NATO continues.
-
-### August 19, 2026
-- **Record Upper Lars border traffic** — Russia's FCS reports 20,000+ daily crossings at Georgia-Russia border, setting new record. Georgia disputes figure (16,286 in both directions). Came amid renewed speculation about Russian mobilization.
-
-### August 20, 2026
-- **Georgia cuts Harvard Georgian Studies funding** — GD government cuts $2.4M funding for the only dedicated Georgia program at a US university (Harvard Davis Centre). Director Stephen Jones, a GD critic, allegedly considered "not a GD propagandist." Symbolic of GD's anti-Western academic stance.
-
-### August 24, 2026
-- **Kobakhidze revives Treaty of Georgievsk debate** — PM invokes 1783 treaty calling it a "civilisational choice" that ensured Georgia's survival. Russian state media RIA Novosti instrumentalizes remarks, headlining "Occupation is off." GD experts cited arguing revision justifies current multi-vector policy.
-- **Terabank sale announced** — Armenian Arins Group (Karen Safaryan) acquires Georgia's Terabank and Biltmore hotel. Unsubstantiated claims of Russian link via A7/Ilan Shor. NBG approval pending.
-
-### August 26, 2026
-- **Medvedev frames 2008 recognition as "Geopolitical Justice"** — On 18th anniversary, Medvedev calls Russia's recognition of Abkhazia and South Ossetia an act of "geopolitical justice," directly comparing Saakashvili to Zelenskyy.
-
-### August 27, 2026
-- **Mdinaradze resigns; analyst calls it "prelude to Kobakhidze's downfall"** — Regional Development Minister Mamuka Mdinaradze leaves politics. Analyst Gia Khukhashvili says it leaves Kobakhidze "like a child left home alone" — only loyalist removed, Ivanishvili positioning him as scapegoat.
-
-### September 1, 2026
-- **Pashinyan-Putin clash at Bishkek SCO summit** — Putin argues Armenia's EU accession law means leaving EAEU; offers to remove Gyumri military base. Pashinyan rejects referendum, says "question not yet ripe." Growing Armenia-West pivot reshapes Georgia's regional context.
-
-### September 2, 2026
-- **Second dredging vessel reaches Anaklia** — Belgian Jan De Nul's al-Idrisi arrives, joining Tristao Da Cunha; combined 70,000 m³/day capacity. Breakwater base section completed, dredging begun in entrance channels. State-led landlord model proceeding after China's exit.
-
-### September 10, 2026
-- **Kobakhidze at Paris Space Summit** — PM attends International Space Summit at Macron's invitation; Georgia joins declarations on space safety, Copernicus, and space science data. Continuing European engagement at working level despite frozen political relations.
-
-### September 11, 2026
-- **Baramidze detained on treason charges** — UNM leader and former defense minister Giorgi Baramidze detained over remarks about prisoner exchanges during 1992-1993 Abkhaz war. Treason provision restored by GD in 2025. Faces up to 4 years.
-
-### September 11, 2026
-- **EPRC warns on Wildberries expansion** — Economic Policy Research Center report warns Russian online marketplace Wildberries expansion in Georgia poses sanctions evasion risks. At least 8 warehouses destroyed by Ukrainian strikes; Wildberries Bank under sanctions.
-
-### September 13, 2026
-- **Papuashvili calls EU policy "dead end"** — Parliament Speaker rejects EU criticism over human rights record, says Brussels must change approach and reduce "aggressive rhetoric."
-
-### September 14, 2026
-- **Quincy Institute launches in-between states initiative** — New policy paradigm for US approach to Georgia and other post-Soviet states. Proposes taking NATO enlargement off the table.
-- **Tskhinvali not ready for transit route** — De facto leader Kambolov says South Ossetia not prepared for transit traffic with Georgia, citing security concerns.
-
-### September 15, 2026
-- **Trump Tower Tbilisi unveiled** — 62-story, $2B Trump Tower project presented at Mtatsminda Park. Eric Trump addresses by video. PM Kobakhidze says completion 2031, whole complex 2033.
-- **GD now wants all opposition parties banned** — GD adds For Georgia (Gakharia) to constitutional court lawsuit seeking to ban all four major opposition parties — the only opposition group in parliament.
-- **Zakharova calls Russia and Georgia "allies"** — Russian Foreign Ministry spokeswoman devotes briefing to Georgia, invokes Treaty of Georgievsk, calls Russia and Georgia allies in "traditional values" fight against the West.
-- **EU to urge Syria on Abkhazia recognition** — Von der Leyen confirms EU will press Syria to withdraw recognition of Georgia's occupied territories.
-|- **Eurasia Review: South Caucasus new order** — Analysis finds no South Caucasus state choosing single patron; Georgia navigating from position of declining Western leverage.
-
-### September 17, 2026
-|- **US court orders Georgia to pay $350M over Namakhvani HPP** — US federal judge Amit Mehta enforces ICC arbitration award. Georgia must pay Turkish ENKA Renewables ~$400M total for the abandoned "dam of death" hydropower project. Interest compounds monthly.
-
-### September 18, 2026
-||- **Kambolov wins South Ossetia snap election with 85%** — Former Russian career bureaucrat Marat Kambolov wins presidential election in occupied region. Installed in May 2026 after Gagloev resignation. Putin congratulates; EU's Kaja Kallas condemns as step toward "future illegal annexation." 66 observers from 15 countries monitor the vote.
-||- **Georgia government closes state agency managing grants** — New development reflecting GD's consolidation of control over civil society funding.
-
-### September 19, 2026
-||- **Kobakhidze at Paris Space Summit** — PM attends International Space Summit at Macron's invitation; Georgia joins three declarations on space safety, Copernicus, and space science data. Demonstrates working-level European engagement despite frozen political relations.
-
-### September 22, 2026
-||- **Jamestown: GD rewriting history in Russia's favor** — Analysis documents a Georgian battalion ("Georgievsk") fighting for Russia in Ukraine, invoking the 1783 Treaty of Georgievsk. Kobakhidze praised the treaty as having "saved Georgia," reversing traditional Georgian historical narrative.
-
-### September 23, 2026
-||- **Hungary expels 10 Russian diplomats under Magyar** — New Hungarian government shifts decisively west. Unblocks EU Ukraine support, drops Russia sanctions vetoes. Confirms GD's principal EU patron (Orbán's Fidesz) is gone.
-
-### September 24, 2026
-||- **Iran envoy warns Georgia over airline sanctions compliance** — Iranian Ambassador Moujani responds to Georgia's compliance with US sanctions on Iranian airlines. Publishes map showing only half of Georgia; says Georgia "is not the only destination" for Iranians. EPRC reports 510% increase in Iranian companies since 2012.
-
-### September 26, 2026
-|- **Fifth watch report published** — Probability revised from 75% to 78% based on three September accelerants: Hungary's westward shift removing GD's EU patron, the all-opposition ban lawsuit crossing the one-party threshold, South Ossetia absorption formalized via Kambolov's 85% election. New prediction targets "organized isolation" — single-party state, no external patron, Russian-aligned governance across both occupied territories.
-
-### September 28, 2026
-|- **Kobakhidze speaks with Trump, Rubio at UNGA** — First reported direct interaction since Trump's return to office. Kobakhidze describes exchanges as positive, reiterates desire to restore US-Georgia strategic partnership. No official account or photo of Trump exchange made public.
-|- **Kurmukh Church dispute with Azerbaijan** — Georgian Patriarchate objects to construction works at disputed church in Azerbaijan's Qakh region. Azerbaijan FM responds sharply, accusing Tbilisi of territorial claims. Kobakhidze downplays, says government-level relations unaffected.
-
-### September 30, 2026
-|- **Iran ambassador summoned over Queen Ketevan remarks** — Amb. Moujani calls for "reassessment" of 17th-century queen's martyrdom by Safavid Iran. Georgian MFA summons him; Deputy FM warns statements harm public sentiment. GD MPs and Church criticize. Adds new friction to Iran-Georgia relations already strained by US sanctions compliance.
-
-### October 1, 2026
-|- **German foundations close in Georgia** — Konrad Adenauer, Friedrich Naumann, Heinrich Böll, Friedrich Ebert foundations close Tbilisi offices after GD's Grants Law rejected funding applications (July 28). German Ambassador confirms forced closures. ALDE demands EU action. Practical consequence of GD's civil society crackdown.
-
-### October 1, 2026
-|- **"Putin's Path" transit project unveiled** — Pro-Kremlin research institutions present rail/road transit linking Russia-Georgia-Armenia via Abkhazia at Sep 28 Moscow conference. Lobbied by Armenian experts framing it as "unblocking" the region. Georgian analysts note legal impossibility under Law on Occupied Territories. Demonstrates Russian long-term connectivity ambitions despite practical obstacles.
-
-### October 2, 2026
-|- **13th Azerbaijan-Turkey-Georgia Defense Ministers meeting in Shusha** — Defense ministers Hasanov, Güler, Chikovani sign joint protocol. Güler: "security of the Caucasus cannot be considered separately from Türkiye, Azerbaijan, and Georgia." Exercises Eternity and Caucasus Eagle discussed. Institutionalized trilateral defense format continues despite Georgia's political drift.
-
-### October 5, 2026
-|- **JAMnews publishes comprehensive analysis of opposition ban lawsuit** — GD's Sep 24 Constitutional Court lawsuit targets 5 parties representing 784,820 voters (37.79% of participants). Court decision due by June 24, 2027. Traces planning back to Ivanishvili's 2024 election campaign promise.
-
-### October 7, 2026
-|- **Kobakhidze promotes China economic ties** — PM announces exports to China +177% Jan-Aug; China #1 FDI ($236M) overtaking UK; 14 weekly flights; free trade talks with South Korea, Serbia, GCC. GD continues deepening China ties while diversifying trade partners.
-||- **Jamestown: Church dispute analysis** — Beka Chedia analyzes Kurmukh Church dispute, warns Baku's assertiveness since Nagorno-Karabakh victory could advance historical territorial claims given undelimited Georgia-Azerbaijan border.
-|
-|### October 9-13, 2026
-|- **Russia bans imports from 7 Georgian companies** — Rospotrebnadzor suspends imports from Teliani Valley, Tbilvino, Askaneli Brothers, Wineman, Georgian Beer Company, Coca-Cola Georgia, Nabeglavi. Moscow simultaneously demands Tbilisi guarantee non-use-of-force against Abkhazia/South Ossetia and agree to border demarcation. Experts link ban to GD's failure to meet Kremlin commitments, including possible rail link restoration through Abkhazia. Kobakhidze says government \"working on the issue,\" expresses hope Russia reverses decision. Directly undermines GD's claim that maintaining Russia ties protects Georgia's interests. (Source 109)
-|
-|### October 12-13, 2026
-|- **Vietnam's Vice President Võ Thị Ánh Xuân visits Tbilisi** — Meets Kobakhidze, Kavelashvili, Papuashvili. MoU on foreign ministry cooperation signed. Vietnam offers to serve as \"bridge between Georgia and Southeast Asia.\" Georgia opening embassy in Vietnam in 2027. Expands GD's Asian pivot beyond China. (Source 115)
-|
-|### October 13, 2026
-|- **Constitutional Court judge Manana Kobakhidze resigns** — GD founder, former MP quits after recusal request denied in party-ban lawsuit. GD now lacks 90 votes needed to replace her; 2 of 9 seats vacant. Third judge to depart since party ban lawsuit filed. (Source 110)
-|- **Venice Commission releases 24-page opinion on Georgia's March 2026 foreign funding restrictions** — Rejects GD's sovereignty-protection claim; finds amendments \"impose disproportionate and unnecessary restrictions on fundamental rights\" and undermine democratic pluralism. Criticizes lack of legislative deliberation. (Source 111)
-|- **Civil.ge publishes comprehensive analysis of GD's foreign policy alignment** — Authors Sirbiladze, Bezhanishvili & Danelia (TSU) identify three patterns: Westlessness, Russia security bandwagoning, transactional multi-alignment. Warns partisan foreign policy erodes Georgia's strategic autonomy. (Source 112)
+- **March:**
+  - Secretary Rubio speaks with Kobakhidze, the first high-level US contact since the partnership suspension.
+- **April:**
+  - Trump Tower Tbilisi is announced, signalling a business-track opening to the Trump administration.
+- **May:**
+  - US State Department delegations visit Tbilisi to discuss a "reset" and a concrete roadmap.
+  - The US signs strategic agreements with Armenia, raising questions about its priorities in the region.
+- **June:**
+  - The Baku-Tbilisi-Kars railway reopens on 2 June, restoring daily passenger service.
+  - The US House passes HR 7668, the Countering China's Control of the Caucasus Act.
+  - Georgia and China upgrade to a comprehensive strategic partnership on 9 June.
+  - Turkey and Armenia agree to resume direct trade after a 33-year freeze.
+  - RFE/RL and Eurasia Review document roughly 13,000 Iranian-linked companies and extensive sanctions evasion.
+- **July:**
+  - China exits the Anaklia deep-sea port project on 6 July; Georgia adopts a state-led "landlord" model.
+  - Kobakhidze completes official visits to all five Central Asian states.
+  - Analysts warn South Ossetia is being absorbed into Russian structures after Gagloev's resignation.
+- **August:**
+  - Jailed former PM Gharibashvili accuses Ivanishvili of blackmail, exposing an internal power struggle.
+  - Georgia refuses to join EU sanctions on Iran.
+  - The White House names Georgia in China's tariff-circumvention network.
+  - Georgia is absent from the NATO summit for a second consecutive year.
+  - The government cuts funding for Harvard's Georgian Studies programme.
+- **September:**
+  - The $2 billion Trump Tower Tbilisi is unveiled.
+  - Georgian Dream moves to ban all major opposition parties through the Constitutional Court.
+  - Marat Kambolov, a former Russian official, wins South Ossetia's election with 85%.
+  - A US court orders Georgia to pay $350 million over the abandoned Namakhvani hydropower project.
+  - Hungary shifts west under Péter Magyar, removing Georgian Dream's key EU patron.
+- **October:**
+  - All four German political foundations close their Tbilisi offices after the grants law.
+  - The 13th Azerbaijan-Turkey-Georgia defence ministers meeting is held in Shusha.
+  - Russia bans imports from seven Georgian companies and demands non-use-of-force guarantees.
+  - A Constitutional Court judge resigns amid the opposition-ban case.
+  - The Venice Commission criticises Georgia's foreign-funding restrictions.
+  - Freedom House drops Georgia's internet freedom status from "Free".
+- **November:**
+  - The European Commission's enlargement report says Georgia's accession is "de facto halted".
+  - Georgian Dream officials mark Diplomacy Day with a "sovereign, pragmatic" and "multipolar" doctrine.

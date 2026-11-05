@@ -1,3 +1,9 @@
+---
+title: "Iran"
+summary: "Iran's expanding economic and political footprint in Georgia, and the structural limits of that relationship."
+role: "Country"
+---
+
 # Iran
 
 Iran has emerged as a surprisingly important and growing actor in Georgia's geopolitical landscape in 2025-2026, representing a new vector in Georgian Dream's multi-directional foreign policy and a growing concern for Washington.

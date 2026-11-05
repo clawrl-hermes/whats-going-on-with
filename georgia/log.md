@@ -1,383 +1,106 @@
-# Log: Georgia — Geopolitical Positioning
+# Wiki Ingest Log
 
-## 2026-06-03 - Topic Created | georgia
-- Topic created: "Georgia — Geopolitical Positioning"
-- 10 sources added from initial research (CEPA, SpecialEurasia, BIG Europe, Caliber.az, SovaNews, Atlas Institute, Caspian Post, CISES, Caucasus Liveuamap, BMG)
-- 4 entity pages created: Georgian Dream, Russia, United States, European Union
-- 2 concept pages created: Middle Corridor, Regime Survival Doctrine
-- Timeline created with 17 events (2008–2026)
-- First watch report generated: "Georgia will continue strategic drift until forced to choose" (75% probability, target December 2027)
-- PDF generated successfully
-- Weekly source monitor cron job created (ID: 103d0a3116e5, next run June 11)
-- Monthly watch report cron job created (ID: 2e9a628d3621, next run July 1)
+## 2026-06-03 - Wiki Initialized
+- Created topic structure with 4 entity pages, 2 concept pages and a timeline
+- Ingested 10 sources during initial research
+- Created the weekly source monitor cron job
 
-## 2026-06-11 - Ingest | sovanews: pivot to china — us concerned over prc influence in georgia
-- US House passed bipartisan "Countering Chinese Influence in the Caucasus Act" (HR 7668)
-- Kobakhidze responded by signing comprehensive strategic partnership with China, calling it "exemplary"
-- Trade with China grew 45% YoY Jan-Apr 2026; China now Georgia's 3rd largest trading partner
-- Chinese Embassy funding Obieqtivi TV for pro-PRC programming
-- China abstained on UN resolution on Georgian IDPs despite Kobakhidze claiming Chinese support for territorial integrity
+## 2026-06-11 - Weekly Source Update
+- New sources ingested: 7
+- Updated sources.md (10 → 17), index.md source count (10 → 17)
+- Updated timeline, Georgian Dream entity and regime-survival concept
 
-## 2026-06-11 - Ingest | rfe/rl: us house passes georgia bill targeting russian, chinese influence
-- HR 7668 fast-tracked with bipartisan support, mandates intelligence assessment and 5-year US-Georgia strategy
-- Anaklia deep-water port (Chinese consortium over US company) cited as key national security concern
-- Linked to MEGOBARI Act; Kobakhidze called sponsor Wilson "absolutely frivolous"
-- Bill moves to Senate
+## 2026-06-18 - Weekly Source Update
+- New sources ingested: 8
+- Updated sources.md (17 → 25), index.md source count (17 → 25)
+- Updated timeline, Iran entity and US entity
 
-## 2026-06-11 - Ingest | sceeus: fading power? the eu's strategic dilemmas in the south caucasus
-- Comprehensive analysis of EU's structural weaknesses in the region
-- EU slow to confront Georgia's authoritarian turn while deepening Armenia engagement
-- EU sidelined as US brokered Armenia-Azerbaijan peace (TRIPP)
-- Region now "competitive multipolarity" with Turkey, China, Gulf states all exerting influence
+## 2026-06-25 - Weekly Source Update
+- New sources ingested: 4
+- Updated sources.md (25 → 29), index.md source count (25 → 29)
+- Updated timeline and EU entity
 
-## 2026-06-11 - Ingest | civil.ge: kobakhidze praises strategic partnership with china as 'exemplary'
-- PM called China "the only peaceful superpower"
-- Claimed 13 agreements signed since 2023, 6 more pending
-- Thanked China for sovereignty/territorial integrity support despite UN abstention contradiction
+## 2026-07-02 - Weekly Source Update
+- New sources ingested: 3
+- Updated sources.md (29 → 32), index.md source count (29 → 32)
+- Updated timeline and Georgian Dream entity
 
-## 2026-06-11 - Ingest | oc media: kobakhidze meets with us state department delegation, again
-- Second US State Department visit to Tbilisi in May 2026
-- Focused on "resetting relations" and establishing "concrete roadmap"
-- Met with GD, opposition, business, and religious leaders
+## 2026-07-09 - Weekly Source Update
+- New sources ingested: 5
+- Updated sources.md (32 → 37), index.md source count (32 → 37)
+- Updated timeline and Iran entity
 
-## 2026-06-11 - Ingest | jamnews: news in georgia, azerbaijan, armenia 9 12 june 2026
-- Rubio congratulated Pashinyan on election victory, reaffirmed TRIPP commitment
-- Georgian FM welcomed Armenia-Azerbaijan "positive momentum" after Istanbul trilateral
-- Georgia's regional positioning complicated by US-Armenia strategic agreements
+## 2026-07-16 - Weekly Source Update
+- New sources ingested: 5
+- Updated sources.md (37 → 42), index.md source count (37 → 42)
+- Updated timeline and Middle Corridor concept with the Anaklia exit
 
-## 2026-06-11 - Ingest | euractiv: turkey and armenia to restart direct trade
-- Turkey-Armenia direct trade resumes after 33-year freeze
-- Bureaucratic preparations completed May 11
-- Could reduce Georgia's transit monopoly and alter regional power dynamics
+## 2026-07-23 - Weekly Source Update
+- New sources ingested: 2
+- Updated sources.md (42 → 44), index.md source count (42 → 44)
+- Updated timeline with South Ossetia and diaspora reporting
 
-## 2026-06-18 - Ingest | rfe/rl: georgia's iran embrace is costing it washington
-- Systematic expansion of Iranian political, religious, economic influence in Georgia
-- Nearly 13,000 Iranian companies registered (many to phantom addresses)
-- Hudson Institute report triggered Kobakhidze threats against its co-author
-- Iran using Georgia for sanctions evasion; threatens US national security interests
+## 2026-07-30 - Weekly Source Update
+- New sources ingested: 4
+- Updated sources.md (44 → 48), index.md source count (44 → 48)
+- Updated timeline and regime-survival concept
 
-## 2026-06-18 - Ingest | eurasia review: georgia's iranian turn
-- Georgia's pivot toward Iran visible at highest government levels
-- Deputy Foreign Minister signaled solidarity with Tehran in 2025
-- Iranian companies using Georgia for sanctions evasion at scale
+## 2026-08-06 - Weekly Source Update
+- New sources ingested: 4
+- Updated sources.md (48 → 52), index.md source count (48 → 52)
+- Updated timeline, US entity and Georgian Dream entity
 
-## 2026-06-18 - Ingest | the diplomat: china partnership — louder signal, empty promise
-- Argues comprehensive strategic partnership reflects GD's anxieties more than genuine ties
-- Anaklia deep-water port flagship "has yet to leave port"
-- China not yet significant driver of Georgia's tourism economy
-- Timing suggests reactive posturing after US House bill on Chinese influence
+## 2026-08-13 - Weekly Source Update
+- New sources ingested: 5
+- Updated sources.md (52 → 57), index.md source count (52 → 57)
+- Updated timeline and Russia entity
 
-## 2026-06-18 - Ingest | the national interest: why georgia's rulers are not america's friends
-- Normalizing GD without behavioral change would be "strategic self-sabotage"
-- GD's entire strategy is "reputational rehabilitation without behavioral change"
-- Trump administration should not re-engage if Tbilisi deepens ties with Russia, China, Iran
+## 2026-08-20 - Weekly Source Update
+- New sources ingested: 6
+- Updated sources.md (57 → 63), index.md source count (57 → 63)
+- Updated timeline, Russia and US entities
 
-## 2026-06-18 - Ingest | carnegie endowment: pashinyan's parliamentary victory
-- Civil Contract won 49.8% in Armenian parliamentary elections
-- Pro-Russian opposition could slow peace with Azerbaijan and EU rapprochement
-- Reshapes Georgia's regional positioning as Armenia aligns more closely with West
+## 2026-08-27 - Weekly Source Update
+- New sources ingested: 5
+- Updated sources.md (63 → 68), index.md source count (63 → 68)
+- Updated timeline and US entity
 
-## 2026-06-18 - Ingest | caspian post: azerbaijan türkiye georgia trilateral
-- 10th trilateral foreign ministers meeting in Istanbul
-- New regional logic: China-Central Asia-Europe via Azerbaijan, Georgia, Turkey
-- Turkey positioned as key gateway to Europe and Mediterranean
-
-## 2026-06-18 - Ingest | jamnews: tripp finalized, armenia eu market diversification
-- Armenia-US completed TRIPP signing process, ready for ratification
-- EU working on mechanisms to help Armenian businesses amid Russian restrictions
-
-## 2026-06-18 - Ingest | georgia today: battle for eurasian connectivity
-- South Caucasus as "coldest arena of geopolitical competition"
-- Georgia's transit corridor value is both greatest asset and greatest vulnerability
-
-## 2026-06-25 - Ingest | rfe/rl: with georgia sliding toward russia, former president appeals for renewed us attention
-- Zurabishvili warns West is "giving away" Georgia to Moscow through inattention
-- Describes Georgia as emerging "gray zone" (sanctions evasion, shadow fleet, crypto)
-- GD foreign policy shaped by what Russia tolerates; internal instability growing
-- 560+ days of protests continue; civil society defiant
-
-## 2026-06-25 - Ingest | sovanews: georgia in us strategy in the south caucasus — interview with valeri chechelashvili
-- "3+2" concept (South Caucasus + US + EU) or "3+3" (adding Turkey) as US strategic vision
-- Georgia "important piece of the puzzle" but project incomplete without Tbilisi
-- Litmus test for genuine reset: US help withdrawing Venezuela/Syria recognition of Abkhazia
-- Russia's South Caucasus influence narrowing as Ukraine balance shifts
-
-## 2026-06-25 - Ingest | prif blog: when eu norms become political weapons — media freedom in georgia
-- GD captured EU transparency language to pass repressive media laws
-- April 2025: criminal penalties for "foreign agents" (up to 5 years prison)
-- Broadcasting Law banned all foreign funding; Georgia fell 37 places in RSF index in 2 years
-- EU formal conditionality failing; Georgia "candidate country in name only"
-
-## 2026-06-25 - Ingest | eurasianet: as georgians back west, their leaders lean east – polling data
-- EU NEIGHBOURS East Programme 2026 survey: 71% support EU membership (41% strong, 30% somewhat), only 11% oppose
-- Institutional trust collapses: parties 21%/70% distrust; government 41%/54%; judicial/electoral ~60% distrust
-- 56% say restrictive laws harm EU prospects (up from 50% in 2025); Russia 12% trust/79% distrust; China 26%/60% distrust
-- House Armed Services Committee approved two Georgia NDAA amendments (political prisoners + Russian/Chinese intelligence)
-- UK Embassy confirmed Russian "shadow fleet" vessel docked at Kulevi Port (Feb 2026); Georgia claimed it wasn't sanctionable at the time
-
-## 2026-07-02 - Ingest | forbes: georgian wine is caught between russia and the west
-- Russia buys 60-65% of Georgia's wine exports — powerful economic coercion tool
-- New excise taxes caused 15.8% export drop in first 8 months of 2025
-- History of 2006 embargo (50% export loss); dependency rebuilt to 66% by 2024
-- European-owned producers threatened with Russian "bad lists"
-- US market growing (15.5% CAGR) but unable to absorb Russian shortfall
-
-## 2026-07-02 - Ingest | commonspace.eu: georgia — u.s. talks and new hate speech law
-- GD creates Interior Ministry "hate speech" department — critics see it as censorship mechanism
-- Department to monitor social media and automatically prosecute alleged offenders
-- Follows Media Freedom Rapid Response warning about press freedom deterioration
-- US State Department delegation concluded visit emphasizing need for stable political climate
-
-## 2026-07-02 - Ingest | georgia's first high level visit to tajikistan — central asia diplomatic pivot
-- First-ever Georgian PM visit to Tajikistan (June 19); 11 documents signed
-- Followed Kyrgyzstan visit earlier in June 2026
-- Part of Central Asia pivot: repositioning Georgia as bridge to Middle Corridor
-- GD widening diplomatic options beyond Western partners
-
-## 2026-07-02 - Watch Report | Third watch report generated: "Georgia's strategic drift will accelerate over the next 18 months as deepening China and Iran ties supersede the contested US reset, without triggering a definitive break from any major power" (75% probability, target December 2027)
-- Prediction changed from June 4 report to reflect China-Iran pivot and contested US reset as dominant dynamics
-- 17 key sources cited spanning China pivot, US congressional pushback, Iran influence, Central Asia outreach, and domestic repression
-- PDF generated successfully
-
-## 2026-07-09 - Ingest | eu awareness centre: the west's blind spots in russia's hybrid war against georgia
-- Comprehensive analysis of Russia's cognitive warfare campaign against Georgia by Ambassador David Dondua
-- Three narratives examined: Saakashvili factor, fear of war, anti-LGBTQ+ "values war"
-- Critiques Western miscalculations: inconsistent conditionality, personalizing democracy around Saakashvili, public resolutions exploited as propaganda
-- Argues West brought "constructive capital" while Russia deployed "destructive capital" with greater precision
-- Lesson: quiet leverage over public resolutions, structural patience over episodic conditionality, communication calibrated to specific societies
-- Despite everything, Georgian society remains overwhelmingly pro-European; protest movement shows democratic resilience
-
-## 2026-07-09 - Ingest | sovanews: georgia president at khamenei's funeral
-- President Kavelashvili attended Khamenei's funeral in Tehran, met with Pezeshkian
-- Drew sharp criticism from pro-Western forces given cooling US/EU relations and Iran sanctions evasion allegations
-- GD justified as regional protocol (Armenia, Azerbaijan also sent representatives)
-- Article traces Iran-Georgia relations: 2008 non-recognition of Abkhazia/S. Ossetia, 2010s visa-free era, post-2022 expansion
-- Bilateral trade reached $322M in 2024 ($285M Iranian imports); visit read as signal of foreign policy shift
-
-## 2026-07-09 - Ingest | georgia today: the new eurasian axis — kazakhstan and georgia
-- Examines Kazakhstan-Georgia connectivity axis as structural transformation in world politics
-- Russia-Ukraine war elevated Middle Corridor; Kazakhstan ~60% of Central Asia GDP
-- Georgia is indispensable gateway from Central Asia to Black Sea ports and European markets
-- Baku-Tbilisi-Ceyhan, Southern Gas Corridor, BTK railway, Trans-Caspian route create "new Eurasian axis"
-- Europe views these projects as instruments of geopolitical resilience, not just economic initiatives
-
-## 2026-07-09 - Ingest | caucasus watch: washington's new south caucasus policy
-- Analysis by Emil Avdaliani of US hybrid approach: transactional, connectivity-centered, not democracy-promotion
-- South Caucasus treated as corridor space linking Europe, Turkey, Caspian basin, Central Asia
-- TRIPP designed to reduce Russian leverage over regional transport, limit Iran's transit role
-- Washington sees Armenia as most dynamic opening; Georgia indispensable for Middle Corridor/Black Sea security
-- Turkey's role critical; durability depends on sustained investment and credible security assurances
-
-## 2026-07-09 - Ingest | geopolitics: georgia's clean slate with the u.s.
-- In-depth analysis by Shota Gvineria on gap between diplomatic engagement and genuine normalization
-- GD seeks improved tone, not structural change: relief from sanctions, propaganda narrative
-- Documents pattern: concrete concessions end conversation; goodwill signals without change continue it
-- GD uses Frontera Resources lobbying, Trump Tower Tbilisi to create appearance of improving relations
-- Anaklia port negotiated away to Beijing while US-focused optics maintained
-- Three benchmarks proposed: release political prisoners, repeal repressive laws, restore electoral framework
-
-## 2026-07-16 - Ingest | sceeus: ukrainian georgian relations: all love lost?
-- Comprehensive analysis of Ukrainian-Georgian bilateral relations
-- Pashinyan called frozen EU-Tbilisi dialogue the "biggest obstacle" to Armenia's EU ambitions
-- Zelenskyy-Kobakhidze meeting at EPC Summit (May 2026), first since Russia's full-scale invasion
-- Kobakhidze's Ashgabat meeting with Putin (2025) — first Georgian leader-Russian president encounter in 15 years
-- Russia reclassified Georgia from "unfriendly" (12/100) to "relatively friendly" (19.4/100)
-- ~3,000 Georgians fighting in Ukraine; New Hungarian PM Magyar likely less pro-GD than Orbán
-- EU has not sanctioned Ivanishvili despite US and Ukraine having done so
-
-## 2026-07-16 - Ingest | jamnews: interview with james carafano on georgia us relations
-- Heritage Foundation's Carafano: Trump admin wants results, not rhetoric
-- GD's MAGA messaging ("deep state," "Global War Party") carries no weight in Washington
-- "Second front" narrative dismissed as Russian disinformation
-- Warns Georgia risks being bypassed in Middle Corridor
-- China will not provide strategic guarantees; sanctions on Ivanishvili depend on concrete actions
-- US will not side with government or opposition; criticizes opposition as fragmented
-
-## 2026-07-16 - Ingest | fdd: serbia and georgia aren't our friends
-- Vucic's first head-of-state visit to Tbilisi (June 2026); free-trade deal announced ($20M trade)
-- Both regimes compared: authoritarian, sanctions evasion hubs, "foreign agent" laws, disputed elections
-- GD's "Global War Party" narrative compared to Vucic's "color revolution" accusations
-- FDD argues Washington should have no illusions about either regime
-
-## 2026-07-16 - Ingest | statecraft & strategy: seeking a reset in the south caucasus
-- Former PM Georgi Gakharia argues GD's trajectory is a "direct challenge to a continued American stake"
-- Without Georgia, Middle Corridor and TRIPP remain vulnerable
-- Strategic opening: Russia preoccupied in Ukraine, Iran under pressure
-- Calls for conditional US engagement demanding democratic reforms, end to sanctions evasion
-- Georgia was not just part of US strategy, but an enabler of it
-
-## 2026-07-16 - Ingest | oc media: leaked russian report details diaspora influence strategy
-- Leaked Dec 2025 Moscow State University report for Russian Presidential Administration
-- Described as updated 1968 KGB manual on managing diaspora communities
-- Budget: ₽13B ($165M); Georgia is primary destination for post-2022 Russian emigrants (15.5%)
-- Russian Orthodox Church identified as key channel for soft-power engagement
-- Report divides diaspora into three groups; recommends apolitical cultural engagement
-
-## 2026-07-23 - Ingest | geopolitics: is annexation close? the south ossetian trap
-- Gagloev resignation (June 23, 2026) and appointment as Putin adviser analyzed
-- History of Russian "parachutists" in de facto government since 2004 documented
-- Marat Kambolov (Russian citizen, former Kurchatov Institute director) installed as acting president
-- 2026 Treaty on Deepening Allied Interaction further integrates South Ossetia into Russia
-- "Neverendum" of annexation referendums (1992, 2006, 2017, 2022) analyzed
-- MRB Bank used as financial cut-out for Donbas (49B rubles in 2017) and North Korea sanctions evasion
-- Georgia's economic dependence on Russia: 97% wheat imports, 60-65% wine exports
-- Formal annexation possible as political compensation for Ukraine difficulties
-
-## 2026-07-23 - Ingest | jamnews: georgia's asian pivot
-- Kobakhidze met leaders of all five Central Asian states (summer 2026)
-- Strategic partnership agreements with Kazakhstan and Uzbekistan
-- First official visits to Kyrgyzstan and Tajikistan; Turkmen president's first Tbilisi visit
-- Economic data: exports dominated by vehicle re-exports (95.5% to Kyrgyzstan, ~90% to Tajikistan)
-- Kazakhstan oil transit via BTC pipeline (49M barrels Q1 2026)
-- Experts warn Central Asia cannot substitute for Western ties
-|- Middle Corridor faces structural challenges (port capacity, customs, costs)
-|
-|## 2026-07-30 | ingest | ICDS: Georgia's Foreign Policy Pivot — From Euro-Atlantic Integration to Strategic Irrelevance
-|- Estonian ICDS analysis by Teona Giuashvili (LSE) — argues GD's "multi-alignment" is a façade for domestic power consolidation
-|- Georgia alone in the region narrowing its strategic agency while Armenia, Azerbaijan, Central Asia expand theirs
-|- GD's trajectory amounts to "strategic drift" — burning Western bridges, failing to cultivate viable alternatives
-|- Marginalisation may be intentional to reduce international scrutiny
-|
-|## 2026-07-30 | ingest | Just Security: The U.S. and the EU Must Wake Up to Threats in Georgia
-|- Former US Ambassador Ian Kelly and Bush Institute's David Kramer warn GD creating one-party regime
-|- Proposed legislation to ban all opposition parties deemed "threat to constitutional order"; GD creating "systemic opposition" (People's Power)
-|- Eight opposition leaders face sabotage charges (up to 15 years); verdict expected fall 2026
-|- Warns repression risks uprising and potential Russian military intervention
-|- US has no Senate-confirmed ambassador in Tbilisi — nobody even nominated
-|
-|## 2026-07-30 | ingest | ISPI: The Middle Corridor Paradox — Can Georgia and the EU Afford to Drift Apart?
-|- ISPI analysis by Bako Kheladze (July 27, 2026) on diverging EU-Georgia Middle Corridor perceptions
-|- Economy Minister announced Anaklia under landlord model, invited China/Central Asia/Azerbaijan — not Europe
-|- TRIPP expected to reduce travel times 25% vs Baku-Tbilisi-Kars
-|- Geography alone cannot compensate for deteriorating political trust
-|- Corridor participants paradoxically share interest in restoring EU-Georgia relations
-
-## 2026-08-02 - Watch Report | Generated fourth watch report covering July 2-30 source period plus late-July developments
-- Key new developments: China exits Anaklia port (July 6); South Ossetia governance absorbed into Russian structures (July 22); Kobakhidze completes Central Asia sweep of all five states (July 21); one-party state trajectory accelerates (Kelly/Kramer, July 29); ICDS declares Georgia drifting toward "strategic irrelevance" (July 23); ISPI identifies Middle Corridor paradox (July 27); Russian diaspora soft-power strategy exposed (OC Media, July)
-- Additional late-July developments: Trump Independence Day response (July 18); OSCE PA Hague Declaration (July 8); US Embassy rebuke of Hate Speech division (July 28)
-- Prediction unchanged at 75%: "Georgia's strategic drift will accelerate over the next 18 months as GD's post-Anaklia search for alternative partners converges with deeper South Ossetia absorption and one-party consolidation at home, without triggering a definitive break from any major power."
-- China's Anaklia exit is the most significant counter-development — weakens one pillar of the prediction but other vectors (South Ossetia integration, Central Asia pivot, domestic repression) reinforce the drift thesis
-- PDF generated successfully
-- watch-reports-summary.md updated (row 4); global summary updated; index.md updated
-- Next review scheduled for 2026-09-01
-
-## 2026-08-06 - Weekly Ingest | 4 new sources
-- US visa bond requirement made permanent for Georgia (up to $20K) — first in Europe/South Caucasus; 7.43% overstay rate vs 2.02% for Azerbaijan
-- Kobakhidze social media post defending GD Russia policy, questioning opposition's post-2022 anti-Russian stance vs silence after 2008 war
-- Trump personal letter to Kobakhidze on US 250th anniversary — strongest US signal to GD to date
-- Humanotions long-form analysis of asymmetric Sino-Georgian relationship; Dahua surveillance cameras linked to protest suppression; China partnership as domestic PR
-
-## 2026-08-13 - Weekly Ingest | 5 new sources
-- Kobakhidze refuses to call Russia an enemy (Aug 12); Galuzin declares Russia and Georgia "natural partners," says Western pressure on Georgia failed — reveals GD's strategic calculus of avoiding confrontation with Moscow
-- US Treasury OFAC sanctions Georgia-registered crypto firm SHPS Shelbit for facilitating $2M+ in IRGC-linked crypto transactions — reinforces Georgia's sanctions evasion hub narrative
-- Riddle Russia analysis of H1 2026 trade data: Georgian imports from Russia up 26% to $1.2B, deficit widened to $868M, wine/beverage exports falling — signals end of rapid expansion and rising vulnerability
-- Euro Prospects analysis: EU ceding influence in South Caucasus, frozen relations with Georgia, China filling vacuum through Belt and Road
-- Hague Research Institute analysis: TRIPP could gradually reduce Georgia's geostrategic leverage by transforming it from dominant corridor into one of several interconnected routes
-|
-|## 2026-08-20 - Weekly Source Update | 6 new sources
-|- **Source 58:** JAMnews: White House says China using Georgia to circumvent US tariffs — Trump admin "Great Transshipment Scam" report names Georgia in China's shadow shipping network. $1.98B imports from China vs $120M exports to US.
-|- **Source 59:** JAMnews: Georgia does not join EU's updated Iran sanctions — Georgia alone among candidate countries in refusing, joining only Turkey and Serbia. CFSP alignment at 40%.
-|- **Source 60:** OC Media: Gharibashvili accuses Ivanishvili of blackmail — First former close GD ally to openly confront Ivanishvili. Deepening internal power struggle.
-|- **Source 61:** OC Media: Record 20,000+ daily crossings at Upper Lars — Russia-Georgia border traffic at all-time high amid Russian mobilization speculation.
-|- **Source 62:** Forbes: Georgia absent from 2026 NATO Summit — Second consecutive year excluded. Relations "effectively frozen" per former Defense Minister. Military cooperation continues.
-|- **Source 63:** OC Media: Georgian fuel deliveries to Abkhazia to continue — 680 tonnes of petrol delivered amid shortage from Ukraine strikes on Russian refineries.
-||- **Files updated:** sources.md (+6), index.md, timeline/georgia-timeline.md, log.md
-|
 ## 2026-09-03 - Weekly Source Update
-- **New sources:** 8 (69–76)
-- **Source 69:** OC Media: Commerce, energy, and the Trump Route — Analysis of GD's Central Asia pivot with expert interviews; TRIPP threatens Georgia's transit monopoly; Middle Corridor transit quintupled since 2018; Uzbekistan opening first Georgia embassy.
-- **Source 70:** OC Media: Second dredging vessel reaches Anaklia — Concrete progress after China's exit; Jan De Nul dredging active; breakwater construction underway under landlord model.
-- **Source 71:** JAMnews: 'Occupation is off' — Kobakhidze's Treaty of Georgievsk remarks instrumentalized by RIA Novosti to claim Georgia reassessing Russia ties; GD historical revision legitimizes current multi-vector policy.
-- **Source 72:** Caucasus Watch: Medvedev frames 2008 recognition as 'Geopolitical Justice' — 18th anniversary framing connecting 2008 to Ukraine war; repeats Moscow's narrative.
-- **Source 73:** JAMnews: Mdinaradze resignation 'prelude to Kobakhidze's downfall' — Analyst Gia Khukhashvili says resignation leaves Kobakhidze with no loyalists; Ivanishvili positioning him as scapegoat.
-- **Source 74:** JAMnews: Terabank sale — Armenian Arins Group acquiring Terabank; possible Russian link via A7/Ilan Shor (sanctioned); NBG approval pending; sanctions evasion vulnerability.
-- **Source 75:** JAMnews: Is Georgia expecting a new wave of Russian migrants? — Upper Lars data analyzed; Russian citizens 18% of property buyers (up from 13%); mobilization rumors persist.
-|- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
-|- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
-## 2026-10-15 - Weekly Source Update
-- **New sources:** 7 (109–115)
-- **Source 109:** JAMnews: New Russian trade ban on Georgian goods (Oct 13) — Russia bans imports from 7 major Georgian companies, demands non-use-of-force guarantee on Abkhazia/South Ossetia. Directly undermines GD's claim that maintaining Russia ties protects Georgia's interests. High-signal event.
-- **Source 110:** Civil.ge: Judge Manana Kobakhidze Quits Constitutional Court (Oct 13) — GD-founder judge resigns after recusal denied in party-ban case. GD may lack 90 votes to replace her; third judge departure since ban lawsuit filed.
-- **Source 111:** Civil.ge: Venice Commission Criticizes Foreign Funding Restrictions (Oct 13) — New 24-page opinion rejects GD sovereignty-protection claim, warns restrictions threaten democratic pluralism.
-- **Source 112:** Civil.ge: Is All Foreign Policy Local? — Comprehensive analytical framework on GD's alignment patterns (Westlessness, Russia bandwagoning, transactional multi-alignment). Warns partisan foreign policy erodes strategic autonomy.
-- **Source 113:** Jamestown: Georgia Backs Ukraine at UN While Bilateral Rift Persists (Oct 14) — Analysis of GD's balancing act: pro-Ukraine UN statements alongside anti-Western domestic rhetoric; no ambassador in Kyiv since 2023.
-- **Source 114:** ChinaObservers: Georgia's China Pivot — An Illusion of Alternatives? (Sep 30) — Chinese FDI dwindled $98M→$29M (2023→24); China only 4.6% FDI in Q1 2026; partnership is political signalling, not strategic depth.
-- **Source 115:** Civil.ge: Vietnam's Vice President Visits Georgia (Oct 13) — MoU signed, embassy opening 2027; expands Asian pivot beyond China to Southeast Asia.
-- **Files updated:** sources.md (+7), index.md, log.md
-|
-|## 2026-10-08 - Weekly Source Update
-|- **New sources:** 6 (103–108)
-|- **Source 103:** Civil.ge: Kobakhidze Lauds China Economic Ties (Oct 7) — Exports to China +177% Jan-Aug; China #1 FDI ($236M) overtaking UK; 14 weekly flights; free trade talks with South Korea/Serbia/GCC. New granular data on GD's deepening China ties.
-|- **Source 104:** JAMnews: All four German political foundations halt work in Georgia (Oct 1–2) — Konrad Adenauer, Friedrich Naumann, Heinrich Böll, Friedrich Ebert close after Grants Law rejected applications (July 28). German Ambassador confirms forced closures. ALDE demands EU sanctions. First practical effect of GD's legislation on European civil society engagement.
-|- **Source 105:** Türkiye Today: 13th Azerbaijan-Turkey-Georgia Trilateral Defense Meeting (Oct 2, Shusha) — Defense ministers Hasanov, Güler, Chikovani sign joint protocol. Güler: "Caucasus security cannot be separated from Türkiye, Azerbaijan, Georgia." Institutionalized defense format continues despite political drift.
-|- **Source 106:** SovaNews: "Putin's Path" Rail Project Unveiled (Oct 1) — Pro-Kremlin research presents rail/road transit linking Russia-Georgia-Armenia via Abkhazia. Lobbied by Armenian experts. Legally unfeasible without Georgian consent per Law on Occupied Territories. Demonstrates Russia's long-term connectivity ambitions.
-|- **Source 107:** Jamestown: Church Dispute Strains Azerbaijan-Georgia (Oct 7) — Beka Chedia analysis of Kurmukh Church dispute. Baku's assertiveness raises concern about historical territorial claims given undelimited border. GD avoids confronting Baku.
-|- **Source 108:** GEOpolitics: Choke, Don't Block (Sep 22) — Temuri Yakobashvili's strategic analysis of Russia's "bottleneck strategy." Introduces "chokepoint sovereignty" framework. High analytical value for understanding Russian leverage through infrastructure dependency.
-|- **Files updated:** sources.md (+6), index.md, timeline/georgia-timeline.md, entities/united-states.md, entities/russia.md, entities/european-union.md, entities/georgian-dream.md, concepts/middle-corridor.md, log.md
-
-## 2026-10-01 - Weekly Source Update
-|- **New sources:** 3 (100–102)
-|- **Source 100:** OC Media: Tbilisi summons Iran's ambassador over Queen Ketevan remarks (Sep 30) — Iran Amb. Moujani questioned 17th-century queen's martyrdom; MFA summoned him, GD MPs and Church called remarks unacceptable. Significant Iran-Georgia diplomatic tension.
-|- **Source 101:** Caucasus Watch: Kobakhidze Raises US Strategic Partnership With Trump, Rubio (Sep 28) — Kobakhidze held conversations with Trump and Rubio at UNGA reception, reiterated interest in restoring strategic partnership. First reported direct interaction.
-|- **Source 102:** Caucasus Watch: Kurmukh Church Dispute Brings Baku, Tbilisi Into Disagreement (Sep 28) — Georgian Patriarchate's heritage claims triggered sharp Azerbaijani FM response accusing Tbilisi of territorial claims. Kobakhidze downplayed. Rare Georgia-Azerbaijan public friction.
-|- **Files updated:** sources.md (+3), index.md, timeline/georgia-timeline.md, entities/iran.md, entities/united-states.md, log.md
-|
-|## 2026-09-26 - Watch Report | Fifth watch report: "organized isolation"
-|- Generated Watch Report 26-09-2026 — fifth Georgia watch report
-|- Prediction: "By December 2027, Georgia will have functionally completed its transition from a competitive electoral system to a single-party state..."
-|- Probability: 78% (up from 75%) — reflects three September accelerants: Hungary's shift removing GD's EU patron; all-opposition ban lawsuit crossing one-party threshold; Kambolov's 85% South Ossetia election formalizing absorption
-|- Key findings: Kobakhidze UNGA transit-economics pivot ($7B/2032); Anaklia proceeding under Belgian Jan De Nul but third scope revision signals descoping; GD internal fracture deepens (Gharibashvili accusation, Mdinaradze resignation); US reset channel persists at working level (Trump letter, Diaz "clean slate") but counterbalanced by permanent visa-bond and tariff-circumvention designation
-|- PDF generated and uploaded to R2
-|- Files updated: index.md, watch-reports-summary.md, timeline/georgia-timeline.md, log.md
+- New sources ingested: 8
+- Updated sources.md (68 → 76), index.md source count (68 → 76)
+- Updated timeline, Middle Corridor concept and Georgian Dream entity
 
 ## 2026-09-10 - Weekly Source Update
-- **New sources:** 3 (77–79)
-- **Source 77:** CACI Analyst: A New Formula for Georgia's Anaklia Deep-Sea Port — Emil Avdaliani analysis of landlord model transition after China's exit. Multi-investor approach reduces single-power dependence, facilitates US-Georgia normalization, deepens Central Asia ties. Notes landlord model may ease Russian NATO concerns while Middle Corridor role still weakens Russia's Eurasian trade leverage.
-- **Source 78:** Caucasus Watch: Russia Signals Wider Economic Cooperation — Russian Security Council Deputy Shevtsov names Georgia for interregional cooperation beyond trade toward joint production chains. Demonstrates Moscow's continued economic courtship despite no diplomatic relations.
-- **Source 79:** Caucasus Watch: Georgia, US Agencies Conduct CBRN Threat Response — US DTRA and Georgia's SSSG conducted "NEXUS Georgia 2026" in Batumi. Evidence of continuing working-level US-Georgia security cooperation despite frozen political relations.
-- **Files updated:** sources.md (+3), index.md, log.md
+- New sources ingested: 3
+- Updated sources.md (76 → 79), index.md source count (76 → 79)
+- Updated timeline and Middle Corridor concept
 
 ## 2026-09-17 - Weekly Source Update
-- **New sources:** 12 (80–91)
-- **Source 80:** WSJ: Trump Tower Tbilisi — $2B, 62-story skyscraper on Ivanishvili-linked land; Eric Trump video address; WSJ frames against US-Georgia deterioration.
-- **Source 81:** JAMnews: Trump Tower unveiled — Local reporting on presentation, Kobakhidze announces $2B investment, completion 2031.
-- **Source 82:** OC Media: GD now wants all major opposition parties banned — GD adds For Georgia to constitutional court lawsuit; only opposition in parliament targeted.
-- **Source 83:** JAMnews: EU to urge Syria to withdraw Abkhazia recognition — Von der Leyen confirms EU leverage on Syria; follows Nauru withdrawal.
-- **Source 84:** Caucasus Watch: Papuashvili calls EU policy "dead end" — Parliament Speaker rejects EU human rights criticism.
-- **Source 85:** JAMnews: Zakharova calls Russia and Georgia "allies" — Treaty of Georgievsk instrumentalized; Russia values fight framing.
-- **Source 86:** Eurasia Review: South Caucasus Navigates A New Order — Analysis of Georgia's eroding transit monopoly; no state choosing single patron.
-- **Source 87:** Responsible Statecraft (Quincy Institute): In-between states initiative — New US policy paradigm taking NATO enlargement off the table.
-- **Source 88:** Caucasus Watch: Tskhinvali not ready for transit route — Kambolov says South Ossetia not prepared for transit with Georgia.
-- **Source 89:** JAMnews: Wildberries expansion poses risks — EPRC warns Russian marketplace expansion threatens sanctions compliance.
-- **Source 90:** Caucasus Watch: Baramidze detained — Opposition leader held on treason/sabotage over Abkhaz war remarks.
-- **Source 91:** Caucasus Watch: Georgia joins Paris Space Summit declarations — Kobakhidze at Macron's invitation.
-- **Files updated:** sources.md (+12), index.md, timeline/georgia-timeline.md, log.md
+- New sources ingested: 12
+- Updated sources.md (79 → 91), index.md source count (79 → 91)
+- Updated timeline, Georgian Dream entity and regime-survival concept
 
 ## 2026-09-24 - Weekly Source Update
-- **New sources:** 8 (92–99)
-- **Source 92:** OC Media: Kambolov wins South Ossetia snap election (Sep 19) — Former Russian bureaucrat wins 85% vote, Putin congratulates, EU calls step toward illegal annexation.
-- **Source 93:** The National Interest: Georgia's Ties with Iran Have a Limit — Kheladze/Epstein counter-narrative arguing GD's Iran engagement has structural ceilings; Georgia ultimately chooses Washington when forced.
-- **Source 94:** Jamestown: Kremlin Draws Georgia into its War as Tbilisi Rewrites History in Russia's Favor — Beka Chedia on GD rewriting history, "Georgievsk" battalion fighting for Russia in Ukraine.
-- **Source 95:** Jamestown: Hungary Shifts West Under Magyar — Hungary expels 10 Russian diplomats; confirms GD's key EU patron (Orbán) is gone, Hungary aligns with mainstream European positions.
-- **Source 96:** JAMnews: Iran envoy warns Georgia over airline sanctions compliance — Tensions as Georgia complies with US Iran airline sanctions; ambassador publishes provocative map.
-- **Source 97:** JAMnews: US court orders Georgia to pay $350M over Namakhvani HPP — US federal judge enforces ICC award; ~$400M total blow from abandoned hydropower project.
-- **Source 98:** Eurasianet/CACI: Educational reform sparks concern about politicization of academia — GD's "One City-One Faculty" reform criticized as assault on academic autonomy.
-- **Source 99:** EU Awareness Centre: Russia's Hybrid Campaign — Motives, Methods, and Actors — FSB/SVR/GRU involvement in Georgia's democratic backsliding; supplements source #33.
-- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
+- New sources ingested: 8
+- Updated sources.md (91 → 99), index.md source count (91 → 99)
+- Updated timeline, Iran and Russia entities
+
+## 2026-10-01 - Weekly Source Update
+- New sources ingested: 3
+- Updated sources.md (99 → 102), index.md source count (99 → 102)
+- Updated timeline and Iran entity
+
+## 2026-10-08 - Weekly Source Update
+- New sources ingested: 6
+- Updated sources.md (102 → 108), index.md source count (102 → 108)
+- Updated timeline, EU entity and Middle Corridor concept
+
+## 2026-10-15 - Weekly Source Update
+- New sources ingested: 7
+- Updated sources.md (108 → 115), index.md source count (108 → 115)
+- Updated timeline, Georgian Dream entity and Russia entity
 
 ## 2026-11-05 - Weekly Source Update
-- **New sources:** 13 (120-132)
-- **Source 120:** RFE/RL: EU foreign ministers relegated Georgia to AOB at Oct 12 meeting -- wont return as full agenda item until Jan 2027. EU divided on sanctions.
-- **Source 121:** Caucasus Watch: Freedom House Internet Report -- Georgia loses Free classification (68/100, down from 70 in 2025, 78 in 2022).
-- **Source 122:** Caucasus Watch: Georgia appoints new Russia envoy (Zurabashvili). Diplomatic Society warns dangerous trend toward restoring diplomatic relations.
-- **Source 123:** Eurasianet: Opposition party-ban hearings begin in Batumi -- 5 parties, 800K+ votes targeted.
-- **Source 124:** Caucasus Watch: Bulgaria steps up Black Sea security and Middle Corridor cooperation.
-- **Source 125:** Caucasus Watch: Kobakhidze outlines regional hub ambitions at Tbilisi Financial Summit.
-- **Source 126:** RIAC: Limits of US-Georgian Reset -- Russian think tank: 3 charges since July 2025; TRIPP reduces Georgia centrality.
-- **Source 127:** Civil.ge: Botchorishvili hosts all five Central Asian FMs in Batumi -- first-ever joint meeting.
-- **Source 128:** Civil.ge: Kobakhidze in Budapest for anti-Soviet uprising anniversary -- first post-Orban Hungary visit.
-- **Source 129:** Civil.ge: Kobakhidze meets Iranian President Pezeshkian in Yerevan -- practical cooperation push.
-- **Source 130:** Civil.ge: Diplomacy Day -- GD stresses sovereign, pragmatic foreign policy, multipolar order.
-- **Source 131:** Civil.ge: EU enlargement report warns Georgia accession de facto halted -- alongside Turkey for concerns.
-- **Source 132:** Jamestown: Russian beverage ban exposes limits of GD pragmatism -- Moscow squeeze from both sides.
-- **Files updated:** sources.md (+13), index.md, log.md
+- New sources ingested: 17
+- Updated sources.md (115 → 132), index.md source count (115 → 132)
+- Updated timeline and EU entity

@@ -1,101 +1,101 @@
-# Georgia — Geopolitical Positioning Topic Notes
+# Georgia — Geopolitical Positioning: Structural Notes
 
-## Wiki Location
-|- Path: `/root/wiki/georgia/`
-|- Repo: `kent-iscann/signal-fracture-content`
-|- Git auth: credential helper (no gh CLI needed)
+> Recent developments are tracked in `timeline/georgia-timeline.md` at month resolution. This file records structural context, recurring dynamics and the data series to watch, not a chronology.
 
-## Folder Structure
-```
-/root/wiki/georgia/
-├── index.md              (source count + last-updated date)
-├── sources.md            (numbered entries, no section headers yet — ungrouped)
-├── log.md                (append-only session entries)
-├── timeline/
-│   └── georgia-timeline.md  (chronological events)
-├── entities/
-│   ├── georgian-dream.md
-│   ├── russia.md
-│   ├── united-states.md
-│   ├── european-union.md
-│   └── iran.md
-├── concepts/
-│   ├── middle-corridor.md
-│   └── regime-survival-doctrine.md
-```
+## The Core Dynamic
 
-## Search Queries (canonical, 8 queries)
-1. "Georgia foreign policy Russia West 2025 2026"
-2. "Georgia Azerbaijan Armenia rapprochement"
-3. "Georgia EU NATO membership cooling"
-4. "Georgia US relationship deterioration"
-5. "Georgia Russian influence South Caucasus"
-6. "Georgia balancing act Russia China West"
-7. "Tbilisi foreign policy pivot 2025 2026"
-8. "Georgia South Caucasus geopolitics"
+- Georgia is not pivoting cleanly to Russia. Georgian Dream is running a transactional, multi-directional foreign policy designed to keep itself in power: it avoids provoking Moscow, keeps enough Western engagement to preserve leverage, and deepens ties with China and Iran where they cost little.
+- The doctrine rests on an asymmetric threat calculation. Western pressure — sanctions, aid cuts, isolation — is painful but survivable and potentially reversible. Russian pressure — occupation, military coercion, economic blackmail — is existential for the regime.
+- The result is strategic drift rather than realignment. Georgia burns Western bridges without building reliable alternatives, and its transit value decays as Armenia, Azerbaijan and Central Asia gain options.
 
-## Current Topic Landscape (as of October 2026)
+## The Domestic Order
 
-### Core Dynamic
-Georgia is in a phase of **strategic drift** — not a clean pivot to Russia, but a transactional, multi-directional foreign policy ("regime survival doctrine") pursued by Georgian Dream (GD). GD calculates that it can balance between Moscow, Washington, Beijing, and Tehran without committing firmly to any camp. This is eroding Georgia's Western partnerships while failing to secure reliable alternatives. By October 2026, the drift has intensified: the one-party state trajectory (constitutional lawsuit to ban all opposition parties), practical isolation from EU civil society (all four German foundations closed), and the formalization of South Ossetia absorption mark a qualitatively new phase of "organized isolation."
+- Georgian Dream has governed since 2012. Bidzina Ivanishvili remains the decisive informal power; the party has no institutional succession mechanism.
+- The 2024 foreign agents law, the 2025 grants law and the 2026 hate-speech department have narrowed civic space. The foreign agents law carries criminal penalties of up to five years; the broadcasting law bans foreign funding.
+- In September 2026 Georgian Dream asked the Constitutional Court to ban all four major opposition parties — together more than 800,000 votes in 2024. Hearings began in October; a ruling is due by June 2027.
+- Eight opposition leaders face sabotage charges carrying up to 15 years. UNM leader Giorgi Baramidze was detained in September 2026.
+- The party is also fracturing internally: Gharibashvili accused Ivanishvili of blackmail from prison, and Mdinaradze left politics in August 2026.
+- Public opinion remains pro-Western even as the government drifts: 71% support EU membership and 74% support NATO, while trust in parties, courts and the government is low.
 
-### Key Relationships
+## The United States
 
-**US-Georgia:** Deteriorated sharply after 2024 foreign agents law. Trump administration pursuing transactional "reset" (Middle Corridor economics, Trump Tower Tbilisi). Congress pushing back with HR 7668 (Caucasus influence bill). Iran emerging as new friction point. Heritage Foundation's Carafano (June 2026) says Trump admin wants results, not rhetoric — GD's MAGA messaging carries no weight. Former PM Gakharia (July 2026) argues conditional US engagement requiring democratic reforms is the only viable path. **Kobakhidze-Diaz meeting (Aug 26, 2026):** Kobakhidze's first meeting with new US Chargé d'Affaires Amy Diaz (in post since July 2026); he again offered "clean slate" reset based on "concrete roadmap." Sanctions (>100 GD officials) remain un-lifted. No US ambassador in Tbilisi since Dunnigan retired June 2025. **Kobakhidze-Trump/Rubio UNGA (Sep 28, 2026):** First reported direct interaction since Trump's return; no official photo released. **"Chilly strategic partnership" thesis (Anjaparidze, Aug 2026):** Washington's South Caucasus policy no longer Georgia-centric — now a triangle centered on Armenia/Azerbaijan post-TRIPP; the realistic ceiling for US-Georgia ties is limited, interest-based cooperation (Black Sea security, infrastructure), not full restoration.
+- Relations collapsed after the 2024 foreign agents law. The US suspended its strategic partnership in November 2024 and sanctioned more than 100 Georgian officials, including Ivanishvili.
+- The Trump administration has pursued a transactional reset focused on connectivity and business, while Congress pushes conditionality through HR 7668 and NDAA amendments.
+- Concrete engagement remains limited: no Senate-confirmed ambassador since June 2025, a permanent visa bond of up to $20,000 for Georgian applicants, and Georgia named in the White House's tariff-circumvention report.
+- Washington's South Caucasus policy is now Armenia- and Azerbaijan-centred around TRIPP. The realistic ceiling for Georgia is a "chilly strategic partnership" focused on Black Sea security and infrastructure, not restoration of the old relationship.
+- Working-level security cooperation continues, including the NEXUS Georgia CBRN exercise.
 
-**EU-Georgia:** Candidate status frozen since Nov 2024. EU declared Georgia "candidate country in name only" (Nov 2025). Visa-free regime suspended for diplomatic passports (March 2026). **German foundations closure (Oct 1, 2026):** All four German political foundations closed Tbilisi offices after GD's Grants Law rejected funding — Konrad Adenauer, Friedrich Naumann, Heinrich Böll, Friedrich Ebert. German Ambassador confirmed forced closures after 20+ years of operation. ALDE demanded EU sanctions response. Practical end of EU party foundation engagement in Georgia. **Hungary shift:** Former PM Orbán (GD's principal EU ally) replaced by Peter Magyar, expected to align with mainstream European trends — removing GD's key institutional patron within the EU. **EU enlargement reform (Aug 2026):** Commissioner Marta Kos presented four-pillar reform vision in Zagreb, Georgia not among frontrunners. Kos warned against "Trojan horses." European Council discussion expected Oct 2026.
+## The European Union
 
-**Russia-Georgia:** No diplomatic relations since 2008 war. Russia occupies ~20% of Georgian territory. GD maintains careful economic ties while avoiding formal political alignment. **"Putin's Path" project (Oct 1, 2026):** Pro-Kremlin institutions presented rail/road transit linking Russia-Georgia-Armenia via Abkhazia — reveals long-term Russian connectivity ambitions though legally unfeasible under Georgian Law on Occupied Territories. **Bottleneck strategy:** Russia's strategy is not to block South Caucasus connectivity but to prevent it from becoming independent of Russian influence ("chokepoint sovereignty"). Key framework for understanding Russian leverage through infrastructure dependency. **Russian trade ban (Oct 9, 2026):** Rospotrebnadzor banned imports from 7 major Georgian companies (Teliani Valley, Tbilvino, etc.) while demanding non-use-of-force guarantees against Abkhazia/South Ossetia — directly undermines GD's claim that maintaining Russia ties protects Georgia's economic interests.
+- Georgia's candidate status has been frozen since late 2024. The EU called it a "candidate country in name only" in November 2025 and suspended visa-free travel for diplomatic passports in March 2026.
+- The 2026 enlargement report says accession is "de facto halted"; Georgia was not mentioned in the commissioner's reform vision and was relegated to "Any Other Business" at the October foreign ministers' meeting.
+- All four German political foundations closed their Tbilisi offices in September 2026 after the grants law rejected their funding.
+- Hungary's shift away from Orbán removed Georgian Dream's principal EU patron.
+- The EU still matters economically and through the Middle Corridor, but its leverage is declining as it prioritises Armenia and the Western Balkans.
 
-**China-Georgia:** Comprehensive strategic partnership upgraded June 2026. **Latest data (Oct 7, 2026):** Exports to China surged 177% Jan-Aug 2026. China became Georgia's #1 FDI source in H1 2026 ($236M), overtaking UK. 14 weekly flights. Free trade talks with South Korea, Serbia, GCC. But China exited Anaklia port (July 6, 2026); GD now pursuing landlord model with Belgian Jan De Nul dredging active. **Counter-narrative (ChinaObservers, Sep 2026):** Chinese FDI was only $29M in 2024 (down from $98M in 2023) and 4.6% of total FDI in Q1 2026; China not in Georgia's top 5 export markets. The gap between Kobakhidze's $236M H1 claim and these figures may reflect lumpy H1 2026 project investments rather than a structural trend.
+## Russia
 
-**Iran-Georgia:** Emerging vector. ~13,000 Iranian companies registered; massive sanctions evasion. Adding friction: Iran ambassador controversies (Queen Ketevan remarks, Sep 2026; airline sanctions tension). GD caught between US pressure on Iran compliance and maintaining Iran ties.
+- Russia occupies Abkhazia and South Ossetia — about 20% of Georgia — and has no diplomatic relations with Tbilisi since 2008.
+- Economic leverage is substantial: Russia buys 60-65% of Georgia's wine exports, supplies 97% of wheat and flour, and is the main market for several agricultural products. The October 2026 ban on seven Georgian companies showed the lever is still used.
+- South Ossetia is being absorbed through Russian officials placed in the de facto government, the 2026 Treaty on Deepening Allied Interaction and a staged election that installed former Russian official Marat Kambolov with 85%.
+- Russia's corridor strategy is "choke, don't block": it seeks to keep South Caucasus connectivity dependent on Russian territory rather than to shut it down.
+- Georgia remains a sanctions-evasion route: 100+ weekly flights to Russia, shadow-fleet calls at Kulevi, unregulated crypto and Iranian-linked companies.
 
-**Azerbaijan-Georgia relations:** Increasing strain from Kurmukh Church dispute (Sep-Oct 2026). Azerbaijan MFA sharply protested GOC statements, accused Tbilisi of territorial claims. Jamestown warns Baku's assertiveness since Nagorno-Karabakh could lead to historical territorial claims given undelimited border. However, trilateral defense cooperation continues (13th Azerbaijan-Turkey-Georgia meeting, Shusha, Oct 2).
+## China
 
-### Key Domestic Politics
-|- 560+ days of continuous protests in Tbilisi (as of June 2026)
-|- Constitutional Court moving to ban opposition parties (5 parties targeted, representing 37.79% of voters; decision due June 2027). As of Oct 13, 2026, 2 of 9 court seats vacant after judge Manana Kobakhidze (GD founder) resigned — GD may lack 90 votes needed to replace her.
-|- **Garibashvili-Ivanishvili confrontation (Aug 17, 2026):** Jailed former PM publicly accuses Ivanishvili of blackmail
-- **Mdinaradze resignation (Aug 27, 2026):** Deputy PM leaves, analyst calls it "prelude to Kobakhidze's downfall"
-- **All German foundations closed (Sep 30, 2026):** Practical end of EU civil society capacity-building
-- **14th anniversary of GD rule (Oct 1, 2026):** Transparency International calls it "full-fledged dictatorship"
+- The June 2026 comprehensive strategic partnership is politically useful to Georgian Dream but economically shallow. China is not in Georgia's top five export markets, and Chinese FDI was only $29 million in 2024, down from $98 million in 2023.
+- The government claims exports to China rose 177% in January-August 2026 and that China became the top FDI source in H1 2026 at $236 million; the figures are lumpy and do not yet show a structural shift.
+- China exited the Anaklia port project in July 2026, and Beijing abstains on UN resolutions on Georgian IDPs while hosting Abkhaz delegations.
+- Chinese surveillance technology — including Dahua cameras used by the Interior Ministry — has become part of the domestic control apparatus.
+
+## Iran
+
+- Iran has expanded political, religious and economic influence, with roughly 13,000 Iranian-linked companies registered and Georgia used for sanctions evasion.
+- The relationship has limits: Iran cannot protect Georgia from Russia, cannot deliver on the occupied territories and cannot replace Western markets.
+- Friction has grown over Georgia's compliance with US airline sanctions and remarks by Iran's ambassador about Queen Ketevan, which led Tbilisi to summon him.
+
+## Regional Position and Connectivity
+
+- Georgia's leverage rests on being the corridor between the Caspian and the Black Sea: the Baku-Tbilisi-Kars railway, the Baku-Tbilisi-Ceyhan pipeline, the Southern Gas Corridor and the Middle Corridor.
+- That leverage is eroding. The Turkey-Armenia border is reopening, TRIPP creates a route through Armenia, and Central Asian states are building alternatives. TRIPP is expected to cut travel times by about 25% versus BTK.
+- Anaklia is the test of Georgia's hub ambitions. After China's exit, the state adopted a landlord model with Belgian contractor Jan De Nul dredging; the first phase targets 2029 and a 17.5-metre depth.
+- The Black Sea has become a security theatre: shadow-fleet activity, drone and naval incidents, and the Bulgaria-Georgia axis on cable and corridor security.
+
+## Trackable Indicators
+
+| Indicator | What to watch | Source type |
+|-----------|---------------|-------------|
+| Opposition ban | Constitutional Court hearings and ruling; party registration | Judicial/media |
+| Political prisoners | Releases, trials and sabotage verdicts | Media/NGO |
+| EU accession | Enlargement report language, visa suspension decisions | Official/EU |
+| US reset | Ambassadorial appointment, sanctions relief, high-level visits | Official/US |
+| Russian pressure | Trade bans, energy pricing, South Ossetia integration | Official/media |
+| Anaklia | Construction milestones, investor entry, 2029 target | Official/company |
+| Middle Corridor | Cargo volumes, TRIPP and Turkey-Armenia border progress | Official/industry |
+| China ties | FDI data, export growth, Anaklia participation | Official/company |
+| Iran | Company registrations, sanctions enforcement, diplomatic incidents | Official/media |
+| Public opinion | EU/NATO support and trust in institutions | Polling |
+| Sanctions enforcement | Shadow fleet, crypto cases, Kulevi refinery | Official/investigative |
+
+## High-Signal Source Types
+
+- **Civil.ge and OC Media:** fastest, most reliable domestic reporting on decrees, courts and protests.
+- **RFE/RL and Eurasianet:** regional context, investigative reporting and polling.
+- **Caucasus Watch and JAMnews:** granular coverage of official statements and regional diplomacy.
+- **SCEEUS, ICDS, ISPI, Carnegie and CSIS:** analytical framing of EU, US and Russian policy.
+- **Georgian official sources (gov.ge, mfa.gov.ge):** decrees, statements and the legal record.
+- **EU and US official releases:** enlargement reports, sanctions listings and congressional texts.
 
 ## Common Dedup Pitfalls
-- **SovaNews, OC Media, JAMnews, Civil.ge** all cover same daily developments. Typically only one new article per event is worth adding — the one with the most original analysis or new data.
-- **HR 7668 vs HR 9086:** Different bills. HR 7668 = Countering China's Control of the Caucasus Act. HR 9086 = Foreign Service Act amendments (not Georgia-specific). Don't conflate.
-- **Rubio statements** are often reported by multiple outlets (SovaNews, OC Media, JAMnews, Civil.ge). Add only the most detailed/complete version.
-- **China partnership coverage** appears in Businessinsider.ge, agenda.ge, and info.imedi.ge simultaneously with near-identical content. Pick one.
-- **The Diplomat, National Interest, and CEPA** provide overlapping analytical takeaways on the same week's events. Prioritize the one with the most novel framework or proprietary sourcing.
-- **SCEEUS publications:** There are multiple SCEEUS reports on Georgia. Source #13 is "Fading Power? The EU's Strategic Dilemmas" (June 2026). Source #39 is "Ukrainian-Georgian relations: All love lost?" (June 23, 2026) — different report, different focus. Both are worth adding if they cover distinct angles.
-- **Carafano interviews:** JAMnews published a comprehensive Carafano interview (June 18, 2026) that is distinct from any standalone Heritage Foundation analysis.
-- **Russian trade ban (Oct 2026):** JAMnews is the most comprehensive source on the Rospotrebnadzor ban of 7 Georgian companies. Civil.ge may have a shorter version; prioritize JAMnews for the expert analysis dimension.
-- **Venice Commission opinion (Oct 2026):** Civil.ge and OC Media both covered the same opinion. Civil.ge provides the most complete text with links to the full 24-page PDF. Use Civil.ge as the primary source.
-- **ChinaObservers.eu:** Specialized analytical source for China-Georgia economic relationship data. Useful for counter-narratives to GD's China claims. One of few English-language sources tracking granular Chinese FDI data in Georgia.
-- **EU foreign ministers' Georgia discussions:** RFE/RL's Wider Europe newsletter (Jozwiak) had exclusive access to the diplomatic note from the Oct 12 Luxembourg meeting. This is the primary source for EU internal divisions on Georgia. JAMnews/Civil.ge may have briefer secondhand reporting; prioritize RFE/RL for insider detail.
-- **RIAC analyses:** Russian International Affairs Council provides useful analytical counterpoint to Western think tank perspectives on US-Georgia relations. Not a neutral source but valuable for tracking how Moscow interprets and signals about Georgia policy.
-- **Freedom House Internet Freedom report:** Annual benchmark. Caucasus Watch typically has the most detailed Georgia-specific writeup. Track year-over-year score changes as key data points.
 
-## Key Analysts/Commentators to Track
-- **Salome Zurabishvili** (former President) — Voice of pro-democracy camp; warnings about "giving away Georgia"
-- **Valeri Chechelashvili** (diplomat, Georgia First movement) — Insider analysis of US strategic framework
-- **Stephen F. Jones** (Harvard/Ilia State) — Leading Western academic on Georgian politics
-- **Irakli Kobakhidze** (PM) — Primary source for GD's stated foreign policy
-- **Joe Wilson** (R-SC) — Congressional pushback on GD; sponsor of Caucasus bills
-- **James Carafano** (Heritage Foundation) — Key voice on Trump administration's approach to Georgia
-- **Georgi Gakharia** (former PM, "For Georgia" party) — Opposition figure with insider knowledge of GD's trajectory
-- **Keti Korkiya** (FDD) — Analyst tracking Georgia-Serbia authoritarian parallel and China ties
-- **Emil Avdaliani** (CACI Analyst / Turan Research Center / European University) — Anaklia port and Middle Corridor geopolitics; frequent analyst on Georgia's connectivity strategy
+- SovaNews, OC Media, JAMnews and Civil.ge cover the same daily briefing; add only the version with original detail or analysis.
+- HR 7668 (Countering China's Control of the Caucasus) is not HR 9086 (Foreign Service amendments).
+- Rubio and Kobakhidze statements are syndicated near-identically; keep the most complete version.
+- Multiple SCEEUS reports on Georgia exist; check that the report, not just the institution, is new.
+- Russian trade-ban coverage: JAMnews carries the expert analysis, Civil.ge the shorter official version.
+- Venice Commission coverage: Civil.ge has the fullest text and links to the opinion.
+- Rio Times-style aggregation and AI summaries should be cross-checked against primary reporting.
 
-|## Active Strategic Debates (August 2026)
-|1. **US Reset: durable or theatrical?** Trump admin pursuing engagement vs Congress demanding conditionality.
-|2. **Gray zone thesis:** Georgia becoming sanctions-evasion hub + uncontrolled financial flows.
-|3. **560+ day protest sustainability:** Can civil society maintain pressure without opposition party infrastructure?
-|4. **Anaklia port:** China exits (July 2026). GD's "landlord" model seeks multiple partners.
-|5. **Russia's weakening leverage:** Does Ukraine war's trajectory make GD's Russia gambit obsolete?
-|6. **Serbia-GD axis:** New authoritarian solidarity network.
-|7. **Hungary's political shift:** Magyar replacing Orbán removes GD's key EU institutional patron.
-|8. **Georgia as tariff-circumvention conduit:** White House "Great Transshipment Scam" report names Georgia in China's shadow shipping network ($1.98B Chinese imports vs $120M exports to US).
-|9. **NATO exclusion:** Georgia excluded from NATO summit for second year running. Relations "effectively frozen" per former Defense Minister Khidasheli. Military cooperation continues by inertia.
-|10. **Internal GD implosion:** Garibashvili's public accusation of Ivanishvili signals deepening intra-party power struggle. Risk of defections and fragmentation.
-|11. **Georgia's Iran sanctions defiance:** Refusal to join EU Iran sanctions alongside Turkey and Serbia reinforces GD-Iran and Serbia-GD axes.
+## Priority Sources
+
+A categorized list is maintained at `/root/wiki/georgia/priority-sources.md`. Each run should read it first, check regional specialists, official sources and think tanks, then use Tavily searches to catch anything missed.

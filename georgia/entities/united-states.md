@@ -1,3 +1,9 @@
+---
+title: "United States"
+summary: "The suspended US-Georgia strategic partnership and Washington's transactional, connectivity-focused reset."
+role: "Country"
+---
+
 # United States
 
 The US-Georgia relationship has undergone a dramatic transformation. Once considered Georgia's most important strategic partner (Georgia was a top per-capita contributor to US-led missions in Iraq and Afghanistan), the relationship deteriorated sharply after 2024.

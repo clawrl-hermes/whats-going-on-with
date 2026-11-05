@@ -1,3 +1,9 @@
+---
+title: "Georgian Dream (GD)"
+summary: "Georgia's governing party since 2012, led informally by Bidzina Ivanishvili and pursuing regime survival through multi-alignment."
+role: "Political party"
+---
+
 # Georgian Dream (GD)
 
 Georgia's ruling party since 2012, founded by billionaire Bidzina Ivanishvili who remains the de facto ruler despite holding no formal office. GD has governed Georgia for over a decade and has shifted from a nominally pro-Western orientation to an increasingly anti-Western, regime-survival-focused posture since 2022.
@@ -12,14 +18,14 @@ Georgia's ruling party since 2012, founded by billionaire Bidzina Ivanishvili wh
 - **2022–present:** Post-Ukraine invasion, pivoted to "pragmatic" neutrality, passed foreign agents law, suspended EU accession talks, cracked down on protests, sought transactional engagement with both US and Russia
 - **2026:** Attempting rapprochement with Trump administration while accelerating pivot to China and maintaining functional ties with Moscow
 
-|## China pivot (2026)
+## China pivot (2026)
 GD has dramatically deepened ties with China in 2026:
-|- **June 9:** Upgraded to "comprehensive strategic partnership" with Xi Jinping
-|- Kobakhidze called China "the only peaceful superpower" and the partnership "exemplary" (not "on paper" like the US relationship)
-|- 14 agreements signed since 2023, 6 more pending
-|- Trade grew 17% (2024), 21% (2025), and 45% YoY (Jan-Apr 2026)
-|- China now Georgia's 3rd largest trading partner (2nd in exports)
-|- **Oct 2026 update:** Kobakhidze announced exports to China surged 177% in Jan-Aug 2026. China became Georgia's #1 FDI source in H1 2026 ($236M), overtaking the UK. 14 weekly flights now operate. Free trade talks ongoing with South Korea, Serbia, and GCC.
+- **June 9:** Upgraded to "comprehensive strategic partnership" with Xi Jinping
+- Kobakhidze called China "the only peaceful superpower" and the partnership "exemplary" (not "on paper" like the US relationship)
+- 14 agreements signed since 2023, 6 more pending
+- Trade grew 17% (2024), 21% (2025), and 45% YoY (Jan-Apr 2026)
+- China now Georgia's 3rd largest trading partner (2nd in exports)
+- **Oct 2026 update:** Kobakhidze announced exports to China surged 177% in Jan-Aug 2026. China became Georgia's #1 FDI source in H1 2026 ($236M), overtaking the UK. 14 weekly flights now operate. Free trade talks ongoing with South Korea, Serbia, and GCC.
 - Visa-free regime, direct flights, educational cooperation established
 - **Middle Corridor:** Container traffic grew 71% in Jan-Aug 2025; cargo volume 15x higher in 2024 than previous year
 - **Energy:** Economy Minister Kvrivishvili discussed oil/gas extraction with Chinese firms (Geo-Jade, ZhenHua Oil) in April 2026
@@ -107,8 +113,8 @@ SCEEUS Commentary no. 9 (June 23, 2026) analyzed the complete breakdown of once-
 - 66.2% of Ukrainians disapprove of Georgia's abandonment of European integration.
 - The new Hungarian PM Peter Magyar (replacing Orbán) is likely to be less supportive of GD in EU forums.
 
-|## Timeline
-|- **2026-08-04:** Kobakhidze publishes detailed social media post defending GD's Russia policy — argues opposition became anti-Russian only after 2022, not after 2008 war, accusing them of serving a "global war party." Claims UNM government itself promoted Russian tourism and investment after 2008.
-|- **2026-09-15:** GD adds For Georgia (Gakharia's party) to constitutional court lawsuit seeking to ban all 4 major opposition parties — the only remaining parliamentary opposition.
-|- **2026-10-09:** Russia bans imports from 7 Georgian companies — directly undermines GD's claim that maintaining Russia ties protects Georgia's economic interests. Kobakhidze says government "working on the issue" as experts link ban to GD's failure to meet Kremlin commitments.
-|- **2026-10-13:** Constitutional Court judge Manana Kobakhidze (GD founder, former MP) resigns after recusal denied in party-ban case. GD may lack 90 votes needed to replace her; 2 of 9 seats now vacant. Third judge departure since party ban filed.
+## Timeline
+- **2026-08-04:** Kobakhidze publishes detailed social media post defending GD's Russia policy — argues opposition became anti-Russian only after 2022, not after 2008 war, accusing them of serving a "global war party." Claims UNM government itself promoted Russian tourism and investment after 2008.
+- **2026-09-15:** GD adds For Georgia (Gakharia's party) to constitutional court lawsuit seeking to ban all 4 major opposition parties — the only remaining parliamentary opposition.
+- **2026-10-09:** Russia bans imports from 7 Georgian companies — directly undermines GD's claim that maintaining Russia ties protects Georgia's economic interests. Kobakhidze says government "working on the issue" as experts link ban to GD's failure to meet Kremlin commitments.
+- **2026-10-13:** Constitutional Court judge Manana Kobakhidze (GD founder, former MP) resigns after recusal denied in party-ban case. GD may lack 90 votes needed to replace her; 2 of 9 seats now vacant. Third judge departure since party ban filed.

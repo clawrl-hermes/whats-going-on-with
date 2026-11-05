@@ -1,3 +1,8 @@
+---
+title: "Regime Survival Doctrine"
+summary: "Georgian Dream's transactional foreign policy of avoiding Russian provocation while keeping minimal Western engagement."
+---
+
 # Regime Survival Doctrine
 
 Georgian Dream's foreign policy since 2022 can best be understood as a "regime survival doctrine" — prioritizing the party's hold on power over any consistent ideological or strategic orientation. This explains Georgia's seemingly contradictory moves: seeking a US reset while cozying up to Moscow, suspending EU talks while claiming to want eventual membership, cracking down on protesters while making belated arrests of police officers involved in violence.

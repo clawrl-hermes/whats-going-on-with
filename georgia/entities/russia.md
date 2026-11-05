@@ -1,3 +1,9 @@
+---
+title: "Russia"
+summary: "The occupying power in Abkhazia and South Ossetia, using trade, energy and security leverage to keep Georgia dependent."
+role: "Country"
+---
+
 # Russia
 
 Russia remains the most consequential external actor in Georgia's geopolitical positioning. Moscow occupies approximately 20% of Georgian territory (Abkhazia and South Ossetia) since the 2008 war and maintains significant military presence there. Russia's invasion of Ukraine in 2022 paradoxically created both pressure and opportunity for Georgia: pressure because it demonstrated Russia's willingness to use military force against neighbors seeking Western integration, and opportunity because Russia's international isolation made it less able to punish Georgia for drifting away from the West.
