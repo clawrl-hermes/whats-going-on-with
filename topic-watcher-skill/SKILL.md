@@ -8,7 +8,7 @@ metadata:
 
 # Topic Watcher
 
-Manage a multi-topic research wiki system. Each topic lives in its own folder under `/root/wiki/` with standardized structure: sources, timeline, entities, concepts, and automated watch reports with PDF generation.
+Manage a multi-topic research wiki system. Each topic lives in its own folder under `/root/wiki/` with standardized structure: sources, timeline, entities, concepts, and automated weekly source monitoring.
 
 ## Support Files
 
@@ -121,7 +121,7 @@ topics:
 
 **Trigger:** User says "list topics", "show topics", "status", or "check topics".
 
-Read `/root/wiki/_config.yaml` and for each topic show: name, slug, path, creation date, source count, latest watch report, cron job next runs.
+Read `/root/wiki/_config.yaml` and for each topic show: name, slug, path, creation date, source count, latest source update, cron job next runs.
 
 ### Remove a Topic
 
@@ -226,7 +226,6 @@ This is distinct from the cron-based weekly source monitor — the user is handi
    - **Dedup pitfalls:** Have you encountered new duplication patterns? Document them.
    - **High-signal source types:** Have new reliable outlets or source categories emerged? Add them.
    - **Entities/concepts:** Have new entities or concepts been added to the wiki? Add tracking sections.
-   - **Prediction history:** Has a new watch report been generated? Add the row.
 
 3. **Update the file** with the new information. Use the same structure as the existing `templates/domain-notes.md` template.
 
