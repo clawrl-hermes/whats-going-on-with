@@ -128,8 +128,14 @@ As agreed: **month or season is the lowest unit shown**, and each event is a sub
 
 ## What the build does with problems
 
-- **`overview.md`, updates, articles:** an error fails the build. The previous deploy stays live, and the log names the file and line. This stops a half-written file from being published.
-- **Everything else** (wiki pages, sources, timeline): a problem is a warning in the build log. The offending row or page is skipped, or falls back (title from the first `#`, summary from the first paragraph).
+- Anything the site would have to leave out or show garbled is an error and fails the build. The previous deploy stays live, and the log names the file and line.
+  - an overview.md, update or article that breaks the contract
+  - a wiki page whose frontmatter can't be read, or that has no body
+  - a source row, or text outside the table, in the wrong format
+  - a timeline line in the wrong format, or more than one file in timeline/
+  - a stray | in front of a list item
+- A problem the content survives is a warning in the build log: a missing title or summary, an unknown frontmatter key, a heading that differs from the title, a month with no events, or a missing sources.md or timeline.
+- A topic with no overview.md is not read, so it can be cleaned up without breaking the build.
 
 ## What the agent does differently
 
