@@ -1,5 +1,6 @@
 ---
 title: Key Conclusions on China-Sri Lanka Financial Relations
+summary: "Synthesized findings on Chinese lending, the debt-trap question and Sri Lanka's post-crisis recovery."
 created: 2026-05-20
 updated: 2026-05-20
 type: summary

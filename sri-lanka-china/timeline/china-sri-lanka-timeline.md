@@ -1,316 +1,121 @@
----
-title: Timeline of China-Sri Lanka Financial Relations
-created: 2026-05-20
-updated: 2026-10-15
-type: timeline
-tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
-sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-confidence: high
----
-
-# Timeline of China-Sri Lanka Financial Relations
-
-A chronological overview of key events in the financial relationship between China and Sri Lanka, from early grant-based cooperation through the 2022 sovereign default and subsequent debt restructuring.
-
-## 1970s -- Early Grant-Based Relations
-China provided outright grants to Sri Lanka, including construction of a convention centre. Relations were diplomatic and non-commercial.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-
-## 2005 -- Mahinda Rajapaksa Elected President
-Rajapaksa came to power and began steering Sri Lanka toward China as a primary development partner. This was partly driven by the civil war (1983-2009), during which Western nations and India were less willing to provide financial and military support. China stepped in as a reliable source of funding.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## 2006 -- Norochcholai Coal Power Plant (Phase 1)
-China Exim Bank extended a $1.35 billion loan for Sri Lanka's first coal-fired power station in Puttalam. This was one of the earliest and largest Chinese infrastructure loans. The project later drew environmental criticism.^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]
-
-## 2007 -- Hambantota Port (Phase 1)
-China Exim Bank provided $307 million for the first phase of a deep-sea port in Hambantota, Rajapaksa's home district. The port was strategically located near major Indian Ocean shipping lanes but was commercially questionable from the start. Sri Lanka had initially approached India and Japan to finance the port; both declined.^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-
-## 2008 -- Global Financial Crisis
-The global crisis hit Sri Lanka's export revenues and remittances. At the same time, Sri Lanka graduated to lower-middle-income status, which began reducing its access to concessional (soft) loans from multilateral institutions like the World Bank and Asian Development Bank. This pushed the government toward commercial borrowing.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-
-## 2009 -- End of the Civil War
-The 26-year civil war ended in May 2009. Post-war reconstruction needs and Rajapaksa's desire to develop the country's infrastructure accelerated borrowing from China. Two more loans were signed this year: $65 million for a bunkering facility at Hambantota and $248 million for the Colombo-Katunayake Expressway. China was among the strongest supporters of Sri Lanka's military campaign against the LTTE and provided weaponry throughout the war.^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## 2010 -- Mattala Rajapaksa International Airport
-China Exim Bank provided $191 million (with total project cost around $210 million) for an international airport in Hambantota. The airport was widely criticized as a "white elephant" -- built in a sparsely populated area with almost no passenger demand. It became a symbol of politically motivated Chinese-funded projects.^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]
-
-## 2011 -- Colombo International Container Terminal (CICT)
-China Merchants Port Holdings invested in a joint venture with the Sri Lanka Ports Authority to operate a new terminal at Colombo Port. This was one of the more commercially successful Chinese investments -- CICT became profitable within a year and now handles 38% of Colombo Port's container traffic.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-
-## 2012 -- Multiple Major Projects
-Three major Chinese-funded projects were launched or financed:
-- Colombo Port City Phase I ($1.4 billion from China Development Bank) -- an ambitious land reclamation project to build a new financial district on 575 acres of reclaimed sea
-- Hambantota Port Phase II SOT ($390 million from China Exim Bank)
-- Lotus Tower ($104 million from China Exim Bank)^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]
-
-## 2013 -- Belt and Road Initiative Announced
-China formally launched the BRI. Sri Lanka was positioned as a key node on the "21st Century Maritime Silk Road" given its strategic location in the Indian Ocean. Several existing and planned projects were folded under the BRI umbrella.
-
-## 2014 -- Hambantota Industrial Zone
-A $200 million loan from China Exim Bank was provided for an industrial zone near Hambantota Port. The zone was intended to generate economic activity around the underused port but attracted limited investment. Chinese submarines docked at Colombo harbor twice this year, despite India's objections.^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## 2015 -- Rajapaksa Loses Power
-Maithripala Sirisena won the presidency in January 2015, defeating Mahinda Rajapaksa. The new government reviewed several Chinese projects. Colombo Port City was suspended in 2016 over environmental and sovereignty concerns, though it was later relaunched in 2017 under revised terms. Sirisena promised "equal relations" with India and China.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## 2017 -- Revised Hambantota Deal
-Facing mounting debt and the port's inability to generate sufficient revenue, the Sri Lankan government signed a revised agreement with China Merchants Port Holdings. China Merchants received a 70% stake and a 99-year lease to operate Hambantota International Port. This deal became the centerpiece of the "debt-trap diplomacy" narrative globally. The lease was NOT a debt-for-equity swap -- CMPort paid $1.12 billion, more than the port's valuation.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-
-## 2018 -- New York Times Investigation
-The New York Times published a widely read investigation titled "How China Got Sri Lanka to Cough Up a Port," which popularized the idea that China deliberately lured Sri Lanka into unsustainable debt to seize strategic assets. The article drew both support and criticism from scholars.
-
-## 2019 -- Gotabaya Rajapaksa Elected
-Gotabaya Rajapaksa, Mahinda's brother and former defense secretary, won the presidency. His administration initially sought to renegotiate the Hambantota lease but ultimately maintained the arrangement. Foreign debt continued to grow. The return of the Rajapaksas set off alarm bells in New Delhi.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## 2020 -- COVID-19 Pandemic
-The pandemic devastated Sri Lanka's tourism industry and remittance inflows, two critical sources of foreign exchange. Foreign debt reached $56.3 billion, up from $11.3 billion in 2005. Debt-to-GDP ratio hit 119%.
-
-## January 2022 -- Debt Restructuring Request
-President Gotabaya Rajapaksa's office formally asked China to reschedule its debt burden during talks with Chinese Foreign Minister Wang Yi. China did not provide an official response at the time.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## April 12, 2022 -- Sovereign Default
-Sri Lanka announced it was suspending payments on approximately $46 billion in external debt -- the first sovereign default in the country's history since independence in 1948, and the first in the Asia-Pacific region in the 21st century. Foreign reserves had fallen to $1.9 billion, far short of the $4 billion in debt due that year. Inflation surged past 70%, fuel and medicine shortages became severe, and power outages were daily. Usable forex reserves were just $50 million.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## July 2022 -- Government Collapse
-Mass protests (the "Aragalaya" movement) forced President Gotabaya Rajapaksa to flee the country and resign. Prime Minister Ranil Wickremesinghe became president and began the process of economic stabilization. Public anger targeted the Rajapaksa family's corruption and closeness to China.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-
-## September 2022 -- Restructuring Process Begins
-Sri Lanka formally began debt restructuring negotiations with creditors, including China, the Paris Club, and international bondholders.
-
-## March 2023 -- IMF Program Starts
-The IMF approved a $2.9 billion Extended Fund Facility for Sri Lanka, contingent on progress with debt restructuring.
-
-## July 2023 -- Domestic Debt Optimization
-Sri Lanka's parliament voted on a domestic debt restructuring plan affecting pension funds, currency-denominated securities, and the Central Bank.
-
-## June 2024 -- Agreement with China Exim Bank
-Sri Lanka reached an agreement with China Exim Bank and the Official Creditor Committee (OCC) on restructuring terms for Chinese bilateral debt.
-
-## September 2024 -- Eurobond Agreement
-Sri Lanka reached a landmark agreement with international bondholders, achieving 98% participation -- a strong signal of returning investor confidence.
-
-## November 2024 -- Agreement with China Development Bank
-An agreement was reached with China Development Bank, with implementation beginning in December 2024. This completed the major bilateral Chinese debt restructuring.
-
-## December 2024 -- Bondholder Agreement Finalized
-The bondholder restructuring agreement was finalized, marking a critical turning point in Sri Lanka's post-crisis recovery.
-
-## January 2025 -- Beyond Debt: New Era
-The Diplomat reported on President Dissanayake's Beijing visit and the potential reset of China-Sri Lanka economic relations post-default, suggesting a new phase in the relationship.
-
-## June 2025 -- Bilateral Agreement with France
-Sri Lanka reached a bilateral agreement with France as part of ongoing Paris Club negotiations, continuing the broader creditor restructuring process.
-
----
-
-## 2026 -- India-China Competition Intensifies in Post-Reform Sri Lanka
-
-### January 2026 -- Wang Yi's Colombo Stopover and SINOPEC Refinery
-Chinese Foreign Minister Wang Yi stopped over in Colombo on his return from Africa. During the visit, Sri Lanka's Foreign Minister confirmed that the agreement for the SINOPEC oil refinery in Hambantota would be finalized in the first quarter of 2026, significantly enhancing the financial prospects of the Hambantota port ecosystem.
-
-### March 2026 -- Sri Lankan Parliamentary Study Tour to India
-A delegation of Sri Lankan parliamentarians from the Sectoral Oversight Committee on Infrastructure and Strategic Development completed a week-long study tour of India, encouraging greater Indian investment in Sri Lanka's infrastructure sector. This reflects President Dissanayake's pragmatic strategy of balancing ties with both India and China.
-
-### April 2026 -- India's Mazagon Dock Acquires Colombo Dockyard
-India's state-run Mazagon Dock Shipbuilders Ltd (MDL) acquired a 51% controlling stake in Sri Lanka's Colombo Dockyard PLC, establishing a strategic Indian foothold in the Port of Colombo and strengthening India's Indian Ocean presence.
-
-### May 2026 -- Mattala Airport Lease Offer
-Sri Lanka issued a fresh Expression of Interest (EoI) inviting foreign investors to take over the Mattala Rajapaksa International Airport (MRIA) in Hambantota under a 30-year build-operate-transfer model. The EoI includes two independent tracks: aerodrome operations and landside development of 238 hectares for MRO facilities, flying schools, logistics parks, solar installations, and industrial parks. The EoI deadline is June 9, 2026. India views this as a strategic opportunity to establish a presence near the China-controlled Hambantota port.
-
-### May 2026 -- STAIR Journal: "Is Geopolitics ending the IMF's Role?"
-Sri Lanka-based economist Talal Rafi published an op-ed in Oxford's STAIR Journal arguing that China's rise as the world's largest bilateral lender (Chinese rescue lending exceeded 40% of IMF lending from 2018-2021) is challenging the IMF's role as a neutral lender of last resort. Key points: China delayed IMF financing assurances for Sri Lanka by arguing multilateral debt should also be restructured; China's 2021 bailouts totaled $40B; IMF voting share reform remains contentious (China 6.08% vs Japan 6.14% despite China's economy being 4x larger). The US retains veto power at 16.49% voting share against the 85% supermajority threshold.
-
-### May 14, 2026 -- Lowy Institute: "Australia should see Sri Lanka as more than a China-India contest"
-Dr. Kulani Wijayabahu (University of Colombo) published an analysis in the Lowy Institute's Interpreter arguing that Sri Lanka's post-crisis recovery represents a test case for whether small Indian Ocean states can rebuild institutional autonomy amid great-power competition. Key new details:
-- China's January 2025 joint statement with Sri Lanka specifically reaffirmed BRI cooperation in Hambantota, Colombo Port City, logistics, green development, and the digital economy.
-- The 2025 IORA-BIMSTEC memorandum formally links Indian Ocean and Bay of Bengal regional frameworks.
-- Colombo Security Conclave is shaping India's broader Indian Ocean security architecture.
-- India-UAE development of Trincomalee as an energy hub extends Sri Lanka's strategic value beyond ports to fuel, pipelines, and energy resilience.
-
-### May 27, 2026 -- IMF Completes Combined 5th and 6th EFF Reviews (PR26/172)
-The IMF Executive Board completed the combined Fifth and Sixth Reviews under the Extended Fund Facility, providing SDR508 million (about US$695 million) in immediate access. Total purchases under the EFF arrangement reached SDR1.778 billion (about US$2.4 billion). All end-December 2025 quantitative performance criteria were met. Most structural benchmarks were met or implemented with a delay. Staff recommended approval of a waiver on new external arrears and exchange restrictions. Debt restructuring is nearing completion, but debt sustainability risks remain high. The war in the Middle East and Cyclone Ditwah aftermath pose downside risks, but the economy is expected to remain resilient. IMF staff discussions took place March 25 – April 9, 2026 in Colombo.
-
-### 2024 -- NPP Electoral Landslide and Dissanayake's Presidency
-The National People's Power (NPP) alliance, a coalition of socialist parties led by Anura Kumara Dissanayake's Janatha Vimuktha Peramuna (JVP), won a supermajority in snap parliamentary elections in November 2024, securing 159 of 225 seats (up from just 3 seats in the previous parliament). The victory was widely interpreted as public rejection of the corrupt, elite-dominated political status quo and the leaders associated with Sri Lanka's economic collapse. Despite campaigning against IMF reforms, Dissanayake maintained the existing program, arguing recovery was too fragile to risk disruption. Sri Lanka's GDP grew 5% in 2024.
-
-### 2025 -- India-Sri Lanka Defense Cooperation Agreement
-India and Sri Lanka signed their first formalized framework for bilateral security relations, deepening defense ties. This followed India being Sri Lanka's most active supporter during the 2022 twin crises and after Cyclone Ditwah devastated Sri Lanka in 2025. India's total investment in Sri Lanka exceeded $2 billion.
-
-### June 9, 2026 -- Sri Lanka's Tourism Push in China; 70th Anniversary of Diplomatic Relations Announced
-Sri Lanka's Deputy Chief of Mission in Beijing highlighted tourism as a new bridge strengthening China-Sri Lanka ties. Key data: Sri Lanka welcomed more than 2 million international visitors in 2025; 23 direct flights per week operate between Sri Lanka and the Chinese mainland; Chinese citizens receive free tourist Electronic Travel Authorization for stays up to 30 days. Both countries agreed to jointly commemorate the 70th anniversary of diplomatic relations in 2027.
-
-### June 2026 -- IDSA Issue Brief: India and China's Economic Engagement Post-2022 Crisis
-The Institute for Defence Studies and Analyses (IDSA) published a comprehensive issue brief with significant new data on post-crisis economic engagement. Key findings: China suffered $7 billion in losses from debt restructuring; Sri Lanka's outstanding debt to China fell from $8 billion (2022) to $4.9 billion (2025); China's share of external bilateral debt decreased from 57% (2022) to 45.3% (2024-2025), though it remains the largest bilateral lender. The SINOPEC Hambantota oil refinery ($3.7 billion) faces delays as China demands to sell 30% of output locally versus the current 20%. India's UPI was launched in Sri Lanka; bilateral trade surpassed $5.5 billion in 2024. India's FDI was $213 million in FY2025 (2nd largest after Singapore), while China's accumulated FDI stands at $15 billion over two decades. Adani took over the West Container Terminal in 2025, and an India-UAE-Sri Lanka Trincomalee energy hub MoU was signed in 2025.
-
-### May 25, 2026 -- Port City Colombo: $1.3-1.4B Invested, 150+ Companies Licensed
-China Focus published a detailed analysis of Port City Colombo's progress. Key data: approximately $1.3-1.4 billion has been invested in land reclamation and core infrastructure; more than 150 companies have been licensed under the Colombo Port City Economic Commission framework; South Asia's first downtown duty-free retail mall (outside an airport) is operational; Bay One Residences (first residential tower) is under active construction. Independent projections estimate the project could support more than 80,000 jobs and add $13-15 billion to GDP and $5 billion in fiscal revenue annually when fully completed.
-
-### June 9, 2026 -- Coral Reef "Biobank" Discovered at Hambantota Port
-Xinhua reported that a surprising coral reef ecosystem is flourishing within Hambantota Port's underwater infrastructure. Despite global coral decline, researchers found a balanced reef community thriving within the port's limited underwater space — an unintended ecological consequence of the BRI deep-water port construction.
-
-### June 14, 2026 -- Dragon Boat Festival at Colombo Port City
-The 2026 Dragon Boat Cultural Festival and China–Sri Lanka Friendship Cup Regatta was held at Colombo Port City, co-hosted by the Chinese Embassy and Sri Lanka's Ministry of Youth Affairs and Sports. Over 1,000 participants attended, including Chinese Ambassador Qi Zhenhong. 19 teams competed. The event signals the use of cultural diplomacy to reinforce Port City as a bilateral showcase project.
-
-### June 24, 2026 -- Q1 2026 External Debt Data Released (March 2026 Bulletin)
-Sri Lanka's March 2026 Statistical Debt Bulletin (Public Debt Management Office) reported total government external debt at USD 37,468 million, down $195M from Q4 2025. Debt composition: multilateral 38%, commercial 34%, bilateral 28%. Within the bilateral segment, non-Paris Club nations (led by China) hold 59% vs Paris Club's 41%. ADB and World Bank represent over 82% of multilateral debt. 81% of commercial debt is International Sovereign Bonds.
-
-### December 2025 Statistics -- Updated Bilateral Debt Figures (Published April 2026)
-Updated Sri Lankan treasury data revealed bilateral debt figures as of December 2025:
-- Outstanding debt to China: **USD 4.974 billion**
-- Outstanding debt to India: **USD 0.984 billion**
-This confirms China remains Sri Lanka's largest bilateral creditor by a wide margin.
-
-### June 11-16, 2026 -- Sri Lanka's Largest-Ever Trade Delegation to China-South Asia Expo
-Sri Lanka participated in the 10th China–South Asia Exposition in Kunming with over 250 business representatives from approximately 100 exporters — one of the country's largest-ever business contingents to the event. Led by Trade Minister Wasantha Samarasinghe, the delegation featured a 100-booth Sri Lanka Pavilion (1,000+ sqm) showcasing tea, spices, gems, apparel, and other exports. A B2B matchmaking event produced a MoU between Sri Lankan liquor exporter Premium Beverages and a leading Chinese distributor. China also offered Sri Lankan exporters free warehouse access at the Kunming Comprehensive Bonded Zone. The Sri Lanka Department of Commerce received the "Outstanding Exhibition Organizer Award."
-
-### June 13, 2026 -- Dissanayake Meets CHEC Chairman, Reaffirms Port City Commitment
-President Dissanayake met with Mr. Bai Yinzhan, Chairman of China Harbour Engineering Company (CHEC), at the Presidential Secretariat. CHEC — the main Chinese developer of Colombo Port City — expressed confidence in Sri Lanka's investment climate. Dissanayake emphasized FDI as vital to economic growth, highlighted policy stability from IMF agreements, and reaffirmed that transforming Port City Colombo into a modern economic zone remains a key government priority. He also thanked CHEC for assisting communities affected by Cyclone Ditwah.
-
-### June 24-30, 2026 -- IMF Mission Visits Colombo; Seventh Review Scheduled for Fall
-An IMF mission led by Evan Papageorgiou visited Colombo to review macroeconomic developments and program progress. Key findings: the Middle East war drove inflation from 1.6% (February) to 5.5% y/y (May 2026); the Central Bank responded with a 100-basis-point rate hike; the government deployed temporary fuel, electricity, and fertilizer subsidies plus cash transfers. The authorities committed to returning to a primary balance target of 2.3% of GDP in 2027. The IMF noted that debt restructuring is "nearing completion" but emphasized accelerating PDMO capacity building. The mission met with President Dissanayake, PM Amarasuriya, CBSL Governor Weerasinghe, and other senior officials. The formal Seventh EFF Review mission is scheduled for fall 2026.
-
----
-
-## Key Statistics
-
-### July 1, 2026 -- World Bank Reclassifies Sri Lanka as Upper-Middle-Income Economy
-The World Bank's annual income classification update, released July 1, 2026, reclassified Sri Lanka from lower-middle to upper-middle income. Sri Lanka's Atlas GNI per capita reached $4,670 in 2025 (up 11.2%), narrowly crossing the $4,636 threshold. Real GDP grew 5% in 2025, driven by broad-based recovery across industry, manufacturing, financial services, and tourism. The World Bank described the country as "a story of recovery" and the reclassification as "a marker of resilience." Sri Lanka first entered this category in 2019 before falling back during the 2022 economic crisis. The milestone serves as a symbolic marker of the nation's IMF-backed economic rebound.^[The Hindu, July 2, 2026]^[Xinhua, July 2, 2026]^[World Bank blog, July 1, 2026]
-
-### July 2, 2026 -- CPC 105th Anniversary: Ambassador Qi Pledges Party-to-Party Cooperation
-Chinese Ambassador Qi Zhenhong hosted a reception in Colombo marking the 105th anniversary of the founding of the Communist Party of China, attended by representatives of all major Sri Lankan political parties: JVP (Tilvin Silva), SJB (Sajith Premadasa), SLPP (Sagara Kariyawasam), UNP (Wajira Abeywardena), and CPSL (G. Weerasinghe). The CPC pledged to strengthen exchanges on governance, poverty alleviation, and digital cities. The ambassador emphasized the "successful meeting between President Xi Jinping and President Anura Kumara Dissanayake" as providing a new blueprint for bilateral relations and reaffirmed China's commitment to the Belt and Road Initiative, Global Development Initiative, and other multilateral frameworks.^[Newswire, July 2, 2026]
-
-### July 2026 -- China EXIM Bank Vice President Visits Sri Lanka; Central Expressway Amendment Progressed
-A high-level delegation from the Export-Import Bank of China, led by Vice President Yang Dongning, visited Sri Lanka for discussions with Deputy Finance Minister Dr. Anil Jayantha Fernando and senior Treasury officials. The key agenda item was the amended Financing Agreement for Section I of the Central Expressway Project (Kadawatha-Meerigama), financed by China EXIM Bank. Both sides reviewed the amendment process, and the Sri Lankan government expressed its intention to complete all formalities and sign the amended agreement before the end of August 2026. Dr. Fernando outlined the government's strategy prioritizing tourism, value-added manufacturing, logistics, energy, and IT. This represents the first substantive EXIM Bank engagement with the Dissanayake administration on an active infrastructure project since the debt restructuring.^[Global CEO Magazine, July 2026]
-
-### June 23, 2026 -- AidData Report: China Eximbank Requiring Yuan-Denominated Borrowing from Sri Lanka
-A Reuters-reported AidData study revealed that China Eximbank is now encouraging — and in some cases requiring — sovereign borrowers including Sri Lanka to take loans in yuan rather than dollars. The shift is part of a broader strategy to accelerate RMB internationalization. At least five other nations (Ethiopia, Mozambique, Zambia, Pakistan, Indonesia) are exploring similar conversions. The report warns that yuan-denominated borrowing is not risk-free: local currency depreciation against the RMB or costly RMB liquidity could erode the benefits of lower interest rates. This represents a significant structural shift in China's bilateral lending practices with direct implications for Sri Lanka's future borrowing terms.^[Reuters, June 23, 2026]
-
-### July 28, 2026 -- Sri Lanka Issues Forced-Labor Import Ban; Risk of Diplomatic Cost with China
-Sri Lanka gazetted a blanket ban on importing goods produced using forced labor (early July 2026) to secure a lower 10% US tariff under Trump's Section 301 regime on countries that fail to prohibit forced-labor imports. While Sri Lankan exporters (apparel was $4.9B in 2025, 25% to US) welcomed the lower rate, The Diplomat analysis by Rathindra Kuruwita argues the move carries diplomatic risk: the forced-labor narrative is widely understood by analysts to target China's Xinjiang cotton industry, despite data showing 97% mechanization in Chinese cotton farming and over 90% machine-picking in Xinjiang. For a country deeply tied to China through trade, investment, and debt — including outstanding bilateral debt of $4.974B and a $3.7B SINOPEC refinery at stake — lending legitimacy to a contested US narrative against Beijing sends a dangerous signal. The episode illustrates the narrowing policy space for small states caught between competing great powers.^[The Diplomat, July 28, 2026]
-
-### July 7, 2026 -- MSC in Talks to Acquire Stake in Hambantota Port; Transshipment Calls Switching from Colombo
-Mediterranean Shipping Co. (MSC), the world's largest container shipping line, entered discussions with China Merchants Port Holdings (CMPort, 85% owner) and the Sri Lanka Ports Authority (15% owner) to acquire a significant stake in Hambantota International Port, according to multiple local industry sources cited by the Journal of Commerce. MSC has already started switching transshipment calls from Colombo to Hambantota for regular and ad hoc sailings. An official announcement is expected soon. This development would bring a major global shipping operator into the Chinese-controlled port, potentially transforming its commercial viability and marking a new phase in the port's post-lease history.^[Journal of Commerce, July 7, 2026]
-
-### July 29, 2026 -- Ambassador Qi Zhenhong Concludes Six-Year Tenure; Renews FTA Push
-Chinese Ambassador Qi Zhenhong, who served in Colombo for nearly six years (2020-2026) through Sri Lanka's worst economic crisis in history, concluded his assignment. In a farewell commentary published by the Daily FT, Qi strongly rejected the "debt trap" narrative and reiterated that Chinese investments were intended to strengthen Sri Lanka's productive capacity. He renewed China's call for a comprehensive China-Sri Lanka Free Trade Agreement (FTA), negotiations for which have been stalled since 2017. He outlined a vision of a "China-Sri Lanka community with a shared future" with expanded cooperation into agriculture, climate change, marine research, youth development, education, healthcare, sports, and technology. Qi was the first bilateral creditor representative to reach an agreement framework on debt restructuring during the 2022 crisis. His departure marks a significant diplomatic transition at a critical juncture in China-Sri Lanka relations.^[Daily FT, July 29, 2026]
-
-### July 27-28, 2026 -- IIF 2026 Report: Sri Lanka 4th-Fastest Improver in Investor Relations and Debt Transparency
-The Institute of International Finance (IIF) published its 2026 Investor Relations and Debt Transparency Assessment, "The Transparency Dividend." Sri Lanka ranked 4th among countries with the largest improvement in investor relations practices (behind Vietnam, Belize, Mozambique). Sri Lanka's overall Investor Relations Country Score rose to 43.67/50 (from 37.33 in 2025), placing it in the top quartile of 57 emerging markets. Debt Transparency score reached 11.25/13 (5th-highest improver). ESG Data score: 3.25/4.0. The improvement reflects the launch of Sri Lanka's formal Investor Relations Program (IRP) in December 2024 under the Ministry of Finance. The IIF noted that Sri Lanka's progress in ESG data disclosure was among the most notable year-on-year increases, alongside Thailand, Ethiopia, El Salvador, Belize, and Nigeria.^[News 1st, July 28, 2026]^[EconomyNext, July 27, 2026]
-
-### H1 2026 -- GreenFDC Report: Sri Lanka Sees 100% Drop in Chinese BRI Engagement
-The Green Finance & Development Center (Fudan University) published its H1 2026 BRI Investment Report, revealing that Sri Lanka was among 17 countries with a 100% drop in BRI engagement compared to H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. No new Chinese BRI-related investment announcements or construction contracts were recorded in Sri Lanka in H1 2026. This contrasts with record global BRI engagement of USD 126.4 billion (construction USD 76.5B + investment USD 49.8B), with gains concentrated in Africa, the Middle East, and Central Asia. Sri Lanka's absence from new BRI flows reflects post-restructuring caution and the depletion of previous project pipelines.^[Green Finance & Development Center, BRI 2026 H1 Report, July 2026]
-
-### August 10, 2026 -- Treasury Investor Call: Debt Restructuring 94% Implemented; IMF Reserves US$6.5B
-Sri Lanka's Ministry of Finance and Central Bank held an investor presentation providing the most comprehensive official status update on the post-restructuring economy. Key data: total IMF disbursement SDR1.78bn (~US$2.4bn); gross official reserves US$6.5bn at end-June 2026; Q1 2026 real GDP grew 5.1% y/y; primary surplus 5.4% of GDP in 2025 (well above 2.3% program target). Debt restructuring: 11 bilateral OCC agreements totaling US$4.3bn (10 signed); under 99% of creditors agreed on terms; over 94% of public external debt restructuring implemented. China Exim Bank ($4.225B) and China Development Bank ($3.222B) concluded. Sinosure/HSBC ($153M) and Sinosure/ICBC ($27M) ongoing. Credit ratings exited default (CCC+/Caa1/CCC+). Moody's cited 5.1% Q1 growth and strengthening consumer sentiment. IMF DSA targets: 95% debt-to-GDP by 2032.^[Sri Lanka Ministry of Finance Investor Call, August 10, 2026]
-
-### August 11, 2026 -- New Chinese Ambassador Wei Huaxiang Arrives in Sri Lanka
-Mr. Wei Huaxiang, appointed by the Government of the People's Republic of China as the new Ambassador to Sri Lanka, arrived in Colombo to assume his post, succeeding Ambassador Qi Zhenhong who concluded his nearly six-year tenure.^[The Morning, August 26, 2026]
-
-### August 25, 2026 -- Ambassador Wei Huaxiang Presents Credentials to President Dissanayake
-Ambassador Wei Huaxiang presented his credentials to President Anura Kumara Dissanayake at the Presidential Secretariat, Colombo, officially commencing his ambassadorial tenure. Minister of Foreign Affairs Vijitha Herath and Secretary to the President Nandika Sanath Kumanayake were present. The appointment completes the diplomatic transition at a critical juncture as Sri Lanka exits debt restructuring, China pushes for a renewed FTA, and bilateral relations shift focus toward trade and grant-based assistance.^[Ministry of Foreign Affairs, Sri Lanka, August 25, 2026]^[The Morning, August 26, 2026]
-
-### August 26, 2026 -- China Grants RMB 79 Million for Cyclone Ditwah Bridge Reconstructions
-China pledged a grant of RMB 79 million (~US$11M) to Sri Lanka to reconstruct 14 bridges severely damaged by Cyclone Ditwah in the Western, Sabaragamuwa, North Western, and North Central provinces. The funding is a grant, not a loan -- Sri Lanka has no repayment obligation. Cabinet approved the project with Minister Nalinda announcing the grant. This marks a notable shift toward grant-based Chinese assistance in the post-restructuring period, contrasting with the loan-heavy model of pre-crisis BRI engagement.^[EconomyNext, August 26, 2026]^[Lanka Newspapers, August 26, 2026]
-
-### August 28, 2026 -- PDMO Issues Q2 2026 Statistical Debt Bulletin
-The Public Debt Management Office issued the Statistical Debt Bulletin for Q2 2026 (as of June 30, 2026), revealing total public debt at Rs. 32.977 trillion (~US$97.95 billion). Key data: total government external debt US$38.01 billion; China remained the largest bilateral creditor at US$5.01 billion outstanding (up from $4.974B at Dec 2025); bilateral debt accounts for 28% of external debt, with non-Paris Club creditors (led by China) holding 59%. Total external debt composition: 38% multilateral, 34% commercial, 28% bilateral.^[Newswire, September 1, 2026]
-
-### August 30, 2026 -- Sri Lanka-China Business Council 25th Anniversary Meeting
-The Sri Lanka-China Business Council held its 25th anniversary gathering in Colombo. Council President Haroun Cader emphasized the need for Sri Lankan SME access to Chinese markets and investors. The meeting highlighted the transition from debt-financed mega infrastructure toward investment in energy, manufacturing, logistics, and commercially productive ventures. The proposed $3.7B Sinopec refinery at Hambantota and Colombo Port City development were discussed as flagship projects of the new phase. The FTA dilemma was noted: Sri Lanka needs Chinese market access but must safeguard its smaller industrial base.^[Lanka News Web, August 30, 2026]
-
-### September 9-10, 2026 -- Sri Lanka Participates in 11th Belt and Road Summit in Hong Kong
-Trade Minister Wasantha Samarasinghe represented Sri Lanka at the 11th Belt and Road Summit in Hong Kong, co-organized by the Hong Kong Trade Development Council and the HKSAR Government. The summit, held under the theme "Advancing High-Quality Development · Embarking on a New Journey," drew ~100 policymakers and business leaders from BRI countries. Samarasinghe participated in a policy dialogue session "Building Resilient Trade and Investment Frameworks in a Diverse Global Landscape" chaired by Hong Kong SAR Commerce Secretary Algernon Yau, alongside ministers from Bangladesh, Thailand, Qatar, Kazakhstan, and Timor-Leste. He highlighted Sri Lanka's potential as a regional maritime and trade hub and called for opening new foreign markets and attracting value-added investments. The participation signals Sri Lanka's continued high-level engagement with the BRI framework under the Dissanayake administration, with trade and investment diversification as the core emphasis rather than infrastructure lending.^[Newswire, September 9, 2026]^[China Daily HK, September 9, 2026]
-
-### Late August / September 2026 -- Cabinet Approves $500M Yuan-Denominated EXIM Bank Loan for Central Expressway
-President Dissanayake secured cabinet approval to borrow the equivalent of US$500 million in renminbi (RMB) from China Exim Bank for Section I of the Central Expressway (Kadawatha-Meerigama) — Sri Lanka's first-ever yuan-denominated bilateral loan. The shift from USD to RMB was at China Exim Bank's request. The original 2019 preferential buyer's credit of US$989M had only US$51.5M disbursed before suspension during the crisis. Post-restructuring, EXIM Bank reduced its commitment to US$500M in yuan; Sri Lanka will provide US$438M from state coffers and settle US$200M in outstanding claims to MCC (Metallurgical Corporation of China Ltd). Sri Lanka has no RMB income and must convert US dollar reserves for repayment. Five domestic construction firms urged competitive tenders but Colombo persisted with the Chinese contractor MCC. This is the first concrete implementation of China's yuan-denominated lending policy shift for Sri Lanka, representing a structural change in bilateral lending terms.^[The Economic Times, September 2026]
-
-### September 7, 2026 -- Hambantota Volumes Surge; CMPort Studies Capacity Expansion Amid Unresolved MSC Stake Talks
-China Merchants Port Group is studying plans to expand container capacity at Hambantota International Port after container volumes surged in the first half of 2026, as reported by TradeWinds. In a briefing to investors featuring six senior CMPort representatives led by Chair Feng Boming, management outlined plans to strengthen the Sri Lankan hub while sidestepping questions about the status of MSC's proposed stake acquisition — indicating that the MSC talks (first reported in July 2026) remain unresolved. Confirms growing commercial momentum at Hambantota port.^[TradeWinds, September 7, 2026]
-
-### September 23, 2026 -- Ambassador Wei Huaxiang Delivers First Major Public Address at PRC 77th Anniversary Reception
-Ambassador Wei Huaxiang addressed diplomats, political leaders, and guests at the PRC 77th anniversary reception at the Shangri-La Hotel in Colombo, his first major public address since arriving in August. Key announcements: China's Mazu AI intelligent meteorological early-warning system to be deployed in Sri Lanka; China provided nearly RMB 600 million in school uniform materials over four consecutive years, benefiting over 4.4 million students. Emphasized 2027 as a milestone year — the 70th anniversary of diplomatic relations and the 75th anniversary of the Rubber-Rice Pact. Reaffirmed BRI commitment to Colombo Port City and Hambantota Port. Described relations as a "strategic cooperative partnership featuring sincere mutual assistance and everlasting friendship." Sent a clear signal of enduring partnership at a time of intensifying geopolitical competition in the Indian Ocean.^[Newswire, September 24, 2026]
-
-### September 29, 2026 -- China Proposes Governance & Capacity-Building Cooperation With Sri Lanka
-| Ambassador Wei Huaxiang met Public Administration, Provincial Councils and Local Government Minister Prof. Chandana Abayarathna to discuss expanded bilateral cooperation in public administration reform, local government capacity building, disaster management, AI-based early warning systems, and clean drinking water infrastructure. China proposed establishing a specialized capacity-building programme for Sri Lankan provincial and local government officials and an AI-powered early warning system for weather-related disasters, with Chinese companies including Huawei providing technical assistance and emergency relief. Wei emphasized that Chinese aid and cooperation has never been subject to political conditions. This meeting represents a significant expansion of China-Sri Lanka bilateral engagement beyond traditional infrastructure and trade into governance, public sector reform, and technology cooperation.^[Ada Derana, September 29, 2026]
-
-### September 28, 2026 -- Implementation Agreement Signed for Cyclone Ditwah Bridge Reconstruction Grant
-| China and Sri Lanka signed an implementation agreement for the China Aid project to rebuild 14 bridges destroyed by Cyclone Ditwah, moving the RMB 79 million (~US$11M) grant from pledge to execution. Chinese Ambassador Wei Huaxiang and Ministry of Transport, Highways and Urban Development Secretary Asiri Karunawardena signed the agreement. Chinese experts had already conducted on-site assessments and Beijing fast-tracked approval. The project covers bridges in Western, Sabaragamuwa, North Western, and North Central provinces. This marks the first major implementation step for the grant-based assistance model first announced in August 2026 (Source #55).^[Xinhua Silk Road, September 28, 2026]
-
-### October 2026 -- Hambantota Surpasses 1 Million TEU in Cumulative Container Throughput
-|Hambantota International Port surpassed 1 million TEU in cumulative container throughput. Container growth trajectory: 53,170 TEU (2024) to 428,036 TEU (2025) to 574,196 TEU handled in 2026 YTD. MSC is the main container customer and the port's growth driver. US$108M equipment investment committed for six new STS cranes, 16 eRTGs, and 40 trailers from ZPMC (due early 2027). Phase II expansion under way adding four dedicated container berths (total seven), scheduled for end-2026 completion, with 30% yard capacity increase. Long-term target of 2m TEU annually. CEO Wilson Qu cited operational reliability and responsiveness to customer needs as growth drivers. Marks validation of CMPort's management and the commercial potential of Chinese-invested port infrastructure.^[WorldCargo News, October 2026]
-
-### October 4, 2026 -- IMF Reaches Staff-Level Agreement on Seventh EFF Review with Sri Lanka (PR26/318)
-|IMF staff and Sri Lankan authorities reached staff-level agreement on the Seventh Review under the Extended Fund Facility, concluding discussions during the September 10-23, 2026 mission led by Evan Papageorgiou. The agreement is contingent on Executive Board approval, which requires (i) presentation of the 2027 Budget to Parliament and (ii) completion of financing assurances review. Sri Lanka would access SDR 254M (~US$345 million), bringing total IMF disbursements to SDR 2.032B (~US$2.7 billion). Key data: Q2 2026 GDP growth 4.2% y/y (11th consecutive quarter of expansion); headline inflation 8% y/y (September); gross official reserves US$6.9 billion (end-August 2026); banks well capitalized; H1 2026 fiscal outturn strong. Debt restructuring "largely completed." Downside risks persist from the Middle East war, global trade policy, and El Nino. IMF criticized the government's diesel subsidy reintroduction and urged continuation of cost-recovery energy pricing. The Article IV Consultation discussions were also concluded alongside the review. Represents the institutional follow-through on the 7th Review first announced as scheduled for fall 2026 (June 2026 IMF staff visit).^[IMF Press Release PR26/318, October 4, 2026]
-
-### October 6, 2026 -- World Bank: Sri Lanka Returns to Pre-Crisis GDP Levels (October 2026 Development Update)
-||The World Bank's twice-yearly Sri Lanka Development Update (SLDU), "From Recovery to Transformation," reports that Sri Lanka's real GDP has returned to pre-crisis (2018) levels — a major milestone. Key data: economy expanded 4.7% in H1 2026 (12 consecutive quarters of growth); projected 4.4% in 2026 and 4.2% in 2027; primary budget surplus rose sharply; poverty 16.9% in 2025 (well above pre-crisis). The report argues recovery must shift from government spending toward private investment, exports, and productivity. World Bank Country Manager Gevorg Sargsyan described the upper-middle-income reclassification as "a beginning, not the end." Special focus on agribusiness (one-sixth of GDP, >40% of employment).^[World Bank SLDU, October 6, 2026]
-
-### October 11, 2026 -- Fitch Upgrades Sri Lanka to B- with Stable Outlook; Post-Restructuring Framework Finalized
-||The Sunday Times reports the finalization of Sri Lanka's external debt restructuring and the resumption of normalized debt servicing. Fitch Ratings revised Sri Lanka's sovereign credit rating to B- with a Stable Outlook — the first post-default upgrade since exiting restricted default. The restructured commercial bonds use Macro-Linked Bonds (MLBs) with an adaptive payoff structure tied to Sri Lanka's average GDP between 2025-2027, plus a secondary tier cutting the bond coupon by 75 bps (~$80M in savings). The instruments become fixed plain-vanilla bonds by 2027/2028, maturing in 2040. Dr. Harsha de Silva warned the Fitch upgrade does not guarantee automatic capital market access and urged a proactive buyback of MLBs that could save $300-400M over ten years. Official Treasury data: 93.5% of early 2026 domestic operations were local banking system roll-overs, with actual external liquid cash outflows at $530M.^[Sunday Times, October 11, 2026]
-### October 6, 2026 -- Carnegie Endowment: Comprehensive Analysis of Sri Lanka's Post-Crisis Balancing Act
-|Avinash Paliwal (Nonresident Scholar, Carnegie South Asia Program / SOAS) published a comprehensive analysis of Sri Lanka's post-crisis political economy and foreign policy under the NPP government. Key findings: JVP politburo led by Tilvin Silva operates as a parallel power center to President Dissanayake, raising concerns about potential one-party state trajectory if economic conditions deteriorate. China provided only US$1M + RMB 1M in Cyclone Ditwah relief versus India's $450M package. Sri Lanka refused Shi Yan 6 entry in March 2026; Chinese research vessel visits indefinitely paused. China's developmental footprint concentrated in southern Sinhala regions (capital-intensive mega-projects); India's $7.5B assistance geographically dispersed and people-centered in the north. Analysis concludes another economic crisis would push Colombo further toward India.^[Carnegie Endowment, October 6, 2026]
-
----
-
-## Key Statistics
-
-| Metric | Value | Source |
-|--------|-------|--------|
-| Chinese lending as % of public external debt (end 2021) | 19.6% | CARI |
-| Average interest rate on Chinese loans (2008-2021) | 3.2% | CARI |
-| Average interest rate on Eurobonds | 6.9% | CARI |
-| Hambantota port loans as % of total foreign debt repayments (lease year) | 2.4% | CARI |
-| Chinese share of government external debt (2016) | 9% | HKUST |
-| Chinese share of total public entity external debt (2016) | 15% | HKUST |
-| Total external debt at time of default | ~$46-51 billion | Jamestown |
-| Foreign debt in 2005 | $11.3 billion | Timeline |
-| Foreign debt in 2020 | $56.3 billion | Timeline |
-| Debt-to-GDP ratio (2020) | 119% | Timeline |
-| Usable forex reserves (May 2022) | $50 million | Jamestown |
-| IMF Extended Fund Facility | $2.9 billion | Timeline |
-| Bondholder agreement participation rate | 98% | Timeline |
-|| **Outstanding bilateral debt to China (Dec 2025)** | **$4.974 billion** | **South Asia Monitor / Sri Lanka Treasury** |
-|| **Outstanding bilateral debt to India (Dec 2025)** | **$0.984 billion** | **South Asia Monitor / Sri Lanka Treasury** |
-|| **Cumulative Chinese infrastructure investment (2006-2019)** | **$12.1 billion** | **South Asia Monitor** |
-|| **India's emergency financing post-crisis** | **$4 billion** | **South Asia Monitor** |
-|| **India's disaster relief (Cyclone Ditwah)** | **$450 million** | **South Asia Monitor** |
-|| **India's total investment in Sri Lanka** | **>$2 billion** | **CRS Report IF10213 (2026)** |
-|| **Sri Lanka GDP growth (2024)** | **5%** | **World Bank / CRS Report IF10213** |
-||| **IMF EFF disbursement (April 2026, 5th/6th reviews)** | **~$700 million** | **IMF PR26113** |
-||| **IMF EFF combined 5th/6th reviews disbursement (May 2026)** | **SDR508M (~$695M); total access SDR1.778B (~$2.4B)** | **IMF PR26/172** |
-||| **NPP parliamentary seats (Nov 2024)** | **159/225 (from 3)** | **CRS Report IF10213** |
-||| **Sri Lanka international visitors (2025)** | **>2 million** | **Guangming Online, June 9 2026** |
-||| **Direct flights Sri Lanka-China (weekly)** | **23** | **Guangming Online, June 9 2026** |
-||| **70th anniversary of China-Sri Lanka diplomatic relations** | **2027** | **Multiple sources** |
-||| **China's losses from debt restructuring** | **$7 billion** | **IDSA Issue Brief, June 2026** |
-||| **China's share of external bilateral debt (2022)** | **57%** | **IDSA Issue Brief, June 2026** |
-||| **China's share of external bilateral debt (2024-2025)** | **45.3%** | **IDSA Issue Brief, June 2026** |
-||| **SINOPEC Hambantota refinery project value** | **$3.7 billion** | **IDSA Issue Brief, June 2026** |
-||| **India-Sri Lanka bilateral trade (2024)** | **>$5.5 billion** | **IDSA Issue Brief, June 2026** |
-||| **India's FDI in Sri Lanka (FY2025)** | **$213 million (2nd largest)** | **IDSA Issue Brief, June 2026** |
-||| **China's accumulated FDI in Sri Lanka** | **$15 billion (over 2 decades)** | **IDSA Issue Brief, June 2026** |
-||| **Port City Colombo investment to date** | **$1.3-1.4 billion** | **China Focus, May 25 2026** |
-||| **Port City Colombo companies licensed** | **150+** | **China Focus, May 25 2026** |
-||| **Port City Colombo projected GDP addition** | **$13-15 billion/year at completion** | **China Focus, May 25 2026** |
-||| **Port City Colombo projected fiscal revenue** | **$5 billion/year at completion** | **China Focus, May 25 2026** |
-|||| **Port City Colombo projected jobs** | **80,000+** | **China Focus, May 25 2026** |
-|||| **China bilateral debt outstanding (June 2026)** | **US$5.01 billion** | **Newswire / PDMO, Sep 1 2026 (Q2 bulletin)** |
-|||| **Total government external debt (June 2026)** | **US$38.01 billion** | **Newswire / PDMO, Sep 1 2026 (Q2 bulletin)** |
-|||| **Debt-to-GDP ratio (June 2026)** | **88.8% (from 95% in Dec 2025)** | **EconomyNext / Deputy FinMin, Sep 2 2026** |
-|||| **Total government debt (June 2026)** | **US$95 billion (from US$100.4B in Dec 2025)** | **EconomyNext / Deputy FinMin, Sep 2 2026** |
-||||| **Bilateral debt: non-Paris Club share (Q1 2026)** | **59% (led by China)** | **EconomyNext / PDMO, June 3 2026** |
-||||| **Bilateral debt: Paris Club share (Q1 2026)** | **41%** | **EconomyNext / PDMO, June 3 2026** |
-|||||| **Total IMF disbursements under EFF (7th Review agreement, Oct 2026)** | **SDR 2.032B (~US$2.7B)** | **IMF PR26/318, Oct 4 2026** |
-|||||| **Gross official reserves (end-August 2026)** | **US$6.9 billion** | **IMF PR26/318, Oct 4 2026** |
-|||||| **Q2 2026 GDP growth** | **4.2% y/y** | **IMF PR26/318, Oct 4 2026** |
-|||||| **Headline inflation (September 2026)** | **8% y/y** | **IMF PR26/318, Oct 4 2026** |
-|||||| **Hambantota container throughput (2024)** | **53,170 TEU** | **WorldCargo News, Oct 2026** |
-|||||| **Hambantota container throughput (2025)** | **428,036 TEU** | **WorldCargo News, Oct 2026** |
-|||||| **Hambantota container throughput (2026 YTD)** | **574,196 TEU** | **WorldCargo News, Oct 2026** |
-|||||| **Hambantota cumulative container throughput** | **>1 million TEU** | **WorldCargo News, Oct 2026** |
-||||||| **Hambantota Phase II expansion investment** | **US$108 million** | **WorldCargo News, Oct 2026** |
-|||||||| **H1 2026 GDP growth** | **4.7%** | **World Bank SLDU, Oct 2026** |
-|||||||| **Poverty rate (2025)** | **16.9%** | **World Bank SLDU, Oct 2026** |
-|||||||| **Projected GDP growth (2026)** | **4.4%** | **World Bank SLDU, Oct 2026** |
-|||||||| **Projected GDP growth (2027)** | **4.2%** | **World Bank SLDU, Oct 2026** |
-|||||||| **Fitch sovereign credit rating (Oct 2026)** | **B- / Stable Outlook** | **Sunday Times / Fitch, Oct 2026** |
-
-See also: [[debt-trap-debate]], [[hambantota-port]], [[belt-and-road-initiative]], [[key-conclusions]]
+# Timeline: China-Sri Lanka Financial Relations
+
+## 2005
+- Mahinda Rajapaksa is elected president and turns to China for development finance after Western lenders prove reluctant during the civil war, building on earlier grant-based cooperation that included a Chinese-funded convention centre in the 1970s.
+
+## 2006
+- China Exim Bank extends a $1.35 billion loan for Sri Lanka's first coal-fired power station at Norochcholai, one of the earliest and largest Chinese infrastructure loans.
+
+## 2007
+- China Exim Bank provides $307 million for Phase 1 of the Hambantota deep-sea port in Rajapaksa's home district, after India and Japan decline to finance it.
+
+## 2008
+- The global financial crisis cuts export and remittance earnings, while graduation to lower-middle-income status reduces access to concessional multilateral loans and pushes Colombo toward commercial borrowing.
+
+## 2009
+- The civil war ends in May and reconstruction needs accelerate Chinese lending, including $65 million for a Hambantota bunkering facility and $248 million for the Colombo-Katunayake Expressway.
+
+## 2010
+- China Exim Bank funds Mattala Rajapaksa International Airport with a $191 million loan; the airport is widely criticised as a white elephant.
+
+## 2011
+- China Merchants Port Holdings enters a joint venture to operate the Colombo International Container Terminal, which becomes profitable within a year.
+
+## 2012
+- Three major projects are launched or financed: Colombo Port City Phase I ($1.4 billion from China Development Bank), Hambantota Phase II ($390 million) and Lotus Tower ($104 million).
+
+## 2013
+- China launches the Belt and Road Initiative and positions Sri Lanka as a key node on the Maritime Silk Road.
+
+## 2014
+- China Exim Bank provides $200 million for an industrial zone near Hambantota; Chinese submarines dock at Colombo twice despite Indian objections.
+
+## 2015
+- Maithripala Sirisena defeats Rajapaksa and reviews several Chinese projects; Colombo Port City is suspended in 2016 before being relaunched in 2017 on revised terms.
+
+## 2017
+- China Merchants Port Holdings receives a 70% stake and a 99-year lease of Hambantota for $1.12 billion, above the port's valuation; the deal becomes the centrepiece of the global debt-trap narrative.
+
+## 2018
+- The New York Times publishes "How China Got Sri Lanka to Cough Up a Port," popularising the debt-trap claim.
+
+## 2019
+- Gotabaya Rajapaksa is elected and foreign debt continues to grow.
+
+## 2020
+- COVID-19 collapses tourism and remittances; foreign debt reaches $56.3 billion, up from $11.3 billion in 2005, and the debt-to-GDP ratio hits 119%.
+
+## 2021
+- Reserves dwindle and rating downgrades close access to commercial markets.
+
+## 2022
+- **January:**
+  - Colombo formally asks China to reschedule its debt during Wang Yi's visit; Beijing gives no immediate response.
+- **April:**
+  - Sri Lanka suspends payments on about $46 billion of external debt, its first sovereign default; reserves fall to $1.9 billion, usable forex to about $50 million, and inflation passes 70%.
+- **July:**
+  - Mass protests force Gotabaya Rajapaksa to flee and resign; Ranil Wickremesinghe becomes president.
+- **September:**
+  - Formal restructuring talks begin with China, the Paris Club and international bondholders.
+
+## 2023
+- **March:**
+  - The IMF approves a $2.9 billion Extended Fund Facility, conditional on progress with debt restructuring.
+- **July:**
+  - Parliament approves a domestic debt optimisation plan affecting pension funds and central bank holdings.
+
+## 2024
+- **June:**
+  - Sri Lanka reaches agreement with China Exim Bank and the Official Creditor Committee on bilateral debt terms.
+- **September:**
+  - Bondholders agree to restructuring with 98% participation.
+- **November:**
+  - An agreement is reached with China Development Bank; the NPP wins a snap election with 159 of 225 seats and Anura Kumara Dissanayake becomes president.
+- **December:**
+  - The bondholder restructuring is finalised and a formal Investor Relations Programme is launched.
+
+## 2025
+- Dissanayake visits Beijing in January; a joint statement reaffirms BRI cooperation in Hambantota, Colombo Port City, logistics and the digital economy.
+- India and Sri Lanka sign their first formal defence cooperation framework, and Indian investment in Sri Lanka exceeds $2 billion.
+- A bilateral agreement with France in June completes the Paris Club track.
+- Hambantota container throughput reaches 428,036 TEU for the year, up from 53,170 in 2024.
+
+## 2026
+- **January:**
+  - Wang Yi stops in Colombo on his return from Africa; Sri Lanka says the $3.7 billion SINOPEC refinery agreement will be finalised in the first quarter.
+- **March:**
+  - Sri Lanka refuses entry to the Chinese research vessel Shi Yan 6, and Chinese naval visits are paused indefinitely.
+  - A parliamentary committee delegation tours India to encourage Indian infrastructure investment.
+- **April:**
+  - India's Mazagon Dock Shipbuilders acquires a 51% controlling stake in Colombo Dockyard.
+- **May:**
+  - Sri Lanka issues a 30-year build-operate-transfer expression of interest for Mattala airport.
+  - The IMF completes the combined fifth and sixth EFF reviews, releasing SDR508 million (about $695 million) and bringing total EFF access to SDR1.778 billion.
+  - Port City Colombo reports $1.3–1.4 billion invested and more than 150 licensed companies.
+- **June:**
+  - A 250-strong trade delegation attends the China–South Asia Expo in Kunming.
+  - Dissanayake meets CHEC chairman Bai Yinzhan and reaffirms Port City as a government priority.
+  - AidData reports that China Exim Bank is pushing yuan-denominated loans, with Sri Lanka among the borrowers.
+  - An IMF staff visit warns of inflation from the Middle East war; the seventh review is scheduled for autumn.
+  - The Q1 debt bulletin puts government external debt at $37.5 billion, with China the largest bilateral creditor.
+- **July:**
+  - The World Bank reclassifies Sri Lanka as an upper-middle-income economy.
+  - MSC enters talks to acquire a stake in Hambantota and begins switching transshipment calls from Colombo.
+  - Sri Lanka bans imports made with forced labour to secure a lower US tariff, risking friction with Beijing.
+  - Ambassador Qi Zhenhong ends a six-year tenure and renews the call for a free trade agreement.
+- **August:**
+  - A Treasury investor call says 94% of public external debt restructuring is implemented, with reserves at $6.5 billion.
+  - Wei Huaxiang arrives as Chinese ambassador and presents his credentials.
+  - China grants RMB79 million (about $11 million) to rebuild 14 cyclone-damaged bridges.
+  - The Q2 debt bulletin reports total public debt of Rs32.977 trillion and China's outstanding bilateral debt at $5.01 billion.
+- **September:**
+  - Cabinet approves a $500 million yuan-denominated Exim Bank loan for Central Expressway Section I, Sri Lanka's first RMB-denominated bilateral loan.
+  - CMPort studies expanding Hambantota capacity as volumes surge; MSC stake talks remain unresolved.
+  - Trade Minister Wasantha Samarasinghe attends the 11th Belt and Road Summit in Hong Kong.
+  - China and Sri Lanka sign the implementation agreement for the cyclone bridge grant.
+  - Ambassador Wei announces deployment of the Mazu AI early-warning system and opens governance and capacity-building cooperation.
+- **October:**
+  - Hambantota surpasses 1 million TEU in cumulative container throughput as Phase II expansion continues.
+  - The IMF reaches staff-level agreement on the seventh EFF review, unlocking SDR254 million (about $345 million).
+  - The World Bank says real GDP has returned to pre-crisis levels, with growth projected at 4.4% in 2026.
+  - Fitch upgrades Sri Lanka to B- with a stable outlook.

@@ -1,5 +1,6 @@
 ---
 title: Belt and Road Initiative in Sri Lanka
+summary: "China's flagship infrastructure and investment push in Sri Lanka, from Norochcholai and Hambantota to Colombo Port City."
 created: 2026-05-20
 updated: 2026-09-24
 type: concept
