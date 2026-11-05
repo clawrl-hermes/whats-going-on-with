@@ -2,13 +2,13 @@
 title: "Konstantin Sokolov"
 summary: "Russian-American businessman heading the US-backed TRIPP+ Enterprise Fund, with major holdings in Armenian telecom and mining."
 role: "Head of TRIPP+ Enterprise Fund (Trans-Caspian Enterprise Fund)"
+facts:
+  Nationality: "Russian-American (emigrated from Russia to US at 21)"
+  Age: "52"
+  Background: "Founder of IJS Investments (Chicago)"
 ---
 
 # Konstantin Sokolov
-
-**Nationality:** Russian-American (emigrated from Russia to US at 21)
-**Age:** 52
-**Background:** Founder of IJS Investments (Chicago)
 
 ## Profile
 
