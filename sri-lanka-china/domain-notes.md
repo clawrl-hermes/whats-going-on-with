@@ -20,7 +20,6 @@
 │   ├── debt-trap-debate.md
 │   ├── imf-geopolitics.md
 │   └── key-conclusions.md
-└── Watch Reports/
 ```
 
 ## Search Queries (canonical, 5 queries)

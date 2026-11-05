@@ -22,11 +22,6 @@
 │   ├── bolivia-lithium-geopolitics.md  (China/Russia interest in lithium, contracts in limbo)
 │   ├── south-america-rightward-shift.md  (Continental realignment, "Trumpification")
 │   └── bolivia-post-mas-fragmentation.md  (New fractures beyond left-right binary)
-├── Watch Reports/
-│   ├── Watch Report 24-06-2026.md
-│   ├── Watch Report 02-07-2026.md
-│   └── Watch Report 02-08-2026.md
-└── watch-reports-summary.md
 ```
 
 ## Search Queries (canonical, 8 queries)

@@ -16,9 +16,7 @@
 ├── timeline/
 │   └── {slug}-timeline.md
 ├── entities/
-├── concepts/
-├── Watch Reports/
-└── watch-reports-summary.md
+└── concepts/
 ```
 
 ## Search Queries (canonical)

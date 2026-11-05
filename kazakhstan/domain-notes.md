@@ -25,8 +25,6 @@
 │   ├── resource-curse.md               (Oil/gas dependence, diversification)
 │   ├── tech-pivot.md                   (AI, crypto mining, startup ecosystem)
 │   └── caspian-geopolitics.md          (Energy transit, sanctions, regional competition)
-├── Watch Reports/
-└── watch-reports-summary.md
 ```
 
 ## Search Queries (canonical, 8 queries — rotate 2-3 per weekly run)

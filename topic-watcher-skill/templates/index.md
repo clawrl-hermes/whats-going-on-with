@@ -10,7 +10,3 @@
 
 ## Concepts
 [auto-populated during bootstrap]
-
-## Watch Reports
-- [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
-[auto-populated during bootstrap — one line per watch report]

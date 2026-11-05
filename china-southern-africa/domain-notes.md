@@ -24,8 +24,6 @@
 │   ├── critical-minerals-strategy.md  (China's targets: cobalt, lithium, copper, RE, platinum, nickel)
 │   ├── infrastructure-for-resources.md  (roads/railways/ports ↔ mining concessions model)
 │   └── lobito-corridor.md       (1,600km DRC/Zambia → Angola Atlantic port)
-├── Watch Reports/
-└── watch-reports-summary.md
 ```
 
 ## Search Queries (canonical, 8 recommended)
@@ -152,16 +150,3 @@ When ingesting a new source, update ALL of the following in a single session:
 4. ✅ `concepts/<concept>.md` — update if source relates to a tracked concept
 5. ✅ `index.md` — increment source count, update date
 6. ✅ `log.md` — append session entry
-
-## Watch Report Format Notes
-The watch report format has two variants used across reports:
-- **Original format (Report #1):** Signal & Fracture → Prediction → Analysis with subsections → Watch Indicators → Probability Triggers → Key Sources → Disclaimer → Notes. Uses `---` separators between ALL sections.
-- **Updated format (Report #2+):** Prediction → What's New → Justification with Political/Economic/Military/Technological → Key Sources. No `---` separators, no Watch Indicators or Probability Triggers table.
-
-The PDF script (`/root/wiki/watch-report-to-pdf.py`) handles both formats.
-
-## Probability History
-| Date | Probability | Δ | Key Driver |
-|------|-------------|---|------------|
-| 03-06-2026 | 70% | — | Baseline: host-nation processing demands forcing Chinese beneficiation investment |
-| 02-07-2026 | 75% | +5pp | Zimbabwe Q1 revenue validation (+79%), Kamoa-Kakula operational, Tsingshan entry, BRICS coordination, resource-backed infrastructure model |

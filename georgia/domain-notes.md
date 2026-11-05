@@ -22,9 +22,6 @@
 ├── concepts/
 │   ├── middle-corridor.md
 │   └── regime-survival-doctrine.md
-└── Watch Reports/
-    ├── Watch Report 04-06-2026.md
-    └── Watch Report 02-07-2026.md
 ```
 
 ## Search Queries (canonical, 8 queries)

@@ -15,7 +15,3 @@
 - [[Bangsamoro-peace-process]] -- BARMM transition and election dynamics
 - [[spoiler-dynamics]] -- Actors undermining peace
 - [[China-influence]] -- Beijing's ASEAN/Philippines strategy
-
-## Watch Reports
-- [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
-- [[Watch Report 26-09-2026]] — Latest report: hung parliament elected, coalition scramble, MILF fracture finalized, new prediction (70%)

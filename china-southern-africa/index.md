@@ -18,9 +18,3 @@
 - [[infrastructure-for-resources]] — The infrastructure-for-resources model: how China trades roads, railways, and ports for mining concessions
 - [[critical-minerals-strategy]] — China's strategic mineral targets: cobalt, lithium, copper, rare earths, platinum, nickel
 - [[lobito-corridor]] — The Lobito Corridor: 1,600km railway from Copperbelt to Atlantic port, bypassing South African and Indian Ocean routes
-## Watch Reports
-- [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
-- [[Watch Report 03-06-2026]] — First watch report: resource nationalism will force Chinese firms toward domestic processing, deepening long-term mineral lock-in (probability: 70%)
-- [[Watch Report 02-07-2026]] — Second watch report: beneficiation model validated by Zimbabwe revenue data; BRICS coordination and resource-backed infrastructure model extend Chinese lock-in (probability: 75%, up from 70%)
-- [[Watch Report 02-08-2026]] — Third watch report: processing plants crossing from pledges to commissioning; Western counter-investment scaling up but Chinese technological lock-in deepening; financing architecture fragmenting (probability: 80%, up from 75%)
-- [[Watch Report 09-26-2026]] — Fourth watch report: beneficiation shift becoming self-reinforcing for China — host-nation export bans generate smelting demand only Chinese capital/technology can satisfy; China winning contracts inside the West's own Lobito corridor (probability: 85%, up from 80%)
