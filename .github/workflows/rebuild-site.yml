@@ -1,0 +1,20 @@
+name: Rebuild the site
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*/overview.md'
+      - '*/updates/**'
+      - '*/articles/**'
+      - '*/entities/**'
+      - '*/concepts/**'
+      - '*/sources.md'
+      - '*/timeline/**'
+      - 'content-contract.md'
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}
+        run: curl --fail --silent --show-error --request POST "$DEPLOY_HOOK"
