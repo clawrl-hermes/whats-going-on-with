@@ -2,7 +2,7 @@
 title: Belt and Road Initiative in Sri Lanka
 summary: "China's flagship infrastructure and investment push in Sri Lanka, from Norochcholai and Hambantota to Colombo Port City."
 created: 2026-05-20
-updated: 2026-09-24
+updated: 2026-11-05
 type: concept
 tags: [BRI, infrastructure, diplomacy, geopolitics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -59,6 +59,10 @@ The post-crisis period has seen intensified India-China competition for influenc
 ## BRI Engagement Data: H1 2026
 
 The Green Finance & Development Center's BRI Investment Report for H1 2026 (July 2026) revealed that **Sri Lanka was among 17 countries that saw a 100% drop in BRI engagement** in H1 2026 compared to H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. This means no new Chinese BRI-related investment announcements or construction contracts were recorded in Sri Lanka during the first six months of 2026. This marks a stark contrast to the record global BRI engagement of USD 126.4 billion in H1 2026, with the gains concentrated in Africa (USD 33.5B), the Middle East (USD 36.5B), and Central Asia (USD 13.2B). Sri Lanka's absence from new BRI flows reflects the ongoing post-restructuring caution, the dissipation of previous project pipelines, and potentially a reorientation of Chinese BRI capital toward higher-growth markets.^[Green Finance & Development Center, BRI 2026 H1 Report]
+
+## CMPort Abandons $392M Colombo Logistics Hub (October 2026)
+
+In October 2026, China Merchants Port Holdings withdrew from the proposed South Asia Commercial and Logistics Hub (SACLH) at the Port of Colombo — a $392M joint venture agreed in 2023 that was touted as the first major FDI after Sri Lanka's 2022 default. CMPort, SLPA, and Access Engineering signed a settlement ending the project, with partners recovering about $29.8M of the $37.1M invested. CMPort cited "changes in external circumstances, including adjustments to the SACLH Project's implementation environment and timetable as well as the respective commercial considerations of the parties" in a filing to the Hong Kong Stock Exchange (October 15, 2026). SLPA announced it would pursue an alternative development strategy under a PPP model through competitive bidding. The withdrawal is the second instance of a major investor exiting a previously agreed Sri Lankan project, after Adani Green's withdrawal from a $442M wind power project in February 2025. The SACLH exit signals growing commercial caution among Chinese state-owned enterprises toward Sri Lankan investments, even as CMPort continues to operate and expand Hambantota.^[The Hindu, October 19, 2026]^[Tamil Guardian, October 21, 2026]^[Deccan Chronicle, October 19, 2026]
 
 ## January 2025 China-Sri Lanka Joint Statement on BRI Cooperation
 Following President Dissanayake's January 2025 Beijing visit, China and Sri Lanka issued a joint statement reaffirming Belt and Road cooperation in specific areas: Hambantota, Colombo Port City, logistics, green development, and the digital economy. This signals China's intent to continue deepening economic engagement despite Sri Lanka's debt restructuring.^[Lowy Institute, May 14, 2026]

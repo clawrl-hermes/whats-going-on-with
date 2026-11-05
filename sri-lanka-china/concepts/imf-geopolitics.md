@@ -2,7 +2,7 @@
 title: IMF, China, and Sri Lanka's Debt Restructuring
 summary: "How China's rise as a bilateral lender complicated the IMF's role and leverage in Sri Lanka's debt restructuring."
 created: 2026-05-27
-updated: 2026-07-08
+|updated: 2026-11-05
 type: concept
 tags: [IMF, debt restructuring, geopolitics, China-US rivalry, creditor governance, voting shares]
 sources: [raw/articles/stair-imf-geopolitics-2026.md, raw/articles/imf-pr26229-june-2026.md]
@@ -83,6 +83,9 @@ On June 30, 2026, the IMF concluded a staff visit to Colombo (June 24-30) led by
 
 ### Seventh Review Timeline
 The formal Seventh Review of the EFF arrangement will take place during an upcoming IMF mission in the fall of 2026. This marks the next major checkpoint in Sri Lanka's IMF program.
+
+### Post-EFF Successor Programme (October 2026)
+On October 8, 2026, Deputy Finance Minister Anil Jayantha confirmed to Parliament that Sri Lanka and the IMF are in discussions over a post-EFF programme to begin after the current EFF concludes in March 2027. Jayantha described the shift as moving "from crisis-driven support towards a more sustainable, long-term growth-targeted engagement model." The Seventh Review staff-level agreement was reached on October 4, 2026 (unlocking SDR254M/~$345M), with Board approval contingent on presentation of the 2027 budget to Parliament and completion of financing assurances review. Total IMF disbursements under the EFF would then reach SDR 2.032B (~$2.7B). The successor programme discussions signal the IMF's continued engagement with Sri Lanka beyond the crisis-era framework and will shape the parameters of China-Sri Lanka financial relations in the post-restructuring period.^[EconomyNext, October 8, 2026]^[IMF PR26/318, October 4, 2026]
 
 ### Meetings
 The mission held meetings with President and Finance Minister Anura Kumara Dissanayake, Prime Minister Dr. Harini Amarasuriya, Labor Minister and Deputy Finance Minister Prof. Anil Jayantha Fernando, CBSL Governor Dr. P. Nandalal Weerasinghe, Secretary to the Treasury Dr. Harshana Suriyapperuma, and other senior officials, as well as private sector, civil society, and development partners.

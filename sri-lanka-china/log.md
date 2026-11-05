@@ -100,3 +100,13 @@
 - New sources ingested: 4
 - Updated sources.md (70 → 74), index.md source count (70 → 74)
 - Updated timeline: Fitch upgrade, World Bank update, IMF successor signal, FTA analysis
+
+## 2026-11-05 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources
+  - 5 from Tavily
+- Updated sources.md (74 → 79), index.md source count (74 → 79)
+- Updated timeline with 5 new entries (October–November 2026)
+- Updated belt-and-road-initiative concept: China Merchants' SACLH withdrawal as a BRI setback case
+- Updated hambantota-port entity: CMPort's Colombo logistics withdrawal signals strategic reassessment
+- Updated imf-geopolitics concept: post-EFF successor programme confirmed in discussions
