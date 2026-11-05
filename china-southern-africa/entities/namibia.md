@@ -1,3 +1,9 @@
+---
+title: "Namibia"
+summary: "Uranium, lithium and rare-earth producer courting Chinese capital to move up the value chain."
+role: "Country"
+---
+
 # Namibia
 
 Namibia has emerged as a new frontier in Chinese infrastructure-for-resources investment in Southern Africa, with President Netumbo Nandi-Ndaitwah actively courting Chinese capital across mining, agriculture, renewable energy, logistics, and infrastructure.

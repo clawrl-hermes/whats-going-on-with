@@ -1,152 +1,92 @@
-# China-Southern Africa — Topic Notes
+# Chinese Infrastructure and Minerals in Southern Africa: Structural Notes
 
-## Wiki Location
-- Path: `/root/wiki/china-southern-africa/`
-- Repo: `kent-iscann/signal-fracture-content`
-- Git auth: credential helper (no gh CLI needed)
-- Branch: `main`
+> Recent developments are tracked in `timeline/china-southern-africa-timeline.md` at month resolution. This file records structural context, recurring dynamics and the data series to watch, not a chronology.
 
-## Folder Structure
-```
-/root/wiki/china-southern-africa/
-├── index.md                    (source count + last-updated date + page catalog)
-├── sources.md                  (numbered table: # | Title | Date | Summary)
-├── log.md                      (append-only session entries: ## YYYY-MM-DD - ...)
-├── timeline/
-│   └── china-southern-africa-timeline.md  (chronological events by year)
-├── entities/
-│   ├── angola.md               (Lobito Corridor Atlantic gateway; diamonds, iron ore)
-│   ├── drc.md                  (cobalt, copper, coltan; ~70% exports to China; Sicomines)
-│   ├── tanzania.md             (Indian Ocean export hub; emerging rare earth producer)
-│   ├── zambia.md               (Copperbelt copper/cobalt; Lobito Corridor partner)
-│   └── zimbabwe.md             (lithium, platinum, gold; raw export ban forced $1bn Chinese processing)
-├── concepts/
-│   ├── critical-minerals-strategy.md  (China's targets: cobalt, lithium, copper, RE, platinum, nickel)
-│   ├── infrastructure-for-resources.md  (roads/railways/ports ↔ mining concessions model)
-│   └── lobito-corridor.md       (1,600km DRC/Zambia → Angola Atlantic port)
-```
+## The Infrastructure-for-Resources Model
 
-## Search Queries (canonical, 8 recommended)
-1. "China infrastructure investment Southern Africa minerals 2025 2026"
-2. "China mining projects Southern Africa cobalt lithium copper"
-3. "Belt and Road Southern Africa mineral access"
-4. "China Zambia DRC mining infrastructure deals"
-5. "Chinese construction projects Southern Africa resource extraction"
-6. "China Southern Africa ports railways mineral exports"
-7. "China Zimbabwe platinum lithium investments"
-8. "China Mozambique Tanzania infrastructure minerals"
+- Chinese policy banks and construction firms finance roads, railways, ports and power in exchange for mining concessions, offtake or equity. The model began with the 2000s oil and copper deals and has evolved into integrated corridors, joint ventures and resource-backed loans.
+- The DRC's Sicomines agreement is the template: a $3 billion copper-cobalt and infrastructure package renegotiated to $7 billion in 2024, though only about $822 million of the original infrastructure commitment had been delivered by then.
+- Resource-backed finance is spreading beyond mining. Zimbabwe has discussed China Railway financing for roads and rail on the Sicomines model, and resource-for-security arrangements have appeared in the DRC and the Sahel.
+- Chinese state bank lending is shifting away from infrastructure: projects that once took 75% of overseas lending now take less than 25%, with more capital going to fossil-fuel extraction collateralised against production.
 
-**Supplemental (rotate based on emerging themes):**
-- "EU South Africa critical minerals counter-China"
-- "Zimbabwe lithium beneficiation Chinese plants"
-- "TAZARA Lobito Corridor mineral exports"
-- "Chinese port investments Africa digitalization"
-- "BRICS strategic minerals coordination China"
-- "Zimbabwe resource-backed infrastructure China Railway"
-- "China maritime networks Africa cybersecurity AI"
+## Mineral Dependence and Ownership
 
-## Key Entities Tracked
-| Entity | Role | Key Chinese Actors |
-|--------|------|-------------------|
-| DRC | ~70% mineral exports to China; cobalt/copper superpower | Zijin Mining (Kamoa-Kakula 39.6%), Sicomines, CMOC Group |
-| Zimbabwe | Lithium (Africa's largest reserves), platinum; forced beneficiation | Huayou Cobalt, Sinomine Resource, Chengxin Lithium, Sichuan Yahua, **Tsingshan Holding Group**, China Railway (infrastructure talks) |
-| Zambia | Copperbelt; Lobito Corridor & TAZARA node | CNMC, Wonderful Group (Ndola Lime JV) |
-| Angola | Lobito Corridor Atlantic gateway | China Railway Construction Corp |
-| Tanzania | Indian Ocean hub; emerging rare earths | Hongji Mining Co. Ltd |
-| Botswana | Diamonds, emerging copper/battery metals; comprehensive strategic cooperative partnership (Oct 2026) | MMG (Khoemacau copper mine 100%), Chinese green mining cooperation |
+- **DRC:** the centre of the strategy. It produced about 3.2 million tonnes of copper and 230,000 tonnes of cobalt in 2025, with 80 million tonnes of copper reserves. Chinese firms hold stakes in 54% of critical mining projects and control roughly 80% of cobalt output. CMOC produced 741,100 tonnes of copper and 117,549 tonnes of cobalt; Zijin holds 39.6% of Kamoa-Kakula.
+- **Zimbabwe:** Africa's largest lithium reserves plus platinum, gold and chrome. Chinese firms have invested about $2 billion in lithium since 2021, led by Huayou, Sinomine, Chengxin, Sichuan Yahua and Tsingshan.
+- **Zambia:** the Copperbelt's copper and cobalt, with Chinese contractors and lenders embedded through EPC contracts and equity. Jiangxi Copper holds 18.5% of First Quantum; CNMC is expanding Luanshya.
+- **South Africa:** Africa's most industrialised economy and China's largest African trading partner. Two-way trade was $53.7 billion in 2025 and $37.8 billion through July 2026, dominated by gold, PGMs, chrome, manganese and iron ore.
+- **Namibia:** uranium from CGN's Husab mine, plus lithium, rare earths and copper. Chinalco is moving into copper-cobalt at Opuwo.
+- **Tanzania:** the Indian Ocean gateway for DRC and Zambian minerals, plus emerging rare earths, graphite, nickel and helium.
+- **Angola:** the Lobito corridor's Atlantic terminus, with oil, diamonds and the new Barra do Dande port terminal.
+- **Mozambique:** graphite at Balama and Nipepe, heavy mineral sands, and Rovuma gas under the Xi-Chapo infrastructure-for-resources agreement.
+- **Botswana:** diamonds plus the Khoemacau copper mine, now majority-owned by China's MMG, and a comprehensive strategic partnership signed in October 2026.
 
-## Key Data Points (as of October-November 2026)
-|- **China's BRI mining and metals spending: $32B in 2025** (record, up from $21B in 2024) (Foreign Affairs, Nov 2026/Source 92)
-|- **China's BRI investment in Africa across all sectors: $39B in 2025** (Africa Center, Oct 2026/Source 91)
-|- **US invested ~$300M vs China $8-10B** in African critical mineral projects in 2023 (Foreign Affairs, Nov 2026/Source 92)
-|- **Chinese banks extended >$9B in credit** for DRC mine development (2008-2020) plus $3B in Eximbank infrastructure loans (Foreign Affairs, Nov 2026/Source 92)
-|- **Zijin acquired Kamoa-Kakula stake** after no Western investors would take the risk; mine now one of world's largest copper operations (Foreign Affairs, Nov 2026/Source 92)
-|- **Project Vault and Project Forge:** new Western initiatives for coordinated strategic stockpiling and midstream processing outside China (OECD, Oct 2026/Source 90)
-|- **2026 Critical Minerals Ministerial in Washington** marked more overtly strategic Western posture (OECD, Oct 2026/Source 90)
-|- **Botswana elevated to comprehensive strategic cooperative partnership** with China (Oct 13-14, 2026) — first such elevation with a new Southern African country in the 2026 cycle (SCMP/Streamline, Sources 93, 97)
-|- **MMG acquired 100% of Khoemacau copper mine** in Botswana, expanding Chinese Copperbelt footprint (White & Case, Oct 2026/Source 89)
-|- **AFC names builders for 515km Zambian Lobito section:** cost estimated up to $5B; AFC raising $3-5B (Semafor, Oct 27/Source 94)
-|- **Mtwara Development Corridor:** port cargo handling increased from 592,000 MT (2021-22) to 2.58M MT (2024-25) (Africa Center, Oct 2026/Source 91)
-|- **African governments finance >40% of active infrastructure commitments** against $130-170B annual requirement (Africa Center, Oct 2026/Source 91)
-- Chinese mining investment in Africa: **largest of any bilateral partner** (more than next 8 combined, per ACCPA)
-- DRC Chinese development finance (2000-2023): **$22 billion via 112 loans + 169 grants** (AidData)
-- Africa holds **~30% of world's critical mineral reserves**
-- Chinese ports in Africa: 78 of 231 commercial ports across 32 countries (~1/3)
-- China-Africa trade: China accounts for ~22% of all African trade; trade deficit ~$102B
-- **Africa supplied 99.9% of China's cobalt imports, 91% of chromium, 86% of natural graphite in 2025** (CRS R49080)
-- **China's mineral import shares from Africa: 81% manganese, 79% uranium/thorium, 78% aluminum, 74% titanium** (CRS R49080)
-- **PRC FDI stocks in African mining: $10.1B (23% of total PRC FDI in Africa)** (CRS R49080)
-- **PRC firms: $57.4B in 122 metal sector projects from 2006-2025** (AEI/CRS R49080)
-- **BYD secured six African lithium mines ensuring feedstock through 2032** (Africa-China Centre)
-- **Chinese state banks: ~$2.48B of $2.68B credit for CMOC's Tenke Fungurume acquisition** (Africa-China Centre)
-- **US DFC: $553M loan for Lobito Angola; $1B for DRC rail; $50M equity in SA rare earths; $575M SA helium/gas** (CRS R49080)
-- EU-South Africa Clean Trade & Investment Partnership: **€12B** (launched June 2026) + €600M green energy loan + €1.48B financing facility
-- Zimbabwe lithium processing investment: **~$1 billion** by Chinese firms
-- Zimbabwe Q1 2026 mineral revenue: **$983.85M** (+27% volume, +79% value post-export-ban)
-- Bikita Minerals commitment: **$400M** for lithium precursor chemicals (phase 1: 60K tonnes/year by Q2 2027)
-- Kamoa-Kakula copper smelter: **Africa's largest**, operational June 2026 (Zijin 39.6% stake)
-- China zero-tariff: effective **May 1, 2026** on 100% of tariff lines for **53 African countries**
-- China elevated Africa ties to "**all-weather community with a shared future**" (2024 FOCAC)
-- G7 target: reduce reliance on China for rare earths/magnets to **below 60% by 2030**
-- BRICS strategic minerals coordination: activated at **16th BRICS NSA meeting (June 2026)**
-- Zimbabwe-China Railway resource-backed infrastructure talks: announced at **WEF Dalian (June 2026)**, modeled on DRC's $7B Sicomines deal
-- **Refining concentration across 6 transition minerals reached a record 70% in the top country (China) in 2025** (IEA/ETA)
-- **DRC alone produces ~76% of world's mined cobalt** (USGS 2025); Africa holds 54-55% of global reserves
-- **DRC Feb 2025 cobalt export ban → replaced Sept 2025 by quota of 96,600t (under half previous)**; cobalt hit $58,000/t early 2026 (3x prior year)
-- **DRC/Zambia combined copper production: 4.2M tonnes in 2025** (IEA); identified as single largest source narrowing the world copper supply gap through 2035
-- **China processes ~90% of world's battery-grade graphite**; Africa holds ~25% of global natural graphite reserves
-- **IEA projects Tanzania, Mozambique, Madagascar could supply 1/3 of world's mined graphite by 2040** (up from ~11% in 2025)
-|- **Africa lithium output rose 44% in 2025**, led by Zimbabwe and Namibia; reported reserves (~1.6%) widely considered underestimate
-|- **OECD 2026: 79 African mines owned by/involving Chinese interests** (30 DRC, 10 SA, 8 Zambia); 35 of 38 DRC/Zambia mines produce copper/cobalt
-|- **Chinese companies invested $4.5B (2022-2023)** for stakes in Africa's lithium mines (Zimbabwe, Namibia, Mali)
-|- **Morocco Gotion gigafactory (Kenitra) opening Q3 2026** — first African lithium battery cell production
-- **South Africa holds 79.3% of global PGM reserves; produces ~80% of global platinum output**
-- **South Africa Manganese Metal Co building $25M plant for 5,000t battery-grade manganese sulphate**
-- **Domestic mineral processing in Africa estimated to create 2.3M jobs and lift continental GDP by ~12%**
-- **Gulf capital: non-oil GCC-Africa trade exceeded $100B**; IRH (Abu Dhabi) acquired 51% Mopani ($1.1B); Manara Minerals (Saudi PIF) pursuing First Quantum stake ($1.5-2B)
-- **SA-China trade through July 2026: $37.8B** — gold 35.6% of SA exports, PGMs 19%, chrome ore 20%, manganese 8.8%, iron ore 14% (China-Global South Project)
-- **DH Mining (Jinan Yuxiao Group) Nipepe graphite plant, Mozambique** — $200M, 200,000 t/yr capacity, 110km roads, bridge, 100km power lines; Jan 2026 inauguration
-- **Jinan Yuxiao Group holds >500,000 hectares** in Mozambique mining concessions for heavy mineral sands (titanium, ilmenite, rutile, zircon); China leading buyer of titanium feedstock
-- **CNMC plans >190,000t copper output by 2030** via $513M Luanshya redevelopment in Zambia; $300M convertible bond
-- **Three Chinese OEMs** confirmed building transformer/wire/pylon plants in South Africa post-Ramokgopa Beijing delegation (Sep 2026)
-- **Shenghe Resources** building Mineral Separation Plant in Pangani, Tanzania — regional processing hub for Africa, processing raw materials from Mozambique, SA, Madagascar (Sep 2026)
-- **China-Africa Innovation Alliance on Mining and Metallurgy**: proposed SA-China research alliance for battery mineral processing, NMC precursors, AI-driven mineral separation (Sep 2026)
-- **Sinomine $2.8B total announced investment** in Zimbabwe lithium and energy; Bikita upgraded to 400,000t/yr spodumene; 100,000t/yr lithium sulphate plant by mid-2027 (Aug 2026)
-- **Chinese companies invested ~$2B in Zimbabwe's lithium sector since 2021** (Source 88, Oct 2026)
-- **Zimbabwe lithium export earnings: $2.16B in 9 months to Sep 2026** (nearly 4x total 2025); 283% spodumene price increase; $190M lithium sulphate exports from Huayou's Africa-first salt plant (Source 87, Oct 2026)
-- **Non-Chinese investor diversification in Zimbabwe:** Indian company LOHUM dispatches first lithium ore from Matabeleland South (Sep 9, 2026); ZIDA signs non-binding MoU with Invest Hong Kong for Asian capital referrals; Karo Platinum (Tharisa) signs 25-year special mining lease with 15% state free-carry (Aug 24, 2026) (Source 88, Oct 2026)
-- **Team Europe Global Gateway:** Two projects >R1B (EUR57.8M) for SA green hydrogen and minerals/battery value chains, EU/Germany/Denmark/Netherlands (Sep 2026)
-- **CSIS Congressional testimony (Baskaran, Sep 2026):** Africa's exploration spending fell from 16%→10%; Glencore 40% Mutanda/Kamoto sale to Orion CMC (backed by DFC/ADQ); AGOA lapsed 2025
-- **US DRC copper cathode imports hit record 53,290t in July 2026 (23.9% of US imports):** US Section 232 tariff (50%) on semi-finished copper reshapes trade; Congolese cathode gains US industrial acceptance (bne IntelliNews, Sep 2026)
-- **DRC mining infrastructure bottlenecks:** ~1 GW power deficit; Mota-Engil 30-yr Dilolo-Sakania concession up to $1.8B; AFC raising $3-5B for Lobito expansion; concentrate export ban (June 29, 2026); Manono lithium started May 2026 (Newsbase, Sep 2026)
-- **DRC-USA Task Force created September 2026** to accelerate mining/energy/transport/processing projects under strategic minerals partnership
-- **Business and Human Rights Centre (July 2026):** Allegations of abuse at Chinese mining operations in Africa doubled from 45 (2024) to 100 (2025). DRC 52, Zimbabwe 20, Guinea 18, Zambia 15. Sino-Metals Leach Kafue River disaster (50M litres toxic effluent) (ADF Magazine, Sep 2026)
-- **Tanzania-China geophysical survey agreement (Sep 11, 2026):** China grant-funds high-resolution airborne survey of Central Block (Dodoma, Tabora, Singida, Shinyanga) — expanding from downstream processing into upstream exploration support (TanzaniaInvest, Sep 2026)
-- **Zimbabwe lithium beneficiation delegation (Sep 17, 2026):** Deputy Mines Minister Moyo leads engineers and specialists to Chinese parent companies for technology transfer — shift from policy-level mandates to hands-on institutional engagement (ZiMining, Sep 2026)
-- **EY/Africa Business+ database (Oct 2026):** African mineral processing facilities rose 28% from 79 to 101 in one year (2Q25-2Q26); Chinese groups now involved in 15 facilities (up from 10); DRC led growth from 14 to 29 facilities. China building plants on site where Africa demands beneficiation — strategy described as "working."
-- **EY/Africa Business+ database (Oct 2026):** Chinese firms hold minority or majority stakes in 54% of DRC's critical mining projects, up from <33% in 2023 — 49 projects tracked across eight minerals (The Africa Report).
-- **Tsingshan Dinson Steel NRZ rail partnership (Oct 5, 2026):** Tsingshan's steel subsidiary signs deal to haul 1.1M tonnes coal from Hwange and 600,000 tonnes steel products; $27M Gweru-Mvuma track upgrade; 50km Mvuma-Manhize BOT line. Chinese industrial actor directly financing rail infrastructure for its own logistics (News24).
-- **Atlantic Council/Rhodium Group (Oct 2026):** China slowdown reshaping African trade — DRC clean-energy exports to China now 25% of GDP (up from 16% five years ago); Angola crude to China halved; SA iron ore stagnating. China's exports to Africa +25.7% in 2025.
-- **DRC one-stop mining agency (Oct 2026):** DRC preparing centralized agency for >$1B mining projects under US minerals partnership, streamlining registration/licensing/taxation/compliance to attract non-Chinese capital (Business Insider Africa).
+## The Beneficiation Shift
+
+- Roughly 13 African countries have introduced export restrictions on unprocessed minerals. Zimbabwe banned raw lithium in 2024 and added 13 minerals, including cobalt, PGMs and rare earths, for a 2027 ban. The DRC banned copper and cobalt concentrate exports in June 2026, allowing only one-year strategic waivers. Namibia prohibits exports of unprocessed lithium, cobalt, graphite, manganese and rare earths.
+- The policy is producing measurable results. Zimbabwe's lithium export earnings reached $2.16 billion in the nine months to September 2026, nearly four times 2025, and its first lithium sulphate left Arcadia in April 2026.
+- Chinese firms are building the processing capacity: African mineral processing facilities rose 28% from 79 to 101 in the year to mid-2026, with Chinese groups involved in 15 and the DRC growing from 14 to 29.
+- China's chokehold is strongest midstream: it processes about 90% of battery-grade graphite, around 70% of lithium and 90% of rare earths accessible to African mines.
+
+## Corridors and Logistics
+
+- **Lobito Corridor:** a 1,600km rail route from the Copperbelt to Angola's Atlantic port. The AFC named Webuild, Mota-Engil and Ictas as preferred bidders for Zambia's 515km section in October 2026, with costs up to $5 billion and financial close targeted for late 2027.
+- **TAZARA:** the 1,860km Zambia-Tanzania line, built by China in the 1970s, is being rehabilitated for about $1.4 billion with CCECC involvement, targeting freight growth from 400,000 to 2.4 million tonnes.
+- **Other routes:** Nacala (about $4.5 billion, with Japanese interest), the North-South Corridor through Zimbabwe and South Africa, and Beira. A proposed Angola-Tanzania railway would link the Atlantic and Indian Ocean corridors.
+- **Ports:** Chinese firms operate, finance or hold stakes in roughly a third of Africa's 231 commercial ports, and are embedding port operating software, automation and cybersecurity systems.
+- **The Lobito paradox:** 80-95% of copper moving on the Lobito line is China-bound, the consortium is about 11% Chinese-owned, and China's influence over contractor Mota-Engil and DRC mine ownership means changing the route does not change the beneficiary.
+
+## Western and Other Counter-Moves
+
+- **United States:** DFC financing for the Lobito corridor ($553 million for Angola, $1 billion for DRC rail), the US-DRC strategic minerals partnership, Orion CMC's purchases of Glencore and Chemaf assets, Project Vault (stockpiling) and Project Forge (midstream processing outside China).
+- **European Union:** a €12 billion South African investment package tied to beneficiation, plus Global Gateway projects for green hydrogen and minerals worth over R1 billion.
+- **G7 and Quad:** a G7 target of reducing reliance on China for rare earths and magnets to below 60% by 2030, and a Quad critical minerals framework committing up to $20 billion.
+- **India:** a $4 billion National Critical Mineral Mission and private expansion by Adani, Vedanta and LOHUM, which shipped its first Zimbabwean lithium ore in September 2026.
+- **Gulf capital:** Manara Minerals is pursuing a First Quantum stake and IRH acquired 51% of Mopani Copper Mines, making the Gulf a third force alongside China and the West.
+
+## Governance and Risk
+
+- Allegations of abuse at Chinese mining operations in Africa doubled from 45 in 2024 to 100 in 2025, concentrated in the DRC, Zimbabwe, Guinea and Zambia. The Kafue River spill in Zambia, where 50 million litres of toxic effluent were released in February 2025, is the most cited case.
+- Beijing has responded with softer governance: a National Human Rights Action Plan for 2026-2030 encouraging overseas due diligence and a CCCMC Sustainable Mining Code.
+- Local-content gains remain limited. Only about 1% of Zambia's mined copper is absorbed by domestic manufacturing, and Chinese firms tend to use their own procurement networks.
+- Debt is a recurring lever: Zambia has discussed a $5.7 billion yuan-denominated restructuring, and DRC renegotiations have repeatedly revised Chinese infrastructure commitments upward without matching delivery.
+
+## Trackable Indicators
+
+| Indicator | What to watch | Source type |
+|-----------|---------------|-------------|
+| DRC concentrate ban | Waiver decisions and smelter utilisation | Official/industry |
+| Zimbabwe export bans | 2027 ban implementation and sulphate output | Official/company |
+| Lobito procurement | Contract awards, financial close and construction start | Official/AFC |
+| TAZARA rehabilitation | Freight volumes and CCECC milestones | Official/rail |
+| Chinese ownership shares | New stakes or divestments in DRC, Zambia, Zimbabwe | Company/financial |
+| Processing capacity | EY/Africa Business+ facility counts; new smelters and refineries | Industry data |
+| Western counter-finance | DFC, EU, Quad and Gulf commitments reaching financial close | Official |
+| Mineral prices | Copper, cobalt, lithium and spodumene benchmarks | Market |
+| Export earnings | Zimbabwe and DRC mineral receipts | Official |
+| Rights and ESG cases | Business and Human Rights Centre allegations; litigation | NGO/legal |
+| Corridor security | Rail disruptions, flooding and border closures | Media/operator |
+
+## High-Signal Source Types
+
+- **AidData, CRS and OECD:** authoritative data on Chinese financing, ownership and policy.
+- **EY/Africa Business+ and the Africa Report:** project-level ownership and processing-facility counts.
+- **Reuters, Bloomberg and Mining.com:** deal confirmations and company disclosures.
+- **ECDPM, CEDESA and Chatham House:** critical analysis of corridor economics and Western claims.
+- **Africa Center for Strategic Studies and CSIS:** strategic and congressional framing.
+- **Zimbabwean and Zambian outlets (The Herald, News24, Daily News):** local deal and policy detail.
+- **Business and Human Rights Centre / ADF:** rights and environmental allegations.
 
 ## Common Dedup Pitfalls
-- **Reuters/Business Insider republication:** The same EU roadshow story appears across Business Insider Africa, Reuters, and various aggregators. Check dates — if within the same week, it's the same reporting.
-- **Chinese state media cross-posting:** CGTN, China Daily, and Xinhua often publish English versions of identical content. Check for duplicate content across these outlets.
-- **Zero-tariff stories from May 2026:** Many outlets covered the May 1 implementation. If the core data (53 countries, 100% tariff lines, first shipment detail) matches an existing source, skip even if URL is different.
-- **Lithium processing overlap:** Zimbabwe lithium stories frequently overlap across MarketScreener, Business Insider, The Herald (Zimbabwe), and LinkedIn reposts. Compare $ figures and company names — if identical, deduplicate.
-- **Rare earth discovery (Tanzania):** Covered by both Uchumi360 and Business Insider with different levels of detail. Prefer the source with more specific data (location names, company names, specific minerals confirmed).
-- **Financial data precision:** AidData's $22B figure is authoritative. Avoid citing rounded figures from news articles that derive from the same AidData report.
-- **BRICS/G7 coverage overlap:** BRICS coordination stories (Source 25) and G7 de-risking coverage frequently overlap. Check if the BRICS angle adds genuinely new institutional context beyond the G7 target announcement.
-- **Zimbabwe lithium boom coverage:** Al Jazeera (Source 24), Business Insider (Source 3), MarketScreener (Source 10), and local Zimbabwe outlets (Herald, Mining Zimbabwe) all cover the lithium sector. Compare specific data points (Q1 revenue, Bikita timeline, Sandawana partnerships) — prefer the source with the most granular data.
-- **Reuters-via-Mining.com aggregation:** Zimbabwere lithium earnings figures (Source 87) originate from Reuters and may be republished identically across Mining.com, Miningweekly.com, and other aggregators. Check for identical data points ($2.16B, 283%, $190M lithium sulphate) before adding dupes.
-- **Wansom/Briefly premium content:** This is a paid-subscription analytical platform with original legal trade analysis. Content republished summararily on LinkedI or free sites is not a substitute. Prefer the original.
-- **CRS report vs media aggregation:** The CRS R49080 report data (Source 56) may appear republished across Legis1, SOF News, and other aggregators. The CRS report itself is the authoritative source; media write-ups are not new sources if they only re-cite the same data without original analysis.
 
-## File Update Checklist (per source added)
-When ingesting a new source, update ALL of the following in a single session:
-1. ✅ `sources.md` — append numbered entry
-2. ✅ `timeline/china-southern-africa-timeline.md` — add event if date-relevant
-3. ✅ `entities/<entity>.md` — update if source mentions specific actor/country
-4. ✅ `concepts/<concept>.md` — update if source relates to a tracked concept
-5. ✅ `index.md` — increment source count, update date
-6. ✅ `log.md` — append session entry
+- EU–South Africa roadshow coverage is syndicated across Business Insider Africa, Reuters and aggregators; treat same-week versions as one story.
+- CGTN, China Daily and Xinhua republish the same content in English.
+- Zero-tariff stories from May 2026 repeat the same 53-country and 100%-tariff-line figures.
+- Zimbabwe lithium coverage overlaps heavily across MarketScreener, Business Insider, The Herald and LinkedIn reposts; compare dollar figures and company names.
+- Reuters-via-Mining.com lithium earnings stories repeat the same $2.16 billion, 283% and $190 million data points.
+- CRS R49080 is authoritative; media write-ups that only re-cite its figures are not new sources.
+- Rio Times and similar aggregators are AI-assisted; cross-check against primary reporting.
+
+## Priority Sources
+
+A categorized list is maintained at `/root/wiki/china-southern-africa/priority-sources.md` when one exists. Each run should read it first, check regional specialists, official sources and think tanks, then use Tavily searches to catch anything missed.

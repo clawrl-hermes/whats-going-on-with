@@ -1,3 +1,8 @@
+---
+title: "Lobito Corridor"
+summary: "The 1,600km rail route from the Copperbelt to Angola's Atlantic port, and the contest over who controls it."
+---
+
 # Lobito Corridor
 
 The Lobito Corridor is a planned 1,600km (1,000 mile) railway and logistics corridor that would connect the mineral-rich Copperbelt of the Democratic Republic of Congo and Zambia to the Atlantic port of Lobito in Angola. It represents one of the most ambitious infrastructure-for-resources projects in Southern Africa and would fundamentally reshape mineral export flows from the region.

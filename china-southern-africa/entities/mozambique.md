@@ -1,3 +1,9 @@
+---
+title: "Mozambique"
+summary: "Indian Ocean gas and minerals frontier, with Chinese graphite, heavy-sands and infrastructure-for-resources investments."
+role: "Country"
+---
+
 # Mozambique
 
 > Indian Ocean export gateway; emerging critical minerals and gas frontier; new strategic partner under Xi-Chapo "infrastructure-for-resources" framework.

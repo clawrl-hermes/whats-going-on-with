@@ -1,3 +1,9 @@
+---
+title: "South Africa"
+summary: "Africa's most industrialised economy and China's largest African trading partner, pressing for beneficiation while courting Chinese energy investment."
+role: "Country"
+---
+
 # South Africa
 
 > Africa's most industrialized economy; China's largest African trading partner ($53.7B in 2025); pivotal geostrategic position at Cape of Good Hope; faces deepening structural dependence dilemma.

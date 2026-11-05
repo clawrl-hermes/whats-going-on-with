@@ -1,3 +1,9 @@
+---
+title: "Botswana"
+summary: "Diamond-dependent economy diversifying into copper and battery metals, elevated to a comprehensive strategic partnership with China in October 2026."
+role: "Country"
+---
+
 # Botswana
 
 Botswana has emerged as a new frontier in China's Southern African mineral strategy. The country holds some of the world's largest diamond reserves and is increasingly exploring its copper, silver, and battery metals potential. In October 2026, Botswana was elevated to a comprehensive strategic cooperative partnership with China following President Duma Boko's maiden state visit to Beijing, marking a significant deepening of bilateral ties.

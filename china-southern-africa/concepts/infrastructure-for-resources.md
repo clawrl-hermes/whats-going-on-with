@@ -1,3 +1,8 @@
+---
+title: "Infrastructure-for-Resources Model"
+summary: "The model of trading roads, rail and ports for mining concessions and mineral access."
+---
+
 # Infrastructure-for-Resources Model
 
 The "infrastructure-for-resources" model is the defining feature of China's engagement in Southern Africa. Under this arrangement, Chinese state-backed banks and construction firms finance and build roads, railways, ports, hospitals, and government buildings in exchange for mining concessions, mineral export rights, or equity stakes in resource deposits. This model allows mineral-rich but capital-poor nations to develop infrastructure they could not otherwise afford, while guaranteeing China long-term access to critical minerals at favorable terms.
