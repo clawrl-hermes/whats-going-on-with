@@ -294,7 +294,6 @@
 - **Source 75:** JAMnews: Is Georgia expecting a new wave of Russian migrants? — Upper Lars data analyzed; Russian citizens 18% of property buyers (up from 13%); mobilization rumors persist.
 |- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
 |- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
-
 ## 2026-10-15 - Weekly Source Update
 - **New sources:** 7 (109–115)
 - **Source 109:** JAMnews: New Russian trade ban on Georgian goods (Oct 13) — Russia bans imports from 7 major Georgian companies, demands non-use-of-force guarantee on Abkhazia/South Ossetia. Directly undermines GD's claim that maintaining Russia ties protects Georgia's interests. High-signal event.
@@ -365,3 +364,20 @@
 - **Source 98:** Eurasianet/CACI: Educational reform sparks concern about politicization of academia — GD's "One City-One Faculty" reform criticized as assault on academic autonomy.
 - **Source 99:** EU Awareness Centre: Russia's Hybrid Campaign — Motives, Methods, and Actors — FSB/SVR/GRU involvement in Georgia's democratic backsliding; supplements source #33.
 - **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
+
+## 2026-11-05 - Weekly Source Update
+- **New sources:** 13 (120-132)
+- **Source 120:** RFE/RL: EU foreign ministers relegated Georgia to AOB at Oct 12 meeting -- wont return as full agenda item until Jan 2027. EU divided on sanctions.
+- **Source 121:** Caucasus Watch: Freedom House Internet Report -- Georgia loses Free classification (68/100, down from 70 in 2025, 78 in 2022).
+- **Source 122:** Caucasus Watch: Georgia appoints new Russia envoy (Zurabashvili). Diplomatic Society warns dangerous trend toward restoring diplomatic relations.
+- **Source 123:** Eurasianet: Opposition party-ban hearings begin in Batumi -- 5 parties, 800K+ votes targeted.
+- **Source 124:** Caucasus Watch: Bulgaria steps up Black Sea security and Middle Corridor cooperation.
+- **Source 125:** Caucasus Watch: Kobakhidze outlines regional hub ambitions at Tbilisi Financial Summit.
+- **Source 126:** RIAC: Limits of US-Georgian Reset -- Russian think tank: 3 charges since July 2025; TRIPP reduces Georgia centrality.
+- **Source 127:** Civil.ge: Botchorishvili hosts all five Central Asian FMs in Batumi -- first-ever joint meeting.
+- **Source 128:** Civil.ge: Kobakhidze in Budapest for anti-Soviet uprising anniversary -- first post-Orban Hungary visit.
+- **Source 129:** Civil.ge: Kobakhidze meets Iranian President Pezeshkian in Yerevan -- practical cooperation push.
+- **Source 130:** Civil.ge: Diplomacy Day -- GD stresses sovereign, pragmatic foreign policy, multipolar order.
+- **Source 131:** Civil.ge: EU enlargement report warns Georgia accession de facto halted -- alongside Turkey for concerns.
+- **Source 132:** Jamestown: Russian beverage ban exposes limits of GD pragmatism -- Moscow squeeze from both sides.
+- **Files updated:** sources.md (+13), index.md, log.md
