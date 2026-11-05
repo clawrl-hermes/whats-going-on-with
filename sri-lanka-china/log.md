@@ -4,7 +4,7 @@
 - Created topic structure, timeline, entity and concept pages
 - Ingested 3 raw sources (CARI, HKUST, Jamestown)
 
-## 2026-06-01 - Weekly Source Update
+## 2026-05-27 - Weekly Source Update
 - New sources ingested: 3
 - Updated sources.md (25 → 28), index.md source count (25 → 28)
 - Created IMF geopolitics concept
@@ -44,7 +44,7 @@
 - Updated sources.md (46 → 48), index.md source count (46 → 48)
 - Updated timeline and Hambantota entity: MSC stake talks
 
-## 2026-08-02 - Weekly Source Update
+## 2026-07-30 - Weekly Source Update
 - New sources ingested: 1
 - Updated sources.md (48 → 49), index.md source count (48 → 49)
 - Updated timeline: forced-labour import ban
