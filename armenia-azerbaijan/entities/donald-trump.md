@@ -6,8 +6,6 @@ role: "President of the United States (since 2025, second term)"
 
 # Donald Trump
 
-**Role:** President of the United States (since 2025, second term)
-
 ## Relevance to Armenia-Azerbaijan
 Trump brokered the August 2025 Armenia-Azerbaijan peace framework at a White House summit. His administration has pursued an active diplomatic role in the South Caucasus, including the TRUMP Route for International Peace and Prosperity (TRIPP) corridor.
 

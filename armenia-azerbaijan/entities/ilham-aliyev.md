@@ -6,8 +6,6 @@ role: "President of Azerbaijan (since 2003)"
 
 # Ilham Aliyev
 
-**Role:** President of Azerbaijan (since 2003)
-
 ## Profile
 Aliyev has ruled Azerbaijan since succeeding his father in 2003. He has consolidated power through a combination of hydrocarbon wealth, military success, and authoritarian governance. Azerbaijan's victory in the 2020 Nagorno-Karabakh war and the 2023 dissolution of the self-declared republic dramatically strengthened his domestic position.
 

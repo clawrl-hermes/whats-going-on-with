@@ -8,9 +8,6 @@ facts:
 
 # Nikol Pashinyan
 
-**Role:** Prime Minister of Armenia (since 2018)
-**Party:** Civil Contract
-
 ## Profile
 Pashinyan came to power in 2018 through the Velvet Revolution, a peaceful protest movement that ousted the long-ruling Republican Party. A former journalist and opposition figure, he positioned himself as a reformer committed to anti-corruption, democratic governance, and a foreign policy pivot toward the West.
 

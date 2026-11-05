@@ -6,8 +6,6 @@ role: "President of Turkey (since 2014)"
 
 # Recep Tayyip Erdoğan
 
-**Role:** President of Turkey (since 2014)
-
 ## Relevance to Armenia-Azerbaijan
 Turkey is Azerbaijan's closest strategic ally and was instrumental in Azerbaijan's 2020 military victory in Nagorno-Karabakh. Turkey shut its border with Armenia in 1993 in solidarity with Azerbaijan during the first war.
 

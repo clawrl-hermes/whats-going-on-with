@@ -6,8 +6,6 @@ role: "President of Russia (since 2000, with interruption 2008-2012)"
 
 # Vladimir Putin
 
-**Role:** President of Russia (since 2000, with interruption 2008-2012)
-
 ## Relevance to Armenia-Azerbaijan
 Russia has historically been Armenia's security guarantor and the dominant external power in the South Caucasus. The 2020 ceasefire was Russia-brokered, and Russian peacekeepers were deployed to Nagorno-Karabakh until Azerbaijan's 2023 operation.
 

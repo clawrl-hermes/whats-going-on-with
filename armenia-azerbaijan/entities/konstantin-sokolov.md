@@ -6,7 +6,6 @@ role: "Head of TRIPP+ Enterprise Fund (Trans-Caspian Enterprise Fund)"
 
 # Konstantin Sokolov
 
-**Role:** Head of TRIPP+ Enterprise Fund (Trans-Caspian Enterprise Fund)
 **Nationality:** Russian-American (emigrated from Russia to US at 21)
 **Age:** 52
 **Background:** Founder of IJS Investments (Chicago)
