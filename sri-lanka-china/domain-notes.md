@@ -1,102 +1,96 @@
-# Sri Lanka-China Finance — Topic Notes
+# Sri Lanka–China Financial Relations: Structural Notes
 
-## Wiki Location
-- Path: `/root/wiki/sri-lanka-china/`
-- Repo: `kent-iscann/signal-fracture-content` (was `kent-iscann/sri-lanka-china-finance` — repo renamed)
-- Git auth: credential helper (no gh CLI needed)
+> Recent developments are tracked in `timeline/china-sri-lanka-timeline.md` at month resolution. This file records structural context, recurring dynamics and the data series to watch, not a chronology.
 
-## Folder Structure
-```
-/root/wiki/sri-lanka-china/
-├── index.md              (source count + last-updated date)
-├── sources.md            (numbered entries, grouped by section headers)
-├── log.md                (append-only session entries)
-├── timeline/
-│   └── china-sri-lanka-timeline.md  (chronological events + key statistics table)
-├── entities/
-│   └── hambantota-port.md
-├── concepts/
-│   ├── belt-and-road-initiative.md
-│   ├── debt-trap-debate.md
-│   ├── imf-geopolitics.md
-│   └── key-conclusions.md
-```
+## The Lending Relationship
 
-## Search Queries (canonical, 5 queries)
-1. "Sri Lanka China debt restructuring 2025 2026"
-2. "Sri Lanka China Belt and Road new projects"
-3. "Sri Lanka China bilateral loan agreement"
-4. "Sri Lanka China Hambantota port latest"
-5. "Sri Lanka China IMF creditor negotiations"
+- China is Sri Lanka's largest bilateral creditor. Outstanding bilateral debt to China was $5.01 billion at end-June 2026, down from about $8 billion in 2022 after restructuring. China's share of Sri Lanka's external bilateral debt fell from 57% in 2022 to 45.3% in 2024–25, but it remains larger than any other bilateral creditor.
+- Lending has run mainly through China Exim Bank and China Development Bank. The first Hambantota loan (2007) carried a commercial 6.4% rate; later loans were concessional at around 2%. The average rate across Chinese loans in 2008–21 was 3.2%, against 6.9% for Eurobonds.
+- The model is shifting from dollar-denominated mega-project loans toward yuan-denominated credit, grants and commercial investment. The $500 million RMB facility for Central Expressway Section I, approved in 2026, is the first yuan-denominated bilateral loan; China also provided an RMB79 million grant for cyclone bridge reconstruction.
 
-## Source Categories (sections in sources.md)
-- Debt and Lending
-- Belt and Road Initiative / Infrastructure Investment
-- Debt-Trap Diplomacy Debate
-- Hambantota Port and Colombo Port City
-- Post-Debt Crisis / Recent Developments
-- Post-Crisis Developments, Geopolitics, and Multilateral Institutions
-- Academic Research & Trilateral Analysis
-- Economic Relations, Tourism & Diplomacy
-- IMF Program & Debt Restructuring Updates
-- Post-Crisis Economic Engagement & FDI
-- Environment & Ecology
-- Colombo Port City & Economic Diplomacy
-- IMF Program & Recent Assessments
-- Diplomatic Engagement & Trade
-- Post-Crisis Recovery & International Recognition
-- Infrastructure Financing & Active Projects
-- Yuan-Denominated Lending & RMB Internationalization  (added 2026-07-15)
-- Hambantota Port: New Commercial Developments  (added 2026-07-15)
-- Investor Confidence & Sovereign Bond Market  (added 2026-09-10)
+## The Debt Restructuring (2022–2026)
+
+- Sri Lanka suspended payments on about $46 billion of external debt in April 2022, its first sovereign default. The IMF approved a $2.9 billion Extended Fund Facility in March 2023, conditioned on restructuring.
+- Bilateral terms were agreed with China Exim Bank in June 2024 and China Development Bank in November 2024. Eleven Official Creditor Committee agreements worth $4.3 billion were concluded; Exim Bank ($4.225 billion) and CDB ($3.222 billion) implementation is complete.
+- Bondholders accepted restructuring in September 2024 with 98% participation. The new instruments are Macro-Linked Bonds tied to average GDP in 2025–27, becoming fixed-rate bonds in 2027–28 and maturing in 2040.
+- By August 2026 the government reported 94% of public external debt restructuring implemented. The remaining items are Sinosure/HSBC ($153 million) and Sinosure/ICBC ($27 million). The IMF's debt-sustainability target is 95% debt-to-GDP by 2032.
+- Sri Lanka exited default in 2026. Fitch upgraded it to B- with a stable outlook in October 2026; Moody's rates it Caa1 and S&P CCC+.
+
+## Fiscal and External Position
+
+- Total government external debt was $38.01 billion at end-June 2026. Total public debt was Rs32.977 trillion (about $97.95 billion), or 88.8% of GDP, down from 95% at end-2025.
+- Gross official reserves were $6.9 billion at end-August 2026. GDP grew 4.2% year-on-year in Q2 2026 and 4.7% in H1, the twelfth consecutive quarter of expansion. Headline inflation was 8% in September 2026.
+- The primary budget surplus reached 5.4% of GDP in 2025, well above the programme target; the authorities have committed to a 2.3% primary balance target for 2027.
+- The World Bank reclassified Sri Lanka as upper-middle-income in July 2026, with GNI per capita of $4,670. Real GDP returned to pre-crisis (2018) levels in 2026, though poverty remains elevated at 16.9% (2025).
+- The current IMF programme expires in March 2027. The seventh review reached staff-level agreement in October 2026, and the IMF has signalled a successor arrangement.
+
+## The Hambantota Port Model
+
+- China Merchants Port Holdings took a 70% stake and a 99-year lease in 2017 for $1.12 billion, above the port's valuation. The lease did not extinguish the original Hambantota loans, and the loan agreements contained no asset-seizure clause.
+- Commercial performance has turned around: container throughput rose from 53,170 TEU in 2024 to 428,036 in 2025 and 574,196 in 2026 to date, passing 1 million TEU cumulative in October 2026. CMPort has committed $108 million to Phase II expansion and targets 2 million TEU annually.
+- MSC, the world's largest container line, is the anchor customer and has been in unresolved talks since July 2026 to acquire a stake from CMPort and the Sri Lanka Ports Authority.
+- The adjacent Mattala airport was offered on a 30-year build-operate-transfer basis in 2026. The $3.7 billion SINOPEC refinery at Hambantota remains pending.
+
+## Colombo Port City
+
+- About $1.3–1.4 billion has been invested in land reclamation and core infrastructure. More than 150 companies are licensed under the Colombo Port City Economic Commission.
+- China Harbour Engineering Company is the main developer. The project is projected to support 80,000 jobs and add $13–15 billion to GDP and $5 billion in annual fiscal revenue at completion.
+- The government treats Port City as a flagship investment priority, and it recurs in bilateral meetings as a test of policy continuity.
+
+## The India Factor
+
+- India provided about $4 billion in emergency financing during the 2022 crisis and $450 million in Cyclone Ditwah relief, and has extended $7.5 billion in assistance. Indian investment exceeds $2 billion.
+- India's strategic footprint has grown: Mazagon Dock acquired 51% of Colombo Dockyard in April 2026, Adani operates the West Container Terminal, and India, the UAE and Sri Lanka are developing Trincomalee as an energy hub.
+- China's development footprint is concentrated in the south (Hambantota, Port City, expressways, the coal plant and Mattala), while India's is more dispersed and people-centred in the north.
+- Sri Lanka refused entry to the Chinese research vessel Shi Yan 6 in March 2026 and paused Chinese naval visits indefinitely. Another economic crisis would likely push Colombo further toward India.
+
+## Trade and the Free Trade Agreement
+
+- China–Sri Lanka FTA talks began in 2014, stalled in 2017 and restarted in 2023 without conclusion. Sri Lanka's trade deficit exceeded $6 billion in 2024; a World Bank simulation found an FTA could raise exports by 24.2%.
+- 2027 is a milestone year: the 70th anniversary of diplomatic relations and the 75th anniversary of the Rubber-Rice Pact. Both sides have linked FTA momentum to those dates.
+- Tourism is a growing channel: Sri Lanka received more than 2 million visitors in 2025, with 23 direct weekly flights to mainland China and visa-free entry for Chinese tourists.
+
+## Domestic Politics
+
+- The National People's Power alliance won 159 of 225 seats in the November 2024 snap election, and Anura Kumara Dissanayake became president. The NPP maintained the IMF programme despite campaigning against it.
+- The JVP politburo led by Tilvin Silva operates as a parallel power centre to the president, a structure that matters for policy continuity and investor confidence.
+- Policy stability under the IMF programme is repeatedly cited by Chinese and other investors as the basis for new investment.
+
+## Trackable Indicators
+
+| Indicator | What to watch | Source type |
+|-----------|---------------|-------------|
+| China bilateral debt stock | Quarterly PDMO bulletin; whether the rise since December 2025 continues | Official data |
+| Restructuring completion | Sinosure/HSBC and Sinosure/ICBC agreements; final IMF assessment | Official |
+| New RMB lending | Any further yuan-denominated facilities beyond Central Expressway | Official/EXIM |
+| FTA negotiations | Resumption, signing or a stated timeline tied to 2027 | Official/trade |
+| Hambantota throughput | Quarterly TEU, Phase II completion, MSC stake outcome | Port/industry |
+| SINOPEC refinery | Final investment decision and construction start | Official/industry |
+| IMF programme | Seventh review Board approval; successor arrangement before March 2027 | Official |
+| Debt and reserves | Debt-to-GDP, gross reserves, primary balance | Official |
+| India–China competition | New port, terminal or energy awards to either side | Media/official |
+| Political continuity | JVP/NPP cohesion and any challenge to the IMF programme | Media/official |
 
 ## High-Signal Source Types
-- **IMF press releases (imf.org):** Always the highest-quality source for this domain. IMF staff visit statements and EFF review press releases contain concrete economic data (inflation, rate changes, fiscal targets, forward guidance) that are not available elsewhere. When a search returns an imf.org URL, extract it unconditionally — even if the snippet seems thin, the full press release will contain substantive data.
-- **Official government press releases (doc.gov.lk):** Sri Lanka's Department of Commerce publishes detailed accounts of trade events/delegations. These are authoritative for trade statistics and diplomatic engagement.
-- **Reuters AidData reports (reuters.com):** AidData's research on Chinese lending practices is a high-value source class. Reports on yuan-denominated borrowing, debt restructuring patterns, and China Eximbank policy shifts are analytically significant and often contain data not available elsewhere.
-- **Journal of Commerce (joc.com):** Trade/port industry publication. Covers commercial developments at Hambantota and Colombo ports that general news outlets miss. JOC articles are often behind paywalls but the visible snippet + lead paragraph usually contain enough for a substantive source entry. Paywalled content is still worth adding as a source entry — cite what's visible.
-- **Sri Lanka Treasury investor presentations (treasury.gov.lk API):** Official Ministry of Finance investor call presentations contain the most current debt restructuring status, economic data (GDP, reserves, inflation, revenue), and forward guidance. These are comprehensive, authoritative, and frequently updated. The Treasury API endpoint serves slide decks that include OCC bilateral agreement status, currency composition, credit ratings, and IMF DSA metrics. Add these unconditionally when found.
-- **Public Debt Management Office (PDMO) Statistical Debt Bulletin (newswire.lk / treasury.gov.lk):** The quarterly Statistical Debt Bulletin published by the PDMO provides the most authoritative periodic data on Sri Lanka's total public debt, external debt composition by creditor (China, Japan, India breakdown), and debt-to-GDP ratios. Published with a 1-2 month lag after quarter-end. These are high-value recurring data sources. Newswire articles summarizing the bulletin are sufficient for source entries because they capture the key official data.
-|- **Institutional investor market commentaries (SSGA, State Street Global Advisors):** These provide market pricing signals on sovereign bond performance (total returns, spread tightening, index contributions, credit ratings) that complement official IMF/Treasury data. They capture how actual market participants price the post-restructuring recovery. When found, add under the "Investor Confidence & Sovereign Bond Market" section. These are high-value for tracking market perception of Sri Lanka's creditworthiness independent of official sources.
-|- **Indian media sources (economictimes.com, The Economic Times):** ET Bureau's coverage of China-Sri Lanka financial developments (Dipanjan Roy Chaudhury) has proven valuable for breaking news on yuan-denominated lending, EXIM Bank negotiations, and bilateral loan terms that Western or Sri Lankan outlets may not report. ET's coverage of the $500M yuan loan cabinet approval (Source #62) provided detailed terms — including the domestic-competitive-tender controversy — that were not available from official SL government sources. Add when found for yuan-denominated lending and EXIM Bank project stories.
 
-## Key Data Points Tracked (timeline statistics)
-- Total government external debt (June 2026: $38.01B; Q1 2026: $37,468M)
-- Bilateral debt to China (June 2026: $5.01B; Dec 2025: $4.974B; Q4 2022: $8B)
-- Debt-to-GDP ratio (June 2026: 88.8%; Dec 2025: 95%)
-- Total government debt (June 2026: US$95B; Dec 2025: US$100.4B)
-- China's share of bilateral debt (2022: 57%; 2024-2025: 45.3%)
-- Non-Paris Club share of bilateral (Q1 2026: 59%)
-- Port City Colombo investment ($1.3-1.4B; 150+ companies)
-- IMF EFF total access (May 2026: SDR1.778B ≈ $2.4B)
-- IMF inflation data: Feb→May 2026 spike (1.6%→5.5% y/y), driven by Middle East war energy prices
-- IMF policy rate changes: 100bp hike by CBSL (June 2026)
-- 2027 primary balance target: 2.3% of GDP
-- 7th EFF Review: scheduled fall 2026
-- China-South Asia Expo delegation size: ~100 exporters / 250+ reps (as trade engagement indicator)
-- **World Bank reclassification (July 1, 2026):** Sri Lanka → upper-middle-income. GNI/capita $4,670, 5% GDP growth 2025. First time back in this bracket since 2019. Symbolic recovery milestone.
-- **World Bank SLDU October 2026 (Oct 6, 2026):** Real GDP returned to pre-crisis (2018) levels. Economy expanded 4.7% in H1 2026, 12 consecutive quarters. Projected: 4.4% (2026), 4.2% (2027). Poverty 16.9% (2025), still above pre-crisis. World Bank Country Manager: "a beginning, not the end." Special focus on agribusiness. Complements the July 2026 reclassification with broader macro-fiscal assessment.
-- **CPC party-to-party diplomacy (July 2, 2026):** Ambassador Qi hosted all major SL parties for CPC 105th anniversary. Pledged governance/poverty/digital cities cooperation. New tracking dimension beyond government-to-government engagement.
-- **EXIM Bank Central Expressway amendment — Cabinet approval secured (September 2026):** President Dissanayake secured cabinet approval to borrow $500M equivalent in RMB from China EXIM Bank for Section I (Kadawatha-Meerigama) — Sri Lanka's first-ever yuan-denominated bilateral loan. Original $989M 2019 preferential buyer's credit reduced to $500M in RMB; SL to provide $438M from state coffers and settle $200M in MCC claims. SL has no RMB income and must convert USD reserves for repayment. Five domestic firms urged competitive tenders but Colombo persisted with Chinese contractor MCC. First active EXIM Bank project with Dissanayake administration and first concrete implementation of yuan-denominated lending shift.
-- **China Eximbank yuan-denominated borrowing shift (June 23, 2026):** AidData/Reuters report reveals China Eximbank encouraging/requiring sovereigns (including Sri Lanka) to borrow in yuan rather than dollars. Structural shift in bilateral lending tied to RMB internationalization. At least 5 other nations exploring similar conversions. Currency risk warning: local currency depreciation against RMB could erode interest rate benefits. **Confirmed implemented (September 2026):** First concrete implementation — $500M RMB loan for Central Expressway approved by Sri Lankan cabinet at EXIM Bank's request.
-- **MSC Hambantota stake talks (July 7, 2026):** MSC, world's largest container shipping line, in discussions with CMPort and SLPA to acquire significant stake in Hambantota Port. Already switching transshipment calls from Colombo to Hambantota. Could transform port's commercial viability.
-|- **Treasury Investor Call (August 10, 2026):** Comprehensive official data: IMF SDR1.78bn disbursed; gross official reserves US$6.5bn (end-June); Q1 2026 GDP 5.1% y/y; primary surplus 5.4% of GDP (2025); 11 OCC agreements ($4.3bn); 94% restructuring implemented; credit ratings exited default (CCC+/Caa1/CCC+); 68% USD, 17% SDR, 6% Yen, 4% RMB currency composition.
-|- **China grant-based assistance shift (August 26, 2026):** RMB 79M (~US$11M) grant for 14 Cyclone Ditwah bridge reconstructions — structured as a grant, not a loan. First notable grant-based Chinese assistance in post-restructuring period, contrasting with pre-crisis loan-heavy model. Track as potential new pattern in bilateral engagement.
-|- **IMF 7th EFF Review Staff-Level Agreement (PR26/318, October 4, 2026):** Staff-level agreement reached for the 7th Review. Key new data: Q2 2026 GDP growth 4.2% y/y (11 consecutive quarters of expansion); headline inflation 8% y/y (September); gross official reserves US$6.9B (end-August); total IMF disbursements SDR 2.032B (~US$2.7B). Contingent on Executive Board approval, 2027 budget presentation, and financing assurances review. Downside risks: Middle East war, global trade policy, El Nino. IMF criticized diesel subsidy reintroduction, urged cost-recovery energy pricing. Article IV Consultation also concluded.
-|- **Hambantota container throughput milestone (October 2026):** Cumulative container throughput >1M TEU. Growth: 53,170 TEU (2024) -> 428,036 TEU (2025) -> 574,196 TEU (2026 YTD). MSC is main customer. US$108M Phase II expansion (6 STS cranes, 16 eRTGs, 40 trailers; 4 new berths, total 7; end-2026 completion). Target: 2M TEU/yr. Source: WorldCargo News — a port industry trade publication (JOC-equivalent), high signal for commercial port developments.
-|- **Carnegie Endowment as high-signal analytical source (October 2026):** Carnegie South Asia Program published "Sri Lanka's Economic and Geopolitical Balancing Act" by Avinash Paliwal (October 6, 2026). Provides authoritative analytical context on JVP politburo power dynamics, China vs India development footprint geography, and crisis-response disparities. Carnegie think tank analyses of this depth are high-signal for geopolitical context even when not primarily financial.
-|- **Fitch B- rating upgrade (October 11, 2026):** Fitch Ratings upgraded Sri Lanka to B- with Stable Outlook — the first post-default upgrade. Macro-Linked Bonds (MLBs) with GDP-linked payoff structure maturing 2040. MLB buyback proposed to save $300-400M over 10 years. 93.5% of domestic ops = banking roll-overs, external cash outflow $530M. Track as forward-looking market confidence indicator.
-|- **IMF successor arrangement signal (October 2026):** IMF Asia-Pacific Deputy Director Sonali Jain-Chandra at Bangkok annual meetings stated IMF will engage on a new financial arrangement beyond the current EFF (expires March 2027). First explicit IMF signal of post-program engagement. Track as institutional indicator of post-EFF relationship with Sri Lanka.
+- **IMF press releases (imf.org):** the highest-quality source for programme data — inflation, reserves, fiscal targets and review timing. Extract unconditionally when a search returns an IMF URL.
+- **Treasury investor presentations and PDMO bulletins (treasury.gov.lk):** the most current official data on restructuring status, creditor composition, currency mix, ratings and debt-sustainability metrics.
+- **AidData and Reuters reporting on Chinese lending:** the main source for structural shifts such as yuan-denominated borrowing and Exim Bank policy.
+- **Port and shipping trade press (Journal of Commerce, TradeWinds, WorldCargo News):** breaks commercial developments at Hambantota and Colombo that general outlets miss.
+- **Institutional investor commentary (SSGA and similar):** market pricing signals on sovereign bonds that complement official data.
+- **Indian business press (The Economic Times):** often carries terms of Chinese loans and EXIM Bank negotiations not reported elsewhere.
+- **Official Sri Lankan releases (MFA, Department of Commerce):** authoritative for diplomatic engagements and trade delegations.
 
 ## Common Dedup Pitfalls
-- Many sources from different URLs (Facebook, Daily Mirror, Newsfirst, Hirunews) republish the same press release or parliamentary statement. Check for identical quotes/data before adding.
-- IDSA, South Asia Monitor, and The Diplomat often publish overlapping analyses — compare core claims before adding.
-- Chinese state media (Xinhua, China Daily, Guangming Online) publish English versions of identical content — check for cross-language duplicates.
-- Low-yield queries: #3 "bilateral loan agreement" and #4 "Hambantota port latest" frequently return zero results within the month time range. These are worth running for completeness but rarely produce new sources. Queries #1 (debt restructuring), #2 (Belt and Road), and #5 (IMF creditor) are the workhorses.
-- Social media URLs (Instagram) can yield substantive content in snippets even when full extraction fails (e.g., Dissanayake's official Instagram posts about China meetings). Don't skip evaluation just because the platform is social media — read the snippet carefully.
-- **Indirect macro sources matter.** Not all new sources directly mention China or financial relations. The World Bank reclassification (upper-middle income, July 1, 2026) is substantively relevant because it provides the recovery context for understanding post-restructuring China-Sri Lanka engagement. When evaluating sources, ask: "Does this affect the macro environment in which China-Sri Lanka financial relations operate?" If yes, it's relevant even without explicit China mentions.
-- **New ambassador coverage dedup:** Multiple outlets (MFA official release, The Morning, Facebook, Instagram, X) cover the same new ambassador event. Use the MFA official release (mfa.gov.lk) as the primary authoritative source. The Morning adds arrival date. Other social media posts are derivative and should not be added as separate sources.
-- **Treasury investor call vs. IMF press releases:** The Treasury investor call (August 10, 2026) contains overlapping data with IMF PR26/229 (June 2026) and EconomyNext Q1 debt data (June 2026), but is more comprehensive — it adds credit ratings, currency composition, DSA forward targets, and OCC bilateral agreement status. Add as a distinct source for its breadth; do not confuse with the narrower IMF staff visit press release.
-- **MSC Hambantota stake talks vs. old Hambantota coverage:** The MSC stake talks (July 2026) are a genuinely new commercial development that could be confused with old Hambantota handover/lease coverage. The key distinction: this is about MSC (a global shipping operator) joining CMPort as a stakeholder, not about the original 2017 99-year lease or debt-trap diplomacy narrative. It's a commercial development, not a debt/geopolitics story.
-- China Eximbank yuan-switch vs. existing IMF-geopolitics coverage: The AidData/Reuters yuan-switch report (June 2026) relates to the IMF-geopolitics concept page but is distinct from the IMF creditor status debate. It's about China's lending *currency* policy, not about China's challenge to IMF preferred creditor status. Place it in sources.md under 'Yuan-Denominated Lending & RMB Internationalization' rather than 'IMF Program & Debt Restructuring Updates.'
-- SSGA investor commentary vs. Treasury investor call: The SSGA Emerging Market Debt Commentary (Q2 2026) and the Treasury investor call (August 10, 2026) share overlapping data (IMF EFF disbursement amounts, credit ratings, program status) but serve fundamentally different purposes: SSGA provides market pricing signals and investor sentiment, while Treasury provides official government data. Add SSGA under 'Investor Confidence & Sovereign Bond Market' as a complementary source, not a duplicate of the Treasury investor call under 'IMF Program & Debt Restructuring Updates.'
+
+- Many outlets republish the same press release or parliamentary statement. Compare quotes and figures before adding a second entry.
+- IDSA, South Asia Monitor, The Diplomat and Carnegie often publish overlapping analysis; add only where a source contributes new data or a distinct argument.
+- Chinese state media (Xinhua, China Daily, Guangming Online) publish English versions of identical content.
+- Ambassador coverage is duplicated across the MFA release, The Morning and social media; use the MFA release as primary.
+- The Treasury investor call overlaps with IMF press releases but adds ratings, currency composition and DSA targets — treat it as distinct, not a duplicate.
+- The MSC stake talks are a commercial development, not a repeat of the 2017 lease or the debt-trap narrative.
+- The yuan-switch story concerns lending currency, not China's challenge to IMF preferred-creditor status; keep those concepts separate.
+
+## Priority Sources
+
+A categorized list is maintained at `/root/wiki/sri-lanka-china/priority-sources.md`. Each run should read it first, check regional specialists, official sources and think tanks for new material, then run Tavily searches to catch anything the curated list missed.
