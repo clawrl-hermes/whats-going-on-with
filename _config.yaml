@@ -11,7 +11,6 @@ topics:
       - "Sri Lanka China IMF creditor negotiations"
     cron_jobs:
       weekly_source_monitor: "59bd5148c4da"
-      monthly_watch_report: "90f1ad1706cb"
   - name: "Chinese Infrastructure in Southern Africa"
     slug: "chinese-infrastructure-southern-africa"
     path: "/root/wiki/china-southern-africa"
@@ -27,7 +26,6 @@ topics:
       - "China Mozambique Tanzania infrastructure minerals"
     cron_jobs:
       weekly_source_monitor: "e4c42eb7e604"
-      monthly_watch_report: "1f42aa60b65a"
   - name: "Georgian Geopolitical Position"
     slug: "georgian-geopolitical-position"
     path: "/root/wiki/georgia"
@@ -43,7 +41,6 @@ topics:
       - "Georgia South Caucasus geopolitics"
     cron_jobs:
       weekly_source_monitor: "103d0a3116e5"
-      monthly_watch_report: "2e9a628d3621"
   - name: "Kazakhstan Economy"
     slug: "kazakhstan-economy"
     path: "/root/wiki/kazakhstan"
@@ -59,7 +56,6 @@ topics:
       - "Tokayev multi-vector foreign policy 2025 2026"
     cron_jobs:
       weekly_source_monitor: "588924b68bde"
-      monthly_watch_report: "4f247c08fda0"
   - name: "Islamic Extremism in the Philippines"
     slug: "philippines-islamic-extremism"
     path: "/root/wiki/philippines-islamic-extremism"
@@ -72,7 +68,6 @@ topics:
       - "Marcos Duterte rivalry Mindanao security implications"
     cron_jobs:
       weekly_source_monitor: "e130db2f5c4b"
-      monthly_watch_report: "4aa9baba9300"
   - name: "Armenia-Azerbaijan Relations"
     slug: "armenia-azerbaijan"
     path: "/root/wiki/armenia-azerbaijan"
@@ -85,7 +80,6 @@ topics:
       - "Azerbaijan military Armenia border 2026"
     cron_jobs:
       weekly_source_monitor: "58c8e7d6d3a3"
-      monthly_watch_report: "d060f6392ec9"
   - name: "Bolivia's Political Situation"
     slug: "bolivia-politics"
     path: "/root/wiki/bolivia-politics"
@@ -101,4 +95,3 @@ topics:
       - "Bolivia Evo Morales Chapare arrest warrant"
     cron_jobs:
       weekly_source_monitor: "a12445504ea0"
-      monthly_watch_report: "89a27e250099"
