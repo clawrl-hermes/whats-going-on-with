@@ -1,298 +1,123 @@
 # Wiki Ingest Log
 
-## 2026-07-08 - Ingest | weekly source update (armenia azerbaijan)
-- **Priority Sources (8 new):**
-  - Eurasianet (Jul 7): Pashinyan-Mishustin Yekaterinburg meeting — Russia extends olive branch with warnings about investor protection
-  - JAMnews (Jul 2026): Armenia begins independent restoration of railway sections to Turkey/Azerbaijan borders, bypassing Russia's South Caucasus Railway concession
-  - Caucasus Watch (Jul 3): Von der Leyen in Yerevan — €18M final tranche, autonomous trade measures liberalizing ~80% of Armenian exports to EU, "economic violence" from Russia
-  - Caucasus Watch (Jul 7): Pashinyan — fuel market resilient; EU duty-free access approved by EC, pending formal adoption
-  - Caucasus Watch (Jun 29): Pashinyan warns against reviving Karabakh issue, questions EAEU functioning; TRIPP in active phase, construction possible before year-end
-  - Caucasus Watch (Jul 2026): Galuzin links EAEU stability, transport corridors, and Russian military presence in Armenia
-  - Caucasus Watch (Jul 2026): Azerbaijan summons Russian ambassador over SOCAR facility strike in Ukraine
-  - Meydan TV (Jun 22): Grigoryan-Hajiyev meeting in Dilijan — first bilateral at this level on Armenian territory; "managing threat of war"; next meeting in Azerbaijan
-- **Tavily Searches (2 new):**
-  - Reuters (Jul 6): Pashinyan hopes to resolve "problematic issues" with Russia; €52M EU support post-election
-  - AEI/Michael Rubin (Jul 2026): Trump's Section 907 waiver allowing US weapons to Azerbaijan contradicts peace process; Aliyev occupies ~100 sq mi of Armenian land
-- Updated sources.md (30 → 40), index.md source count (30 → 40)
-- Pashinyan entity: added Yekaterinburg visit, railway independence move, EU trade access development
-- TRIPP concept: added construction timeline (Pashinyan: before year-end, no political/financial obstacles)
-
-## 2026-06-16 - Ingest | weekly source update (armenia azerbaijan)
-- Added 4 new sources covering: Azerbaijani ambassador's conditions for border opening, Akhalkalaki-Kars railway opening, geopolitical analysis of railway normalization, and Pashinyan's Republic Day military reforms speech.
+## 2026-06-16 - Weekly Source Update
+- New sources ingested:
+  - 4 from priority sources
+- Updated sources.md (8 → 12), index.md source count (8 → 12)
 - Updated timeline with 4 new entries (May 19-28)
-- Updated TRIPP concept page with latest status
-- Updated Pashinyan entity page with military reforms and expanded relationship details
-- Updated index.md source count: 8 → 12
+- Updated TRIPP concept: implementation status
+- Updated Pashinyan entity: military reforms and relationship details
 
-## 2026-06-23 - Ingest | the guardian, lemkin institute, washington examiner, rferl
-- The Guardian: "A bridge, not an obstacle" — Pashinyan's Real Armenia doctrine, JD Vance visit, passport stamp controversy, "no peace no war" risk
-- Lemkin Institute: Aliyev's direct threat to Armenian voters, TRIPP as rebranded territorial expansion, Pashinyan's concessions on Artsakh narratives
-- Washington Examiner: TRIPP corridor details, legal obstacles to peace, Azerbaijan-Israel operations angle
-- RFERL: Republic Day parade with Indian/French/Chinese/Iranian weapons, Eagle Partner 2026 with US/France/Greece
-- Added 4 new sources (17-20). Updated source count: 12 → 16
+## 2026-06-23 - Weekly Source Update
+- New sources ingested:
+  - 4 from priority sources
+  - 1 manual ingest
+- Updated sources.md (12 → 17), index.md source count (12 → 17)
 
-## 2026-06-23 - Manual Ingest | Eurasianet: Yerevan appealing Russian bans on Armenian exports — Rosselkhoznadzor banned food/seed/flower/fertilizer imports; Armenia appealing to Eurasian Economic Commission; ban seen as punitive for Pashinyan's pivot
-- Added 1 new source (21). Updated source count: 16 → 17
+## 2026-07-01 - Weekly Source Update
+- New sources ingested:
+  - 5 from priority sources
+- Updated sources.md (21 → 26), index.md source count (21 → 26)
+- Updated timeline with 4 new entries (June 11-30)
+- Updated TRIPP concept: DFC implementation structure and economic projections
+- Updated Pashinyan entity: post-election outlook, NATO summit, Aliyev demands
+- Updated Aliyev entity: Western Azerbaijan campaign, UN escalation, territorial demands
 
-## 2026-07-03 - Watch Report | **Source 29 — ANCA:** Congressional press conference marking 1,000 days of Armenian POWs; Sherman, Chu, Friedman, Costa demand release; Sherman Amendment vote advancing; 8 pro-Armenian amendments in House; bipartisan Senate/House statements (Schiff, Kim, Fong, TLHRC)
-- **Source 30 — OC Media:** Baku Initiative Group hosts "Right of Return and Self-Determination" conference in US Congress — first event of its kind in the building; "Western Azerbaijani" personal stories of expulsion; ANCA held simultaneous separate event
-- Updated sources.md (28 → 30), timeline (2 new entries for June 24), Aliyev entity page (added Baku Initiative Group detail), index.md (source count 28 → 30)
-- Revised Watch Report 02-07-2026: added What's New bullet on Congressional accountability track (Sherman Amendment, 8 amendments); expanded Political analysis with Congressional track paragraph; added Probability Trigger for Congressional action; added both sources to Key Sources
-- Generated Watch Report 02-07-2026 — second monthly watch report
-- Key developments since Report #1:
-  - Aliyev escalated preconditions: "Western Azerbaijan" conference in US Congress (June 24), UN-level demands for resettlement of 300,000 Azerbaijanis, return of enclaves, territorial adjustments
-  - Deputy FM Kostanyan announced 2030 target for full border reopening with Turkey and Azerbaijan (June 24)
-  - Eagle Partner 2026 expanded to multinational format with US, France, Greece (June 17–25); Armenia at Eurosatory 2026 in Paris
-  - DFC TRIPP Public Information Summary reveals no funding committed, sub-project equity capped at 40%
-  - Armenia further distanced from Russia: Zelensky meeting, Ukraine recovery conference attendance
-  - NATO summit in Ankara (July 2026) identified as critical diplomatic window
-- Prediction unchanged: "Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months."
-- Probability raised: 75% → 80% due to Aliyev's escalated demands structurally reducing treaty probability
-- Updated index.md, watch-reports-summary.md (both per-topic and global)
-- Files updated: Watch Report 02-07-2026.md, index.md, watch-reports-summary.md (x2), log.md
+## 2026-07-08 - Weekly Source Update
+- New sources ingested:
+  - 8 from priority sources
+  - 2 from Tavily
+- Updated sources.md (30 → 40), index.md source count (30 → 40)
+- Updated Pashinyan entity: Yekaterinburg visit, railway independence, EU trade access
+- Updated TRIPP concept: construction timeline
 
-## 2026-07-01 - Ingest | weekly source update (corrected — removed biased source, added eurasianet)
-- Carnegie Endowment (June 11): Post-election roadmap — NATO summit in Ankara as diplomatic window, border opening as confidence-building step, broader South Caucasus economic compact vision
-- DFC TRIPP Summary: Concrete implementation details — TDC as 74/26% US-Armenia JV, multimodal scope (rail/road/pipeline/electricity/fiber), World Bank economic projections ($100M/yr savings, 0.5-1% GDP, 3% export growth)
-- Orta Sayfa Haber (June 24): Deputy FM Kostanyan announces 2030 target for full border reopening; certain routes may operationalize earlier
-- German Marshall Fund (June 1): Armenia reframed as emerging connectivity hub, part of Black Sea–South Caucasus–Central Asia connectivity architecture
-- Eurasianet (June 25): Armenia putting more distance between itself and Russia — EU agricultural export deal, Ukraine engagement, Russia's threats, 2030 normalization target
-- Added 5 new sources (22–26). Updated source count: 21 → 26
-- Updated timeline with 4 new entries (June 11–30)
-- Expanded TRIPP concept page with DFC implementation structure and economic projections
-- Updated Pashinyan entity: post-election outlook, NATO summit, Aliyev's escalated demands
-- Updated Aliyev entity: "Western Azerbaijan" campaign, UN escalation, territorial demands
-
-## 2026-07-15 - Ingest | weekly source update (armenia azerbaijan)
-- **Priority Sources (11 new):**
-  - Caucasus Watch (Jul 9): Iranian Ambassador Shirgholami discusses TRIPP concerns, Iran's "legitimate" fears about US presence near borders, Nakhchivan Airport incident, Armenia as energy transit hub
-  - Caucasus Watch (Jul 9): Zakharova criticizes Armenia over WWII narrative, Hovhannisyan appointment as "revisionist"
-  - Caucasus Watch (Jul 7): Police raid 70+ sites linked to Tsarukyan/Multi Group in tax evasion probe — post-election crackdown on opposition
-  - Caucasus Watch (Jul 4): Parliament committee clears final reading of law opening EU market to Armenian fish exports via TRACES system
-  - Caucasus Watch (Jul 3): Parliament takes up electoral code changes requiring 366/730 day residency for voting
-  - JAMnews (Jul 13): Aliyev at Shusha forum — Azerbaijan may quit Council of Europe, US relations at "strongest," gas exports to 16 countries, military procurement from China, Russia relations "fully normalised"
-  - JAMnews (Jul 13): Azerbaijan-Georgia 20-year electricity agreement signed May 18, approved Jul 9 — strengthens Middle Corridor, reduces Georgian dependence on Russia
-  - JAMnews (Jul 9): TRIPP and Middle Corridor become central to US South Caucasus strategy
-  - JAMnews (Jul 5): Constitutional Court rejects opposition bid to annul elections; 5 opposition parties declare "political resistance"
-  - OC Media (Jul 14): Armenia-Russia trade turnover drops 20.5% ($570M), Russia's share falls from 35.1% to 28%, EAEU share from 36.7% to 29.8%
-  - OC Media (Jul 14): Aliyev at Shusha forum — Russia reconciliation, China weapons procurement, CoE departure threat, Ukraine advice
-- **Tavily Searches (0 new):** No new substantively unique sources not already covered by priority sources
+## 2026-07-15 - Weekly Source Update
+- New sources ingested:
+  - 11 from priority sources
 - Updated sources.md (40 → 51), index.md source count (40 → 51)
 
-## 2026-07-22 - Ingest | weekly source update (armenia azerbaijan)
-- **Priority Sources (10 new):**
-  - Eurasianet (Jul 16): TRIPP takes step toward implementation — Armenian govt approves bill, TRIPP Development Co. with 49-year lease, Sokolov named to head $200M Middle Corridor fund
-  - Eurasianet (Jul 15): China & Japan calibrating trans-Caspian trade strategies — focus on Pashinyan's constitutional amendment efforts
-  - JAMnews (Jul 21): Russia destroyed 40,000 Armenian roses shipped via Belarus — trade war escalation
-  - JAMnews (Jul 21): Armenia begins recruiting border guards for Azerbaijan border — border security development
-  - JAMnews (Jul 21): Aliyev's visit to Germany — energy diplomacy with EU
-  - JAMnews (Jul 17): Azerbaijani FM Bayramov visits Moscow despite Russian smear campaign
-  - JAMnews (Jul 17): Azerbaijan's withdrawal from CoE analysis
-  - JAMnews (Jul 16): Armenia begins ratifying TRIPP agreement
-  - JAMnews (Jul 15): New EU mission to counter hybrid threats in Armenia
-  - OC Media (Jul 20): Armenia exports flowers to UAE amid Russian trade restrictions
-- **Tavily Searches (5 new):**
-  - Foreign Policy (Jul 21): Anna Ohanyan on Armenia's 'predatory opposition' and democratic challenges
-  - Mirror-Spectator (Jul 21): TRIPP deal in conflict with Armenian law, says Justice Ministry
-  - Mirror-Spectator (Jul 21): Trump Route Fund Chair Sokolov buys second-largest Armenian mine (Teghut)
-  - Caucasus Watch (Jul 2026): VTB sells Teghut mine, EU advisory mission, 3+3 meeting, Aliyev global strategy, Fitch rating
+## 2026-07-22 - Weekly Source Update
+- New sources ingested:
+  - 18 total (10 from priority sources, 5 from Tavily)
 - Updated sources.md (51 → 69), index.md source count (51 → 69)
 
-## 2026-07-29 - Ingest | weekly source update (armenia azerbaijan)
-- **Priority Sources (8 new):**
-  - OC Media (Jul 27): Pashinyan-Putin first post-election call — Pashinyan raises Russian import bans, Putin reiterates EU referendum demand, Pashinyan says referendum only possible after Armenia applies to EU
-  - Caucasus Watch (Jul 2026): "Armenia: Squeezed by Moscow, Hedging with Washington and Brussels" — major analytical piece on Armenia's economic squeeze, US DFC $2.5B package, EU €50M aid, €2B connectivity platform
-  - Caucasus Watch (Jul 24): Azerbaijan's Milli Majlis condemns H.R. 9087 (Sherman bill) approved by US House Foreign Affairs Committee
-  - Caucasus Watch (Jul 25): Armenia-Iran energy cooperation — Iran proposes new trade model for gas exports
-  - Caucasus Watch (Jul 25): Pashinyan-Macron phone call reaffirming strategic partnership
-  - Caucasus Watch (Jul 2026): Azerbaijan-Iran media ban escalation — Iran lists AzTV as "enemy media," Azerbaijan bans Sahar TV and Mehr News Agency
-  - Caucasus Watch (Jul 26): Weekly Military Brief — British training of Armenian instructors, Azerbaijan exercise in Jordan, Serbia defense delegation
-  - ARMENPRESS (Jul 2026): Armenia-Turkey business forum to reconvene in September; railway freight up 400%
-- **Tavily Searches (1 new):**
-  - Jamestown Foundation (Jul 2026): TRIPP Plays Role in Reordering of Eurasian Trade Routes
+## 2026-07-29 - Weekly Source Update
+- New sources ingested:
+  - 8 from priority sources
+  - 1 from Tavily
 - Updated sources.md (69 → 78), index.md source count (69 → 78)
 - Updated timeline with 14 new July 2026 entries
 - Updated Pashinyan entity: Putin call details, EU referendum position
 - Updated Aliyev entity: Sherman bill condemnation, Iran media ban, Slovak president visit, Jordan exercise, Serbia delegation
-|- Updated TRIPP concept: July 16 approval, Jamestown analysis, legal conflict with Armenian law
+- Updated TRIPP concept: July 16 approval, Jamestown analysis, legal conflict with Armenian law
 
-## 2026-08-05 - Ingest | weekly source update (armenia azerbaijan)
-- **Priority Sources (10 new):**
-  - OC Media (Aug 3): Pashinyan's cabinet shakeup — Rubinyan replaces Simonyan as Speaker, Makunts as Chief of Staff, Manavazyan as faction head; analysis that Pashinyan driven by political insecurity
-  - OC Media (Aug 4): Armenian Parliament elects new speaker as Catholicos skips session for first time — Pashinyan 6 votes short of 2/3 majority for constitutional amendment
-  - OC Media (Aug 2026): Catholicos Karekin II to stand trial in historic first — criminal charges for refusing to reinstate Pashinyan-linked bishop
-  - OC Media (Jul 31): Aliyev attends Kyrgyzstan golf course opening — 16th Central Asia visit, agreements signed, Azerbaijan-Kyrgyz Development Fund doubled to $200M
-  - JAMnews (Aug 2026): Armenia approves new government — most ministers retained, talent pool gets 1,141 applications
-  - JAMnews (Jul/Aug 2026): "Moscow will only push Armenia out of Russian-led blocs" — SVR claims dismissed by Armenian analysts; 74% of Armenians in poll favor EU membership
-  - JAMnews (Aug 3): Diaspora youth camp in Zangilan — Azerbaijan's "information soldier" training for diaspora youth; 120+ from 64 countries
-  - JAMnews (Jul/Aug 2026): Turkey restores Akyaka–Gyumri railway (2-3 months), highway tender announced, freight traffic up 400%
-  - Meydan TV (Jul 21): Berlin police blocked protest during Aliyev's Germany visit — Aliyev-Merz signed Strategic Agenda Declaration
-  - ARKA (Aug 2): Yerevan expects Ankara to fulfill border opening agreement — Rubinyan calls for diplomatic relations "tomorrow"
-- **Tavily Searches (4 new):**
-  - Türkiye Today (Aug 2): Armenia awaits Türkiye's implementation of border opening — border briefly reopened Jun 12-22 for Lebanon aid; direct trade now possible
-  - SpecialEurasia (Jul 12): Armenia-Iran to Sign a Strategic Partnership — analysis of Iran's defensive shield against TRIPP encirclement; Syunik red line as casus belli
-  - GSSC (Aug 4): TRIPP nexus geostrategic analysis — 90% highway/70% railway ready on Azerbaijani side; corridor unlikely before 2031; weakest point: Armenian domestic politics
-  - Washington Times (Jul 8): Trump should help open the Armenia-Turkey border (op-ed - noted but not added as separate source given existing coverage)
+## 2026-08-05 - Weekly Source Update
+- New sources ingested:
+  - 13 total (10 from priority sources, 4 from Tavily)
 - Updated sources.md (78 → 91), index.md source count (78 → 91)
-- **Key development:** NATO Ankara Summit (Jul 7-8) produced no diplomatic breakthrough — Aliyev was absent from the summit, the one venue identified as critical for a Trump-mediated meeting
-- **Prediction unchanged:** "Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months."
-- **Probability unchanged at 80%** — structural deadlock confirmed by Aliyev's NATO boycott; no diplomatic mechanism to bridge constitutional impasse
-- **Target adjusted:** August 2027 (consistent with "next 12 months" from August)
-- **Major new developments covered:**
-  - TRIPP ratification bill approved (Jul 16), TRIPP Development Co. established with 49-year lease
-  - Russia escalates economic warfare: 39,000 roses destroyed, dairy ban, trade turnover down 20.5%
-  - Pashinyan-Putin first post-election call (Jul 27) — Putin demands EU referendum, Pashinyan conditions it on EU application
-  - Aliyev at Shusha Forum (Jul 13): threatens CoE withdrawal, discloses China weapons procurement
-  - Sherman Amendment passes House Foreign Affairs Committee 44-7 (Jul 22); Azerbaijan's Milli Majlis condemns
-  - Von der Leyen in Yerevan: €18M tranche, 80% export liberalization to EU
-  - Armenia-Turkey normalization: border envoys meeting Jul 30, railway freight +400%
-  - Armenia recruiting border guards for Azerbaijan border (Jul 21); British forces training Armenian instructors
-- **Report file:** Watch Reports/Watch Report 01-08-2026.md
-- **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
-- **PDF generated and uploaded to R2**
+
+## 2026-08-12 - Weekly Source Update
+- New sources ingested:
+  - 28 total (19 from priority sources, 3 from Tavily, 6 priority bonus)
+- Updated sources.md (91 → 119), index.md source count (91 → 119)
+
+## 2026-08-19 - Weekly Source Update
+- New sources ingested:
+  - 4 from priority sources
+- Updated sources.md (119 → 123), index.md source count (119 → 123)
+- Updated domain-notes.md with the week's key data points
 
 ## 2026-08-26 - Weekly Source Update
-- **New sources:** 15 (124–138)
-- **Source 124:** [OC Media] Armenia downgrades Russia from "strategic alliance" to "transforming partnership" in new govt programme — formal diplomatic language downgrade
-- **Source 125:** [Caucasus Watch] Pashinyan declares "Fourth Republic" — "Real Armenia" ideology as official vision; Third v Fourth Republic paradigm shift
-- **Source 126:** [Caucasus Watch] Armenia rules out foreign security/military role in TRIPP — Khandanyan: "infrastructure project," border/customs under Armenian jurisdiction
-- **Source 127:** [Caucasus Watch] S&P Global says TRIPP could strengthen connectivity — first major credit rating agency assessment, notes early implementation stage
-- **Source 128:** [Caucasus Watch] Aliyev-Uzbekistan Treaty on Eternal Friendship signed Aug 23-24; $1B trade target; $500M investment fund
-- **Source 129:** [Meydan TV] Baku-Moscow tensions escalate: Russia deports Azerbaijani diaspora leader; Azerbaijan puts 3 Russians on wanted list
-- **Source 130:** [Caucasus Watch] Azerbaijan summons Russian ambassador over "provocative" Russian media rhetoric; Zakharova defends wanted citizens
-- **Source 131:** [Caucasus Watch] Armenia-India defense MoU signed; new general staff cooperation format; deepens military diversification
-- **Source 132:** [JAMnews] Azerbaijan becomes full C6 member of Central Asian heads of state format; trade up 53% to $1.8B
-- **Source 133:** [JAMnews] Armenia-Azerbaijan trade data: $17.4M Azerbaijani exports to Armenia Jan-Jul (fuel); potential $300M annually
-- **Source 134:** [ARMENPRESS] Pashinyan argues EU-Russia tensions stem from "natural transformation" of Armenia-Russia relations; EU visa liberalization target 2029
-- **Source 135:** [APRI Armenia] Poghosyan & Vatanka: Trump's South Caucasus peacemaking most successful but needs renewed US engagement + Iran understanding
-- **Source 136:** [Caucasus Watch] Armenia govt sets 2031 goals: peace institutionalization, TRIPP, EU visa liberalization, 6% growth, SCO membership
-- **Source 137:** [Caucasus Watch] Azerbaijan sues CNN in US federal court over June 5 article on Israeli operations from Azerbaijani territory
-- **Source 138:** [Caucasus Watch] UK-Azerbaijan strategic partnership: defense at "unprecedented level," green energy, data centers, AI cooperation
-|- **Files updated:** sources.md, index.md, log.md
-
-## 2026-08-29 - Ingest | DW: Russian-American heads Trump's Caucasus trade route
-- **Source 142:** [DW] Konstantin Sokolov profile — Russian-American businessman appointed to head TRIPP+ Enterprise Fund ($200M+). Background: emigrated from Russia at 21, founded IJS Investments Chicago. Acquired Viva Armenia (largest telecom), Rostelecom Armenia subsidiary, Teghut mine (2nd largest in Armenia) from sanctioned VTB Bank. Major Trump donor (~$11M MAGA). Met Pashinyan and Mirzoyan in August with Witkoff senior adviser Aryeh Lightstone. Analysis of dual role as pragmatic investor and potential "compromise figure" between Moscow and Washington.
-- Created Konstantin Sokolov entity page
-- Updated TRIPP concept page with TRIPP+ Enterprise Fund details
-- Updated Pashinyan entity page with Sokolov meeting
-- Updated domain-notes.md with Sokolov profile and implications
-- Updated index.md (source count 141→142, added Sokolov to entities)
-- **Files updated:** sources.md, index.md, log.md, domain-notes.md, concepts/TRIPP.md, entities/Nikol Pashinyan.md, entities/Konstantin Sokolov.md
+- New sources ingested:
+  - 15 from priority sources
+- Updated sources.md (123 → 138), index.md source count (123 → 138)
+- Updated domain-notes.md with the week's key data points
 
 ## 2026-08-29 - Weekly Source Update
-- **New sources:** 3
-- **Source 139:** [OC Media] Aliyev suggests Azerbaijan could supply Armenia with electricity — Aliyev stated Azerbaijan could supply electricity to Armenia citing Metsamor NPP dependency. Specialists surveyed Armenia, identified pylon sites. Power line to Nakhchivan ready, 6 months to complete.
-- **Source 140:** [OC Media] Officials from Armenia, Azerbaijan meet in Lachin to discuss electricity trade — Working-level energy meeting in Lachin between Armenian and Azerbaijani officials to discuss electricity trade and infrastructure interconnection. Concrete step following Aliyev's political statement.
-|- **Source 141:** [CEPA] Trump's Route Begins to Re-Make the South Caucasus — Emil Avdaliani analysis of TRIPP first anniversary. US companies reached ~$8B deals with Azerbaijan. Railway link to Armenia expected 2027. Construction on Armenian soil late 2026-early 2027.
-|- **Files updated:** sources.md, index.md, domain-notes.md, log.md
+- New sources ingested:
+  - 3 from priority sources
+  - 1 manual ingest
+- Updated sources.md (138 → 142), index.md source count (138 → 142)
+- Created Konstantin Sokolov entity
+- Updated TRIPP concept: TRIPP+ Enterprise Fund details
+- Updated Pashinyan entity: Sokolov meeting
+- Updated domain-notes.md: Sokolov profile and implications
 
 ## 2026-09-05 - Weekly Source Update
-|- **New sources:** 6 (143–148)
-|- **Source 143:** [OC Media] Pashinyan and Aliyev meet at SCO summit amidst news of Armenian exports to Azerbaijan — First leader-level meeting since June elections (Aug 31, Bishkek). Discussed peace process, delimitation, TRIPP. Mirzoyan: Armenian exports to Azerbaijan to begin "in the next few days."
-|- **Source 144:** [JAMnews] What Pashinyan and Putin agreed in Bishkek — First Pashinyan-Putin meeting since April. Putin pressed EU referendum; Pashinyan rejected. Agreed to explore selling South Caucasus Railway concession to third party acceptable to both.
-|- **Source 145:** [JAMnews] Pashinyan: "If Russia decides to withdraw its military base, we will not object" — Pashinyan says 102nd base not vital. Putin had said Russia would leave "tomorrow." Also discussed: no visa plans, nuclear plant proposals.
-|- **Source 146:** [Caucasus Watch] Zelenskyy Backs Armenia's European Course, Pashinyan Signals EU Membership Bid — Zelenskyy welcomed Armenia's EU orientation. Pashinyan said he'd be "glad if expelled from CSTO."
-|- **Source 147:** [EU Neighbours East] Yerevan hosts Armenia-Türkiye business conference — EU Ambassador Maragos opened forum with ~200 business leaders. EU normalization program April 2026-Sep 2027.
-|- **Source 148:** [MassisPost] The Peace Aliyev Offers Armenia — Analysis of Aliyev's dual peacemaker/victor discourse. Covers Bishkek meeting, Pashinyan's TRIPP talk with Senator Daines.
-|- **Files updated:** sources.md, index.md, log.md
+- New sources ingested:
+  - 6 from priority sources
+- Updated sources.md (142 → 148), index.md source count (142 → 148)
+
+## 2026-09-12 - Weekly Source Update
+- New sources ingested:
+  - 7 from priority sources
+- Updated sources.md (148 → 155), index.md source count (148 → 155)
+- Updated domain-notes.md with the week's key data points
 
 ## 2026-09-19 - Weekly Source Update
-||- **New sources:** 5 (156–160)
-||- **Source 156:** [Eurasianet] Russia turns off gas taps to Armenia — Gazprom suspended supplies Sep 15-25, three days after Pashinyan confirmed Armenia seeking alternative gas sources. Russia = ~82% of Armenia's gas imports. Major economic pressure escalation.
-||- **Source 157:** [Mirror-Spectator/Eurasianet] TRIPP start date pushed back to 2027 — Azerbaijani FM Bayramov confirmed construction delay. Iran warned US personnel in corridor would be "legitimate target." Security/oversight unresolved.
-||- **Source 158:** [OC Media] Azerbaijani media claims 'Armenia not ready for peace' — After controversial Nagorno-Karabakh tour portraying Armenian heritage as "Caucasian Albanian," pro-government Azerbaijani media shifts tone, questions Armenia's peace readiness.
-||- **Source 159:** [MassisPost] Armenia-Russia Relations After Pashinyan-Putin Meeting — Analysis of Bishkek aftermath: Kazakhstan floated for railway concession; Putin's base withdrawal statement raises pressure; gas price negotiations expected December.
-||- **Source 160:** [MassisPost] Pashinyan confirms comprehensive review of Armenia-Russia relations — "Inventory" covers transport, energy, economics. Pashinyan: "If CSTO wants to remove us, let them." Says 102nd base not vital after 2022 events.
-||- **Files updated:** sources.md, index.md, log.md
-|- **New sources:** 7 (149–155)
-|- **Source 149:** [Caucasus Watch] EU Council backs two-year trade boost for Armenian exports — Council approved temporary trade-liberalization measures covering ~80% of Armenian exports (duty-free access for ~99% fresh fruit/veg, ~91% beverages/spirits). EP to adopt in September plenary.
-|- **Source 150:** [Caucasus Watch] Aliyev meets OSCE PA President Pons Sampietro — Pons Sampietro stated "one of the conflicts in the OSCE area had been resolved." Aliyev criticized Minsk Group's 30-year failure.
-|- **Source 151:** [ARKA] TRIPP construction may begin in early 2027 — Armenian Ambassador Mkrtchyan tells Semafor feasibility study by end 2026, US committed ~$201M, economic development estimated at $1.5B.
-|- **Source 152:** [JAMnews] Armenia building AI factory with Nvidia chips as peace dividend — Firebird center near Hrazdan: $500M first phase, 6,000 Nvidia Blackwell processors, 41,000 more GB300 authorized after Washington agreement. $4B+ total expected.
-|- **Source 153:** [RFE/RL] US Congressman Hamadeh predicts peace deal "before Trump's term ends" — House Armed Services member says TRIPP will bind countries politically/economically. Dismisses Russian troop deployment claims.
-|- **Source 154:** [Türkiye Today] Putin invites Pashinyan to Moscow for EU integration talks — Pashinyan accepted. Putin urged decision on EU vs EAEU, warned of incompatibility. Bilateral trade at $2.5B.
-|- **Source 155:** [Caliber.Az] Hajiyev says conflict is over, Azerbaijan moving towards lasting peace — "We are learning to live in conditions of peace." Peace means building trust, reconstruction, development.
-
-## 2026-09-26 - Watch Report | **Report #4 — Watch Report 26-09-2026**
-- **Key analytic conclusion:** Probability unchanged at 80%. Peace being operationalized bottom-up (trade, transit, TRIPP financing, business forums, energy cooperation) while the formal treaty remains frozen behind Azerbaijan's constitutional-reform precondition. Russia escalated to energy leverage with Sep 15-25 gas cutoff.
-- **Major developments covered:**
-  - Russia cuts gas to Armenia Sep 15-25 (Source 156)
-  - TRIPP start date pushed to 2027 (Source 157)
-  - Pashinyan-Aliyev Bishkek meeting Aug 31 — first since June elections
-  - Pashinyan-Putin Bishkek — Putin demands EU referendum, Pashinyan rejects
-  - Pashinyan says 102nd base "not vital"
-  - Galuzin's December EU/EAEU deadline
-  - EU Council two-year trade boost for Armenian exports
-  - TRIPP+ Fund doubled to $402M; New York investor forum with 40+ companies
-  - Aliyev offers electricity supply; Lachin working-level energy meeting
-  - Pashinyan declares "Fourth Republic" and drops Russia as "strategic alliance"
-  - Azerbaijan pro-government media shifts tone against peace readiness
-  - Baku-Moscow tensions: diaspora deportation, wanted list, ambassador summoned
-  - Armenia-India defense MoU; Armenia-Iran energy cooperation deepening
-  - Firebird/Nvidia AI center near Hrazdan as US peace dividend
-  - UNGA81: Pashinyan says peace text "agreed and initialed"; Bayramov describes "de facto peace"
-- **Prediction:** Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months.
-- **Probability:** 80% (unchanged)
-- **Target:** August 2027
-- **Report file:** Watch Reports/Watch Report 26-09-2026.md
-- **PDF:** Watch Reports/Watch Report 26-09-2026.pdf
-|- **R2 URL:** https://pub-70e08d62c8314675b40c42f0fe4be6fb.r2.dev/watch-reports/armenia-azerbaijan/2026-09-26.pdf
-|- **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
-|- **PDF generated and uploaded to R2**
+- New sources ingested:
+  - 5 from priority sources
+- Updated sources.md (155 → 160), index.md source count (155 → 160)
+- Updated domain-notes.md with the week's key data points
 
 ## 2026-09-26 - Weekly Source Update
-- **New sources:** 8 (161–168)
-- **Source 161:** [OC Media] Mirzoyan-Bayramov UNGA meeting Sep 24 — agree to "promote positive agenda"; Armenia exports aluminium foil to Azerbaijan in historic first; Pashinyan UN address highlights demining, missing persons, 19 detainees
-- **Source 162:** [OC Media] Simonyan suggests Russia's Gyumri base may have been perceived as threat by some in Armenia; Yerevan hasn't raised withdrawal
-- **Source 163:** [Eurasianet] Kremlin switching gears — Putin sends Independence Day greeting after months of silence; shift from bullying to charm offensive after intimidation failed
-- **Source 164:** [RFE/RL] US hosts TRIPP investment event in NY with 40+ companies; Witkoff, Daines attend; feasibility studies through late 2026/early 2027; construction at least 18 months
-- **Source 165:** [JAMnews] Crisis analysis — Bridge of Peace civil society dialogue stalled; competing heritage narratives; US midterms, Russia, Iran all influencing positions
-- **Source 166:** [JAMnews] UNGA week roundup: Trump names AA settlement among resolved conflicts; Pashinyan-Erdoğan meeting in NY; EU opens 80% market; Pashinyan discusses new nuclear plant; Baku Security Forum; Strength of Unity 2026 military exercise
-- **Source 167:** [Modern Diplomacy] Critical analysis: Turkey-Azerbaijan €2.4B Kars-Dilucu railway bypasses Armenia; TRIPP only ~$400M; Armenia at risk of missing Middle Corridor
-|- **Source 168:** [Armenian Weekly] WAC institutionalizes "Western Azerbaijan" research programs on Syunik, Vayots Dzor, Lake Sevan; Dadivank artifacts entered into Interpol database
-|- **Files updated:** sources.md (160→168), index.md (160→168), log.md
+- New sources ingested:
+  - 8 from priority sources
+- Updated sources.md (160 → 168), index.md source count (160 → 168)
+- Updated domain-notes.md with the week's key data points
 
 ## 2026-10-03 - Weekly Source Update
-|- **New sources:** 7 (169–175)
-|- **Source 169:** [Report.az] Hajiyev at CAMCA Forum (Oct 2) — constitutional amendment only remaining step for peace treaty; de facto peace exists; calls on Armenian government to prepare society for peace
-|- **Source 170:** [Caucasus Watch] Bayramov on border delimitation — northern start at Georgia tripoint, proceeding southward; TRIPP construction shifted to 2027; TRIPP negotiations primarily between Armenia and US
-|- **Source 171:** [CEPA] Nino Lezhava — US bets big on Eurasia; TRIPP as "paradigm shift"; $201M fund across 8 countries; AECOM feasibility study by year-end; Rubio to lead 100+ US companies to Uzbekistan mid-October
-|- **Source 172:** [EVN Report] Sossi Tatikyan — comprehensive analysis of Pashinyan and Bayramov's contrasting UNGA visions; unresolved humanitarian issues; fragility of one-year-old Washington framework
-|- **Source 173:** [Caucasus Watch] Detailed overview of all three South Caucasus leaders' UNGA speeches; Pashinyan notes 2.5 years without border fire casualties; Bayramov cites 90% Middle Corridor cargo increase since 2022
-|- **Source 174:** [Mirror-Spectator] Suren Sargsyan — Azerbaijan benefits from delaying peace treaty to extract maximum concessions; TRIPP doesn't guarantee signing; Russian railway concession and Iran-US war remain obstacles
-|- **Source 175:** [OC Media/Mirror-Spectator] Armenia denies conceding land near Berdavan in Tavush during demarcation — Defense Ministry calls claims "another fabrication"
-|- **Files updated:** sources.md (168→175), index.md (168→175), log.md
+- New sources ingested:
+  - 7 from priority sources
+- Updated sources.md (168 → 175), index.md source count (168 → 175)
 
 ## 2026-10-10 - Weekly Source Update
-|- **New sources:** 13
-|- **Source 176:** [Caucasian Knot] Pashinyan at Armenia-British business forum — expects Turkey border opening and railway communication with Azerbaijan/Turkey alongside TRIPP development
-|- **Source 177:** [Mirror-Spectator] Suren Sargsyan analysis of Russia's "Putin's Route" proposal — Black Sea railway/road linking Russia-Georgia-Armenia to counterbalance TRIPP
-|- **Source 178:** [OC Media] Explainer on Turkey-Azerbaijan spat over hijab ban, Israel ties, and unequal power dynamics straining "one nation, two states" narrative
-|- **Source 179:** [JAMnews] Former BND chief August Hanning arrested for passing ~2,000 classified documents to Azerbaijani intelligence over 12 years
-|- **Source 180:** [Eurasianet] Russia's intimidation campaign — Medvedev's "new Ukraine" threat; Pashinyan's nuclear plant u-turn toward Rosatom VVER-1000
-|- **Source 181:** [OC Media] Mirzoyan: Iran is "satisfied" with entire TRIPP process after Tehran visit; transparency and economic opportunities cited
-|- **Source 182:** [JAMnews] Pashinyan briefing — no extradition for Azerbaijani soldier who shot woman in Syunik; informal Aliyev contact at CIS summit; Medvedev threat dismissed
-|- **Source 183:** [OC Media] Goris meeting on TRIPP power transmission lines; Pashinyan reconsidering nuclear reactor size for AI data center demand
-|- **Source 184:** [OC Media] Pashinyan pushes back against Medvedev's "new Ukraine" threat citing CSTO's 2022 inaction
-|- **Source 185:** [Eurasianet/CAC Analyst] Why TRIPP is stalled — external obstacles: Iran security concerns and Russia's railway concession ($400M) require US-Iran and US-Russia agreements
-|- **Source 186:** [MassisPost] Pashinyan at CIS summit declares peace established reality; 2.5 years without casualties; unresolved humanitarian issues
-|- **Source 187:** [CIVILNET] Deputy FM Kostanyan: no US military presence in TRIPP; ratification expected late October; feasibility studies by year-end
-|- **Source 188:** [JAMnews] Analyst Surenyants: Aliyev's tougher rhetoric signals dissatisfaction; Baku may be hurried by growing Iranian factor
-|- **Files updated:** sources.md (175→188), index.md, log.md
+- New sources ingested:
+  - 13 from priority sources
+- Updated sources.md (175 → 188), index.md source count (175 → 188)
 
 ## 2026-10-17 - Weekly Source Update
-|- **New sources:** 13 (189–201)
-|- **Source 189:** [OC Media] Pashinyan sets 2031 target for peace treaty with Azerbaijan; proposes enclave/exclave territory exchange; Guterres in Yerevan urges implementation; Lavrov on 3+3
-|- **Source 190:** [JAMnews] Russia seeks to retain Armenian railway concession — Pashinyan-Belozerov meeting; 3-month working group; Western companies see Russian concession as obstacle
-|- **Source 191:** [JAMnews] Mirzoyan at Warsaw Security Forum: EU membership is "question for future"; Turkey border could open "tomorrow morning"
-|- **Source 192:** [JAMnews] EU preferential trade regime enters into force Oct 10; dramatic trade diversification data: Uzbekistan 48%, Georgia 34% of fruit exports vs Russia 87% in 2025
-|- **Source 193:** [Caucasus Watch] Pashinyan makes peace deal government priority at Oct 1 cabinet meeting
-|- **Source 194:** [RFI] Exclusive Pashinyan interview: Russia relations "can no longer be the same"; diversification not replacement of dependence
-|- **Source 195:** [OC Media] Azerbaijan opens first Israeli weapons factory — ARI Arms AR-15 joint venture with Defense Ministry
-|- **Source 196:** [OC Media] Herzog bypasses Turkish airspace ban using Azerbaijani commercial jet for CICA summit; Fidan walks out
-|- **Source 197:** [Caucasus Watch] Armenia-US advance critical minerals cooperation — Hueper meets Armenian officials
-|- **Source 198:** [Caucasus Watch] Major analysis: Pashinyan's talent pool program reroutes civil service from Russian to Western institutions
-|- **Source 199:** [Caucasus Watch] Azerbaijan-EU advance talks on new partnership agreement — COEST delegation visit Oct 1
-|- **Source 200:** [Mirror-Spectator] 101 Members of Congress sign letter to Rubio on Section 907 — cite 241 sq km occupation, prisoners
-|- **Source 201:** [Middle East Forum/Michael Rubin] Argues Aliyev not sincere about peace; Oct 2 party congress speech shows ideological drivers
-|- **Files updated:** sources.md (188→201), index.md, domain-notes.md, log.md
+- New sources ingested:
+  - 13 from priority sources
+- Updated sources.md (188 → 201), index.md source count (188 → 201)
+- Updated domain-notes.md with the week's key data points
