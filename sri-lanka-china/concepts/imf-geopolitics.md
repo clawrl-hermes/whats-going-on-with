@@ -1,12 +1,6 @@
 ---
 title: IMF, China, and Sri Lanka's Debt Restructuring
 summary: "How China's rise as a bilateral lender complicated the IMF's role and leverage in Sri Lanka's debt restructuring."
-created: 2026-05-27
-|updated: 2026-11-05
-type: concept
-tags: [IMF, debt restructuring, geopolitics, China-US rivalry, creditor governance, voting shares]
-sources: [raw/articles/stair-imf-geopolitics-2026.md, raw/articles/imf-pr26229-june-2026.md]
-confidence: high
 ---
 
 # IMF, China, and Sri Lanka's Debt Restructuring
