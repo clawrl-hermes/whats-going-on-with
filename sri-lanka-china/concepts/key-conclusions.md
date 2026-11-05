@@ -1,14 +1,6 @@
 ---
 title: Key Conclusions on China-Sri Lanka Financial Relations
 summary: "Synthesized findings on Chinese lending, the debt-trap question and Sri Lanka's post-crisis recovery."
-created: 2026-05-20
-updated: 2026-05-20
-type: summary
-tags: [debt, diplomacy, economics, politics, debt-trap, BRI]
-sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-confidence: medium
-contested: true
-contradictions: [debt-trap-debate]
 ---
 
 # Key Conclusions on China-Sri Lanka Financial Relations
