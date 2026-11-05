@@ -122,6 +122,6 @@
   - China Merchants Port Holdings withdraws from the $392M South Asia Commercial and Logistics Hub (SACLH) at Colombo port, citing changes in external circumstances and commercial reassessment; SLPA says it will pursue a PPP alternative.
   - Deputy Finance Minister Anil Jayantha confirms Sri Lanka and the IMF are in talks over a post-EFF programme to begin after March 2027, shifting from crisis support to growth-targeted engagement.
   - Foreign reserves fall 1.1% to $6,851M at end-September; Central Bank continues net dollar purchases ahead of 2028 bond repayments.
-|- **November:**
+- **November:**
   - A Ceylex Engineering–Xingneng Electric Power Construction (China) joint venture wins the AIIB-funded Sampur–Kappalthurai transmission project in eastern Sri Lanka.
   - The same JV wins an ADB-funded contract for Sri Lanka's first utility-scale 100 MW/100 MWh Battery Energy Storage System at Kolonnawa Grid Substation.
