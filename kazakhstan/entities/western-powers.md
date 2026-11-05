@@ -1,3 +1,9 @@
+---
+title: "Western Powers"
+summary: "The EU, US and Western investors: engagement, conditionality and sanctions risk."
+role: "External powers"
+---
+
 # Western Powers
 
 The EU, US, and other Western countries are increasingly engaging with Kazakhstan as part of broader efforts to diversify energy supplies away from Russia and to maintain influence in Central Asia.
@@ -5,7 +11,7 @@ The EU, US, and other Western countries are increasingly engaging with Kazakhsta
 ## Key dimensions
 - **EU engagement:** The first EU–Central Asia Summit was held in Samarkand in April 2025. The EU views Kazakhstan as a pragmatic interlocutor and a partner for energy diversification.
 - **US engagement:** The US has maintained diplomatic and economic ties with Kazakhstan, including cooperation on nuclear non-proliferation (Kazakhstan gave up its Soviet-era nuclear weapons) and counter-terrorism.
-|- **Kazakhstan economic reforms (Sept 2026):** Financial Times ranked the tenge as the **best-performing currency in Europe and Asia in 2026** (+10% vs USD since Jan). Kazakhstan ranked **38th in IMD World Competitiveness 2026** (score 65.4). IMF estimated GDP at PPP reaching **$993.7B** — approaching $1T milestone. Construction +13.4%, machinery +23.3%, pharma +35.2% in H1 2026.
+- **Kazakhstan economic reforms (Sept 2026):** Financial Times ranked the tenge as the **best-performing currency in Europe and Asia in 2026** (+10% vs USD since Jan). Kazakhstan ranked **38th in IMD World Competitiveness 2026** (score 65.4). IMF estimated GDP at PPP reaching **$993.7B** — approaching $1T milestone. Construction +13.4%, machinery +23.3%, pharma +35.2% in H1 2026.
 - **Sanctions risk:** As Russia uses Kazakhstan to bypass Western sanctions, the risk of secondary sanctions against Kazakh entities increases. The UK's lowering of the Russian oil price cap in January 2026 heightened this risk.
 
 ## EU engagement deepening (June-July 2026)
@@ -37,7 +43,7 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - Critical raw materials and green hydrogen value chain under Global Gateway framework — signals EU's intent to integrate Kazakhstan into Western clean-energy supply chains.
 - Simultaneously, UK active interdiction architecture and EU anti-circumvention tool (20th sanctions package) raise the stakes for Kazakhstan's balancing act.
 
-|## US Russia sanctions bill breakthrough (July 2026)
+## US Russia sanctions bill breakthrough (July 2026)
 - **July 10, 2026:** Bipartisan US Senate agreement with the Trump administration to advance the "Sanctioning Russia Act" — long-delayed legislation allowing the US to punish countries helping Russia evade sanctions.
 - Sen. Lindsey Graham, who negotiated the deal, stated: "It means it's going to become law."
 - Represents the most significant US secondary sanctions escalation since the 2022 invasion — directly relevant to Kazakhstan as a key transit corridor for trade with Russia.
@@ -84,47 +90,46 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - Part of broader US effort to boost economic engagement with Central Asia beyond critical minerals deals.
 
 ## Tokayev's South Korea visit — $19B deals (Sept 2026)
-|- **Sept 15-16, 2026:** Tokayev's state visit to Seoul produced **~80 commercial agreements worth $19B**. Relations elevated to "future-oriented comprehensive strategic partnership." Tokayev called for doubling bilateral trade (exceeded $3B in 2025).
-|- **Critical minerals:** Proposed joint Kazakh-Korean critical minerals company to move from resource extraction to deep processing. Tau-Ken Samruk signed MoU with POSCO Holdings. Joint rare/rare earth metals center proposed in Almaty with Korea Institute of Industrial Technology.
-|- **First Central Asia-Republic of Korea Summit** (Sept 16) — establishing a new institutional framework for regional engagement with East Asia's third-largest economy.
-|- **Comprehensive Program for Trade, Economic and Investment Cooperation 2027-2030** proposed.
-|- South Korea brings advanced manufacturing, critical minerals processing technology, and a non-great-power partnership that doesn't trigger the balancing costs of Chinese or Western deals — a structurally valuable addition to Kazakhstan's multi-vector portfolio.
+- **Sept 15-16, 2026:** Tokayev's state visit to Seoul produced **~80 commercial agreements worth $19B**. Relations elevated to "future-oriented comprehensive strategic partnership." Tokayev called for doubling bilateral trade (exceeded $3B in 2025).
+- **Critical minerals:** Proposed joint Kazakh-Korean critical minerals company to move from resource extraction to deep processing. Tau-Ken Samruk signed MoU with POSCO Holdings. Joint rare/rare earth metals center proposed in Almaty with Korea Institute of Industrial Technology.
+- **First Central Asia-Republic of Korea Summit** (Sept 16) — establishing a new institutional framework for regional engagement with East Asia's third-largest economy.
+- **Comprehensive Program for Trade, Economic and Investment Cooperation 2027-2030** proposed.
+- South Korea brings advanced manufacturing, critical minerals processing technology, and a non-great-power partnership that doesn't trigger the balancing costs of Chinese or Western deals — a structurally valuable addition to Kazakhstan's multi-vector portfolio.
 
 ## UK trade deepening (Sept 2026)
-|- **Kazakhstan-UK trade** reached **$1.63B in 2025** (+83.7% YoY from 2024); **$1.25B in Jan-Jul 2026** (+68.5% YoY). UK SPCA (Strategic Partnership and Cooperation Agreement) entered force July 2026, creating wider institutional framework for critical minerals, trade, logistics, education, and technology cooperation.
-|- Minister Shakkaliyev and UK Trade Envoy Lord John Alderdice (Sept 22) discussed critical minerals processing, CBAM preparation, and moving beyond raw material exports (silver, crude oil, copper). Alderdice: British companies and universities can help develop processing capacity. Kazakh producers to receive support on UK quality, certification, packaging, and standards requirements.
-|- Practical projects emerging: $107M rhenium recycling agreement; first multimodal fertilizer shipment to UK via Middle Corridor.
-|- **B5+Italy business platform** launched in Astana (Sept 21, 2026) as follow-up to 2025 Central Asia-Italy summit. Co-authored by tracked analyst Sapargali Shalgimbayev (CFive) and Domenico Palmieri (ISIA). Italy-Central Asia trade grew **46.5%** (2019-2025). Priority areas: energy, critical minerals, manufacturing, Middle Corridor. Frames shift from episodic summit diplomacy toward continuous partnership with permanent institutional mechanism.
-|- B5+Italy is part of broader expansion of C5+1 engagement models — South Korea hosted first Central Asia-ROK summit (Sept 16), adding to growing network of external powers using the regional format.
+- **Kazakhstan-UK trade** reached **$1.63B in 2025** (+83.7% YoY from 2024); **$1.25B in Jan-Jul 2026** (+68.5% YoY). UK SPCA (Strategic Partnership and Cooperation Agreement) entered force July 2026, creating wider institutional framework for critical minerals, trade, logistics, education, and technology cooperation.
+- Minister Shakkaliyev and UK Trade Envoy Lord John Alderdice (Sept 22) discussed critical minerals processing, CBAM preparation, and moving beyond raw material exports (silver, crude oil, copper). Alderdice: British companies and universities can help develop processing capacity. Kazakh producers to receive support on UK quality, certification, packaging, and standards requirements.
+- Practical projects emerging: $107M rhenium recycling agreement; first multimodal fertilizer shipment to UK via Middle Corridor.
+- **B5+Italy business platform** launched in Astana (Sept 21, 2026) as follow-up to 2025 Central Asia-Italy summit. Co-authored by tracked analyst Sapargali Shalgimbayev (CFive) and Domenico Palmieri (ISIA). Italy-Central Asia trade grew **46.5%** (2019-2025). Priority areas: energy, critical minerals, manufacturing, Middle Corridor. Frames shift from episodic summit diplomacy toward continuous partnership with permanent institutional mechanism.
+- B5+Italy is part of broader expansion of C5+1 engagement models — South Korea hosted first Central Asia-ROK summit (Sept 16), adding to growing network of external powers using the regional format.
 
 ## Russian gas imports & secondary sanctions risk (Sept 2026)
-|- **Sept 17, 2026:** Kazakhstan signed supplementary agreement with Gazprom to purchase **~11 bcm of Russian gas** in 2026 (up from ~4M bcm in 2025). Talks ongoing for additional **9 bcm in 2027** at likely discounted prices. Domestic production hit record 68.1 bcm in 2025 but demand surging.
-|- **Timing with US sanctions:** The US Congress passed sanctions bill Sept 16 (likely signed by Trump) targeting Russian energy purchasers — the bill enables punitive tariffs on any nation buying Russian energy. Creates **secondary sanctions exposure** for Kazakh entities involved in the Gazprom deal.
-|- Creates a new energy dependency vector on Russia at a time when Kazakhstan is trying to diversify away — demonstrating the structural constraints of geography.
-|- **July 23, 2026:** The EU adopted its 21st sanctions package — 48 individuals + 170 entities newly designated. Two Kazakh companies were added to sanctions and export-control lists.
-|- **Kulevi Oil Refinery (Georgia)** faces a transaction ban in 6 months unless it diversifies from Russian crude — precedent-setting extension of third-country sanctions architecture to refineries, directly relevant to Kazakhstan's energy sector.
-|- Oil price cap frozen until **July 14, 2027**.
-|- Six entities in China, Oman, India, Singapore, UAE were also sanctioned for oil trading and shadow fleet support.
-|- Enhanced third-country sanctions architecture now covers transit infrastructure, not just financial services.
-|- KazMunayGas (KMG) announced discovery of an onshore oil and gas deposit north of the Ustyurt Plateau, which stretches across Kazakhstan and Uzbekistan between the Caspian and Aral Seas.
-|- **BP** leading effort to develop energy deposits in the region.
-|- Potentially significant for Europe's energy diversification strategy.
+- **Sept 17, 2026:** Kazakhstan signed supplementary agreement with Gazprom to purchase **~11 bcm of Russian gas** in 2026 (up from ~4M bcm in 2025). Talks ongoing for additional **9 bcm in 2027** at likely discounted prices. Domestic production hit record 68.1 bcm in 2025 but demand surging.
+- **Timing with US sanctions:** The US Congress passed sanctions bill Sept 16 (likely signed by Trump) targeting Russian energy purchasers — the bill enables punitive tariffs on any nation buying Russian energy. Creates **secondary sanctions exposure** for Kazakh entities involved in the Gazprom deal.
+- Creates a new energy dependency vector on Russia at a time when Kazakhstan is trying to diversify away — demonstrating the structural constraints of geography.
+- **July 23, 2026:** The EU adopted its 21st sanctions package — 48 individuals + 170 entities newly designated. Two Kazakh companies were added to sanctions and export-control lists.
+- **Kulevi Oil Refinery (Georgia)** faces a transaction ban in 6 months unless it diversifies from Russian crude — precedent-setting extension of third-country sanctions architecture to refineries, directly relevant to Kazakhstan's energy sector.
+- Oil price cap frozen until **July 14, 2027**.
+- Six entities in China, Oman, India, Singapore, UAE were also sanctioned for oil trading and shadow fleet support.
+- Enhanced third-country sanctions architecture now covers transit infrastructure, not just financial services.
+- KazMunayGas (KMG) announced discovery of an onshore oil and gas deposit north of the Ustyurt Plateau, which stretches across Kazakhstan and Uzbekistan between the Caspian and Aral Seas.
+- **BP** leading effort to develop energy deposits in the region.
+- Potentially significant for Europe's energy diversification strategy.
 
 ## Tokayev's Germany visit (Sept 28-30, 2026)
-|- **Sept 28-30:** Tokayev made a three-day state visit to Germany (Berlin and Munich) at Steinmeier's invitation. ~30 commercial agreements worth ~$2B signed.
-|- **Bilateral trade:** $4.5B in 2025 (+13.4% YoY). German cumulative investment reached **$8B** over 21 years. Joint investment portfolio: **40 industrial projects worth ~$54B**.
-|- **Handelsblatt op-ed:** Tokayev pitched joint value chains — Kazakhstan produces 21 of 34 EU-critical raw materials (lithium, silicon, cobalt, tungsten). Offered not supply contracts but exploration-through-recycling integration.
-|- **37 projects worth €1.8B** presented at the German-Kazakh business forum with ~300 officials. Bavaria trade €3.4B (2025), leads German states.
-|- **Tokayev-Merz meeting:** Covered industry, critical minerals, technology, transport. Kazakhstan pushing for localisation, technology transfer, and training — not commodity-for-capital deals.
-|- **Merz invited** to Kazakhstan for state visit in 2027 (35th anniversary of diplomatic relations).
-|- **Munich leg:** Visited Bavaria for tech/manufacturing cooperation. Kazakhstan-Bavarian Technology Forum.
-|- **Strategic significance:** Represents the Germany/Europe pillar of multi-vector balancing — adding European technology, standards, dual education models alongside Russia/China ties. EU capital vs BRI infrastructure competition over investment direction.
-|
-|## Evolution of KZ-Germany Ukraine war dialogue (Oct 2026 analysis)
-||- Eldaniz Gusseinov (Astana Times, Oct 6) traces **three-stage evolution** of KZ-Germany diplomatic dialogue on Ukraine:
-||  - **2023 (Scholz):** Tokayev confirmed sanctions compliance; Germany gained reliable oil supplier. Kazakh oil began flowing to Schwedt refinery via Russian pipelines.
-||  - **2024 (Scholz visit to Astana):** Tokayev stated Russia is militarily invincible, endorsed Chinese-Brazilian peace plan. Joint press conference cancelled. Economic agenda unaffected.
-||  - **2026 (Merz):** Tokayev dropped "Russian invincibility" formula but said quick peace unrealistic. Proposed freezing hostilities then diplomacy. Called Putin "most acceptable political figure." Joint briefing held without cancelling — sign of bilateral maturity.
-||- **Druzhba pipeline:** Oil transit to Germany suspended May 1, 2026 — 2.1M tonnes had shipped to Schwedt in 2025, 3M planned for 2026. Overall KZ supplied Germany >10M tonnes in 2025 — most via Russian territory.
-||- **Two-track model:** War differences no longer slow economic agenda. 37 bilateral projects worth **€1.8B** continue in industry, raw materials processing, energy, logistics. Linde-Qarmet air separation unit in Temirtau, railway wheels export deal.
-||- Tokayev offered Berlin a joint value chain from geological exploration to component manufacturing and recycling, plus shared investment platform.
+- **Sept 28-30:** Tokayev made a three-day state visit to Germany (Berlin and Munich) at Steinmeier's invitation. ~30 commercial agreements worth ~$2B signed.
+- **Bilateral trade:** $4.5B in 2025 (+13.4% YoY). German cumulative investment reached **$8B** over 21 years. Joint investment portfolio: **40 industrial projects worth ~$54B**.
+- **Handelsblatt op-ed:** Tokayev pitched joint value chains — Kazakhstan produces 21 of 34 EU-critical raw materials (lithium, silicon, cobalt, tungsten). Offered not supply contracts but exploration-through-recycling integration.
+- **37 projects worth €1.8B** presented at the German-Kazakh business forum with ~300 officials. Bavaria trade €3.4B (2025), leads German states.
+- **Tokayev-Merz meeting:** Covered industry, critical minerals, technology, transport. Kazakhstan pushing for localisation, technology transfer, and training — not commodity-for-capital deals.
+- **Merz invited** to Kazakhstan for state visit in 2027 (35th anniversary of diplomatic relations).
+- **Munich leg:** Visited Bavaria for tech/manufacturing cooperation. Kazakhstan-Bavarian Technology Forum.
+- **Strategic significance:** Represents the Germany/Europe pillar of multi-vector balancing — adding European technology, standards, dual education models alongside Russia/China ties. EU capital vs BRI infrastructure competition over investment direction.
+## Evolution of KZ-Germany Ukraine war dialogue (Oct 2026 analysis)
+- Eldaniz Gusseinov (Astana Times, Oct 6) traces **three-stage evolution** of KZ-Germany diplomatic dialogue on Ukraine:
+ - **2023 (Scholz):** Tokayev confirmed sanctions compliance; Germany gained reliable oil supplier. Kazakh oil began flowing to Schwedt refinery via Russian pipelines.
+ - **2024 (Scholz visit to Astana):** Tokayev stated Russia is militarily invincible, endorsed Chinese-Brazilian peace plan. Joint press conference cancelled. Economic agenda unaffected.
+ - **2026 (Merz):** Tokayev dropped "Russian invincibility" formula but said quick peace unrealistic. Proposed freezing hostilities then diplomacy. Called Putin "most acceptable political figure." Joint briefing held without cancelling — sign of bilateral maturity.
+- **Druzhba pipeline:** Oil transit to Germany suspended May 1, 2026 — 2.1M tonnes had shipped to Schwedt in 2025, 3M planned for 2026. Overall KZ supplied Germany >10M tonnes in 2025 — most via Russian territory.
+- **Two-track model:** War differences no longer slow economic agenda. 37 bilateral projects worth **€1.8B** continue in industry, raw materials processing, energy, logistics. Linde-Qarmet air separation unit in Temirtau, railway wheels export deal.
+- Tokayev offered Berlin a joint value chain from geological exploration to component manufacturing and recycling, plus shared investment platform.

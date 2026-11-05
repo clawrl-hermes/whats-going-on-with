@@ -1,169 +1,106 @@
-# Kazakhstan — Global Competitiveness Topic Notes
+# Kazakhstan — Global Competitiveness: Structural Notes
 
-## Wiki Location
-- Path: `/root/wiki/kazakhstan/`
-- Repo: `kent-iscann/signal-fracture-content`
-- Git auth: credential helper (no gh CLI needed)
-- Branch: `main`
+> Recent developments are tracked in `timeline/kazakhstan-timeline.md` at month resolution. This file records structural context, recurring dynamics and the data series to watch, not a chronology.
 
-## Folder Structure
-```
-/root/wiki/kazakhstan/
-├── index.md              (source count + last-updated date + page catalog)
-├── sources.md            (numbered table: # | Title | Date | Summary)
-├── log.md                (append-only session entries)
-├── timeline/
-│   └── kazakhstan-timeline.md  (chronological events by year)
-├── entities/
-│   ├── kassym-jomart-tokayev.md  (President, reform agenda, multi-vector balancing)
-│   ├── nazarbayev.md             (First president, legacy, continuing influence)
-│   ├── russia.md                 (Sanctions pressure, EAEU, CSTO, trade dependence)
-│   ├── china.md                  (Belt and Road, trade, investment)
-│   └── western-powers.md         (EU, US, Western investors, conditionality)
-├── concepts/
-│   ├── multi-vector-foreign-policy.md  (Balancing Russia, China, West)
-│   ├── resource-curse.md               (Oil/gas dependence, diversification)
-│   ├── tech-pivot.md                   (AI, crypto mining, startup ecosystem)
-│   └── caspian-geopolitics.md          (Energy transit, sanctions, regional competition)
-```
+## The Core Dynamic
 
-## Search Queries (canonical, 8 queries — rotate 2-3 per weekly run)
-1. "Kazakhstan economic diversification natural resources 2025 2026"
-2. "Kazakhstan AI tech startup ecosystem 2025 2026"
-3. "Kazakhstan cryptocurrency mining regulation 2025 2026"
-4. "Kazakhstan Russia sanctions bypass 2025 2026"
-5. "Kazakhstan China trade Belt and Road 2025 2026"
-6. "Kazakhstan global competitiveness ranking 2025 2026"
-7. "Kazakhstan Caspian energy geopolitics 2025 2026"
-8. "Tokayev multi-vector foreign policy 2025 2026"
+- Kazakhstan is a middle power trying to convert geography, resources and convening power into autonomy. Tokayev's "multi-vector" policy balances Russia, China, the West, Turkey and the Gulf without choosing a camp.
+- The posture has moved from "balancer" to "regional organizer": Astana hosts forums, brokers corridors and presents itself as a connector state. The academic framing is "sovereign connectivity statecraft" — sovereignty, balance, connectivity, institutional resilience and regional public goods.
+- The weakness is structural. Geography and transit infrastructure make Kazakhstan indispensable to every great power and controllable by none, but also expose it to sanctions, corridor disruption and competing demands for exclusivity.
 
-**Supplemental (rotate based on emerging themes):**
-- "Kazakhstan OPEC+ oil production quota"
-- "Kazakhstan Middle Corridor Trans-Caspian"
-- "Kazakhstan Year of AI digitalization"
-- "Kazakhstan Mongolia cross-border corridor"
-- "Kazakhstan constitutional reform Kurultai"
-- "Kazakhstan Afghanistan transit Khaf-Herat"
+## Domestic Politics
 
-## Key Entities Tracked
-| Entity | Role | Key Chinese Actors |
-|--------|------|-------------------|
-| Kassym-Jomart Tokayev | President; reform agenda, multi-vector balancing | — |
-| Nazarbayev | First president, legacy, continuing influence | — |
-| Russia | EAEU/CSTO, CPC pipeline, 7,644km border | — |
-| China | BRI critical transit corridor, trade >$48B (2025) | CNNC (nuclear), CATL (gigafactory), Sinopec ($3.9B gas) |
-| Western Powers | EU, US, Western investors, conditionality | — |
+- The 2026 constitution replaced the bicameral parliament with a unicameral Kurultai, created a vice-presidency and strengthened the presidency. The March referendum passed with 87% support.
+- The first Kurultai election in August gave the pro-presidential Adilet party 71% on 74% turnout. Observers describe a more accountable but still dominant-executive system.
+- Tokayev has removed the remaining Nazarbayev-era structures and revised the Foreign Policy Concept to emphasise citizen protection abroad and countering information influence.
+- The state retains a large economic role through Samruk-Kazyna, Baiterek and KazMunayGas, and uses public capital to crowd in private investment.
 
-## Key Economic Data Points
-- Nominal GDP: **$360.5B projected for 2026** (up from $302.8B in 2025) — ~19% increase
-- GDP at PPP: **~$993.7B in 2026** (IMF, approaching $1T milestone)
-- Tenge: **Best-performing currency in Europe/Asia 2026** (+10% vs USD, Financial Times)
-- 2026 oil production target: 98M tons (down from 100.5M due to Tengiz outages); later cut to 96M (CPC attacks)
-- BTC pipeline target: 1.5-2.2M tons (up from ~1.2M)
-- FDI target: $25.5B in 2026 (up from $20B in 2025)
-- AI venture funding: $73M (2025), up from $14M (2023)
-- First AI unicorn: Higgsfield AI
-- 1M people AI-trained by 2025; goal 5M by 2030
-- National crypto reserve: $500M-$1B target, ~3,544 BTC held
-- VC funding: $209M (3x YoY), total startup valuation $2.16B
-- World Bank HCI+: 42nd/161 (up 13 positions)
-- Microsoft AI Diffusion: 70th/147 (15.9% adoption, leads Central Asia/EAEU)
-- IMD World Competitiveness: 34th (up from 37th in 2023) [2025 data]; 38th in 2026 (score 65.4, new methodology)
-- Global Peace Index: 56th (up from 61st)
-- SDSN Sustainable Development Report: 67th/169 (score 72.0, up from 70th)
-- KazTransOil: BBB/Stable (Fitch, June 2026)
-- Oil production loss from drone war: ~$3.5B in H1 2026 (9% production decline)
-- Russia-Kazakhstan trade record: $29B (2025)
-- China-Kazakhstan trade: >$48B (2025), rail freight 35.6M tons (+11%)
-- Turkey-Kazakhstan energy: TPAO entry, ANKA UAV deal
-- Digital Qazaqstan Strategy 2029 targets: 80% AI-skilled graduates, 70% energy assets on digital monitoring, 50% IT export growth, 5% annual EBITDA from AI in Samruk Kazyna
-- **Structural shift data (2026):** Kazakh Invest portfolio: 215 projects/$78.6B (88K+ jobs); 66 investment agreements/$38.6B since 2021. FDI $20.5B (2025, +14.4%), manufacturing investment +47.4%, mining -47%
-- **Oil refining expansion:** Capacity target doubled to 40M tonnes/yr by 2033 (from 18.4M in 2025). Fourth major refinery planned (up to 10M tonnes/yr)
-- **Global Talent Competitiveness Index:** Kazakhstan rose from 122nd to 83rd in professional/technical skills (Sept 2026)
-|- **Germany trade/investment (Sept 2026):** KZ-Germany trade $4.5B (2025, +13.4%), German investment $8B cumulative. Joint portfolio: 40 industrial projects/$54B. Tokayev's Berlin visit produced ~30 agreements/~$2B.
-|- **China Investment Forum (Sept 25, 2026):** 50 commercial documents worth $8.2B signed covering energy, aluminum, automotive, fertilizers. Mutqi-vector deal pipeline (Trend.az data): China $15B+ (July) + $8.2B, South Korea $19B (Sept), US $17B (Nov 2025), EU $12B+ (June), Germany ~$2B (Sept) — aggregate >$60B.
-|- **Higgsfield AI milestone (Oct 2026):** $400M Series B at $5.4B valuation (DST Global-led). Three Y Combinator startups (Nozomio $6.2M, Leaping AI $4.7M, Hillclimb). Kazakh-rooted US startups >$214M total.
-|- **Oil route diversification data (Jan-Aug 2026):** Atasu-Alashankou 863K tons (+24%), BTC 1M tons (+12%), Aktau port 2.4M tons (+6%), KazTransOil total 31.9M tons (+4%).
-89||- **KIOGE 2026:** 500+ companies from 62 countries (Sept 30-Oct 2, Almaty). KMG managing 65 mature fields (~70% depleted).
-90||- **Startup Landscape 2026 (Oct 3):** First national study — 1,500+ startups (5x since 2020), VC forecast >$460M, 82% use AI. IT services exports $1.1B (2025, up from $35M in 2020). 40% of scaling companies have paying foreign customers.
-91||- **KZ-Germany diplomatic evolution (Oct 6):** Eldaniz Gusseinov traces 3-stage dialogue (2023/2024/2026) on Ukraine. Druzhba pipeline KZ→Germany suspended May 1, 2026 — 2.1M tonnes to Schwedt in 2025. Two-track model: war differences don't slow economic agenda.
-92||- **Yuan QR payments (Sept 2026):** Cross-border QR system launching end-2026 — yuan internationalization reaches retail level. 11,000+ Chinese-capital enterprises in Central Asia ($36B).
-93||- **$155.8B FDI gross inflows (2019-2025):** 625 new industrial enterprises (62K jobs), 800K vehicles, 36,300km roads. S&P BBB upgrade (Aug 2026). R&D KZT 42.3B→252.5B. External debt/GDP 83.1%→59.4%.
-94||- **SCSP framework (Oct 2026):** Yeva Grigoryan — measure tech competition success through diversification, resilience, institutional integration, trusted adoption. Four-powers: Russia spoiler, EU regulatory, China infrastructure, US established sectors.
-|- KazISS (Mussabekova): BRI-SCO synergy operational framework — new source type (Kazakh official think tank in Chinese media)
-|- Hudson Institute (Moriyasu): "Connector state" framework — Kazakhstan should move beyond raw resource export to processing, computing infrastructure, higher-value components
-|- Route redundancy hierarchy: Middle Corridor > Afghanistan > CPC > Iran (Moriyasu assessment, Aug 2026)
-|- **South Korea breakthrough (Sept 2026):** Tokayev's Seoul visit — ~$19B in agreements (80 deals), joint critical minerals company (Tau-Ken Samruk + POSCO), first Central Asia-ROK Summit, call to double $3B trade
-|- **Russian gas imports surge (Sept 2026):** Kazakhstan signed Gazprom supplementary agreement for ~11 bcm (2026), up from ~4M bcm in 2025; additional 9 bcm in 2027 under discussion. Coincides with US sanctions bill targeting Russian energy purchasers — creates secondary sanctions exposure
-|- **National Crypto Reserve:** $500M-$1B target; reached $700M by Sept 2026 (primeminister.kz). Tokenization pilot: first major test of digital assets as financing source ($60M for Alatau City projects)
-|- **National Cryptocurrency Analytics Center (Sept 2026):** National Bank launched SupTech-based center to monitor all crypto/fiat transactions; integrated with Anti-Fraud Center
-|- **Oil export strategy upgrade (Sept 2026):** Kazakhstan moving from "rational efficiency to strategic resilience" — managed interdependence through balanced route portfolio. BTC: 2.2M tons planned 2026. Baku-Supsa: 3-5M tonnes discussed. Kazakhstan-China pipeline: 13.1M tons
-||- **Oil strategy upgrade summer 2026 data:** KazTransOil BTC via Aktau: 155K tons in July (+11.5% YoY). Draft 2027-2029 budget: 96M tons oil production, $70/bbl, 480 tenge/USD
-||- **Regulated crypto market (Sept 2026):** $10.58B in 2025 (up from $320M in 2023). Users 53K→215K. Kazakhstan in global top 10 for Solana hackathon apps. Solana ETF on KASE. 57 startups funded.
-||- **Google tax (Sept 2026):** $390.2M collected from 133 foreign digital firms since 2022. Annual collections 5x higher. Temu largest payer ($29M in 2025).
-||- **UK trade (Sept 2026):** $1.63B in 2025 (+83.7% YoY). SPCA entered force July 2026. B5+Italy platform launched Sept 21.
-||- **Digital finance (Sept 2026):** 90%+ cashless payments. Digital tenge targeting 2T tenge ($4.4B) in operations. 75% of banks use AI. Interbank mobile payment: 20M+ transactions since July 19.
-||- **Global Cities Index 2026:** Almaty 265th, Astana 281st among 1,000 cities (Oxford Economics). Both top 100 in Human Capital.
-||- **Middle Corridor update (Sept 2026):** TITR freight +22% Jan-Aug; East-West transit +55%. Tez Customs 8hr→30min. World Bank identifies 16 priorities worth ~$25B.
+## The Economy
 
-## Core Dynamic
-Kazakhstan is navigating between great-power pressures while pursuing economic diversification. Tokayev has elevated Kazakhstan's posture from "balancer" to "regional organizer" — using convening power, logistics, and diplomacy to structure the space between great powers. A new academic framework ("sovereign connectivity statecraft") formalizes this as a five-pillar strategy: sovereignty, balance, connectivity, institutional resilience, and regional public goods.
+- Nominal GDP is projected at about $360 billion in 2026, with GDP at purchasing-power parity near $1 trillion. GDP per capita exceeds $15,000.
+- The tenge was the best-performing currency in Europe and Asia in 2026, up about 10% against the dollar. Reserves and the sovereign funds cushion shocks.
+- Non-oil diversification is advancing: manufacturing output exceeded mining for the first time in 2026, pharmaceuticals, machinery and chemicals grew fastest, and the Economic Complexity Index rose from 87th to 55th.
+- Oil remains central: crude is about 46.5% of exports, and the sector is roughly 16% of GDP. The 2026 production forecast was cut from 100.5 to 96 million tonnes after CPC disruptions.
+- Inflation, dollarisation and the quality of institutions remain the main constraints on competitiveness.
 
-## Key Relationships
-**Russia:** EAEU/CSTO member, 7,644km border, CPC pipeline dependence. Russia wants Kazakhstan as sanctions-bypass corridor; Kazakhstan tries to turn embrace into leverage. Putin May 2026 visit: 15 bilateral documents, $29B trade record (2025), 177 joint projects worth $53B.
+## Energy and the CPC Bottleneck
 
-**China:** BRI critical transit corridor. Trade exceeded $48B in 2025. 35.6M tons rail freight (+11%). 85%+ of China-Europe overland cargo transits Kazakhstan. $35B+ infrastructure investment over 7 years. Agricultural trade booming (+36.8% YoY). Nuclear energy cooperation with CNNC for 2 large-scale reactors. **Military cooperation expanding (Aug 2026):** Uzbekistan reportedly received 4 J-10CE fighters (24 planned) — China directly challenging Russia's arms market grip. **Tariff evasion risk:** Trump admin white paper names Kazakhstan as Tier III conduit for China's US-bound exports ($40B-$303B estimated annual evasion).
+- The Caspian Pipeline Consortium carries about 80% of Kazakh crude. It is co-owned by Russia (24%), Kazakhstan (20.75%) and Chevron (15%), making it both the main export route and the main vulnerability.
+- Drone attacks on tankers in July 2026 halted loadings and cut output sharply. Kazakhstan is expanding alternatives: BTC through Aktau, the Atyrau-Samara route, the China pipeline and Baku-Supsa.
+- The BTC route is targeted at 2.2 million tonnes in 2026. Refining capacity is to double to 40 million tonnes by 2033.
+- The Caspian Green Energy Corridor would carry 5 GW of renewable power to Europe via Azerbaijan, with a feasibility study due in 2027.
+- Russia remains a gas supplier: Kazakhstan agreed to buy about 11 bcm in 2026, up sharply, despite US sanctions risk.
 
-**West:** Growing secondary sanctions risk. EU 20th sanctions package (April 2026) anti-circumvention tool. UK A-7 network sanctions — warning to Kazakhstan. **EU breakthrough (June 21-23):** Tokayev visited Brussels, signed $12B+ in agreements — 50 Airbus jets (€7.1B), critical raw materials partnership, green hydrogen under Global Gateway. **Trans-Caspian Enterprise Fund (2026):** US State Dept established fund to catalyze private investment in Caspian trade links — signals growing US commitment to Caspian connectivity. **Tenge best performer 2026:** Financial Times ranked tenge best-performing currency in Europe/Asia (+10% vs USD). IMF: GDP at PPP $993.7B (approaching $1T).
+## China
 
-**Turkey:** TPAO entered Kazakhstan energy market. ANKA UAV production deal. Turkey is Kazakhstan's leading trade partner in Turkic world.
+- China is the largest trading partner and the deepest infrastructure investor. Trade exceeded $48 billion in 2025 and reached $32.4 billion in January-July 2026.
+- More than 85% of China-Europe overland cargo transits Kazakhstan. Rail freight was 35.6 million tonnes in 2025.
+- Chinese firms control roughly a quarter of national oil production through CNPC and Sinopec subsidiaries. CNNC was selected to build two reactors; CATL is considering a battery gigafactory.
+- The relationship is deepening beyond commodities into AI, digital logistics and nuclear energy, but it also creates tariff-evasion and sanctions exposure.
 
-**Azerbaijan (rapidly expanding):** First direct Baku-Shymkent flight (June 16). First Caspian submarine fiber-optic cable (380 km, 400 Tbps). Trade targeting $1B. 4M tons Kazakh oil via BTC pipeline.
+## Russia
 
-**Uzbekistan (deepening financial integration):** Uzbekistan plans TIFC modeled on AIFC. Bilateral trade $4.8B (2025, +16.2%). 7 joint projects worth $1.2B.
+- Russia is an EAEU and CSTO partner with a 7,644km border and deep energy, trade and transport links. Bilateral trade reached a record $29 billion in 2025.
+- Moscow wants Kazakhstan as a sanctions-bypass corridor and arms-manufacturing partner. Astana resists the most visible forms while avoiding a rupture.
+- Tokayev's call in Omsk for a ceasefire in Ukraine was the most direct public break with Moscow since 2022. The Kremlin rejected it.
+- Kazakhstan is expanding routes precisely to reduce this dependence.
 
-**Mongolia:** 18 intergovernmental agreements signed June 2026. Cross-border corridor cuts distance 1,604km → 837km.
+## The West
+
+- The EU accounts for more than 30% of Kazakhstan's trade and has invested over €200 billion cumulatively. The June 2026 Brussels visit produced $12 billion in deals and a critical raw materials roadmap.
+- The US is deepening security, minerals and AI ties: a tungsten deal, the AI Opportunity Partnership and the Trans-Caspian Enterprise Fund. But a White House report naming Kazakhstan a tariff-evasion conduit and pressure to choose between Pax Silica and WAICO complicate the relationship.
+- The UK's Strategic Partnership and Cooperation Agreement entered force in July 2026; trade reached $1.63 billion in 2025.
+- Sanctions architecture is tightening: the EU's 20th and 21st packages, UK designations and the US Sanctioning Russia Act all raise secondary-sanctions risk.
+
+## Tech and the AI Pivot
+
+- 2026 was declared the Year of Digitalisation and AI. Kazakhstan passed Central Asia's first comprehensive AI law and launched a National AI Platform and Alem.ai.
+- The $10 billion Data Center Valley in Ekibastuz, with 100,000 NVIDIA GPUs, is the flagship project. A 1,500-startup ecosystem and $209 million in venture funding in 2025 support the ambition.
+- Higgsfield AI became the first unicorn. IT services exports rose from $35 million in 2020 to $1.1 billion in 2025.
+- The binding constraint is geopolitical: Kazakhstan signed both the US-led Pax Silica initiative and the China-led WAICO, and Washington is demanding exclusivity.
+
+## Regional and Corridor Position
+
+- The Middle Corridor (Trans-Caspian International Transport Route) is the centrepiece: freight rose 22% in January-August 2026 and East-West transit 55%.
+- The World Bank identified 16 priority investments worth about $25 billion, over 75% already under way. Delivery times fell from 38 days to 13-17.
+- Kazakhstan is expanding south and east: the Khaf-Herat railway to Afghanistan, a Bandar Abbas terminal in Iran, and links to Central Asia, Mongolia and the Gulf.
+- The Black Sea and Caspian are becoming security theatres, with drone attacks, shadow-fleet activity and cable projects shaping insurance and routing costs.
+
+## Trackable Indicators
+
+| Indicator | What to watch | Source type |
+|-----------|---------------|-------------|
+| CPC throughput | Loading volumes and repair after drone strikes | Industry/operator |
+| Oil output | Monthly production against the 96 million tonne target | Official |
+| Alternative routes | BTC, Atyrau-Samara, China pipeline and Baku-Supsa volumes | Official/industry |
+| Sanctions exposure | EU/UK/US designations of Kazakh entities and banks | Official |
+| China trade | Monthly bilateral trade and rail freight | Official |
+| AI bloc pressure | Pax Silica versus WAICO commitments | Official/US-China |
+| Middle Corridor | Freight volumes, customs times and World Bank projects | Official/industry |
+| Investment | FDI against the $25.5 billion 2026 target | Official |
+| Tenge and reserves | Exchange rate, inflation and National Fund assets | Official/market |
+| Political reform | Kurultai legislation and implementation | Official |
+| Critical minerals | Tungsten, rare earths and processing deals | Company/official |
+
+## High-Signal Source Types
+
+- **Astana Times and Qazinform:** official data, presidential visits and investment figures.
+- **Eurasianet and Times of Central Asia:** regional analysis, sanctions and corridor reporting.
+- **The Diplomat, Carnegie, CSIS and Chatham House:** strategic framing of multi-vectorism and great-power competition.
+- **RFE/RL and Nikkei Asia:** political analysis and external perspectives.
+- **Company and ratings releases (Fitch, KazMunayGas, KPMG):** hard financial and operational data.
+- **Kazakh official sources (gov.kz, Akorda, National Bank):** decrees, statistics and programme targets.
 
 ## Common Dedup Pitfalls
-- **Astana Times, Kazinform, Timesca** frequently cover same events — check for unique data points
-- **The Diplomat, Astana Times, RISE Research** often cover same AI/tech ecosystem story — The Diplomat has deepest analysis
-- **CryptoBriefing and Forbes** sometimes cover same crypto reserve/oil production stories
-- **Sanctions coverage overlap:** Riddle Russia, Eurasianet, Kharon, Trade Practitioner all track EU/UK/US sanctions developments
-- **Facebook/LinkedIn reposts** of Astana Times or Kazinform content — check original publication source
-- **Tengiz oil production figures** appear in multiple outlets — skip if figure matches existing sources
-- **CPC (Caspian Policy Center) articles** have unique analytical framing — each can be a valid separate source if angles are distinct
-- **Oeconomus/think tank overviews** are comprehensive — treat as one source entry, do NOT extract individual data points as separate sources
-- **EU Reporter and EU Today** are both Brussels-based outlets covering EU-Kazakhstan angles — check for story overlap before adding both
-|- **Tokayev's Germany visit (Sept 2026)** covered by both EUalive and Astana Times — EUalive has deeper strategic framing + Handelsblatt op-ed; Astana Times has official figures + Merz invitation. Both valid but scope overlaps. Prefer primary-source (Astana Times) for commercial data and EUalive for analytical framing
 
-## Key Analysts/Commentators to Track
-- **Michel Duclos** (Institut Montaigne) — Frames Kazakhstan as middle-power test case
-- **Gerald Mako** (The Diplomat) — Central Asia security/economy analyst
-- **Dmitry Mun** (Vice Minister of AI and Digital Development) — Primary source for AI policy
-- **Federico Verri** (JCAS, 2026) — Introduced "sovereign connectivity statecraft" framework
-- **Julia Mohr** (CPC) — Azerbaijan-Kazakhstan connectivity analysis
-- **Sapargali Shalgimbayev** (Cfive, Astana) — Kazakhstan analyst focused on US-Kazakhstan relations, sanctions balancing, CPC diplomacy
-- **Thierry Marquez** (CES Intelligence) — "Landbridge trap" framework for Kazakhstan's structural vulnerability
+- Astana Times, Qazinform and Times of Central Asia cover the same official events; keep the version with unique data.
+- The Diplomat, Astana Times and RISE Research often cover the same AI and startup stories.
+- CryptoBriefing and Forbes overlap on crypto reserve and oil production stories.
+- Riddle Russia, Eurasianet, Trade Practitioner and Mayer Brown all track the same sanctions packages.
+- Facebook and LinkedIn reposts of Astana Times or Qazinform are not new sources.
+- Tengiz and CPC production figures appear across many outlets; check the number before adding.
+- Think-tank overviews (Oeconomus, IFIMES, CES Intelligence) are comprehensive; treat each as one source.
 
-## Active Strategic Debates (August 2026)
-1. **Diversification viability:** Can tech pivot and transit revenues reduce oil dependence? Manufacturing exceeded mining in value for first time (47.1% vs 46.1% of industrial output, H1 2026) — structural milestone or statistical artifact?
-2. **Sanctions balancing:** How long can Kazakhstan maintain multi-vector posture as Western enforcement intensifies?
-3. **BTC pipeline expansion:** Does increased BTC volume signal genuine diversification or just rerouting?
-4. **AI ambitions vs reality:** Institutional framework advancing rapidly, but ecosystem remains small and government-dependent
-5. **EU Global Gateway as third path:** Does $12B+ Brussels package give enough Western depth?
-6. **Nuclear multi-vectoring:** CNNC (China) for 2 reactors + Rosatom (Russia) for first plant — can Kazakhstan play suppliers against each other?
-7. **Trans-Afghan corridor viability:** Is Afghanistan stable enough for reliable transit?
-8. **Digital Middle Corridor:** Does Caspian fiber-optic cable create new digital connectivity dimension?
-9. **The Landbridge Trap (NEW):** CES Intelligence framework argues Kazakhstan's multi-alignment strategy is structurally untenable — geography and infrastructure make it simultaneously indispensable and uncontrollable for every great power. Chinese firms now control ~1/4 of oil production.
-10. **FPC revision (Aug 14):** Foreign Policy Concept updated to emphasize citizen protection abroad and countering disinformation — signals growing concern about information warfare and reputational risk.
-11. **US-China AI ultimatum:** The Pax Silica vs WAICO dilemma is the most acute test of multi-vectorism yet — the US is demanding exclusivity in AI cooperation, and Kazakhstan signed both agreements. Justin Burke (Eurasianet): the "us or them" stance risks being a "lose-lose" for the US and Central Asia.
-12. **Tariff evasion white paper risk:** Trump admin naming Kazakhstan as a China tariff evasion conduit creates structural tension between deepening US ties and maintaining Chinese trade — tests whether multi-vectorism can survive competing enforcement regimes.
+## Priority Sources
 
-## File Update Checklist (per source added)
-When ingesting a new source, update ALL of the following in a single session:
-1. ✅ `sources.md` — append numbered entry
-2. ✅ `timeline/kazakhstan-timeline.md` — add event if date-relevant
-3. ✅ `entities/<entity>.md` — update if source mentions specific actor/country
-4. ✅ `concepts/<concept>.md` — update if source relates to a tracked concept
-5. ✅ `index.md` — increment source count, update date
-6. ✅ `log.md` — append session entry
+A categorized list is maintained at `/root/wiki/kazakhstan/priority-sources.md` when one exists. Each run should read it first, check regional specialists, official sources and think tanks, then use Tavily searches to catch anything missed.

@@ -1,3 +1,9 @@
+---
+title: "Russia"
+summary: "EAEU and CSTO partner with pipeline leverage and growing sanctions pressure on Kazakhstan."
+role: "Country"
+---
+
 # Russia
 
 Russia remains Kazakhstan's most consequential and complicated external relationship. The two countries share a 7,644 km border — the longest continuous international border in the world.
@@ -28,8 +34,8 @@ Russia is trying to anchor Kazakhstan more firmly into its sanctions-era archite
 - **Tokayev's Omsk intervention (July 25):** Face-to-face at the 22nd Russia-Kazakhstan Interregional Cooperation Forum, Tokayev told Putin to freeze the Ukraine war and return to "Istanbul 2.0" format. "It is a shame, young people are dying... All this has to be stopped." Kremlin rejected it. This is the most direct public break Tokayev has made with Moscow on the war — delivered while the CPC crisis was actively throttling Kazakhstan's economy.
 - **EU 21st package (July 23):** Two Kazakh companies formally designated in the EU's largest sanctions exercise in four years (218 listings). Kazakhstan is no longer merely a secondary concern — it is a named node in the circumvention network.
 - **EBRD circumvention study:** Peer-reviewed paper in the European Economic Review (July 2026) quantified that Kazakhstan/Armenia/Kyrgyzstan offset ~1/3 of the decline in European exports to Russia 2022-23 through rerouting and "lost in transit" mechanisms.
-|- **US Sanctioning Russia Act (S.5025):** Bipartisan bill with 62 cosponsors advancing through the US Senate — would authorize tariffs up to 100% on top-five facilitators of sanctions evasion. Directly threatens Kazakhstan's transit trade exposure.
-|- **Sanctioning Russia Act passes Senate (Aug 7, 2026):** Most significant congressional intervention since CAATSA 2017 (CSIS). Would harden ~6,800 designations against reversal.
+- **US Sanctioning Russia Act (S.5025):** Bipartisan bill with 62 cosponsors advancing through the US Senate — would authorize tariffs up to 100% on top-five facilitators of sanctions evasion. Directly threatens Kazakhstan's transit trade exposure.
+- **Sanctioning Russia Act passes Senate (Aug 7, 2026):** Most significant congressional intervention since CAATSA 2017 (CSIS). Would harden ~6,800 designations against reversal.
 
 ## Economic interdependence (August 2026 data)
 - **Russian investment surge:** Russian direct investment in Kazakhstan up **45%** in Q1 2026 (Tokayev at Omsk forum). This is a counterpoint to the dominant decoupling narrative.

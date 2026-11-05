@@ -1,3 +1,9 @@
+---
+title: "Nursultan Nazarbayev"
+summary: "Kazakhstan's first president, whose legacy and networks still shape the political system."
+role: "Former President of Kazakhstan"
+---
+
 # Nursultan Nazarbayev
 
 First President of Kazakhstan (1991–2019), now "Leader of the Nation" (Elbasy). Despite formally stepping down in 2019, Nazarbayev retained significant influence until the January 2022 protests, after which Tokayev stripped him of key positions.

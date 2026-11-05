@@ -1,10 +1,16 @@
+---
+title: "China"
+summary: "Kazakhstan's largest trading partner and deepest infrastructure investor, now extending into nuclear energy and AI."
+role: "Country"
+---
+
 # China
 
 China is Kazakhstan's second-largest trading partner and a key source of investment, particularly in energy, mining, and infrastructure.
 
 ## Key dimensions
 - **Belt and Road Initiative:** Kazakhstan is a critical transit corridor for China-Europe rail freight. The Khorgos Gateway dry port on the China-Kazakhstan border is a flagship BRI project. Railway cargo through Khorgos rose 30% to 85 train pairs per day as of July 2025.
-|- **Trade:** China-Kazakhstan trade reached $227.9 billion in 2025. China imports oil, gas, uranium, and minerals from Kazakhstan. By Jan-Jul 2026, bilateral trade hit **$32.4B (+24.1%)**, with Minister Shakkaliyev announcing at the 11th Belt and Road Summit (Hong Kong, Sept 9-10, 2026). Kazakhstan-HK trade reached $250.6M in H1 2026 (2.6x YoY). Cross-border railway cargo expansion and border capacity scaling to 100M tons annually agreed. Kazakhstan moving from infrastructure-based activity to deeper industrial cooperation and regional value chains.
+- **Trade:** China-Kazakhstan trade reached $227.9 billion in 2025. China imports oil, gas, uranium, and minerals from Kazakhstan. By Jan-Jul 2026, bilateral trade hit **$32.4B (+24.1%)**, with Minister Shakkaliyev announcing at the 11th Belt and Road Summit (Hong Kong, Sept 9-10, 2026). Kazakhstan-HK trade reached $250.6M in H1 2026 (2.6x YoY). Cross-border railway cargo expansion and border capacity scaling to 100M tons annually agreed. Kazakhstan moving from infrastructure-based activity to deeper industrial cooperation and regional value chains.
 - **Agricultural trade:** A joint China-Kazakhstan grain-trading platform was launched in Astana on May 21, 2026. Two-way agricultural trade hit nearly $2B (+36.8% YoY). Kazakh agricultural exports to China rose 35.3% to $1.43B in 2025, surging 61.7% in early 2026. Kazakhstan exports oilseed, vegetable oils, and grains to China while importing manufactured goods and industrial equipment. The platform aims to reduce Asian dependence on maritime chokepoints and Western-aligned supply chains.
 - **Investment:** Chinese companies have invested heavily in Kazakhstan's energy sector, including the Kashagan oil field and various pipeline projects.
 - **Cryptocurrency mining:** After China banned crypto mining in 2021, many miners relocated to Kazakhstan, straining the power grid and contributing to the 2022 blackouts.
@@ -64,15 +70,15 @@ China's economic influence in Kazakhstan is growing but remains secondary to Rus
 - Some Central Asian states, including Kazakhstan and Uzbekistan, have also sought to develop **domestic arms manufacturing capability**, especially for drone production — reducing dependence on both Russia and China.
 
 ## Tariff evasion white paper (Aug 2026)
-|- **Aug 21:** A Trump Administration white paper named Kazakhstan, Uzbekistan, Azerbaijan, and Georgia among 40+ countries aiding **China's tariff evasion schemes** to maintain US-bound exports.
-|- Kazakhstan and Uzbekistan designated **"Tier III" states** — "smaller economies with lower absolute transshipment volumes but specific weak-link advantages, including low-cost labor, free zones, port or border access, bonded warehousing, niche assembly capacity, or limited customs enforcement."
-|- Estimated Chinese-led tariff evasion costs the US treasury **$40B–$303B annually**. The white paper argues tariff evasion extends beyond revenue loss: "They widen the effective trade deficit, displace domestic production, reduce GDP growth, and lower associated federal tax receipts."
-|- US remedy: **"America's Detective Border"** — an AI-driven monitoring system that compares declared origins, routing histories, and component content against expected patterns.
-|- **Diplomatic complication:** The naming comes at a time when US ties with all four states have dramatically improved under Trump — risks hampering pursuit of US initiatives in other geopolitical spheres.
-|- Implications for Kazakhstan: exposes a structural contradiction in multi-vectorism — deepening US ties while maintaining Chinese trade links that increasingly face US enforcement scrutiny.
+- **Aug 21:** A Trump Administration white paper named Kazakhstan, Uzbekistan, Azerbaijan, and Georgia among 40+ countries aiding **China's tariff evasion schemes** to maintain US-bound exports.
+- Kazakhstan and Uzbekistan designated **"Tier III" states** — "smaller economies with lower absolute transshipment volumes but specific weak-link advantages, including low-cost labor, free zones, port or border access, bonded warehousing, niche assembly capacity, or limited customs enforcement."
+- Estimated Chinese-led tariff evasion costs the US treasury **$40B–$303B annually**. The white paper argues tariff evasion extends beyond revenue loss: "They widen the effective trade deficit, displace domestic production, reduce GDP growth, and lower associated federal tax receipts."
+- US remedy: **"America's Detective Border"** — an AI-driven monitoring system that compares declared origins, routing histories, and component content against expected patterns.
+- **Diplomatic complication:** The naming comes at a time when US ties with all four states have dramatically improved under Trump — risks hampering pursuit of US initiatives in other geopolitical spheres.
+- Implications for Kazakhstan: exposes a structural contradiction in multi-vectorism — deepening US ties while maintaining Chinese trade links that increasingly face US enforcement scrutiny.
 
 ## $8.2B China Investment Forum (Sept 25, 2026)
-|- **Sept 25:** Kazakhstan-China Investment Forum in Almaty — **50 commercial documents worth $8.2B** signed covering energy, aluminum, automotive, fertilizers, investment cooperation. Tokayev attended alongside Chinese business delegation.
-|- Tokayev's Xinhua interview (Sept 9) set the stage: bilateral trade **$27.2B in H1 2026** (up ~25%), 9,000+ Chinese companies operating in Kazakhstan, 260 industrial cooperation projects worth **$62B+**.
-|- **Green energy progress:** 29 Chinese-invested projects (1.5 GW) completed, 11 more (1.7 GW) under implementation. Chinese brands BYD, Howo, Changan, Great Wall Motor produced locally.
-|- **Cross-border QR payments** to launch with China by end-2026 — NBK Deputy Gov Zhalenov confirmed at Astana fintech summit. Part of 11-country payment corridor plan. Existing Kaspi.kz-Alipay partnership being deepened for yuan retail payments.
+- **Sept 25:** Kazakhstan-China Investment Forum in Almaty — **50 commercial documents worth $8.2B** signed covering energy, aluminum, automotive, fertilizers, investment cooperation. Tokayev attended alongside Chinese business delegation.
+- Tokayev's Xinhua interview (Sept 9) set the stage: bilateral trade **$27.2B in H1 2026** (up ~25%), 9,000+ Chinese companies operating in Kazakhstan, 260 industrial cooperation projects worth **$62B+**.
+- **Green energy progress:** 29 Chinese-invested projects (1.5 GW) completed, 11 more (1.7 GW) under implementation. Chinese brands BYD, Howo, Changan, Great Wall Motor produced locally.
+- **Cross-border QR payments** to launch with China by end-2026 — NBK Deputy Gov Zhalenov confirmed at Astana fintech summit. Part of 11-country payment corridor plan. Existing Kaspi.kz-Alipay partnership being deepened for yuan retail payments.

@@ -1,19 +1,28 @@
 # Kazakhstan — Global Competitiveness Wiki Index
 
-> Content catalog. Last updated: 2026-10-09 | Total pages: 11 | Total sources: 116
+> Content catalog. Last updated: 2026-11-05 | Total pages: 11 | Total sources: 117
+
+## Overview
+- [[overview]] -- Topic framing for the site (title, tagline, region, started)
 
 ## Timelines
-- [[kazakhstan-timeline]] — Chronological overview of Kazakhstan's economic evolution from independence to present
+- [[kazakhstan-timeline]] -- Chronological overview of Kazakhstan's economic and geopolitical evolution
 
 ## Entities
-- [[kassym-jomart-tokayev]] — Kassym-Jomart Tokayev: President, reform agenda, multi-vector balancing
-- [[nazarbayev]] — Nursultan Nazarbayev: First president, legacy, continuing influence
-- [[russia]] — Russia: Sanctions pressure, EAEU, CSTO, trade dependence
-- [[china]] — China: Belt and Road, trade, investment
-- [[western-powers]] — EU, US, and Western investors: Engagement, conditionality, sanctions risk
+- [[kassym-jomart-tokayev|Kassym-Jomart Tokayev]] -- President since 2019, architect of the multi-vector balancing strategy
+- [[nazarbayev|Nursultan Nazarbayev]] -- First president, whose legacy and networks still shape the system
+- [[russia|Russia]] -- EAEU and CSTO partner, CPC pipeline leverage and sanctions pressure
+- [[china|China]] -- Largest trading partner and deepest infrastructure investor
+- [[western-powers|Western Powers]] -- EU, US and investors: engagement, conditionality and sanctions risk
 
 ## Concepts
-- [[multi-vector-foreign-policy]] — Multi-Vector Foreign Policy: Balancing Russia, China, and the West
-- [[resource-curse]] — Resource Curse: Oil/gas dependence and diversification efforts
-- [[tech-pivot]] — Tech Pivot: AI, cryptocurrency mining, startup ecosystem ambitions
-- [[caspian-geopolitics]] — Caspian Geopolitics: Energy transit, corruption, regional competition
+- [[multi-vector-foreign-policy|Multi-Vector Foreign Policy]] -- Balancing Russia, China, the West and regional partners
+- [[resource-curse|Resource Curse]] -- Oil and gas dependence and the diversification effort
+- [[tech-pivot|Tech Pivot]] -- AI, the startup ecosystem and digital finance ambitions
+- [[caspian-geopolitics|Caspian Geopolitics]] -- Energy transit, corridor competition and sanctions
+
+## Updates
+[auto-populated as weekly updates are written]
+
+## Articles
+[auto-populated as quarterly articles are written]

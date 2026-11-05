@@ -1,3 +1,8 @@
+---
+title: "Multi-Vector Foreign Policy"
+summary: "Kazakhstan's strategy of balancing Russia, China, the West and regional partners without choosing a camp."
+---
+
 # Multi-Vector Foreign Policy
 
 Kazakhstan's defining foreign policy doctrine since independence. The concept is to maintain productive relationships with all major powers — Russia, China, the US, the EU, and regional actors — without firmly aligning with any single camp.
@@ -16,8 +21,8 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
 ## Challenges (2025–2026)
 - Russia's sanctions-era pressure is making the balancing act harder. Moscow wants Kazakhstan to serve as a sanctions-bypass corridor; the West wants Kazakhstan to comply with sanctions.
 - The margin for error is narrowing. Secondary sanctions risk is real and growing.
-|- Kazakhstan's authoritarian governance model limits Western engagement depth, pushing Astana closer to Moscow and Beijing by default.
-|- **South Korea axis (NEW — Sept 2026):** Tokayev's state visit to Seoul produced ~$19B in commercial agreements, elevated relations to "future-oriented comprehensive strategic partnership." Proposed joint Kazakh-Korean critical minerals company (Tau-Ken Samruk + POSCO). First Central Asia-ROK Summit held Sept 16. Represents a significant new vector in multi-vector diplomacy — Korea brings advanced manufacturing, critical minerals processing technology, and a non-great-power partnership that doesn't trigger balancing costs.\n- **US-China AI competition — new analysis (Sept 2026):** Andrew D'Anieri (National Interest) argues that if forced to choose between US and China AI blocs, Kazakhstan would choose China due to extensive BRI infrastructure and investment ties. Recommends US outcompete through compute power and supply chain building rather than ultimatums. Adds weight to the view that AI ultimatum is counterproductive.\n- **Russian gas imports create new dependency dimension (Sept 2026):** Kazakhstan signed supplementary agreement with Gazprom for ~11 bcm Russian gas — up sharply from ~4M bcm in 2025. Domestic production hit record 68.1 bcm but demand surging. Creates new energy dependency vector on Russia while US Congress passed sanctions bill targeting Russian energy purchasers.
+- Kazakhstan's authoritarian governance model limits Western engagement depth, pushing Astana closer to Moscow and Beijing by default.
+- **South Korea axis (NEW — Sept 2026):** Tokayev's state visit to Seoul produced ~$19B in commercial agreements, elevated relations to "future-oriented comprehensive strategic partnership." Proposed joint Kazakh-Korean critical minerals company (Tau-Ken Samruk + POSCO). First Central Asia-ROK Summit held Sept 16. Represents a significant new vector in multi-vector diplomacy — Korea brings advanced manufacturing, critical minerals processing technology, and a non-great-power partnership that doesn't trigger balancing costs.\n- **US-China AI competition — new analysis (Sept 2026):** Andrew D'Anieri (National Interest) argues that if forced to choose between US and China AI blocs, Kazakhstan would choose China due to extensive BRI infrastructure and investment ties. Recommends US outcompete through compute power and supply chain building rather than ultimatums. Adds weight to the view that AI ultimatum is counterproductive.\n- **Russian gas imports create new dependency dimension (Sept 2026):** Kazakhstan signed supplementary agreement with Gazprom for ~11 bcm Russian gas — up sharply from ~4M bcm in 2025. Domestic production hit record 68.1 bcm but demand surging. Creates new energy dependency vector on Russia while US Congress passed sanctions bill targeting Russian energy purchasers.
 - **UK sanctions escalation:** UK A-7 network sanctions (May 2026) targeting Kyrgyzstan/Georgia and active interdiction architecture (June 2026) demonstrate Western willingness to enforce sanctions across the post-Soviet space, directly threatening Kazakhstan's balancing strategy.
 - **BRI vs US NSS 2025:** Academic analysis (Frontiers, June 2026) frames Kazakhstan as a test case for hedging between China's BRI and the US National Security Strategy 2025, with Kazakhstan's trade patterns already shifting toward China.
 - **Gulf sovereign wealth influx:** Abu Dhabi's $300B L'imad sovereign fund unveiled a $30B venture (May 2026) targeting energy, transport, and logistics across Central Asia — with BlackRock/GIP and Temasek as consortium partners. Gulf sovereign funds deployed $26B in Mar-May 2026, with Kazakhstan absorbing a growing share. Saudi PIF committed to joint ventures in petrochemicals and green hydrogen. This adds a new dimension to multi-vectorism: engagement with Gulf states now provides an alternative capital source that reduces dependence on any single great power.
@@ -145,14 +150,14 @@ Whether multi-vector foreign policy can survive the intensifying great power com
 - Conclusion: The amendments adapt existing doctrine to changed political institutions rather than announcing a new foreign policy. Effectiveness depends on whether broader relationships, alternative trade routes, and wider diplomatic access translate into greater resilience and freedom of action.
 
 ## Tokayev's SCO/Xinhua middle power messaging (Sept 1-2, 2026)
-|- During the 26th SCO summit in Bishkek and an exclusive Xinhua interview, Tokayev presented Kazakhstan as a "middle power" capable of bridging geopolitical divisions. Argued SCO principles of equality and consensus should become a UN General Assembly resolution — proposed a "gold standard" for multilateral cooperation.
-|- Core framing: "Kazakhstan believes its future influence will come not from choosing between competing blocs, but from connecting them." — encapsulates multi-vector diplomacy as a positive-sum rather than zero-sum strategy.
-|- Proposed creating an International Water Organisation under UN auspices (addressing growing Central Asian water security concerns) — alongside an SCO Water Problems Analysis Centre.
-|- Announced establishment of an Asia-Pacific digital solutions centre in Almaty under UN ESCAP auspices.
-|- The Xinhua interview described Kazakhstan-China relations as at an "unprecedentedly high level" and extending beyond traditional energy into AI, robotics, digital transformation, and advanced manufacturing.
+- During the 26th SCO summit in Bishkek and an exclusive Xinhua interview, Tokayev presented Kazakhstan as a "middle power" capable of bridging geopolitical divisions. Argued SCO principles of equality and consensus should become a UN General Assembly resolution — proposed a "gold standard" for multilateral cooperation.
+- Core framing: "Kazakhstan believes its future influence will come not from choosing between competing blocs, but from connecting them." — encapsulates multi-vector diplomacy as a positive-sum rather than zero-sum strategy.
+- Proposed creating an International Water Organisation under UN auspices (addressing growing Central Asian water security concerns) — alongside an SCO Water Problems Analysis Centre.
+- Announced establishment of an Asia-Pacific digital solutions centre in Almaty under UN ESCAP auspices.
+- The Xinhua interview described Kazakhstan-China relations as at an "unprecedentedly high level" and extending beyond traditional energy into AI, robotics, digital transformation, and advanced manufacturing.
 
 ## Multi-vector deal pipeline (Sept 2026) — Trend.az data overview
-|- **Trend.az (Sept 28):** Comprehensive quantification of Tokayev's multi-vector deal-making in 2025-2026:
+- **Trend.az (Sept 28):** Comprehensive quantification of Tokayev's multi-vector deal-making in 2025-2026:
   - **China (July 2026, WAIC Shanghai):** 70+ agreements worth **$15B+**
   - **China Investment Forum (Sept 25, Almaty):** 50 documents worth **$8.2B**
   - **EU (June 2026, Brussels):** $12B+ in agreements including 50 Airbus jets (€7.1B)
@@ -160,16 +165,14 @@ Whether multi-vector foreign policy can survive the intensifying great power com
   - **US (Nov 2025, Washington):** 29 agreements worth **~$17B**
   - **Germany (Sept 28-30, Berlin/Munich):** ~30 agreements worth **~$2B**; 37 projects worth €1.8B
   - **Russia (May 2026, Astana):** Balkhash NPP contract, bilateral trade $28B (2025)
-||- Tokayev's approach frames multi-vectorism as moving from diplomatic language to concrete project delivery. The aggregate deal pipeline across all vectors exceeds **$60B** in 2025-2026.
-|
-|## Yuan QR payment internationalization — new retail dimension (Sept 2026)
-||- Cross-border QR payment system with China launching end-2026 — yuan internationalization extends to retail level in Kazakhstan.
-||- Builds on Kaspi.kz-Alipay partnership (2024). NBK Deputy Gov Zhalenov: 11 more countries to link from mid-2027.
-||- Yuan share at 3.1% of global payments (5th, SWIFT June 2026). CIPS annual volume CNY 180T (~$26.8T).
-||- For multi-vectorism: adds a **financial infrastructure** dimension — Kazakhstan becomes the test case for China's retail yuan strategy in Central Asia, creating new dependencies alongside the real economic benefits.
-||
-|## SCSP framework: redefining success in multi-vector competition (Oct 2026)
-||- SCSP analysis by Yeva Grigoryan argues US should measure competition success not by deal values or announcements but by: diversification of critical systems, infrastructure resilience, institutional integration (C5+1), trusted adoption of transparent procurement.
-||- **Four-powers framework:** Russia as spoiler (leverage over physical infrastructure, not tech); EU as regulatory heavyweight (Global Gateway, CRM); China's integrated infrastructure advantage (85% rail, Digital Silk Road); US opening through established sectors (tungsten, C5+1, Orion consortium).
-||- Core insight: **Kazakhstan is building options, not alignment** — it seeks diversification from all powers simultaneously. Multi-vectorism succeeds when no single power becomes a point of coercive dependency.
-||- Applies the framework to four infrastructure layers: energy (Rosatom+CNNC control), water (45% transboundary from China), transit (Russian CPC dependency), connectivity (Huawei/ZTE telecom hardware).
+- Tokayev's approach frames multi-vectorism as moving from diplomatic language to concrete project delivery. The aggregate deal pipeline across all vectors exceeds **$60B** in 2025-2026.
+## Yuan QR payment internationalization — new retail dimension (Sept 2026)
+- Cross-border QR payment system with China launching end-2026 — yuan internationalization extends to retail level in Kazakhstan.
+- Builds on Kaspi.kz-Alipay partnership (2024). NBK Deputy Gov Zhalenov: 11 more countries to link from mid-2027.
+- Yuan share at 3.1% of global payments (5th, SWIFT June 2026). CIPS annual volume CNY 180T (~$26.8T).
+- For multi-vectorism: adds a **financial infrastructure** dimension — Kazakhstan becomes the test case for China's retail yuan strategy in Central Asia, creating new dependencies alongside the real economic benefits.
+## SCSP framework: redefining success in multi-vector competition (Oct 2026)
+- SCSP analysis by Yeva Grigoryan argues US should measure competition success not by deal values or announcements but by: diversification of critical systems, infrastructure resilience, institutional integration (C5+1), trusted adoption of transparent procurement.
+- **Four-powers framework:** Russia as spoiler (leverage over physical infrastructure, not tech); EU as regulatory heavyweight (Global Gateway, CRM); China's integrated infrastructure advantage (85% rail, Digital Silk Road); US opening through established sectors (tungsten, C5+1, Orion consortium).
+- Core insight: **Kazakhstan is building options, not alignment** — it seeks diversification from all powers simultaneously. Multi-vectorism succeeds when no single power becomes a point of coercive dependency.
+- Applies the framework to four infrastructure layers: energy (Rosatom+CNNC control), water (45% transboundary from China), transit (Russian CPC dependency), connectivity (Huawei/ZTE telecom hardware).
