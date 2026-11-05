@@ -72,6 +72,9 @@ Georgia is in a phase of **strategic drift** — not a clean pivot to Russia, bu
 - **Russian trade ban (Oct 2026):** JAMnews is the most comprehensive source on the Rospotrebnadzor ban of 7 Georgian companies. Civil.ge may have a shorter version; prioritize JAMnews for the expert analysis dimension.
 - **Venice Commission opinion (Oct 2026):** Civil.ge and OC Media both covered the same opinion. Civil.ge provides the most complete text with links to the full 24-page PDF. Use Civil.ge as the primary source.
 - **ChinaObservers.eu:** Specialized analytical source for China-Georgia economic relationship data. Useful for counter-narratives to GD's China claims. One of few English-language sources tracking granular Chinese FDI data in Georgia.
+- **EU foreign ministers' Georgia discussions:** RFE/RL's Wider Europe newsletter (Jozwiak) had exclusive access to the diplomatic note from the Oct 12 Luxembourg meeting. This is the primary source for EU internal divisions on Georgia. JAMnews/Civil.ge may have briefer secondhand reporting; prioritize RFE/RL for insider detail.
+- **RIAC analyses:** Russian International Affairs Council provides useful analytical counterpoint to Western think tank perspectives on US-Georgia relations. Not a neutral source but valuable for tracking how Moscow interprets and signals about Georgia policy.
+- **Freedom House Internet Freedom report:** Annual benchmark. Caucasus Watch typically has the most detailed Georgia-specific writeup. Track year-over-year score changes as key data points.
 
 ## Key Analysts/Commentators to Track
 - **Salome Zurabishvili** (former President) — Voice of pro-democracy camp; warnings about "giving away Georgia"
