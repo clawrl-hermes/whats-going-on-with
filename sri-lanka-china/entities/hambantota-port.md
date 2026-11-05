@@ -2,12 +2,6 @@
 title: Hambantota International Port
 summary: "Sri Lanka's Chinese-built deep-sea port, leased to China Merchants for 99 years and the focal point of the global debt-trap debate."
 role: "Deep-sea port in southern Sri Lanka (70% owned by China Merchants Port Holdings)"
-created: 2026-05-20
-|updated: 2026-11-05
-type: entity
-tags: [infrastructure, port, debt, BRI, china-exim-bank, china-merchants-port]
-sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
-confidence: high
 ---
 
 # Hambantota International Port
