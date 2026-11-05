@@ -1,3 +1,9 @@
+---
+title: "Konstantin Sokolov"
+summary: "Russian-American businessman heading the US-backed TRIPP+ Enterprise Fund, with major holdings in Armenian telecom and mining."
+role: "Head of TRIPP+ Enterprise Fund (Trans-Caspian Enterprise Fund)"
+---
+
 # Konstantin Sokolov
 
 **Role:** Head of TRIPP+ Enterprise Fund (Trans-Caspian Enterprise Fund)

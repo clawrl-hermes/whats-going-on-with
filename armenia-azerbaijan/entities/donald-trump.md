@@ -1,3 +1,9 @@
+---
+title: "Donald Trump"
+summary: "US president whose administration brokered the 2025 Armenia-Azerbaijan framework and the TRIPP corridor."
+role: "President of the United States (since 2025, second term)"
+---
+
 # Donald Trump
 
 **Role:** President of the United States (since 2025, second term)

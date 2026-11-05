@@ -1,3 +1,8 @@
+---
+title: "TRUMP Route for International Peace and Prosperity (TRIPP)"
+summary: "US-brokered transport corridor through southern Armenia connecting Azerbaijan to Nakhchivan, signed in May 2026."
+---
+
 # TRUMP Route for International Peace and Prosperity (TRIPP)
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+title: "Zangezur Corridor"
+summary: "Azerbaijan's proposed transit route through Armenia's Syunik province, the core territorial dispute in the peace negotiations."
+---
+
 # Zangezur Corridor
 
 ## Overview

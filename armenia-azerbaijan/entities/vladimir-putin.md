@@ -1,3 +1,9 @@
+---
+title: "Vladimir Putin"
+summary: "President of Russia and Armenia's former security guarantor, whose influence in the South Caucasus has sharply eroded."
+role: "President of Russia (since 2000, with interruption 2008-2012)"
+---
+
 # Vladimir Putin
 
 **Role:** President of Russia (since 2000, with interruption 2008-2012)

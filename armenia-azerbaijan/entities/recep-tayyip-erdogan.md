@@ -1,3 +1,9 @@
+---
+title: "Recep Tayyip Erdoğan"
+summary: "President of Turkey since 2014, whose conditional normalization with Armenia is tied to the Azerbaijan peace process."
+role: "President of Turkey (since 2014)"
+---
+
 # Recep Tayyip Erdoğan
 
 **Role:** President of Turkey (since 2014)

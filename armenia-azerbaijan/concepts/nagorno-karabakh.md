@@ -1,3 +1,8 @@
+---
+title: "Nagorno-Karabakh"
+summary: "Disputed South Caucasus region, now under Azerbaijani control after the 2023 military operation and the exodus of its Armenian population."
+---
+
 # Nagorno-Karabakh
 
 ## Overview
