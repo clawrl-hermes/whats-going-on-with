@@ -26,36 +26,25 @@
 - **Fall:** Russia's relations with Armenia deteriorate sharply. Armenia hosts EU and Zelenskyy for European Political Community summit. Putin warns of "Ukrainian scenario."
 
 ## 2026
-- **May 11:** Turkey lifts restrictions on direct trade declarations with Armenia after 33 years.
-- **May 26:** US Secretary of State Marco Rubio visits Yerevan, signs minerals deal and TRIPP corridor agreement.
-- **June 3:** Historic Armenia-Turkey business forum held in Kars.
-- **June 7:** Armenia holds parliamentary elections. Pashinyan's Civil Contract party wins 49.8% of votes, securing a majority. International observers document Russian interference.
-- **June 8:** Pashinyan declares victory, mandates peace talks with Azerbaijan and continued Western pivot.
-- **May 28:** Pashinyan delivers Republic Day speech announcing transformed military doctrine — army's sole mission is defense of internationally recognized territory. Military equipment from seven countries in parade. Defense industry received 170 billion drams since 2022. New fortified border zones constructed.
-- **May 26:** Türkiye Today publishes analysis of railway opening geopolitics, revealing Armenia's railways remain bound by Russian concession regime until 2038.
-- **May 24:** Akhalkalaki-Kars railway opens for Armenian exports/imports. Pashinyan announces plans to repair Gyumri-Kars railway and Yeraskh junction despite Russian concession agreements.
-- **May 19:** Azerbaijani Ambassador to Turkey Rashad Mammadov outlines sequential conditions for border opening: constitutional change → peace agreement signing → Turkey-Armenia and Armenia-Azerbaijan border openings. Reveals Azerbaijan is supplying Armenia with oil/fuel.
-- **May 29:** EAEU summit in Kazakhstan — Putin, Lukashenko, Tokayev, and Japarov issue joint statement urging Armenia to hold referendum on joining EU "as soon as possible." Russia recalls ambassador to Armenia for consultations.
-- **June 1:** Pashinyan rejects Russia's EU referendum demand during Putin's birthday call. Russia suspends fish/seafood imports from Armenia (30% of sector exports go to Russia). EU accuses Moscow of crippling Armenia's economy to influence elections.
-- **June 7:** Parliamentary elections — Civil Contract wins 49.81%, Strong Armenia 23.29%, Armenia alliance 9.9%, Prosperous Armenia 4%. Turnout 58%. Pashinyan falls short of 2/3 majority needed for constitutional referendum. 59 criminal cases opened for electoral violations.
-- **June 8:** Pashinyan declares victory. International observers document Russian interference. Trump, von der Leyen, and Macron congratulate Pashinyan. Karapetyan calls elections "shameful."
-- **June 11:** Carnegie Endowment analysis: Russia avoided burning bridges pre-election, used limited leverage. Trade bans targeted provincial agricultural voters. Russia still has tools to ramp up pressure post-election.
-- **June 11:** Carnegie post-election analysis (Coşkun/Paylan): Pashinyan's narrower mandate makes peace dividend imperative. Proposes Erdoğan convene Trump-Pashinyan-Aliyev at July NATO summit in Ankara. Recommends opening Turkey-Armenia border for direct trade and third-country nationals as first confidence-building step.
-- **June 17–25:** Eagle Partner 2026 military exercises launched — first multinational format with US, France, and Greece participating alongside Armenia. Armenia participates in Eurosatory 2026 defense exhibition in Paris; 30 Armenian defense companies present; BooTech-Thales cooperation agreement signed.
-- **June 24:** Deputy Foreign Minister Vahan Kostanyan announces 2030 target for full border reopening with Turkey and Azerbaijan; certain transport routes could operationalize earlier.
-- **June 24:** Congressional leaders (Sherman, Chu, Friedman, Costa) hold press conference at US Capitol marking 1,000th day of Armenian POWs in Azerbaijani custody. ANCA's Hamparian calls peace framework consolidation of "genocidal gains." House prepares to vote on Sherman Amendment; 8 pro-Armenian amendments advancing through House Rules (ANCA).
-- **June 24:** Baku Initiative Group (government-linked Azerbaijani NGO) hosts "Right of Return and Self-Determination" conference in US Capitol — first event of its kind in the building, featuring "Western Azerbaijani" personal stories of expulsion (OC Media).
-- **June 30:** Armenian Weekly reports Aliyev escalated demands to the UN: return of former Azerbaijani enclaves, territorial acquisition via border "delimitation," and resettlement of 300,000 Azerbaijanis in Armenia.
-- **July 2:** Von der Leyen visits Yerevan — announces autonomous trade measures liberalizing ~80% of Armenian exports to EU, final €18M tranche of €52M package. Describes Russian pressure as "economic violence."
-- **July 6:** Pashinyan travels to Yekaterinburg to meet Russian PM Mishustin in first post-election visit to Russia. Mishustin extends olive branch but warns about protecting Russian investors' interests.
-- **July 14:** Aliyev hosts Slovak President Pellegrini in Shusha. Discusses energy cooperation, Karabakh reconstruction, and Slovakia's participation in Smart Village project.
-- **July 15:** EU launches civilian advisory mission to help Armenia counter hybrid threats.
-- **July 16:** Armenian government approves TRIPP framework agreement bill, sends to Constitutional Court. TRIPP Development Co. created with 49-year lease.
-- **July 20:** Azerbaijan Special Forces participate in "Zulfiqar" counterterrorism exercise in Jordan alongside Turkey and Pakistan.
-- **July 21:** Armenia-Georgia military police chiefs discuss expansion of cooperation. British Military Advisory Team completes instructor training course for Armenian Armed Forces (Jun 29-Jul 22).
-- **July 22:** US House Foreign Affairs Committee approves H.R. 9087 (Sherman bill). Azerbaijan's Milli Majlis condemns the bill, accusing Armenian lobby groups.
-- **July 22:** Serbian defense delegation visits Azerbaijan for military cooperation talks.
-- **July 25:** Pashinyan holds phone calls with Macron (France) and separately with Putin (Russia) — first contact with Putin since June elections. Pashinyan raises Russian import bans; Putin reiterates EU referendum demand.
-- **July 25:** Armenia's Minister Khudatyan meets Iran's Oil Minister Paknejad in Tehran. Iran proposes new trade model for increased natural gas exports to Armenia.
-- **July 27:** Iran lists AzTV as "enemy media." Azerbaijan retaliates by banning Iranian outlets Sahar TV and Mehr News Agency.
-- **September (planned):** Armenian-Turkish business forum to reconvene in Yerevan.
+- **May:** Turkey lifts restrictions on direct trade declarations with Armenia after 33 years, and the Akhalkalaki-Kars railway reopens for Armenian freight — the first concrete normalization steps.
+- **May:** US Secretary of State Marco Rubio visits Yerevan and signs the TRIPP corridor and critical-minerals agreements, anchoring Armenia to a US-backed transit route through Syunik.
+- **May:** At the EAEU summit, Putin and other leaders urge Armenia to hold an EU membership referendum "as soon as possible"; Moscow recalls its ambassador for consultations.
+- **June:** Pashinyan rejects Russia's referendum demand, and Moscow suspends fish and seafood imports — the opening move in an economic pressure campaign around the election.
+- **June:** Civil Contract wins 49.8% in parliamentary elections — a majority but short of the two-thirds needed for constitutional reform — amid documented Russian interference.
+- **June:** Armenia hosts Eagle Partner 2026, its first multinational military exercise with the US, France and Greece, while 30 Armenian defense companies appear at Eurosatory in Paris.
+- **June:** Aliyev escalates his preconditions, demanding the return of former Azerbaijani enclaves and the resettlement of 300,000 Azerbaijanis in Armenia.
+- **July:** Von der Leyen visits Yerevan and announces autonomous trade measures covering ~80% of Armenian exports (in force from October), calling Russian pressure "economic violence."
+- **July:** Pashinyan meets Russian PM Mishustin in Yekaterinburg — his first post-election visit to Russia — as Moscow warns about protecting Russian investors.
+- **July:** The government approves the TRIPP framework bill and sends it to the Constitutional Court, creating a development company on a 49-year lease.
+- **August:** Armenia's new government programme downgrades relations with Russia, and Pashinyan signals an EU membership bid; Zelenskyy endorses the course.
+- **August:** Russia tightens the screws — a December deadline for an EU/EAEU referendum, bans on Armenian water and soft drinks, and a procedure to suspend Armenia's CSTO voting rights.
+- **August:** The constitutional draft is finalized for internal review — the reform Azerbaijan names as the final obstacle to a peace treaty.
+- **August:** Pashinyan and Aliyev meet in Bishkek, their first leader-level contact since the election.
+- **September:** At Bishkek, Pashinyan rejects Putin's demand for an immediate referendum, and the two sides agree to explore selling the South Caucasus Railway concession to a third party.
+- **September:** Pashinyan says Russia's 102nd military base is "not vital" and confirms a comprehensive review of relations with Moscow, including CSTO membership.
+- **September:** Russia cuts gas supplies for ten days, shifting from trade bans to energy leverage as Yerevan accelerates diversification.
+- **September:** Azerbaijan's FM Bayramov pushes TRIPP construction to 2027, confirming the corridor will not be operational on Yerevan's earlier timetable.
+- **September:** At UNGA, Pashinyan meets Erdoğan for the first time and Mirzoyan agrees with Bayramov to "promote a positive agenda"; Armenia ships its first exports to Azerbaijan.
+- **October:** Aliyev tells his party congress that Armenia's "territorial demands" remain the obstacle, undercutting talk of an imminent treaty.
+- **October:** Pashinyan and Russian Railways CEO Belozerov agree a three-month working group on the railway concession, with Russia still refusing either to invest or to transfer it.
+- **October:** Pashinyan sets 2031 as his target for signing and ratifying a peace treaty and proposes a mutual enclave exchange; Mirzoyan says enclaves are "not an obstacle."
