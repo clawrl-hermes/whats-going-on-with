@@ -17,7 +17,9 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `references/weekly-source-monitor-prompt.md` | Cron prompt template for weekly source monitor |
 | `references/cron-failure-recovery.md` | Procedure for diagnosing and manually recovering from cron job failures |
 | `references/cron-job-management.md` | Cron job model format, ordering dependencies, batch updates, and re-triggering failed jobs |
+| `references/frontend-content-contract.md` | Frontend publish contract: allowlist, per-file schemas, migration procedure, sources normalization recipes, validation |
 | `templates/source-monitor-notification.md` | Notification format template for Telegram delivery of weekly source monitor results |
+| `templates/overview.md` | Starter overview.md for a new topic (the site's topic page) |
 | `templates/index.md` | Starter index.md for a new topic |
 | `templates/sources.md` | Starter sources.md |
 | `templates/timeline.md` | Starter timeline file |
@@ -64,17 +66,21 @@ topics:
 2. **Scaffold the folder structure** (use `templates/` files):
    ```
    /root/wiki/<slug>/
+   ├── overview.md           (from templates/overview.md — write by hand, do not regenerate)
    ├── index.md              (from templates/index.md)
    ├── sources.md            (from templates/sources.md)
    ├── domain-notes.md       (from templates/domain-notes.md)
    ├── priority-sources.md   (from templates/priority-sources.md)
+   ├── log.md                (create with "# Wiki Ingest Log")
    ├── timeline/
    │   └── <slug>-timeline.md  (from templates/timeline.md)
    ├── entities/
-   └── concepts/
+   ├── concepts/
+   ├── updates/
+   └── articles/
    ```
 
-4. **Create priority-sources.md:** After scaffolding, research and populate `priority-sources.md` with the topic's curated source list. Categorize sources as:
+3. **Create priority-sources.md:** After scaffolding, research and populate `priority-sources.md` with the topic's curated source list. Categorize sources as:
    - **Regional Specialists** (high trust) — outlets dedicated to the region
    - **Think Tanks** (analytical depth) — research institutions producing analysis
    - **Official Sources** (primary, biased) — presidential/ministry announcements of relevant countries
@@ -82,31 +88,30 @@ topics:
 
    Ask the user for their known priority sources before researching your own. The user often has specific outlets in mind.
 
-5. **Seed initial research:**
+4. **Seed initial research:**
    - Run each search query via `tavily_search` with `time_range="month"`, `max_results=5`
    - For top results, use `tavily_extract` to get full content
-   - Populate `sources.md` with numbered entries
-   - Create 3-5 timeline events
-   - Create 2-4 entity pages for key actors
-   - Create 2-3 concept pages for key themes
+   - Populate `sources.md` using the five-column table (`# | Publication | Title | Date | Summary`, ISO dates)
+   - Create 3-5 timeline events as sub-bullets under month/season parents
+   - Create 2-4 entity pages and 2-3 concept pages, each with `title` and `summary` frontmatter
+   - Write `overview.md` with `title`, `tagline`, `region`, `started` (from `_config.yaml` `created`)
+   - Create empty `updates/` and `articles/` directories
    - Write `index.md` with page count and last-updated date
 
-   Then pull the latest PDF script: `cd /root/wiki && git pull --rebase`
-
-6. **Populate domain-notes.md:** After completing the initial research, fill in `/root/wiki/<slug>/domain-notes.md` with findings:
+5. **Populate domain-notes.md:** After completing the initial research, fill in `/root/wiki/<slug>/domain-notes.md` with findings:
    - **Search queries:** Insert the 5-8 canonical search queries from Step 1 (these are already determined upfront)
    - **Key entities:** List the main actors, countries, organizations discovered during research
    - **Key data points:** Add baseline statistics and figures uncovered in seed research
    - **High-signal source types:** Note which outlet categories proved most valuable during research
    - **File update checklist:** Already in the template — keep as-is
 
-8. **Create cron jobs** using the prompt templates in `references/`:
+6. **Create cron jobs** using the prompt templates in `references/`:
    - Load `references/weekly-source-monitor-prompt.md`, substitute `{topic_name}`, `{slug}`, `{search_queries}` → create weekly cron job (every 10080 minutes)
    - **IMPORTANT:** The `cronjob` tool defaults to `repeat: "once"` if you don't explicitly set it. For recurring schedules, you MUST pass `repeat: 0` (forever). After creating, verify with `cronjob(action='list')` — if the job shows `repeat: "once"`, immediately update it with `cronjob(action='update', job_id=<id>, repeat=0)`.
 
-9. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries, cron job ID).
+7. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries, cron job ID).
 
-10. **Commit and push everything:**
+8. **Commit and push everything:**
    ```bash
    cd /root/wiki
    git add {slug}/
@@ -156,7 +161,7 @@ This is distinct from the cron-based weekly source monitor — the user is handi
    - Update relevant `entities/<entity>.md` pages if the source mentions specific actors
    - Update relevant `concepts/<concept>.md` pages if thematically relevant
 5. **Update `index.md`** — increment source count, update date.
-6. **Update `log.md`** — append session entry with source summaries and file update list.
+6. **Update `log.md`** — append a concise entry following the Log File Conventions: source counts by type and the pages updated, not per-source summaries.
 7. **Commit and push:**
    ```bash
    cd /root/wiki
@@ -168,9 +173,41 @@ This is distinct from the cron-based weekly source monitor — the user is handi
 
 **Key differences from cron-based ingest:**
 - No search queries needed — URLs are provided directly.
-- No watch report generation — this is a source update only.
+- This is a source update only — no separate report is produced.
 - Dedup is against the full existing `sources.md`, not just recent results.
 - User may provide URLs across multiple topics in one message — handle each topic separately.
+
+### Weekly Source Monitor
+
+**Trigger:** The weekly cron job fires, or the user says "run <topic>" / "update <topic>".
+
+Follow `references/weekly-source-monitor-prompt.md`. Beyond source ingestion, the run must keep the published content current:
+
+- **Write `updates/<YYYY-MM-DD>.md`** for the run date — 3 to 6 bullets in `- **Headline** — body` form, no frontmatter and no title. This is the site's weekly update and is not optional. If nothing substantive changed, still write the file (or report clearly that there was no update).
+- **Append `sources.md` rows** in the five-column shape with a clean `Publication` name and an ISO date (`YYYY-MM-DD` or `YYYY-MM`).
+- **Add timeline events** as sub-bullets under the month/season parent, not as flat day-level bullets.
+- **Frontmatter on new pages** — every new entity/concept page needs `title` and `summary`; entities may also carry `role` and `facts`.
+- **Keep `log.md` to counts and pages updated** — never per-source summaries (see Rewrite or Maintain the Ingest Log).
+
+### Rewrite or Maintain the Ingest Log
+
+**Trigger:** User says `log.md` is a mess, asks to simplify it, or asks to change what it records.
+
+The log is an **action record, not a source ledger**. One entry per run, ascending by date, with a uniform heading: `## YYYY-MM-DD - Weekly Source Update`.
+
+Each entry should record only:
+
+- **Sources ingested by type** — `8 from priority sources`, `1 from Tavily`, `1 manual ingest`. Counts, never titles, outlets, URLs, or per-source summaries.
+- **Files updated with ranges** — `sources.md (69 → 78), index.md source count (69 → 78)`, `timeline with 14 new July 2026 entries`.
+- **Short entity/concept notes** — `Pashinyan entity: Putin call details, EU referendum position`. One clause each, not a narrative.
+
+Rules:
+
+- **Remove Watch Report entries and report metadata** (prediction, probability, PDF/R2 URLs) once that output is retired. A weekly entry that absorbed report details keeps only its ingest record.
+- **Merge duplicate same-day entries** (e.g. weekly + manual ingest on the same date) and **split misplaced source blocks** into the run they belong to.
+- **Reconstruct missing runs** from the notification outputs rather than leaving gaps.
+- **Verify every count range** against the repo: `git show <commit>:<topic>/sources.md`, then extract numbered rows with a pipe-tolerant regex (`^\|+\s*(\d+)\.?\s*\|`). Old log counts drift and often do not chain — trust the file, not the previous entry.
+- **Strip leading-pipe artifacts** and normalize headings before finishing; then `grep -in "watch report"` and `grep -nE '^\|'` should return nothing.
 
 ### Create or Update Priority Sources
 
@@ -214,7 +251,7 @@ This is distinct from the cron-based weekly source monitor — the user is handi
 
 **Trigger:** User wants to build or update a topic's domain-notes.md, or you discover during a weekly source monitor run that domain-notes.md needs updating (new data points, new dedup pitfalls, new high-signal source types).
 
-**This is distinct from the weekly source ingest** — domain-notes.md is the *permanent topic reference* holding search queries, key data points, dedup pitfalls, entity tracking guidance, and prediction history. It is consumed by the weekly source monitor (Step 0a) to provide the agent with topic-specific context before it begins searching.
+**This is distinct from the weekly source ingest** — domain-notes.md is the *permanent topic reference* holding search queries, key data points, dedup pitfalls, and entity tracking guidance. It is consumed by the weekly source monitor (Step 0a) to provide the agent with topic-specific context before it begins searching.
 
 **Steps:**
 
@@ -229,6 +266,8 @@ This is distinct from the cron-based weekly source monitor — the user is handi
 
 3. **Update the file** with the new information. Use the same structure as the existing `templates/domain-notes.md` template.
 
+**Do not accumulate recent developments.** `domain-notes.md` is structural context, not a chronology — the timeline is the record of what happened. Never add `## Key Recent Developments` sections. When one exists, delete it and leave a pointer near the top of the file: recent developments are tracked in `timeline/<slug>-timeline.md` at month resolution. A genuinely structural shift (a new constitutional deadline, a change in the negotiation sequence, a new lever of coercion) is folded into the relevant existing section or given one short section of its own — not logged as an event. Keep one `## Trackable Indicators` table; merge duplicates rather than appending an "(updated)" copy.
+
 **File location:** `/root/wiki/<slug>/domain-notes.md`
 
 **Integration with weekly source monitor:** The cron prompt's Step 0a instructs the agent to read `domain-notes.md` for topic-specific context before proceeding with priority sources or Tavily searches. Step 7 of the weekly monitor then reviews whether domain-notes.md itself needs updating based on what was found during the run, creating a self-maintaining loop.
@@ -242,7 +281,7 @@ This is distinct from the cron-based weekly source monitor — the user is handi
 1. **Read `sources.md`** to identify the target entry by its number and content.
 2. **Read the user-provided URL** via `tavily_extract` to understand its content.
 3. **Patch `sources.md`:** Remove the entry, renumber all subsequent entries, append the replacement as the last entry. Use `old_string` with 2-3 surrounding lines of context to avoid duplicate-match errors.
-4. **Update `log.md`:** Edit the ingest log entry to remove the dropped source's line and add the replacement. Mark the entry as "corrected" in the heading.
+4. **Update `log.md`:** Adjust the entry's source count and any page-update note if the correction changes them; never add a per-source line. Mark the entry as "corrected" in the heading.
 5. **Update any affected entity/concept/timeline pages** — remove references to the dropped source, add references for the new one.
 6. **Update `index.md`** if source count changed (it usually doesn't — one removed, one added).
 7. **Commit and push:**
@@ -253,6 +292,38 @@ This is distinct from the cron-based weekly source monitor — the user is handi
    git push
    ```
 8. **Report back tersely:** what was removed, what was added, any renumbering.
+
+### Retire an Output Type
+
+**Trigger:** User says an output is being dropped (e.g. "we're not doing X anymore"), or a pipeline/artifact class is removed.
+
+Removing an output is more than deleting its files — stale references leave dangling links and instructions that make future agents regenerate what was retired. Work through all of these:
+
+1. **Delete the artifacts and tooling** — output folders, generated files, and the scripts/templates that produce them.
+2. **Config** — remove the output's cron job IDs and settings from `/root/wiki/_config.yaml`.
+3. **Skill** — remove the output's prompts, references, and templates from `topic-watcher-skill/`, then sync the copy (see Key Rules). Also fix prose that still describes the retired output as a current capability.
+4. **Topic indexes** — delete the output's `## <Section>` block from every `<slug>/index.md` and drop any count from the `> Content catalog ...` header line.
+5. **domain-notes structure trees** — remove the folder/file entries so the documented tree matches disk.
+6. **Preserve timeline history** — leave `timeline/` entries about past outputs intact; they are records of what happened, not live links. `log.md` is different: when the user wants a concise action log, delete the retired output's entries from it entirely (see Rewrite or Maintain the Ingest Log).
+7. **Verify** — `grep -rn '<output term>' --include='*.md' .` should return only log/timeline hits.
+
+### Migrate a Topic to the Frontend Content Contract
+
+**Trigger:** User wants a topic to render on the site, references the content contract, or asks to standardize a topic's structure for the frontend.
+
+Load `references/frontend-content-contract.md` for the full schemas, normalization recipes, and validation checker. The working order is: inventory → `git mv` renames to kebab-case → frontmatter on entities/concepts → sources.md five-column rebuild → timeline format → overview.md → create `updates/` and `articles/` → validate.
+
+Rules that matter every time:
+
+- **One topic at a time, then stop.** The user runs the frontend check on one topic before authorizing the next. Do not migrate the remaining topics in the same pass.
+- **Leave the changes uncommitted** unless the user asks for a commit; they review the working tree first.
+- **Only touch published paths.** `index.md`, `log.md`, `domain-notes.md`, `priority-sources.md` are not read by the site — edit them only to repair wikilinks broken by a rename.
+- **Create `updates/` and `articles/` empty** when asked. Git will not track empty directories; do not add placeholder files.
+- **Timeline condensation is a separate editorial pass.** The migration only fixes heading/label format. When the user says a year is too granular, follow the timeline section of the reference: month/season parent bullets with each event as a two-space-indented sub-bullet, chronological, plus any recent months missing from the timeline but present in `sources.md`.
+- **Keep the contract in sync.** `/root/wiki/content-contract.md` is the versioned copy of the frontend contract (outside the publish allowlist). When an agreed format changes, edit that file in the same commit as the content it governs — the frontend build and the wiki must describe the same structure.
+- **Updates and articles are generated from the record, not invented.** `updates/YYYY-MM-DD.md` condenses the most recent successful weekly monitor notification into 3-6 contract-format bullets; name it for that notification's run date. A quarterly `articles/YYYY-qN.md` uses only developments from that quarter — when asked to pretend later months are unknown, check the draft for later-quarter names and events before writing. A failed cron run has no notification content; fall back to the last successful output and say so.
+- **No duplicated metadata in entity bodies.** Frontmatter `role` and `facts` are rendered by the site; a body `**Role:**` or `**Party:**` line makes it appear twice. When migrating, move the value into frontmatter and delete the body line.
+- **Rebuild sources.md from parsed cells, never by hand-editing pipes.** The `||`/`|||` prefixes are an append-time bug; parse with `line.strip("|").split("|")` and assert the cell count before writing. New rows appended later must start with exactly one `|` and use the five-column shape.
 
 ### Run Now
 
@@ -284,25 +355,24 @@ Pattern for manual recovery:
 
 - **Narrative bias.** You've been tracking this topic for months. You have a story in your head about where it's going. Every new source gets filtered through that story. Fight this. Ask: "If I were new to this topic, would this source change my mind?"
 - **Recency overweighting.** The last article you read feels more important than it is. Weight by significance, not by timing.
-- **Prediction drift.** The temptation to subtly shift the prediction each month to fit new developments. Don't. If the prediction genuinely changed, say so explicitly and explain why. If it hasn't, keep the sentence identical.
-- **Justification after the fact.** Writing the prediction first and then reverse-engineering the justification. The justification should be the *reason* for the prediction, not a post-hoc rationalization.
-- **False precision.** "67% probability" signals false precision. Use broad bands: 50-60% (coin flip leaning), 60-75% (likely), 75%+ (high confidence). Round numbers.
-- **Cross-topic references in Analysis.** Analysis sections must be self-contained. Do not reference concepts, events, projects, or place names from other topics (e.g., "the Georgia dynamic with Anaklia port" in a Kazakhstan report). Readers of one topic may not have read others. Even well-known place names (Anaklia, Hambantota, Gwadar) should be briefly contextualized, not dropped in as assumed knowledge. Explain the concept inline or use generic language.
-- **Probability Triggers directional logic.** The Up/Down direction for each trigger is relative to the prediction being TRUE — NOT to the topic being "good" or "bad" in some absolute sense. Up = this event makes the prediction MORE likely. Down = this event makes the prediction LESS likely. Always verify by asking: "If this trigger fires, does my prediction become more or less probable?" A common failure mode is inverting all directions when the prediction is phrased negatively (e.g., "X will NOT happen" vs "X will happen"). The direction follows the prediction's truth value, not the emotional valence of the trigger.
-- **Signal & Fracture extraction from Analysis.** When migrating old-format reports (Justification section) to the new template, Signal and Fracture must be concise distillations of the Analysis — not new unsupported claims. The Signal is the key observable trend; the Fracture is the stress point that could disrupt the status quo. Both must be grounded in evidence already presented in the Analysis.
-- **Peace process analysis — domestic constraints are first-order.** When the topic involves a peace process, negotiation, or diplomatic agreement, the Political analysis MUST cover domestic political constraints in the relevant countries: electoral results, constitutional requirements for treaty ratification, coalition dynamics, opposition positions, and veto players. These are not secondary factors — they are often the binding constraint on outcomes. Example: if a peace treaty requires constitutional reform needing a two-thirds supermajority, and the governing party holds only 60% of seats with pro-Russian opposition holding the rest, that structural deadlock belongs in the Political analysis — it may be the single most important factor in the prediction.
+- **Cross-topic references.** Analysis in updates and articles must be self-contained. Do not reference concepts, events, projects, or place names from other topics (e.g., "the Georgia dynamic with Anaklia port" in a Kazakhstan piece). Readers of one topic may not have read others. Even well-known place names (Anaklia, Hambantota, Gwadar) should be briefly contextualized, not dropped in as assumed knowledge.
+- **Peace process analysis — domestic constraints are first-order.** When the topic involves a peace process, negotiation, or diplomatic agreement, the analysis MUST cover domestic political constraints in the relevant countries: electoral results, constitutional requirements for treaty ratification, coalition dynamics, opposition positions, and veto players. These are often the binding constraint on outcomes.
 
 ## Key Rules
 
-- **All topics live in one repo** (`/root/wiki/`, remote: `kent-iscann/signal-fracture-content`).
-- **Git auth** via credential helper (no gh CLI). PAT stored in remote URL.
+- **All topics live in one repo** (`/root/wiki/`, remote: `clawrl-hermes/whats-going-on-with`).
+- **Git auth** via credential helper (no gh CLI). The PAT lives in `~/.git-credentials` as `https://<user>:<token>@github.com` (mode 600), not in the remote URL; the credential username is `clawrl-hermes`. Verify a new token with `git ls-remote origin` before pushing. The canonical remote is `https://github.com/clawrl-hermes/whats-going-on-with.git` (the repo owner was renamed from `kent-iscann`); set it explicitly rather than relying on the old URL's redirect.
+- **Skill copy sync** — `/root/wiki/topic-watcher-skill/` is the source of truth; `/root/.hermes/skills/devops/topic-watcher/` is a copy. After editing the wiki copy, run `rsync -a --delete /root/wiki/topic-watcher-skill/ /root/.hermes/skills/devops/topic-watcher/`. `--delete` is required so retired references and templates disappear from the installed skill too.
+- **One logical change per commit.** A structural change and a pending weekly source update do not belong in one commit. Stage explicitly: `git add -A`, then `git reset <unrelated paths>`, commit, and repeat for the second change. The repo convention is `Weekly source update (<slug>): N new sources — <highlights>` for ingest commits.
+- **Verify what is actually staged.** When asked to commit "staged" changes, run `git diff --cached --stat` first. Work described as staged is frequently only modified in the working tree; if the index is empty, stage the intended paths explicitly rather than assuming there is nothing to commit.
+- **Commit and push are separate instructions.** "Commit" means commit only; push when the user asks for it. After committing, state that the branch is ahead and let them decide.
 - **Report back tersely.** User prefers direct, concise output — no verbose summaries or "let me know" closings.
 
 ## Pitfalls
 
+- **SKILL.md frontmatter must start on line 1** — a blank line before the opening `---` silently breaks YAML frontmatter parsing, so the skill loads with no name, description, or tags. After editing `topic-watcher-skill/SKILL.md`, check with `head -1`. The same edit can break markdown tables; confirm every edited table row still ends with `|`.
 - **Cron job model parameter format** — the `cronjob` tool's `model` parameter is an **object**, not a string. Pass `{"model": "deepseek/deepseek-v4-pro"}` (with optional `"provider": "openrouter"`), NOT a bare string like `"deepseek/deepseek-v4-pro"`. A bare string produces `"No updates provided."` errors silently.
 - **Cron job repeat parameter** — the `cronjob` tool defaults to `repeat: "once"` if not explicitly set. For recurring schedules (weekly/monthly), you MUST pass `repeat: 0` (forever). After creating, verify with `cronjob(action='list')` — if the job shows `repeat: "once"`, immediately update with `cronjob(action='update', job_id=<id>, repeat=0)`. A weekly job created with `repeat: "once"` will run once and never fire again.
-- **PDF venv path** — the correct path is `/tmp/pdfenv/bin/python3`. If it doesn't exist, create it with `python3 -m venv /tmp/pdfenv && /tmp/pdfenv/bin/pip install weasyprint`. Do NOT use `/usr/local/lib/hermes-agent/venv/bin/python` — that path does not exist.
 - **Git push rejection on cron jobs** — When a cron job pushes to the repo, the remote may have diverged (e.g., another cron job or manual push landed first). Handle this gracefully:
   ```bash
   cd /root/wiki
@@ -310,10 +380,11 @@ Pattern for manual recovery:
   git push                           # now push
   ```
   Do NOT use `git push --force` — this would overwrite remote changes. If rebase conflicts occur, resolve them manually or abort and retry. A `git stash` before pull is only needed if you have uncommitted local changes that aren't already staged; in most cron job flows, all changes are already staged via `git add -A` before commit, so `pull --rebase` alone is sufficient.
-- **Dollar signs in git commit messages** — When a commit message contains `$` (e.g., `$10B`, `$1.3B`), the shell interprets it as variable expansion inside double-quoted strings: `$10B` silently becomes `0B` (the value of the undefined variable `$10B` is empty). Use single quotes for the commit message, or escape dollar signs as `\$`. Example: `git commit -m 'Watch Report: $10B NVIDIA deal signed'` or `git commit -m "Watch Report: \$10B NVIDIA deal signed"`. Double-quoted messages without escaping will corrupt dollar amounts in the commit log.
+- **Dollar signs in git commit messages** — When a commit message contains `$` (e.g., `$10B`, `$1.3B`), the shell interprets it as variable expansion inside double-quoted strings: `$10B` silently becomes `0B` (the value of the undefined variable `$10B` is empty). Use single quotes for the commit message, or escape dollar signs as `\$`. Example: `git commit -m 'Weekly source update: $10B deal signed'` or `git commit -m "Weekly source update: \$10B deal signed"`. Double-quoted messages without escaping will corrupt dollar amounts in the commit log.
 
-- **Expired PAT / push auth failure** — When `git push` fails with `remote: Invalid username or token. Password authentication is not supported for Git operations`, the PAT (Personal Access Token) is expired or revoked — no credential-helper reconfiguration will fix it. **Diagnostic:** (1) check `git remote -v` for embedded `oauth2:github_pat_...@github.com` tokens; (2) check `~/.git-credentials` for alternative tokens; (3) verify access with `git remote set-url origin https://<user>@github.com/...` — a `403 Permission denied` means the user lacks repo access even if the token is valid. **Recovery:** a new fine-grained PAT with push access to `kent-iscann/signal-fracture-content` must be generated at https://github.com/settings/tokens, then: `git remote set-url origin https://oauth2:NEW_TOKEN@github.com/kent-iscann/signal-fracture-content.git`. **In cron mode:** commit all changes locally, deliver the report with an explicit push-failure flag, and let the next run push once the token is refreshed.
-- **Multiple concurrent cron jobs** — When multiple wiki topics have cron jobs running simultaneously, they may push to the same repo concurrently. Always `git pull --rebase` before `git push`. If a push fails because the remote has diverged, pull again and retry. Consider staggering cron job schedules to reduce collision probability.\n- **`git add -A` cross-contamination** — When multiple cron jobs run on the same repo concurrently, `git add -A` stages ALL changes in the working tree, including modifications from other cron jobs that ran since the last commit. This causes commits to include unrelated files (e.g., a Georgia watch report commit picking up Kazakhstan index changes). **Fix:** scope staging to the current topic only: `git add {slug}/` instead of `git add -A`. If other files are already staged, use `git reset` first to clear the index before scoped staging. The monthly watch report prompt template and the Ingest User-Provided URLs operation already use topic-scoped staging; verify before creating new cron jobs.
+- **Expired PAT / push auth failure** — When `git push` fails with `remote: Invalid username or token. Password authentication is not supported for Git operations`, the PAT (Personal Access Token) is expired or revoked — no credential-helper reconfiguration will fix it. **Diagnostic:** (1) check `git remote -v` for embedded `oauth2:github_pat_...@github.com` tokens; (2) check `~/.git-credentials` for alternative tokens; (3) verify access with `git remote set-url origin https://<user>@github.com/...` — a `403 Permission denied` means the user lacks repo access even if the token is valid. **Recovery:** a new fine-grained PAT with push access to `clawrl-hermes/whats-going-on-with` must be generated, then written to `~/.git-credentials` as `https://clawrl-hermes:<token>@github.com` (mode 600) and tested with `git ls-remote origin`. Keep the token out of the remote URL; if an old one is embedded, reset the remote to `https://github.com/clawrl-hermes/whats-going-on-with.git`. **In cron mode:** commit all changes locally, deliver the report with an explicit push-failure flag, and let the next run push once the token is refreshed.
+- **Multiple concurrent cron jobs** — When multiple wiki topics have cron jobs running simultaneously, they may push to the same repo concurrently. Always `git pull --rebase` before `git push`. If a push fails because the remote has diverged, pull again and retry. Consider staggering cron job schedules to reduce collision probability.
+- **`git add -A` cross-contamination** — When multiple cron jobs run on the same repo concurrently, `git add -A` stages ALL changes in the working tree, including modifications from other cron jobs that ran since the last commit. **Fix:** scope staging to the current topic only: `git add {slug}/` instead of `git add -A`. If other files are already staged, use `git reset` first to clear the index before scoped staging.
 - **Tavily extract depth for PDFs** — When extracting content from PDF URLs (IMF reports, academic papers), use `extract_depth="basic"` first. `"advanced"` often returns 100K+ character outputs that get truncated and may wrap content in JSON structures that are harder to parse. Use `"advanced"` only when `"basic"` returns insufficient content.
 - **Large tavily_extract responses** — When `tavily_extract` returns many URLs or very large pages, the tool may save the result to a temp file (e.g., `/tmp/hermes-results/<uuid>.txt`) instead of returning inline. This file is a single-line JSON too large to read with `read_file`. To parse it:
 
@@ -359,22 +430,12 @@ Pattern for manual recovery:
 - **`git stash` before `git pull --rebase` when uncommitted changes exist** — In cron mode, if `git pull --rebase` fails with "You have unstaged changes," do: `git stash && git pull --rebase && git stash pop`. This is the safe pattern. Do NOT use `git push --force`.
 - **Aggressive source deduplication** — In practice, many search results from different URLs cover the same story or press release. Before adding a new source, compare its content against ALL existing sources in `sources.md`. If the core facts overlap significantly (same event, same data, same quotes), skip it even if the URL is different. Adding rehashes dilutes the wiki's signal-to-noise ratio. Aim for sources that add genuinely new information, not new URLs for the same information.
 - **Patch wrong-match due to inconsistent table formatting** — When `sources.md` has inconsistent table row prefixes (e.g., some rows use `||` and others use `|||`), a patch `old_string` may match a completely different row than intended. The symptom: content (an entire source row) is silently removed. This session, `old_string` using `||| 11.` matched a row with `|| 10.` because the fuzzy matcher found the closest available match after the row formatting was inconsistent. **Fix:** always re-read the target file immediately before patching and copy the EXACT text (including the exact number of leading pipes) as it appears. Do not assume `||` or `|||` format. After every patch, re-read the affected file to verify nothing was accidentally removed or overwritten. If you discover content was lost, restore it immediately with a second patch before proceeding.
-- **`replace_all=True` on `log.md` corrupts other occurrences** — When using `patch` with `replace_all=True` on `log.md`, the tool inserts `new_string` at EVERY match of `old_string` across the file. This is dangerous because `log.md` accumulates identical lines over time (e.g., "PDF generated successfully" appears in two different watch report entries from different dates). The result: the intended target gets the new content, but the earlier occurrence also gets corrupted with pipe-prefixed insertion debris. **Fix:** never use `replace_all=True` on `log.md`. Instead, make `old_string` unique by including 2+ surrounding lines of context from the target entry. After patching, always re-read the top of the log file (oldest entries) to verify they weren't silently corrupted.
+- **`replace_all=True` on `log.md` corrupts other occurrences** — When using `patch` with `replace_all=True` on `log.md`, the tool inserts `new_string` at EVERY match of `old_string` across the file. This is dangerous because `log.md` accumulates identical lines over time (e.g., the same "Files updated" line appears in entries from different dates). **Fix:** never use `replace_all=True` on `log.md`. Instead, make `old_string` unique by including 2+ surrounding lines of context from the target entry. After patching, always re-read the top of the log file (oldest entries) to verify they weren't silently corrupted.
 - **Patch creating duplicate sections** — When patching a markdown file with `old_string` that matches only the LAST section of a file (e.g., `## Military Reforms`) and `new_string` includes additional sections after it (e.g., a new `## Post-Election Outlook` followed by a rewritten `## Key Relationships`), be aware that any existing `## Key Relationships` section BEFORE the matched `old_string` will NOT be removed — it will remain as a duplicate. The fix: either (a) include the old `## Key Relationships` section in `old_string` so both are replaced, or (b) use two separate patch calls — one to add the new section, one to remove/rewrite the old section. Always re-read the file after a multi-section patch to verify no duplicates were introduced.
 - **Patch accidentally removing intended content** — When `old_string` is too long and spans multiple sections including headers, the match can accidentally consume section headers or content that should remain. This is especially common with `## ` markdown headers that look like boundary markers but are part of the file's structure. Fix: (a) re-read the file to identify what was lost, (b) use a smaller, more targeted `old_string` for the correction patch, and (c) always re-read the file after patching to verify the full structure is intact. A stray marker line (`^ SEE ADDITION`) in `new_string` is a sign of an accidental over-match.
-- **Cron prompt template repo name mismatch** — The weekly source monitor prompt template (`references/weekly-source-monitor-prompt.md`) hardcodes `repo: kent-iscann/sri-lanka-china-finance` as the example. The actual repo has been renamed to `kent-iscann/signal-fracture-content`. When creating new cron jobs, always use the CURRENT repo name (`signal-fracture-content`) — never copy the template's example verbatim. Verify the actual repo name from `/root/wiki/.git/config` if unsure.
-- **Use delegate_task for current-affairs research in watch reports** — When generating a watch report (cron or manual), the most effective workflow is: (1) read the full wiki corpus, (2) delegate current-affairs research to a subagent (`delegate_task` with `toolsets: ["web", "search"]`) that searches for developments since the last report, (3) use the subagent's findings to write the report. This pattern produces comprehensive research results much faster than searching sequentially in the main agent. Pass the topic name, key search queries, and the date of the last report as context. The subagent returns compiled findings — you then make the editorial judgment about what qualifies as a new source or major development.
 
-- **Two-model delegation for cron jobs** — Monthly watch report cron jobs can use a split-model architecture: the cron job itself runs on a cheap model (e.g. `deepseek/deepseek-v4-flash`) for admin/file work, while `delegate_task` spawns a subagent on an expensive model (e.g. `deepseek/deepseek-v4-pro`) for analytical writing. Configured via `~/.hermes/config.yaml`: set `delegation.model` and `delegation.provider` to the analytical model. The cron job prompt must explicitly instruct the agent to delegate the research/analysis step. The cheap model handles: reading wiki files, calling `delegate_task`, assembling the report from subagent output, generating PDFs, uploading to R2, updating summaries, git operations. Set the cron job's `model` parameter to the cheap model at creation time. Weekly source monitors can also run on the cheap model since they are pure admin work (searching, extracting, updating files) with no analysis required. To batch-update all jobs with a new model and prompt, write a Python script that edits `~/.hermes/cron/jobs.json` directly — this is faster than 7 individual `cronjob` tool calls.
-- **Entity/concept pages must be updated during watch report generation** — The cron prompt's Step 5a (added) reminds you to update entity and concept pages, but it's easy to skip in practice. Every new source or major development should produce at least one dated bullet point on a relevant entity or concept page. If the timeline gains new entries, the corresponding entity/concept pages should reflect them too.
+- **Verify "new development" claims against the full timeline** — Before framing any event as a "new development," "escalation," or "post-election shift" in an update or article, verify it against the FULL recorded timeline and all existing sources in the wiki. A conference, campaign, or demand set may appear new when surfaced by a single recent article but actually be a long-running campaign documented months earlier by other outlets. **Fix:** when a source claims a development is new or escalated, search the wiki's timeline, sources.md, and entity pages for earlier mentions of the same phenomenon. If it predates the supposed "new" event, reframe it as a continuation — not an escalation. Update the entity pages accordingly.
 
-- **Cross-topic Key Sources contamination** — When writing multiple watch reports sequentially or in batch, the agent can accidentally copy Key Sources from a previously written report of a DIFFERENT topic into the current one. This is distinct from the Analysis cross-topic pitfall and is harder to catch because sources look plausible at a glance. **Fix:** after writing the Key Sources section, scan each entry against the topic name — if any source title mentions a different country, region, or concept from another wiki, remove it immediately. Verify every source URL points to content about the CURRENT topic before proceeding to PDF generation.
-
-- **Signal & Fracture verbosity** — Despite the "no data points, no clarifiers, no subordinate clauses" rule, agents routinely produce Signals that pack in 3+ clauses with explicit data. Example — BAD: "Armenia's Western pivot has accelerated with operational trade across the Turkish border, expanded multinational military exercises with US and European forces, and deepening EU economic integration to offset Russian pressure." GOOD: "Armenia's Western pivot is accelerating — trade with Turkey is operational and military integration with the US and Europe is deepening." **Fix:** after writing Signal and Fracture, delete everything after the first major point. If the sentence contains "including," "with," "and" (used 3+ times), or a list of specific facts, it's too long. Re-read the original rule at the top of the Analytical Framework section before writing.
-
-- **Verify "new development" claims against the full timeline** — Before framing any event as a "new development," "escalation," or "post-election shift" in a watch report, verify it against the FULL recorded timeline and all existing sources in the wiki. A conference, campaign, or demand set may appear new when surfaced by a single recent article (e.g. Armenian Weekly, June 2026) but actually be a long-running campaign documented months earlier by other outlets (e.g. OC Media, Nov 2025 and Feb 2026). Failure to do this produces analytically incorrect reports that mischaracterize ongoing dynamics as novel events. **Fix:** when a source claims a development is new or escalated, search the wiki's timeline, sources.md, and entity pages for earlier mentions of the same phenomenon. If it predates the supposed "new" event, reframe it as a continuation — not an escalation. Update the entity pages accordingly. This is especially important for peace process topics where diplomatic campaigns often run for years.
-
-- **Timeline-only sources lack full URLs for Key Sources** — When a development is recorded in the timeline but the source was never added to `sources.md` with a full article URL, the watch report's Key Sources section will have only a root domain (e.g., `https://armenianweekly.com` instead of the specific article link). This degrades source quality. **Fix:** before writing Key Sources, cross-check every cited fact against `sources.md` — if a source referenced in the analysis has no entry there, add it to `sources.md` first (even if it's a minor entry), or note the specific article URL if the timeline already contains enough context. If the full URL is genuinely unavailable, flag it as a WARN in the review JSON rather than silently using a root domain.
 
 ## Search Quality
 

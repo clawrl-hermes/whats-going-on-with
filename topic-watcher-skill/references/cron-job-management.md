@@ -19,17 +19,6 @@ To add a provider pin (otherwise the current default provider is pinned at creat
 cronjob(action='update', job_id='<id>', model={"model": "deepseek/deepseek-v4-pro", "provider": "openrouter"})
 ```
 
-## Ordering Dependency
-
-**Rule:** Monthly Watch Report Updates must run after their corresponding Weekly Source Monitors.
-
-The Source Monitors are staggered on 10080-minute (weekly) cycles starting from different initial days. The Watch Reports are monthly on the 2nd at 12:00 UTC (`0 12 2 * *`).
-
-When verifying ordering:
-1. List all Source Monitor schedules for a topic
-2. Identify the latest Source Monitor run that occurs before the 1st
-3. Ensure the Watch Report fires at least 24 hours after that — the 2nd at 12:00 UTC guarantees this
-
 ## Triggering a Failed Job After Fixing Its Model
 
 When a cron job failed due to provider/model issues:

@@ -1,5 +1,5 @@
 # Sources: {Topic Name}
 
-| # | Title | Date | Summary |
-|---|-------|------|---------|
-| 1. | [Title](URL) | <date> | <1-2 sentences> |
+| # | Publication | Title | Date | Summary |
+|---|---|---|---|---|
+| 1 | <Publication> | [Title](URL) | <YYYY-MM-DD or YYYY-MM or empty> | <1-2 sentences> |

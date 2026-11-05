@@ -1,14 +1,14 @@
 # {Topic Name} — Weekly Source Update
 
-**Date:** {date} | **Sources:** {old_count} → {new_count} ({added_count} new)
+**Date:** {YYYY-MM-DD} | **Sources:** {old_count} → {new_count} ({added_count} new)
 
 ---
 
 ## New Sources Added
 
-| # | Source | Date | Key Finding |
-|---|--------|------|-------------|
-| {N} | [{Title}]({url}) | {date} | {1-2 sentence key finding} |
+| # | Publication | Title | Date | Key Finding |
+|---|---|---|---|---|
+| {N} | {Publication} | [{Title}]({url}) | {YYYY-MM-DD} | {1-2 sentence key finding} |
 
 *(repeat for each new source)*
 
@@ -26,9 +26,10 @@
 
 ## Files Updated
 
-- sources.md
-- timeline/{slug}-timeline.md
-- entities/{entity}.md *(if applicable)*
-- concepts/{concept}.md *(if applicable)*
-- index.md
-- log.md
+- `updates/{YYYY-MM-DD}.md` (weekly update)
+- `sources.md`
+- `timeline/{slug}-timeline.md` *(if applicable)*
+- `entities/{entity}.md` *(if applicable)*
+- `concepts/{concept}.md` *(if applicable)*
+- `index.md`
+- `log.md`
