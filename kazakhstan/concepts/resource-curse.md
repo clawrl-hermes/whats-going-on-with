@@ -53,3 +53,11 @@ Kazakhstan's economy remains heavily dependent on oil and gas. Hydrocarbons acco
 - Kazakhstan's nominal GDP projected at **$360.5B in 2026** (up from $302.8B in 2025) — a ~19% increase reflecting both real growth and resource price effects.
 - Per Oeconomus Foundation comprehensive analysis, Kazakhstan's economy has demonstrated resilience through multiple crises (2014 oil crash, 2020 pandemic, 2022 sanctions shock) and is now benefiting from multi-vector diversification strategies.
 - The GDP milestone positions Kazakhstan firmly as Central Asia's largest economy and the dominant economic power in the post-Soviet space outside Russia.
+
+## Uranium law reshapes global fuel market (Oct 2026)
+- **The National Interest** analysis by Fyodor Dmitrenko: December 2025 Subsoil Use Code amendments rewrote terms on which foreigners may own Kazakh uranium. New production licenses: Kazatomprom must hold **75%+** (up from 50%). Mine extension/output increase: Kazatomprom must own **90%+**.
+- **Exception clause:** A foreign partner may hold a larger share if it transfers uranium conversion and enrichment technology, builds a processing plant on Kazakh soil, and guarantees to buy at least half that plant's output for the license's life.
+- **China wins:** Ulba-TVS fuel assembly plant (Kazakh-Chinese border) fabricates finished reactor fuel assemblies (~200 tons/yr under contract to 2041). Chinese firms take equity in deposits and build — exactly what the new rules reward.
+- **Russia retreats:** Rosatom sold stakes in Zarechnoye, Khorasan-U, Kyzylkum mines to Chinese entities. Kazatomprom approved a Chinese supply contract while refusing a near-identical Russian one to Rosatom's Siberian Chemical Plant.
+- **West sidelined:** No US firm can transfer enrichment technology and build in Kazakhstan to qualify for a larger stake. France's courtship has not produced fresh supply. The West leaves with communiqués while reactors and uranium go east.
+- Kazakhstan mined **~40% of global uranium supply** in 2025 (world's #1 producer since 2009). The law change is resource nationalism, not alignment — but its effects favor Beijing.

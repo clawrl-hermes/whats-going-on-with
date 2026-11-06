@@ -88,3 +88,8 @@
 - **October:**
   - Kazakhstan's startup ecosystem is valued at 1,500 companies and forecast venture funding above $460 million.
   - Germany and Kazakhstan deepen economic ties despite differences over Ukraine.
+  - Jensen Huang visits Astana (Oct 23); Firebird signs investment agreement for 45,000 NVIDIA Grace Blackwell GPUs at Data Center Valley (Q3 2027 target).
+  - Kazakhstan court bars Coinbase and five other crypto platforms from unlicensed AIFC services; Kraken parent Payward obtains preliminary AFSA approval.
+  - Tokayev delivers State of the Nation address (Oct 28): 'People's Construction' program (6.5T tenge/$14B), electricity surplus target by 2029, strategic uranium reserve proposal.
+  - Kazakhstan reaffirms Russian oil supply agreement (Oct 7), extending to 2028, as Ukrainian drone campaign costs ~3.5M tons of lost CPC output.
+  - Kazakhstan ranked 60th/195 in Oxford Insights Government AI Readiness Index (up 16 places); 24th in UN E-Government Survey.

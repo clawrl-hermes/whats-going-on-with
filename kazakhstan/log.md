@@ -100,7 +100,10 @@
 - Updated sources.md (109 → 114), index.md source count (109 → 114)
 - Updated timeline and Western-powers entity
 
-## 2026-10-21 - Manual Ingest
-- New sources ingested: 3 (seven reviewed, four duplicates)
-- Updated sources.md (114 → 117), index.md source count (114 → 117)
-- Updated timeline and Caspian concept
+## 2026-11-06 - Weekly Source Update
+- New sources ingested: 11
+- Updated sources.md (117 → 128), index.md source count (117 → 128)
+- Updated timeline with 5 new October entries
+- Updated tech-pivot concept: added Jensen Huang visit and Firebird GPU deal
+- Updated resource-curse concept: uranium law amendments and CPC diversification data
+- Updated Caspian concept: new Shokri interview on route diversification, falling water levels, Jamestown CPC chronology

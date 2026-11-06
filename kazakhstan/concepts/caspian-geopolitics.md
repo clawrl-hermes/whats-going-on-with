@@ -125,3 +125,9 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - **Domestic refineries:** 12.1M tons sent to Kazakh refineries.
 - Source: Central Asian Light/Kursiv.kz (Sept 9, 2026) citing KazTransOil data.
 - Signals accelerating route diversification as Kazakhstan seeks to reduce CPC dependence amidst ongoing disruptions.
+
+## Caspian water levels threaten Trans-Caspian route expansion (Nov 2026)
+- **Times of Central Asia interview with Dr. Umud Shokri** (Nov 2, 2026): Falling water levels are already making shipping more difficult along Kazakhstan's shallow coastline. Vessels may have to carry lighter loads, raising transport costs and reducing competitiveness of oil shipments across the Caspian toward BTC.
+- Kazakhstan responding with dredging at Aktau and Kuryk, but this is a "costly, ongoing adaptation rather than a solution to the underlying decline."
+- **Green Energy Corridor feasibility study** results presented to international investors in Baku (Oct 2026) — moving beyond concept toward practical implementation.
+- **Trans-Caspian fiber-optic cable** launched Oct 15, 2026 (~380 km, 400 Tbps capacity) — turning the Caspian into a "transport, energy and digital bridge between Asia and Europe" (News.az interview with Murad Shamilov).

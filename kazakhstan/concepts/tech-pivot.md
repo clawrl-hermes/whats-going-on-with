@@ -128,6 +128,21 @@ The tech pivot is real but nascent. Kazakhstan has made significant progress in 
 - **Kazakh-rooted US-focused startups** raised >**$214M** total (RISE Research).
 - **Golden Gate Ventures** (Singapore) opening Tashkent office for 2-year program for 20 Central Asian startup founders.
 - Sub-venture market remains small and concentrated: Higgsfield + Uzum accounted for 61% of $320M regional VC in 2025.
+## Jensen Huang visit and Firebird GPU expansion (Oct 22-23, 2026)
+- NVIDIA founder and CEO **Jensen Huang** visited Astana on Oct 23, meeting with Tokayev at Akorda Presidential Palace and Deputy PM/AI Minister Madiyev for a public fireside chat at Alem.AI.
+- Huang proposed Kazakhstan could "transform energy into intelligence and export intelligence" — framing energy-rich computing as a new export category.
+- **Firebird** signed the investment agreement at Akorda, having secured a **US export license for 45,000 NVIDIA Grace Blackwell GPUs** — first export license for this generation. First phase under construction with Kazakhtelecom at Data Center Valley, targeting commercial launch in **Q3 2027**.
+- Firebird's total potential AI infrastructure capacity in Kazakhstan: **~500 MW** across planned phases. Firebird Labs Kazakhstan planned to support local AI startups.
+- Kazakhtelecom deployed **400 NVIDIA H200** and **480 NVIDIA B300** GPUs in Astana and Almaty. Plans to deploy **1,000+ GPUs** in Data Center Valley and **1,000+ NVIDIA Vera Rubin GPUs** in Ekibastuz in 2027.
+- **NVIDIA invested in Higgsfield AI**, announced during the visit.
+- **inDrive and Pony.ai** collaborating to explore robotaxi services in Astana, supported by NVIDIA Hyperion platform and Halos safety system.
+- Tokayev awarded Huang the **Order of Dostyk, First Class** — the highest civilian decoration for contributions to Kazakhstan's AI development.
+- Huang also received an **honorary black belt in Judo** from the International Judo Federation.
+- The visit marks a significant escalation of NVIDIA's commitment to Kazakhstan's AI ecosystem, beyond the earlier Data Center Valley framework agreement.
+## Crypto regulation: enforcement and licensing dual-track (Oct 2026)
+- **AFSA enforcement action (Oct 20):** AIFC Court issued injunctions against **Coinbase, BingX, Bitcoin.com, Huobi Global (HTX), BitMart, and WEEX** for offering unlicensed digital asset services within the AIFC. Not a nationwide ban — applies only within the AIFC jurisdiction. LBank was removed from proceedings after addressing AFSA's concerns by blocking Kazakhstan access. AFSA enforcement began in 2025 with warnings to 20+ platforms. Apple and Google face potential app-store duties once served.
+- **Kraken regulatory approval (Oct 23):** Payward (Kraken parent entity) obtained **preliminary AFSA approval** to enter Kazakhstan's digital asset market under the AIFC framework. Preceded by MoU with PM Bektenov and co-CEO Dave Ripley's participation at AI & Digital Bridge 2026.
+- The dual-track approach — enforcement against unlicensed operators alongside licensing for compliant international exchanges — signals maturation of Kazakhstan's regulated digital asset framework. Follows earlier actions (2023 Coinbase block, 2025 warnings) and aligns with the National Strategic Crypto Reserve ($700M) and tokenization initiatives.
 ## Startup Landscape 2026 — first national study (Oct 3, 2026)
 - RISE Research / Astana Hub: first national study covering **1,500+ Kazakhstani startups** (up from ~300 in 2020 — 5x growth). Presented at AI & Digital Bridge 2026.
 - **Venture funding forecast** to exceed **$460M in 2026** (up from $20M in 2020 — 23x growth). More than 200 companies have raised VC, 45 above $1M.
