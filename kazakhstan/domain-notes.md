@@ -90,14 +90,18 @@
 - **RFE/RL and Nikkei Asia:** political analysis and external perspectives.
 - **Company and ratings releases (Fitch, KazMunayGas, KPMG):** hard financial and operational data.
 - **Kazakh official sources (gov.kz, Akorda, National Bank):** decrees, statistics and programme targets.
+- **RUSI, National Interest and Jamestown Foundation:** detailed policy analysis on AI, uranium, and energy geopolitics.
+- **EUalive and BESA Center:** European think-tank perspectives with macro data and strategic analysis.
 
 ## Common Dedup Pitfalls
 
-- Astana Times, Qazinform and Times of Central Asia cover the same official events; keep the version with unique data.
-- The Diplomat, Astana Times and RISE Research often cover the same AI and startup stories.
-- CryptoBriefing and Forbes overlap on crypto reserve and oil production stories.
-- Riddle Russia, Eurasianet, Trade Practitioner and Mayer Brown all track the same sanctions packages.
-- Facebook and LinkedIn reposts of Astana Times or Qazinform are not new sources.
+- **Astana Times, Qazinform and Times of Central Asia** cover the same official events; keep the version with unique data.
+- **EUalive, The Diplomat and Times of Central Asia** each analyze Tokayev's State of the Nation address from different angles; keep the one with most specific data.
+- **RUSI and National Interest** cover the same AI bloc and uranium policy dynamics; RUSI provides more operational detail.
+- **The Diplomat, Astana Times and RISE Research** often cover the same AI and startup stories.
+- **CryptoBriefing and Forbes** overlap on crypto reserve and oil production stories.
+- **Riddle Russia, Eurasianet, Trade Practitioner, Mayer Brown and Jamestown Foundation** all track the same sanctions packages and CPC disruptions.
+- **Facebook and LinkedIn reposts** of Astana Times or Qazinform are not new sources.
 - Tengiz and CPC production figures appear across many outlets; check the number before adding.
 - Think-tank overviews (Oeconomus, IFIMES, CES Intelligence) are comprehensive; treat each as one source.
 
