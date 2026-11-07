@@ -68,3 +68,12 @@
   - Aliyev tells his party congress that Armenia's "territorial demands" remain the obstacle.
   - Pashinyan and Russian Railways CEO Belozerov agree a three-month working group on the railway concession.
   - Pashinyan sets 2031 as his target for signing and ratifying a peace treaty and proposes a mutual enclave exchange.
+  - Armenia's parliament ratifies the TRIPP framework agreement 63–32, giving a US-owned company 74% of the development company for 49 years.
+  - Foreign Minister Mirzoyan says Armenia is ready to sign the peace treaty by end-2026 or in 2027, and that Yerevan sees no possibility of returning to the CSTO.
+  - Samvel Karapetyan and 35 associates are detained over alleged damage at Electric Networks of Armenia; Karapetyan's arrest comes days after Pashinyan floats snap elections to secure a constitutional referendum.
+- **November:**
+  - Pashinyan says Armenia could formally apply for EU membership in 2027 or 2028, while keeping EAEU membership and declaring that Armenia's CSTO interests are "exhausted".
+  - The US, Armenia and Azerbaijan launch two trilateral technical planning groups on transport and electricity transmission for TRIPP.
+  - Vladimir Vardanyan, a former Civil Contract MP, is elected president of Armenia's Constitutional Court — the body that will review the amendments Baku demands.
+  - Armenian opposition parties form a "pan-national consolidation" against the draft constitution, as every major opposition leader is now in pretrial detention.
+  - Mirzoyan says the Turkey border could open "at any time" and that the Margara crossing is technically ready; Erdoğan is due in Baku on 8 November to repair ties after the hijab dispute.

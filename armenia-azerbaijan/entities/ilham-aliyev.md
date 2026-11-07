@@ -25,6 +25,15 @@ Azerbaijan's military is significantly more powerful than Armenia's, a gap that 
 - **Vladimir Putin (Russia):** Relations are pragmatic. Russia is Azerbaijan's largest arms supplier, but Aliyev has diversified partnerships. Russian media ran a smear campaign against Azerbaijan in July 2026, but Azerbaijani FM Bayramov still visited Moscow for official talks.
 - **Donald Trump (US):** Engaged through the TRIPP corridor framework. Aliyev cautiously welcomed the US-brokered deal. However, on July 22, the US House Foreign Affairs Committee approved H.R. 9087 (Sherman bill), which Azerbaijan's Milli Majlis condemned as a product of Armenian lobbying.
 
+## Position in Late 2026
+
+Analysts describe a deliberate two-track posture: Baku keeps de facto peace while applying political and information pressure, and it has visibly dialled down rhetoric so as not to complicate Pashinyan's referendum problem — while remaining firm that constitutional change must precede signature. James Sharp (Caspian Policy Center, October 2026) notes there is no appetite in Azerbaijani society for further conflict now that the territories are reclaimed, and that the government's focus has shifted to the Middle Corridor and Central Asia ties, plus the personal relationship with Trump as a reason to stay committed to the deal.
+
+Two data points condition Baku's leverage:
+
+- **Karabakh resettlement lag:** only about 40,000 of a planned 140,000 Azerbaijanis have returned three years after the 2023 offensive, which weakens the practical basis for the "Western Azerbaijan" mirror demand for return to Armenia.
+- **Defence spending:** Baku says there is "no war" with Armenia while allocating 20.8% of the state budget to defence and national security.
+
 ## Latest Developments (July 2026)
 - **July 14:** Aliyev hosted Slovak President Pellegrini in Shusha for strategic partnership talks covering energy, Karabakh reconstruction, and the Smart Village project.
 - **July 20:** Azerbaijan Special Forces participated in "Zulfiqar" counterterrorism exercise in Jordan alongside Turkey and Pakistan.

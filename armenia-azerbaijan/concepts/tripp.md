@@ -78,6 +78,18 @@ Social media speculation about Sokolov as a "compromise figure" between Moscow a
 
 The Jamestown Foundation (Jul 2026) analyzed TRIPP as a major factor in reordering Eurasian trade routes, framing it as a framework where transport and energy transit corridors function under Armenian jurisdiction — directly contrasting with Russia's Zangezur Corridor concept which would have placed the route under Russian control. The analysis notes that TRIPP's realization will determine the configuration of South Caucasus trade, energy transit flows, and geopolitical influence.
 
+## Implementation Phase (October–November 2026)
+
+The project moved from negotiation to execution across a single month:
+
+- **Ratification (28 October 2026):** Armenia's National Assembly ratified the Armenia-US framework agreement 63–32, with only the ruling Civil Contract faction in favour. The 49-year term gives the US side 74% and Armenia 26% of the TRIPP Development Company; on a further 50-year extension the split becomes 51/49.
+- **Trilateral technical groups (6 November 2026):** A joint statement by the US, Armenian and Azerbaijani governments created two technical planning groups — transport infrastructure and electricity transmission — launched by US Assistant Secretary Brendan Hanrahan, Deputy FM Vahan Kostanyan and Deputy FM Elnur Mammadov. This is the first formal trilateral working structure since the August 2025 Washington declaration.
+- **Yerevan moves first on design (3 November 2026):** Pashinyan said Armenia will commission design work for the railway, highway and power lines itself and transfer it to the development company later, rather than wait for the company's charter and shareholder agreement to be finalised.
+- **Scale:** the Armenian section is roughly 42–43 km, with construction targeted for early 2027 and rail feasibility studies due by end-2026.
+- **Open issues:** arrangements for Armenian citizens transiting Nakhchivan remain unagreed (Mirzoyan, 28 October); the opposition argues that delivering Azerbaijan its Nakhchivan link before a peace treaty removes Baku's incentive to sign.
+
+The unresolved US-politics variable is the November 2026 midterm result, which could bring congressional scrutiny of the 74% US-owned development company.
+
 ## Risks
 - Russia has explicitly warned against foreign military presence in the corridor zone
 - Iran views the corridor as a threat to its regional influence
