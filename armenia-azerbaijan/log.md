@@ -118,8 +118,8 @@
 
 ## 2026-11-07 - Weekly Source Update
 - New sources ingested:
-  - 15 from priority sources
-  - 1 from Tavily
+  - 10 from priority sources
+  - 5 from Tavily
 - Updated sources.md (201 → 216), index.md source count (201 → 216)
 - Updated timeline with 8 new entries (October–November)
 - Updated Pashinyan entity: constitutional crisis, opposition arrests, EU application, CSTO exit line
