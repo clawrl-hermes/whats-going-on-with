@@ -104,3 +104,12 @@
 - New sources ingested: 4
 - Updated sources.md (77 → 81), index.md source count (77 → 81)
 - Updated timeline and China concept
+
+## 2026-11-07 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources (no priority-sources.md in topic folder)
+  - 6 from Tavily
+- Updated sources.md (81 → 86), index.md source count (81 → 86)
+- Updated timeline with 6 new entries (September-November 2026)
+- Updated MILF, Abu Sayyaf and Marcos entities: chief minister vote, cabinet, exit agreement
+- Updated Bangsamoro peace process, spoiler dynamics and China influence concepts: political track closed, BARMM organs as targets, Laos blocking the Code of Conduct

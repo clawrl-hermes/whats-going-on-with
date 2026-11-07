@@ -49,7 +49,6 @@
   - The election gun ban takes effect on 16 July; a town councilor is shot dead the same day.
   - The campaign opens with 631 candidates for 80 seats.
   - Marcos's SONA gives the peace process 40 seconds and no mention of the peace agreement.
-  - The election is held on 14 September: turnout reaches 84.34% and no party wins a majority.
 - **August:**
   - Macacua survives an ambush hours after being named BFP chair.
   - DI-Hassan and DI-Maute leaders are killed in separate operations.
@@ -57,9 +56,17 @@
   - The first BARMM parliamentary debate is held.
 - **September:**
   - The MILF Central Committee formally removes Macacua and 40 other BIAF officers.
+  - The election is held on 14 September: turnout reaches 84.34% and no party wins a majority.
   - The BFP wins 31 seats and the UBJP 24 in the first elected parliament; a hung parliament follows.
   - The GPH and MILF panels meet in Kuala Lumpur and sign six agreements on the normalization track.
+  - BIFF militants are killed in a military-police operation in Tugunan, Cotabato, on 19 September.
 - **October:**
   - The BFP-led coalition secures a 46-seat majority for Macacua ahead of the chief minister vote.
   - ASG remnants ambush army units in Basilan, reversing the province's "ASG-free" designation.
   - The PNP reports 74 cases of leaderless youth extremism and 42 minors rescued.
+  - Abu Sayyaf remnants fight a lethal engagement with government forces that leaves 10 soldiers and an auxiliary dead, the group's deadliest clash in years.
+  - On 30 October the first elected parliament is sworn in and elects Abdulraof Macacua chief minister with 51 votes against 27 for Murad Ebrahim; Amer Zaakaria Rakim is elected speaker with 51 votes.
+- **November:**
+  - Macacua names a 19-member cabinet on 5 November, covering 15 ministries, one agency and three Office of the Chief Minister posts.
+  - Marcos meets Murad Ebrahim in Malacañang on 5 November; both sides commit to signing the exit agreement before 2028 and finishing the fourth decommissioning phase by 2027.
+  - Laos emerges as China's likely spoiler for the South China Sea Code of Conduct ahead of the 49th ASEAN Summit in Manila on 16-18 November.

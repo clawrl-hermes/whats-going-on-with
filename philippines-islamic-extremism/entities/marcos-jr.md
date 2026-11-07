@@ -18,6 +18,9 @@ President of the Philippines since June 2022. His administration oversees both t
 - **July 15:** Marcos appoints Mel Sarmiento as chair of Gov't Peace Implementing Panel for Bangsamoro — fills post vacant since Cesar Yano's resignation.
 - **July 22:** Marcos visits BARMM distributing P3.4B (85% from BARMM funds) but avoids CAB implementation discussion and does not meet MILF leadership.
 - **July 27:** SONA 2026: Bangsamoro peace process receives 40 seconds in 86-minute address — no CAB, decommissioning, or normalization mentions.
+- **October 30:** The first elected Bangsamoro Parliament is inaugurated; Macacua wins the chief minister vote 51-27 over Murad Ebrahim and is sworn in with speaker Amer Zaakaria Rakim. The 2019-2026 transition ends on schedule.
+- **November 5:** Macacua constitutes a 19-member cabinet and pledges continuity of the peace process and "moral governance."
+- **November 5-6:** At Malacañang, Marcos and Murad Ebrahim commit to signing the exit agreement before the end of Marcos's term in 2028 and to completing the fourth and final decommissioning phase by 2027. The commitment is political rather than documented — no new instrument, funding line or timetable was published.
 - Oversight of BARMM transition — his administration's relationship with the MILF-led regional government will determine whether the peace process succeeds or stalls
 - Broached joint energy cooperation with China despite South China Sea tensions — a pragmatic/balancing approach
 - The Philippines holds the 2026 ASEAN Chairship, giving Marcos agenda-setting power on South China Sea Code of Conduct negotiations
