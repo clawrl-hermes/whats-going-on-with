@@ -8,6 +8,7 @@ Published paths only:
 
 ```
 <topic>/overview.md
+<topic>/current-situation.md
 <topic>/updates/YYYY-MM-DD.md
 <topic>/articles/YYYY-qN.md
 <topic>/entities/<slug>.md
@@ -21,6 +22,8 @@ Never published: `Watch Reports/`, `raw/`, `log.md`, `index.md`, `domain-notes.m
 ## Per-file requirements
 
 **overview.md** (existence = topic is published). Frontmatter: `title`, `tagline`, `region`, `started`; optional `tone: 1-7`. Body: 1-3 markdown paragraphs. Write it by hand; the agent does not regenerate it.
+
+**current-situation.md** — frontmatter `title` and `last_updated`; body: 3-5 sentences, then `## The Open Question` (one sentence), then `## What to Watch For` with a `| Date | What to Watch | Why It Matters |` table covering the next month. Rewrite when the situation changes; never append.
 
 **updates/YYYY-MM-DD.md** — no frontmatter, no title. Only bullets of the form `- **Headline** — body` on one line. The filename date is the publish date; a future date is scheduled/hidden until that day (UTC).
 

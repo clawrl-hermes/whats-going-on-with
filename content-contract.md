@@ -13,6 +13,7 @@ Principles:
 ```
 <topic>/
   overview.md                 a topic is published if, and only if, this file exists
+  current-situation.md        live status page: where the topic stands now, refreshed by hand
   updates/2026-10-18.md       one file per update; the filename is the publish date
   articles/2026-q3.md         one file per quarterly article
   entities/nikol-pashinyan.md shown on the site as "Actors"
@@ -39,6 +40,31 @@ One to three paragraphs describing what the topic covers and why it matters. Mar
 ```
 
 `title` reads as "What's going on with *Armenia-Azerbaijan Relations*". `started` is when tracking began. An optional `tone: 1` to `7` pins the topic's colour; otherwise the site picks one.
+
+## `current-situation.md`
+
+New file, one per topic. Hand-edited, not regenerated on a schedule. It answers "where does this stand right now", so it should be rewritten whenever the situation materially changes, not appended to.
+
+```md
+---
+title: Current Situation
+last_updated: 2026-11-09
+---
+
+Three to five sentences describing where the topic stands now: the state of the central negotiation, the main actors' positions, and the most recent decision that changed the picture.
+
+## The Open Question
+
+One sentence naming the question the next month will answer.
+
+## What to Watch For
+
+| Date | What to Watch | Why It Matters |
+|---|---|---|
+| 11 November | CSTO session on Armenia's voting rights | Turns rhetoric into a formal rupture — or a last-minute deal |
+```
+
+`last_updated` is the date the content was last revised, not the date of the newest source. Table rows must carry a date (an exact day, a month, or a phrase such as "By end-November"); the table covers roughly the next month and nothing beyond it.
 
 ## `updates/YYYY-MM-DD.md`
 

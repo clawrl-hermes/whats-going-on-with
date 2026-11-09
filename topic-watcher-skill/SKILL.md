@@ -67,6 +67,7 @@ topics:
    ```
    /root/wiki/<slug>/
    ├── overview.md           (from templates/overview.md — write by hand, do not regenerate)
+   ├── current-situation.md  (from templates/current-situation.md — live status page, rewrite when it changes)
    ├── index.md              (from templates/index.md)
    ├── sources.md            (from templates/sources.md)
    ├── domain-notes.md       (from templates/domain-notes.md)
@@ -311,7 +312,7 @@ Removing an output is more than deleting its files — stale references leave da
 
 **Trigger:** User wants a topic to render on the site, references the content contract, or asks to standardize a topic's structure for the frontend.
 
-Load `references/frontend-content-contract.md` for the full schemas, normalization recipes, and validation checker. The working order is: inventory → `git mv` renames to kebab-case → frontmatter on entities/concepts → sources.md five-column rebuild → timeline format → overview.md → create `updates/` and `articles/` → validate.
+Load `references/frontend-content-contract.md` for the full schemas, normalization recipes, and validation checker. The working order is: inventory → `git mv` renames to kebab-case → frontmatter on entities/concepts → sources.md five-column rebuild → timeline format → overview.md → `current-situation.md` → create `updates/` and `articles/` → validate.
 
 Rules that matter every time:
 
