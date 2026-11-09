@@ -1,6 +1,6 @@
 # Armenia-Azerbaijan Relations Wiki Index
 
-> Content catalog. Last updated: 2026-11-09 | Total pages: 12 | Total sources: 216
+> Content catalog. Last updated: 2026-11-09 | Total pages: 13 | Total sources: 216
 
 ## Timelines
 - [[armenia-azerbaijan-timeline]] — Chronological overview of Armenia-Azerbaijan relations
@@ -17,6 +17,7 @@
 ## Concepts
 - [[tripp|TRUMP Route for International Peace and Prosperity (TRIPP)]] — Proposed transport corridor through southern Armenia
 - [[nagorno-karabakh|Nagorno-Karabakh]] — Disputed territory, now under Azerbaijani control
+- [[border-delimitation|Border Delimitation]] — Drawing a legal border from Soviet maps, enclaves and strategic roads
 - [[zangezur-corridor|Zangezur Corridor]] — Proposed transit route through southern Armenia connecting Azerbaijan to Nakhchivan
 
 ## Priority Sources
