@@ -6,92 +6,24 @@ summary: "US-brokered transport corridor through southern Armenia connecting Aze
 # TRUMP Route for International Peace and Prosperity (TRIPP)
 
 ## Overview
-A proposed transport corridor running through southern Armenia (Syunik province) to connect Azerbaijan with its exclave of Nakhchivan. The corridor was brokered by the Trump administration and signed as part of a strategic partnership agreement between the US and Armenia in May 2026.
+A multimodal corridor through Armenia's Syunik province connecting mainland Azerbaijan to its Nakhchivan exclave and Turkey. It was signed in May 2026 during Secretary of State Marco Rubio's visit to Yerevan, alongside a critical-minerals framework and a US-Armenia strategic partnership agreement. The Armenian section is about 42-43 km.
+
+## Structure
+- **TDC US:** a Delaware corporation wholly owned by the US Development Finance Corporation.
+- **TDC:** the TRIPP Development Company, an Armenian joint venture owned 74% by TDC US and 26% by Armenia, holding a 49-year lease. A further 50-year extension shifts the split to 51/49.
+- **Modes:** rail (primary), road, oil and gas pipeline, electricity transmission and fibre.
+- **Financing:** sub-projects run through SPVs with DFC equity capped at 40%; no DFC funding has been committed yet.
 
 ## Strategic Significance
-- **For Armenia:** Provides economic connectivity and a potential revenue source from transit fees. Reduces Armenia's isolation by linking it to regional trade routes.
-- **For Azerbaijan:** Provides a direct land connection to Nakhchivan without transiting through Iran, reducing dependence on Tehran.
-- **For the US:** Establishes a physical American presence in the South Caucasus, potentially with US-backed security personnel overseeing the corridor. This would erode Russian influence in the region.
-- **For Russia:** Views the corridor as unacceptable — it would place US-backed infrastructure along Russia's southern periphery and near the Iranian border.
+- **Armenia:** transit revenue and a route out of isolation, at the cost of control over the route.
+- **Azerbaijan:** overland access to Nakhchivan without transiting Iran.
+- **United States:** a permanent presence on Russia's and Iran's periphery, anchored by a 74% stake in the operating company.
+- **Russia and Iran:** both treat the corridor as a threat; Moscow has warned against foreign military presence in the zone.
 
 ## Current Status
-The agreement was signed during Secretary of State Marco Rubio's May 2026 visit to Yerevan. The 43km corridor runs through southern Armenia (Syunik province), connecting Azerbaijan to Nakhchivan and Turkey. Key terms:
-- **US share:** 74% stake in the "TRIPP Development Company" (US State Department framework, May 2026)
-- **Critical minerals:** Parallel framework signed on critical minerals cooperation
-- **Strategic partnership:** Comprehensive US-Armenia strategic partnership agreement signed simultaneously
+Armenia's parliament ratified the framework agreement 63-32 on 28 October 2026, with only the ruling Civil Contract faction in favour. On 6 November the US, Armenian and Azerbaijani governments created technical planning groups on transport and electricity transmission. Pashinyan said on 3 November that Armenia will commission design work itself rather than wait for the company's charter and shareholders' agreement. Construction is targeted for early 2027, with rail feasibility studies due by end-2026.
 
-Implementation details remain contested, particularly regarding security arrangements and the legal status of the corridor through Armenian territory. The Armenian Revolutionary Federation (ARF) has raised concerns that the agreement may institutionalize an asymmetric legal structure that constrains Armenia's strategic autonomy without guaranteeing enforceable reciprocal connectivity rights. The opening of the Akhalkalaki-Kars railway and the broader regional connectivity vision are directly linked to TRIPP's implementation.
-
-## Implementation Structure (DFC Public Information Summary, May 2026)
-The US Development Finance Corporation (DFC) has established a two-tier corporate structure:
-- **TDC US:** A corporation wholly owned by the DFC, domiciled in Delaware
-- **TDC (TRIPP Development Company):** A bi-national joint venture incorporated in Armenia, 74% owned by TDC US (DFC) and 26% by the Republic of Armenia
-
-TDC is the main implementing entity for the TRIPP multimodal transit corridor. Planned modes of transport include:
-- Rail line (primary)
-- Road
-- Oil/gas pipeline
-- Electricity transmission infrastructure
-- Fiberoptic connectivity
-
-Sub-projects will be implemented through dedicated Special Purpose Vehicles (SPVs). DFC's equity in any sub-project is capped at 40%. No DFC funding has been committed yet — the creation of TDC does not obligate DFC to participate in sub-projects.
-
-## Economic Projections (World Bank)
-- ~$100 million annually in transport cost savings for Armenia's exports and imports
-- Real GDP increase of approximately 0.5–1.0%
-- Aggregate export growth of ~3.0%
-- Thousands of net new and improved jobs
-- Broader impact: establishes vital link in the Trans-Caspian Corridor, integrating Central Asian and South Caucasus markets into global supply chains
-
-## Post-Election Regional Integration Vision
-Carnegie Endowment (June 11, 2026) frames TRIPP as the foundation for a broader South Caucasus economic compact covering transport, energy, digital infrastructure, and investment. The upcoming NATO summit in Ankara (July 2026) is identified as a key diplomatic window. Proposed concrete first step: opening the Turkey-Armenia border for direct trade and third-country nationals. The German Marshall Fund (June 2026) describes Armenia as an emerging "connectivity hub," with the Crossroads of Peace, Middle Corridor, and TRIPP converging into a Euro-Atlantic effort to diversify trade routes away from corridors vulnerable to geopolitical disruption.
-
-## Latest Developments (July 2026)
-On July 16, the Armenian government approved a draft law for the ratification of the TRIPP Framework Agreement and submitted it to the Constitutional Court for legal review. A freshly created TRIPP Development Co. will have a 49-year lease to build and operate the transit route. Before construction, two additional agreements (shareholders' agreement and TDC charter) must be signed. Armenia's Justice Ministry found that TRIPP provisions conflict with Armenian law (Law on the State Border, tax legislation) but recommended approval for political reasons (Mirror-Spectator, Jul 21).
-
-## TRIPP+ Enterprise Fund
-Alongside the TRIPP Development Company (infrastructure construction/operation), the US established a parallel investment vehicle:
-
-- **TRIPP+ Enterprise Fund** (registered in the US as the Trans-Caspian Enterprise Fund) launched with over $200M in capital, **doubled to $402M** via a July 16, 2026 amendment (implementation through 2036)
-- **Konstantin Sokolov** — a 52-year-old Russian-American businessman (emigrated from Russia at 21, founded IJS Investments in Chicago) — was appointed in mid-July 2026 to head the fund
-- The fund supports private-sector development across the South Caucasus and Central Asia, separate from the TRIPP Development Company's infrastructure mandate
-- **Funding scale signals long-term US commitment**: US State Department funds run through 2036; Lightstone (Witkoff adviser) described the $200M+ as a "starting point"
-- Sokolov is a major Trump donor (~$11M to MAGA) and Republican Party supporter
-
-### Sokolov's Pre-existing Armenian Holdings
-Before his appointment, Sokolov had already acquired significant Armenian assets:
-- **Viva Armenia** (largest telecom provider, acquired 2024, partially nationalized)
-- **Rostelecom Armenia** (Russian telecom giant's Armenian subsidiary)
-- **Teghut copper-molybdenum mine** (~450M metric tons ore, Armenia's 2nd largest reserves) — purchased from Russia's sanctioned VTB Bank via a third-party company to avoid a direct deal
-
-### Political Implications
-APRI's Benyamin Poghosyan identifies two reasons for Sokolov's appointment:
-1. **Political:** A subtle gesture by Washington to ease Moscow's fierce criticism of TRIPP
-2. **Pragmatic:** Deep understanding of post-Soviet business environment and Armenian government operations
-
-Social media speculation about Sokolov as a "compromise figure" between Moscow and Washington is rebutted by his public criticism of the Russian government and the Ukraine war. Aram Sargsyan (Republican Party of Armenia) views Sokolov's Russian background as a practical asset — language skills, business contacts, and understanding of Russian institutions.
-
-### Risks and Conflicts of Interest
-- Opposition lawmaker Mesrop Manukyan (Armenia Alliance) criticized Sokolov's rapid accumulation of stakes in finance, mining, and telecom
-- Manukyan's pro-Russian faction opposes TRIPP+ and views the "Trump Route" as a disguised "extraterritorial corridor" and the "greatest threat" to Armenia's security
-- Questions about conflicts of interest: Sokolov's appointment to head the fund that will invest in the same region where he already holds major commercial assets
-
-The Jamestown Foundation (Jul 2026) analyzed TRIPP as a major factor in reordering Eurasian trade routes, framing it as a framework where transport and energy transit corridors function under Armenian jurisdiction — directly contrasting with Russia's Zangezur Corridor concept which would have placed the route under Russian control. The analysis notes that TRIPP's realization will determine the configuration of South Caucasus trade, energy transit flows, and geopolitical influence.
-
-## Implementation Phase (October–November 2026)
-
-The project moved from negotiation to execution across a single month:
-
-- **Ratification (28 October 2026):** Armenia's National Assembly ratified the Armenia-US framework agreement 63–32, with only the ruling Civil Contract faction in favour. The 49-year term gives the US side 74% and Armenia 26% of the TRIPP Development Company; on a further 50-year extension the split becomes 51/49.
-- **Trilateral technical groups (6 November 2026):** A joint statement by the US, Armenian and Azerbaijani governments created two technical planning groups — transport infrastructure and electricity transmission — launched by US Assistant Secretary Brendan Hanrahan, Deputy FM Vahan Kostanyan and Deputy FM Elnur Mammadov. This is the first formal trilateral working structure since the August 2025 Washington declaration.
-- **Yerevan moves first on design (3 November 2026):** Pashinyan said Armenia will commission design work for the railway, highway and power lines itself and transfer it to the development company later, rather than wait for the company's charter and shareholder agreement to be finalised.
-- **Scale:** the Armenian section is roughly 42–43 km, with construction targeted for early 2027 and rail feasibility studies due by end-2026.
-- **Open issues:** arrangements for Armenian citizens transiting Nakhchivan remain unagreed (Mirzoyan, 28 October); the opposition argues that delivering Azerbaijan its Nakhchivan link before a peace treaty removes Baku's incentive to sign.
-
-The unresolved US-politics variable is the November 2026 midterm result, which could bring congressional scrutiny of the 74% US-owned development company.
-
-## Risks
-- Russia has explicitly warned against foreign military presence in the corridor zone
-- Iran views the corridor as a threat to its regional influence
-- Domestic Armenian opposition to ceding control of sovereign territory
-- The corridor runs along the Armenia-Iran border, creating a potential flashpoint
+## Open Issues
+- The company charter and shareholders' agreement remain unsigned.
+- Transit arrangements for Armenian citizens travelling through Nakhchivan are unagreed.
+- The opposition argues that delivering the Nakhchivan link before a peace treaty removes Baku's incentive to sign one.

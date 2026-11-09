@@ -1,6 +1,6 @@
 # Armenia-Azerbaijan Relations Wiki Index
 
-> Content catalog. Last updated: 2026-11-07 | Total pages: 11 | Total sources: 216
+> Content catalog. Last updated: 2026-11-09 | Total pages: 12 | Total sources: 216
 
 ## Timelines
 - [[armenia-azerbaijan-timeline]] — Chronological overview of Armenia-Azerbaijan relations
@@ -12,6 +12,7 @@
 - [[vladimir-putin|Vladimir Putin]] — President of Russia
 - [[donald-trump|Donald Trump]] — President of the United States
 - [[konstantin-sokolov|Konstantin Sokolov]] — Russian-American businessman, head of TRIPP+ Enterprise Fund
+- [[islamic-republic-of-iran|Islamic Republic of Iran]] — Southern neighbour balancing Armenia, Azerbaijan and the West
 
 ## Concepts
 - [[tripp|TRUMP Route for International Peace and Prosperity (TRIPP)]] — Proposed transport corridor through southern Armenia

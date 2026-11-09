@@ -6,29 +6,20 @@ role: "President of Russia (since 2000, with interruption 2008-2012)"
 
 # Vladimir Putin
 
-## Relevance to Armenia-Azerbaijan
-Russia has historically been Armenia's security guarantor and the dominant external power in the South Caucasus. The 2020 ceasefire was Russia-brokered, and Russian peacekeepers were deployed to Nagorno-Karabakh until Azerbaijan's 2023 operation.
+## Relevance to the Topic
+Russia was Armenia's security guarantor and the dominant external power in the South Caucasus. It brokered the 2020 ceasefire and deployed peacekeepers to Nagorno-Karabakh until Azerbaijan's 2023 operation. That role has largely collapsed.
 
-## Deteriorating Relations with Armenia
-Russia's relationship with Armenia has deteriorated sharply since 2022:
-- Armenia hosted EU leaders and Zelenskyy for the European Political Community summit in May 2026
-- Putin publicly compared Armenia's Western pivot to Ukraine's path before 2014
-- Russia views the US-backed TRIPP corridor as unacceptable — it would place American infrastructure along Russia's southern periphery
+## Key Actions
+- **May 2026:** At the EAEU summit, Putin and other leaders demand Armenia hold an EU referendum "as soon as possible"; Moscow recalls its ambassador and bans Armenian food imports.
+- **June 2026:** Russia runs a large disinformation campaign (Storm-1516 and fake outlets) against Pashinyan before the election, then escalates trade bans after his win.
+- **September 2026:** Russia cuts gas supplies for ten days after Pashinyan rejects a referendum deadline and questions the 102nd military base.
+- **October 2026:** Moscow agrees a three-month working group on the South Caucasus Railway concession rather than surrender it.
+- **November 2026:** A Moscow CSTO session is set to suspend Armenia's voting rights over unpaid dues.
 
-## Election Interference
-Russia conducted a massive interference campaign in Armenia's June 2026 parliamentary elections:
-- Storm-1516 bot network ran 30+ campaigns targeting Armenia (April 2025-April 2026)
-- Fake media outlets, impersonated news websites, AI-generated videos
-- Goal: bolster pro-Russian opposition parties and undermine Pashinyan
-- Despite this, Pashinyan won a parliamentary majority
+## Current Position
+Russia's leverage is real but narrowing. It still supplies most of Armenia's gas, controls the railway concession until 2038 and can restrict trade, but Armenia has kept EAEU membership while declaring CSTO interests "exhausted". Putin's warnings of a "Ukrainian scenario" have not reversed the pivot, and the US-backed TRIPP corridor would put American infrastructure on Russia's southern periphery.
 
-## Post-Election Pressure Campaign (June 2026)
-Following Pashinyan's victory, Russia escalated pressure through multiple channels:
-- **EAEU Summit (May 29):** Joint statement with Lukashenko, Tokayev, and Japarov demanding Armenia hold an EU referendum "as soon as possible"
-- **Ambassador recall:** Russia recalled its ambassador to Armenia for consultations
-- **Trade bans:** Suspended fish/seafood imports (30% of sector exports go to Russia), adding to earlier bans on flowers, fruit, mineral water, and spirits
-- **Gas leverage:** Threatened to suspend the gas agreement if Armenia continues EU integration
-- **"Ukrainian scenario" warning:** Putin explicitly compared Armenia's EU ambitions to Ukraine's path before 2014
-
-## Strategic Stakes
-Russia sees Armenia's Western pivot as part of a broader pattern of losing influence in its near abroad. The TRIPP corridor, potentially with US security personnel, would be a significant strategic setback. Carnegie analysis notes Russia avoided its most deadly leverage tools pre-election and still has significant pressure options available post-election.
+## Constraints
+- The war in Ukraine limits the resources and attention Moscow can spare.
+- Trade pressure has pushed Armenia toward the EU rather than back into line.
+- Azerbaijan, once a junior partner, now sets terms in the South Caucasus.
