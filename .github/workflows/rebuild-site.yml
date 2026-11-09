@@ -10,6 +10,7 @@ on:
       - '*/concepts/**'
       - '*/sources.md'
       - '*/timeline/**'
+      - '*/current-situation.md'
       - 'content-contract.md'
 jobs:
   rebuild:
