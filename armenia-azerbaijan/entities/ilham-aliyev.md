@@ -6,7 +6,6 @@ role: "President of Azerbaijan (since 2003)"
 
 # Ilham Aliyev
 
-## Relevance to the Topic
 Aliyev has ruled Azerbaijan since 2003 and holds the strongest hand in the peace process: his army won the 2020 war, retook Nagorno-Karabakh in 2023, and occupies strategic positions inside Armenia's internationally recognised border.
 
 ## Key Actions

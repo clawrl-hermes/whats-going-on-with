@@ -6,7 +6,6 @@ role: "Country"
 
 # Islamic Republic of Iran
 
-## Relevance to the Topic
 Iran shares a border with Armenia and has become a balancing partner for Yerevan as relations with Russia sour. It supplies gas through a swap-for-electricity arrangement and sells arms, but its central interest is that the Syunik corridor does not become a US or Azerbaijani foothold on its northern border.
 
 ## Key Interests

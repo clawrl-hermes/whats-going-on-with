@@ -8,7 +8,6 @@ facts:
 
 # Nikol Pashinyan
 
-## Relevance to the Topic
 Pashinyan has staked his mandate on a peace treaty with Azerbaijan and a pivot away from Russia. The constitutional amendments Baku demands are his to deliver, but his party lacks the two-thirds majority to put them to a referendum.
 
 ## Key Actions

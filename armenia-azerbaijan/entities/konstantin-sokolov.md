@@ -6,7 +6,6 @@ role: "Head of TRIPP+ Enterprise Fund"
 
 # Konstantin Sokolov
 
-## Relevance to the Topic
 Sokolov was appointed in July 2026 to run the TRIPP+ Enterprise Fund, the investment vehicle running alongside the TRIPP corridor. The fund launched with over $200M and was doubled to $402M, with a mandate through 2036.
 
 ## Role

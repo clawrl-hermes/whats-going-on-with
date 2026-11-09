@@ -6,7 +6,6 @@ role: "President of Turkey (since 2014)"
 
 # Recep Tayyip Erdoğan
 
-## Relevance to the Topic
 Turkey is Azerbaijan's closest strategic ally and was decisive in the 2020 war. It has kept its border with Armenia closed since 1993, making normalization the last piece of the regional settlement and a direct incentive for Yerevan.
 
 ## Key Actions
