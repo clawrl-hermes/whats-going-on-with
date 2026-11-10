@@ -1,5 +1,5 @@
 ---
-title: Kazakhstan's Global Competitiveness
+title: Kazakhstan's Economic Diversification
 tagline: A middle power balancing great powers while trying to diversify.
 region: Central Asia
 started: 2026-06-04
