@@ -3,7 +3,7 @@ title: Current Situation
 last_updated: 2026-11-09
 ---
 
-Armenia and Azerbaijan have still not signed a peace treaty. The text is largely agreed, but Baku will not sign before Armenia amends its constitution, and Yerevan's own timeline has split: Pashinyan speaks of 2031, while Foreign Minister Mirzoyan says the deal could be signed by end-2026 or in 2027. Armenia ratified the TRIPP framework in October by 63 votes to 32, and on 6 November the US, Armenian and Azerbaijani governments launched joint technical groups on transport and electricity. Domestically, Pashinyan has consolidated control while recasting Armenia's alignments: CSTO interests declared "exhausted", EAEU membership retained, and an EU application targeted for 2027–28. The Turkey border is renovated and technically ready at Margara, but Ankara still ties its opening to a peace agreement.
+Armenia and Azerbaijan have still not signed a peace treaty. The text is largely agreed, but Baku will not sign before Armenia amends its constitution. Armenia ratified the TRIPP framework in October by 63 votes to 32, and on 6 November the US, Armenian and Azerbaijani governments launched joint technical groups on transport and electricity. Domestically, Pashinyan has consolidated control while recasting Armenia's alignments: CSTO interests declared "exhausted", EAEU membership retained, and an EU application targeted for 2027–28. The Turkey border is renovated and technically ready at Margara, but Ankara still ties its opening to a peace agreement.
 
 ## The Open Question
 
