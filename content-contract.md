@@ -75,7 +75,7 @@ New. No frontmatter and no title: only the bullets, in the shape from the spec.
 - **Russia-Armenia railway concession showdown** — 3-month working group buys time, but Russia resists transfer while refusing to invest.
 ```
 
-Each bullet is `- **Headline** — body` (bold headline, em dash, body on one line). The filename date is the publish date and is shown as such. A date in the future is a scheduled update: it stays hidden until that day (UTC).
+Each bullet is `- **Headline** — body` (bold headline, em dash, body on one line). The filename date is the publish date and is shown as such. A date in the future is a scheduled update: it stays hidden until that day (UTC). The body may end with source links, `([Outlet](https://…))` or `([A](https://…)`, `[B](https://…))`. Links must start with `https://`.
 
 ## `articles/YYYY-qN.md`
 
@@ -176,20 +176,3 @@ As agreed: **month or season is the lowest unit shown**, and each event is a sub
 5. Keep timeline entries to the format above.
 
 Everything else (searching, log, index, domain notes) stays as it is.
-
-## Cleanup checklist (audit of the repo on 2026-11-04)
-
-| Area | What needs changing |
-|---|---|
-| **All topics** | Add `overview.md`. Names exist in `_config.yaml`, but taglines and regions exist nowhere, and four slugs in the config (Georgia, Kazakhstan, China-Southern Africa, Sri Lanka) differ from their folder names. |
-| **Stray pipe** | Most rows in `sources.md` start with `\|\|` (Armenia 145, Georgia 80, Kazakhstan 36, China 29, Philippines 25), and 21 wiki pages have `\|- ` bullets. It looks like one agent bug that prepends `\|` to appended lines. Fixing it at the source matters more than repairing the files. |
-| **`sources.md`** | Add the Publication column and ISO dates to all seven. Sri Lanka is a numbered list and needs converting to a table. |
-| **File names** | Armenia: 9 files (spaces, capitals, `Erdoğan`). Bolivia: 7 (spaces, apostrophes, `(MAS)`). Philippines: 6 (mixed case). China, Georgia, Kazakhstan and Sri Lanka are already fine. |
-| **Frontmatter** | 50 of 55 entity and concept pages have none. Sri Lanka's 5 have it but no `summary`. A one-off agent pass can add `title` and `summary` to all of them. |
-| **Armenia timeline** | Already compliant. |
-| **Bolivia timeline** | Labels like `Early May`, `Late June - Early July`: use the month. |
-| **China-Southern Africa timeline** | Labels like `June 2026`, `July 28, 2026`, `2025` under year headings: use `June`, `July`, or an unlabelled bullet. |
-| **Georgia timeline** | `## 2026 (continued)` heading, and 51 `###` day headings (`### June 8`) with bullets beneath. Those need merging into month-level bullets such as `- **June:** ...`. |
-| **Kazakhstan timeline** | Year-range headings (`## 1993–2000s`, `## 2008–2009`, `## 2014–2015`). The 28 unlabelled bullets are fine. |
-| **Philippines timeline** | `## 2023–2024` heading, and labels like `Throughout`, `May–October`, `Founding`. |
-| **Sri Lanka timeline** | Prose sections under headings like `## 2005 -- Mahinda Rajapaksa Elected President`. Needs rewriting as bullets under `## 2005`. |
