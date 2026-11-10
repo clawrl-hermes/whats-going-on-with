@@ -11,6 +11,7 @@ on:
       - '*/sources.md'
       - '*/timeline/**'
       - '*/current-situation.md'
+      - '*/priority-sources.md'
       - 'content-contract.md'
 jobs:
   rebuild:
