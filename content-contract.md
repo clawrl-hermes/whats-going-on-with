@@ -5,7 +5,7 @@
 Principles:
 
 - **The site shows what the files say.** It does not repair, prune or reinterpret them. If a file follows the contract, it renders as intended.
-- **Allowlist.** Only the paths below are read. Everything else is never published: `Watch Reports/`, `raw/`, `log.md`, `index.md`, `domain-notes.md`, `priority-sources.md`, `SCHEMA.md`, `watch-reports-summary.md`, `_config.yaml`, `topic-watcher-skill/` and the scripts.
+- **Allowlist.** Only the paths below are read. Everything else is never published: `Watch Reports/`, `raw/`, `log.md`, `index.md`, `domain-notes.md`, `SCHEMA.md`, `watch-reports-summary.md`, `_config.yaml`, `topic-watcher-skill/` and the scripts.
 - **The folder name is the URL slug.** `armenia-azerbaijan/` becomes `/topics/armenia-azerbaijan`.
 
 ## Layout
@@ -18,7 +18,7 @@ Principles:
   articles/2026-q3.md         one file per quarterly article
   entities/nikol-pashinyan.md shown on the site as "Actors"
   concepts/tripp.md           shown on the site as "Explainers"
-  sources.md
+  priority-sources.md
   timeline/<any name>.md      exactly one file
 ```
 
@@ -125,6 +125,10 @@ A table, one source per row, with a new **Publication** column so the site no lo
 ```
 
 `Publication` is the clean display name ("RFE/RL", not "RFERL" or "RFERL (via X)"). `Date` is `YYYY-MM-DD`, or `YYYY-MM` when only the month is known, or empty. Rows start with a single `|`.
+
+## `priority-sources.md`
+
+The agent's working file; the site reads only the ## Regional Specialists, ## Think Tanks and ## Official Sources sections, and in them only top-level bullets of the form - **Name** — https://…. Anything else in the file stays private. A topic without the file has no Key Sources section.
 
 ## `timeline/*.md`
 
