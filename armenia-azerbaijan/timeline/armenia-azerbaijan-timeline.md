@@ -35,26 +35,21 @@
 ## 2025
 - **August:**
   - Trump brokers the Armenia-Azerbaijan peace framework at a White House summit. Both sides agree to pursue a comprehensive peace treaty.
-- **Fall:**
-  - Russia's relations with Armenia deteriorate sharply. Armenia hosts the EU and Zelenskyy for the European Political Community summit, and Putin warns of a "Ukrainian scenario."
 
 ## 2026
 - **May:**
-  - Turkey lifts restrictions on direct trade declarations with Armenia after 33 years.
   - The Akhalkalaki-Kars railway reopens for Armenian freight.
 - **June:**
-  - Civil Contract wins 49.8% in parliamentary elections — a majority but short of the two-thirds needed for constitutional reform.
+  - Civil Contract party wins Armenian parliamentary elections.
   - Aliyev escalates his preconditions, demanding the return of former Azerbaijani enclaves and the resettlement of 300,000 Azerbaijanis in Armenia.
 - **July:**
-  - The government approves the TRIPP framework bill and sends it to the Constitutional Court, creating a development company on a 49-year lease.
+  - Armenian government approves the TRIPP framework bill and sends it to the Constitutional Court.
 - **August:**
-  - Pashinyan and Aliyev meet in Bishkek, their first leader-level contact since the election.
+  - Pashinyan and Aliyev meet in Bishkek.
 - **September:**
-  - Russia cuts gas supplies for ten days.
   - Armenia ships its first exports to Azerbaijan.
 - **October:**
-  - Pashinyan sets 2031 as his target for signing and ratifying a peace treaty and proposes a mutual enclave exchange.
-  - Armenia's parliament ratifies the TRIPP framework agreement 63–32, giving a US-owned company 74% of the development company for 49 years.
+  - Armenia's parliament ratifies the TRIPP framework agreement.
 - **November:**
   - The US, Armenia and Azerbaijan launch two trilateral technical planning groups on transport and electricity transmission for TRIPP.
-  - Armenian opposition parties form a "pan-national consolidation" against the draft constitution, as every major opposition leader is now in pretrial detention.
+  - Armenian opposition parties form a "pan-national consolidation" against the draft constitution
