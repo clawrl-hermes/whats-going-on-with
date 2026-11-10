@@ -128,7 +128,7 @@ A table, one source per row, with a new **Publication** column so the site no lo
 
 ## `priority-sources.md`
 
-The agent's working file; the site reads only the ## Regional Specialists, ## Think Tanks and ## Official Sources sections, and in them only top-level bullets of the form - **Name** — https://…. Anything else in the file stays private. A topic without the file has no Key Sources section.
+The agent's working file; the site reads only the `## Regional Specialists`, `## Think Tanks` and `## Official Sources` sections, and in them only top-level bullets of the form - `**Name** — https://….` Anything else in the file stays private. A topic without the file has no Key Sources section.
 
 ## `timeline/*.md`
 
