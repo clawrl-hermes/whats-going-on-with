@@ -43,18 +43,15 @@
   - Turkey lifts restrictions on direct trade declarations with Armenia after 33 years.
   - The Akhalkalaki-Kars railway reopens for Armenian freight.
 - **June:**
-  - Civil Contract wins 49.8% in parliamentary elections — a majority but short of the two-thirds needed for constitutional reform — amid documented Russian interference.
+  - Civil Contract wins 49.8% in parliamentary elections — a majority but short of the two-thirds needed for constitutional reform.
   - Aliyev escalates his preconditions, demanding the return of former Azerbaijani enclaves and the resettlement of 300,000 Azerbaijanis in Armenia.
 - **July:**
-  - Von der Leyen visits Yerevan and announces autonomous trade measures covering ~80% of Armenian exports (in force from October), calling Russian pressure "economic violence."
   - The government approves the TRIPP framework bill and sends it to the Constitutional Court, creating a development company on a 49-year lease.
 - **August:**
-  - Armenia's new government programme downgrades relations with Russia, and Pashinyan signals an EU membership bid, endorsed by Zelenskyy.
-  - The constitutional draft is finalized for internal review.
   - Pashinyan and Aliyev meet in Bishkek, their first leader-level contact since the election.
 - **September:**
   - Russia cuts gas supplies for ten days.
-  - At UNGA, Pashinyan meets Erdoğan for the first time, Mirzoyan agrees with Bayramov to "promote a positive agenda", and Armenia ships its first exports to Azerbaijan.
+  - Armenia ships its first exports to Azerbaijan.
 - **October:**
   - Pashinyan sets 2031 as his target for signing and ratifying a peace treaty and proposes a mutual enclave exchange.
   - Armenia's parliament ratifies the TRIPP framework agreement 63–32, giving a US-owned company 74% of the development company for 49 years.
