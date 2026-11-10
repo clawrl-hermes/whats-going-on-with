@@ -19,5 +19,5 @@ Can Pashinyan turn his domestic lock on power into the two-thirds majority and r
 | By end-November | Armenia commissions TRIPP design work in its own name | Shows whether Yerevan proceeds without the development company's charter |
 | December | Russia's self-declared December deadline for an Armenian EU referendum | Moscow's main remaining political lever before winter |
 | By end-December | Rail feasibility studies for the Armenian section due | Sets whether construction can start in 2027 |
-| Any time to 9 December | Opening of the Margara crossing | Technically ready; the first tangible step in Turkey normalisation |
+| Early December | Opening of the Margara crossing | Technically ready; the first tangible step in Turkey normalisation |
 | November–December | Winter gas supply and Russian trade restrictions | Russia's remaining economic leverage over Yerevan |
