@@ -1,120 +1,28 @@
 ---
-title: "Georgian Dream (GD)"
-summary: "Georgia's governing party since 2012, led informally by Bidzina Ivanishvili and pursuing regime survival through multi-alignment."
-role: "Political party"
+title: Georgian Dream
+summary: Georgia's governing party since 2012, built by Bidzina Ivanishvili and now governing through confrontation with the West.
+role: Governing party
 ---
 
-# Georgian Dream (GD)
+# Georgian Dream
 
-Georgia's ruling party since 2012, founded by billionaire Bidzina Ivanishvili who remains the de facto ruler despite holding no formal office. GD has governed Georgia for over a decade and has shifted from a nominally pro-Western orientation to an increasingly anti-Western, regime-survival-focused posture since 2022.
+Georgian Dream has governed Georgia since 2012 and is the instrument through which Bidzina Ivanishvili exercises power without holding office. Its project is regime survival: avoid provoking Moscow, keep enough Western contact to prevent isolation, and remove domestic challengers before they can organise. It has no ideological project beyond staying in power, which is why its foreign policy changes register faster than its domestic one.
 
-## Key figures
-- **Bidzina Ivanishvili:** Founder, de facto ruler, Georgia's richest man
-- **Irakli Kobakhidze:** Prime Minister (since 2024), former parliament speaker
-- **Maka Bochorishvili:** Foreign Minister
+## Key Actions
 
-## Political trajectory
-- **2012–2022:** Nominally pro-Western, signed EU Association Agreement, pursued NATO integration
-- **2022–present:** Post-Ukraine invasion, pivoted to "pragmatic" neutrality, passed foreign agents law, suspended EU accession talks, cracked down on protests, sought transactional engagement with both US and Russia
-- **2026:** Attempting rapprochement with Trump administration while accelerating pivot to China and maintaining functional ties with Moscow
+- **2012** — Wins parliamentary elections and ends UNM rule; Ivanishvili becomes prime minister.
+- **2024** — Passes the foreign agents law amid mass protests and wins disputed parliamentary elections.
+- **November 2024** — Suspends EU accession talks; the US suspends its strategic partnership.
+- **June 2026** — Upgrades relations with China to a comprehensive strategic partnership.
+- **September 2026** — Adds For Georgia to a Constitutional Court lawsuit seeking to ban all major opposition parties.
+- **October 2026** — Refuses to join EU sanctions on Iran; Russia bans imports from seven Georgian companies.
 
-## China pivot (2026)
-GD has dramatically deepened ties with China in 2026:
-- **June 9:** Upgraded to "comprehensive strategic partnership" with Xi Jinping
-- Kobakhidze called China "the only peaceful superpower" and the partnership "exemplary" (not "on paper" like the US relationship)
-- 14 agreements signed since 2023, 6 more pending
-- Trade grew 17% (2024), 21% (2025), and 45% YoY (Jan-Apr 2026)
-- China now Georgia's 3rd largest trading partner (2nd in exports)
-- **Oct 2026 update:** Kobakhidze announced exports to China surged 177% in Jan-Aug 2026. China became Georgia's #1 FDI source in H1 2026 ($236M), overtaking the UK. 14 weekly flights now operate. Free trade talks ongoing with South Korea, Serbia, and GCC.
-- Visa-free regime, direct flights, educational cooperation established
-- **Middle Corridor:** Container traffic grew 71% in Jan-Aug 2025; cargo volume 15x higher in 2024 than previous year
-- **Energy:** Economy Minister Kvrivishvili discussed oil/gas extraction with Chinese firms (Geo-Jade, ZhenHua Oil) in April 2026
-- **Media influence:** Chinese Embassy funds Obieqtivi TV channel for pro-PRC programming ("Chinese Panorama")
-- **Contradiction:** Kobakhidze thanked China for "unwavering support for sovereignty and territorial integrity" despite China abstaining on UN resolution on Georgian IDPs from occupied territories
+## Current Position
 
-## Key legislation
-- Foreign agents law (2024) — required NGOs/media with >20% foreign funding to register as "foreign agents"
-- Sustained crackdown on 2024–2025 protest movement
-- Belated arrests of officers involved in protest violence (May 2026)
+Georgian Dream controls the state and is using it to eliminate the opposition before the 2027 elections. It has kept a US channel open through a chargé and the Trump Tower project, deepened ties with China and Iran, and avoided any move that would provoke Moscow. The party's hierarchy is personal: Ivanishvili decides, Kobakhidze executes, and officials who fall out are removed or prosecuted. The strategy has delivered survival but not security: Russia still applies pressure, the EU has frozen accession, and the economic alternative to the West remains thin.
 
-## Regime survival doctrine
-GD's foreign policy is best understood as a transactional, multi-vector strategy designed to maximize regime survival rather than align with any single power. It simultaneously pursues:
-- A US reset (Trump Tower, Rubio call, State Department visits)
-- A China pivot (comprehensive strategic partnership, trade, infrastructure)
-- An Iran connection (sanctions evasion, cultural/religious influence)
-- Functional ties with Moscow (no condemnation of Ukraine invasion, economic links)
-- Resistance to EU conditionality (frozen accession, foreign agents law)
+## Constraints
 
-## Central Asia diplomatic pivot (June 2026)
-GD is expanding diplomatic engagement with Central Asia to widen its room for maneuver beyond Western partners:
-- **June 19:** PM Kobakhidze made first-ever Georgian PM visit to Tajikistan; 11 bilateral documents signed including a Joint Intergovernmental Commission on Economic Cooperation
-- **Earlier June:** Kobakhidze visited Kyrgyzstan focusing on transport connectivity and Black Sea infrastructure access
-- **Strategic logic:** Repositioning Georgia as a bridge between Central Asia, South Caucasus, Turkey, and Europe via the Middle Corridor
-- **Goal:** Link China-Kyrgyzstan-Uzbekistan railway with Black Sea routes; attract Central Asian cargo through Georgian ports
-- **Signal:** GD expanding non-Western diplomatic options as relations with US/EU remain strained
-
-## Domestic repression escalation (June 2026)
-- **New hate speech department:** Interior Ministry creates unit to "systematically monitor hate speech" — critics argue it will monitor social media and automatically prosecute government critics, functioning as censorship
-- GD leader Mamuka Mdinaradze framed it as protection against "pseudo-liberal ideology aimed at sowing hatred"
-- Chairman of Georgian Young Lawyers' Association warns the department is about "controlling dissent and criticism of the government"
-- Comes weeks after Media Freedom Rapid Response warning about Georgia's press freedom deterioration
-
-## Iran vector (2025–2026)
-GD's Iran engagement adds a fourth authoritarian vector to its multi-directional foreign policy:
-- Deputy Foreign Minister signaled solidarity with Tehran in 2025
-- Nearly 13,000 Iranian companies registered in Georgia, many providing sanctions-evasion services
-- Kobakhidze threatened Hudson Institute report co-author who documented Iranian influence
-- Iran using Georgia as a sanctions evasion route and for religious/political influence expansion
-
-## China partnership: substance vs. signaling (The Diplomat analysis, June 2026)
-A Diplomat analysis argues the upgraded China partnership reflects GD's political anxieties more than genuine bilateral deepening:
-- Anaklia deep-water port is the flagship project but "has yet to leave port"
-- China is not yet a significant driver of Georgia's tourism economy
-- The partnership is a "louder signal" but potentially an "empty promise"
-- The timing (immediately after US House bill on Chinese influence) suggests reactive posturing rather than strategic planning
-
-## Serbia-GD axis (June/July 2026)
-FDD analysts (Washington Examiner, July 2, 2026) compared GD and Serbia's Vucic as "twin authoritarian regimes":
-- **Vucic's Tbilisi visit (June 2026):** First Serbian head-of-state visit to Georgia. Announced free-trade deal (bilateral trade only $20M — economically trivial). Vucic praised Georgia's 9.3% GDP growth; Kobakhidze called Vucic an "outstanding leader."
-- **Parallel playbook:** Both refused to sanction Russia, serve as sanctions evasion hubs, passed "foreign agent" laws, claimed victory in disputed elections, aggressively pursued closer China ties, frame Western criticism as hostile interference.
-- **GD's "Global War Party" narrative** compared to Vucic's "color revolution" accusations.
-- **Shared legitimacy:** "Shared legitimacy is easier to manufacture between two like-minded authoritarian regimes than it is to earn from one's own citizens or Western partners."
-- **Conclusion:** "Vucic and Georgian Dream are not friends of the United States. They are authoritarians that repress their citizens and make common cause with American adversaries."
-
-## China Anaklia exit (July 2026)
-- **July 6, 2026:** China's CCCC and China Harbour Investment formally exited the Anaklia Deep Sea Port project, walking away from their 49% stake. This strips GD's China pivot of its flagship infrastructure project.
-- GD announced a "landlord" model — state retains core infrastructure, seeking multiple international partners with limited roles.
-- Economy Minister Kvrivishvili invited China, Central Asia, and Azerbaijan to participate — notably excluding European partners.
-- Uzbek officials expressed vague interest; no concrete commitments materialized.
-- The exit exposes the fundamental asymmetry in GD's alternative-partner strategy: Georgia needs China far more than China needs Georgia.
-
-## Central Asia sweep (July 2026)
-- By July 21, 2026, Kobakhidze had met leaders of all five Central Asian states (Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan).
-- Strategic partnership agreements signed with Kazakhstan and Uzbekistan.
-- First-ever Georgian PM visits to Kyrgyzstan and Tajikistan (11 bilateral documents with Tajikistan, including Joint Intergovernmental Commission on Economic Cooperation).
-- Turkmen President Berdimuhamedov made his first official visit to Tbilisi.
-- Economic data reveals the pivot's hollowness: 95.5% of $355M exports to Kyrgyzstan are vehicle re-exports; ~90% of $179.6M to Tajikistan same pattern.
-- Experts warn "portraying Asia as an alternative to the West is a dangerous political illusion."
-
-## One-party state trajectory (July 2026)
-- Former US Ambassador Ian Kelly and Bush Institute's David Kramer (Just Security, July 29) warn GD is creating a one-party regime.
-- Proposed Constitutional Court legislation to ban all opposition parties deemed a "threat to constitutional order."
-- GD creating a "systemic opposition" party (People's Power) modeled on United Russia.
-- Eight opposition leaders face sabotage charges carrying up to 15 years; verdict expected fall 2026.
-- US has no Senate-confirmed ambassador in Tbilisi — no one even nominated.
-
-## Ukrainian-Georgian relations: lowest point (SCEEUS, June 2026)
-SCEEUS Commentary no. 9 (June 23, 2026) analyzed the complete breakdown of once-close bilateral relations:
-- Georgia's post-2022 shift created a "critical geopolitical vacuum" in the South Caucasus that bolsters Russian influence.
-- Armenian PM Pashinyan identified frozen EU-Tbilisi dialogue as the "biggest obstacle" to Armenia's own EU ambitions.
-- Zelenskyy and Kobakhidze met at the May 2026 European Political Community Summit in Armenia — the first meeting between the two leaders since Russia's full-scale invasion.
-- **Domestic politics:** GD weaponized the 2008 war memory, contrasting images of destroyed Ukrainian cities with peaceful Georgian cities and framing "neutrality" as the only responsible choice.
-- ~3,000 Georgians have joined the Ukrainian army since 2022 despite official GD policy.
-- 66.2% of Ukrainians disapprove of Georgia's abandonment of European integration.
-- The new Hungarian PM Peter Magyar (replacing Orbán) is likely to be less supportive of GD in EU forums.
-
-## Timeline
-- **2026-08-04:** Kobakhidze publishes detailed social media post defending GD's Russia policy — argues opposition became anti-Russian only after 2022, not after 2008 war, accusing them of serving a "global war party." Claims UNM government itself promoted Russian tourism and investment after 2008.
-- **2026-09-15:** GD adds For Georgia (Gakharia's party) to constitutional court lawsuit seeking to ban all 4 major opposition parties — the only remaining parliamentary opposition.
-- **2026-10-09:** Russia bans imports from 7 Georgian companies — directly undermines GD's claim that maintaining Russia ties protects Georgia's economic interests. Kobakhidze says government "working on the issue" as experts link ban to GD's failure to meet Kremlin commitments.
-- **2026-10-13:** Constitutional Court judge Manana Kobakhidze (GD founder, former MP) resigns after recusal denied in party-ban case. GD may lack 90 votes needed to replace her; 2 of 9 seats now vacant. Third judge departure since party ban filed.
+- Russia's occupation of Abkhazia and South Ossetia gives Moscow escalation dominance.
+- The EU and US control access to finance, sanctions relief and the Western end of the Middle Corridor.
+- Its legitimacy depends on avoiding economic shock and keeping the opposition divided.
