@@ -64,6 +64,7 @@ Voice: plain declarative prose, active verbs, no throat-clearing. A reader shoul
 
 **Must not contain**
 - Chronology or background. If a sentence could have been written three months ago, it does not belong.
+- Extraneous details. The 3-5 sentences should not be loaded with extraneous supporting/clarifying details that can be found in the weekly updates, especially those contained between em dashes. 
 - Analysis without attribution, except the open question, which is explicitly the wiki's framing.
 - More than one open question, or a question that is really two questions.
 - Rows without dates, or speculative rows with no scheduled decision behind them.
@@ -89,6 +90,7 @@ Voice: plain declarative prose, active verbs, no throat-clearing. A reader shoul
 - More than one development per bullet; split it or drop the weaker one.
 - Per-source summaries, "sources say", or a list of everything ingested.
 - Anything about the ingest process (counts, ranges, PDFs, R2).
+- Filler items or reference to a quiet week or no news sources.
 - Static-page changes. The watcher writes the update, not the entity page.
 
 **Selection rule:** if a week produces more than six candidates, keep the ones that change a position, a deadline, a number that matters, or a relationship. Drop commentary, ceremonies and reactions that will be superseded.
@@ -171,9 +173,9 @@ Voice: plain declarative prose, active verbs, no throat-clearing. A reader shoul
 
 **Purpose:** the arc a new reader needs, at month resolution.
 
-**Must contain** one `## YYYY` heading per year; month or season parents (`- **June:**`, `- **Fall:**`); every event as a two-space-indented sub-bullet; only defining events — leadership changes, agreements signed or blocked, wars and offensives, coercive economic moves, treaties, corridor openings.
+**Must contain** one `## YYYY` heading per year; month or season parents (`- **June:**`, `- **Fall:**`); every event as a two-space-indented sub-bullet; only defining events that have a direct impact on the topic's direction — leadership changes, agreements signed or blocked, wars and offensives, coercive economic moves, treaties, corridor openings, assassinations, elections. Timeline events should be concise; there's no need to explain why it matters or provide any extraneous support detail.
 
-**Must not contain** day labels, `###`, year ranges, prose paragraphs, commentary, or one event repeated in two months. Target 40-100 lines. Reviewed quarterly, not weekly.
+**Must not contain** day labels, `###`, year ranges, prose paragraphs, commentary, or one event repeated in two months. Target 40-100 lines. Reviewed quarterly, not weekly. Avoid adding events for the sake of it; each month doesn't need to have an event.
 
 ### Sources
 
