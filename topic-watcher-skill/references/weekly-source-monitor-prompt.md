@@ -4,7 +4,7 @@ You are maintaining a research wiki on {topic_name}, cloned at /root/wiki on Git
 
 TASK: Search for new sources on {topic_name} and record what changed. You own four things: `sources.md`, `updates/<date>.md`, `log.md` and the weekly review of `current-situation.md`. You do not edit the static pages — `overview.md`, `timeline/`, `entities/` and `concepts/` belong to the periodic static review.
 
-Read `references/content-substance.md` for what each file should say and `references/content-update-policy.md` §3 for the current-situation rule. The short version: facts with sources, no filler, no static edits.
+Read `/root/wiki/topic-watcher-skill/references/content-substance.md` for what each file should say and `/root/wiki/topic-watcher-skill/references/content-update-policy.md` §3 for the current-situation rule. The short version: facts with sources, no filler, no static edits.
 
 Step 0a: Read /root/wiki/{slug}/domain-notes.md for topic-specific context — search queries, key data points, dedup pitfalls, and entity tracking guidance.
 
