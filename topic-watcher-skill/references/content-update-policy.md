@@ -10,8 +10,8 @@ The principle: **ingestion and interpretation run on different clocks.** Weekly 
 
 | Job | Owns | Cadence | May not touch |
 |---|---|---|---|
-| **Weekly source monitor** (existing cron) | `sources.md`, `updates/<date>.md`, `log.md`, `current-situation.md` review, index counts | Weekly | `overview.md`, `timeline/`, `entities/`, `concepts/`, `articles/` |
-| **Static content review** (one job per topic) | `overview.md`, `timeline/`, `entities/`, `concepts/`, corrections to `index.md` counts | Monthly or event-driven | `sources.md`, `updates/`, new fact-finding |
+| **Weekly source monitor** (existing cron) | `sources.md`, `updates/<date>.md`, `log.md`, `current-situation.md` review, index counts | Weekly | `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, `articles/` |
+| **Static content review** (one job per topic) | `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, corrections to `index.md` counts | Monthly or event-driven | `sources.md`, `updates/`, new fact-finding |
 
 The weekly job **does not edit static content**, even when it spots an error. It records the mismatch in its run report (not in the published update) and the static review acts on it. This keeps the weekly diff small and reviewable, and stops the same fact being re-litigated every week.
 
@@ -28,6 +28,7 @@ The static review **does not ingest**. It works only from what the weekly job al
 | `log.md` | Weekly | Every run | Append counts-only entry |
 | `current-situation.md` | Weekly (review) | Every run, rewrite only on material change | Full rewrite when triggered; otherwise untouched |
 | `index.md` | Weekly (counts) / Static (catalog) | Counts each week; catalog at review | Counts only, then full catalog at review |
+| `domain-notes.md` | Static | Monthly or event | Search queries, data points, dedup pitfalls, source types, indicators — no developments |
 | `overview.md` | Static | Monthly or event | Rewrite only when the topic's central question changes |
 | `timeline/` | Static | Monthly or event | Add defining events; condense; never append news |
 | `entities/` | Static | Monthly or event | Update position/limits; no weekly news |
@@ -85,9 +86,10 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 5. **Timeline.** Add only defining events, under the correct month parent. If an event is already in an update but is not defining, it does not enter the timeline.
 6. **Entities.** Update `Current Position` only if the actor's stance or leverage changed. Do not turn `Key Actions` into a news log — a new bullet must be an action that moved the process.
 7. **Concepts.** Update the status section. Add a new section only when a genuinely new mechanism appears (a new corridor, a new legal instrument).
-8. **Overview.** Change only if the central question changed. `tagline`, `region` and `started` require the user's approval.
-9. **Verify and balance.** Run the citation check from `content-substance.md` §11. For bilateral topics, confirm both sides are represented.
-10. **Close the loop.** Update `index.md` counts and catalog. Commit as `static review: <topic> <date>`. Add to `log.md`:
+8. **Domain notes.** Review the search queries, key data points, dedup pitfalls, high-signal source types and the single `Trackable Indicators` table. Fold in what the last month of runs learned. No chronology, no `## Key Recent Developments`. Authoring rules are in `SKILL.md` → Create or Update Domain Notes.
+9. **Overview.** Change only if the central question changed. `tagline`, `region` and `started` require the user's approval.
+10. **Verify and balance.** Run the citation check from `content-substance.md` §11. For bilateral topics, confirm both sides are represented.
+11. **Close the loop.** Update `index.md` counts and catalog. Commit as `static review: <topic> <date>`. Add to `log.md`:
 
     ```
     ## YYYY-MM-DD - Static Content Review
@@ -125,6 +127,7 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 | Question | Answer |
 |---|---|
 | Can the weekly job fix an entity page? | No. Flag it; static review decides. |
+| Can the weekly job update domain-notes.md? | No. It reads it for context; the static review maintains it. |
 | Can the weekly job rewrite current-situation every week? | Only on a material change; otherwise leave it. |
 | Can a static review add a new source? | No. It works from `sources.md`. |
 | How often is the timeline touched? | Monthly, or after a structural event. |

@@ -30,7 +30,7 @@ Step 4: For each substantive new source:
      | N | Publication | [Title](url) | YYYY-MM-DD or YYYY-MM | Summary |
      Publication is the clean outlet name, not an "Outlet: " prefix inside the title. Use exactly one leading pipe.
   c. Update /root/wiki/{slug}/index.md source count and date only. Do not add or rename pages.
-  Do NOT edit the timeline, entities or concepts. If one of them is now wrong or out of date, note it under "Static content flags" in your final report; the static review will act on it.
+  Do NOT edit the timeline, entities or concepts. If one of them is now wrong or out of date — including `domain-notes.md` — note it under "Static content flags" in your final report; the static review will act on it.
 
 Step 4a: Write /root/wiki/{slug}/updates/<YYYY-MM-DD>.md for today's run — 3 to 6 bullets on what changed, each in the form `- **Headline** — body` on one line. No frontmatter and no title.
   - One development per bullet; the headline states the consequence, not the event type.
@@ -63,9 +63,7 @@ Step 6: Commit and push changes:
   git commit -m "Weekly source update ({slug}): [brief summary of what was added]"
   git push
 
-Step 7: Review whether domain-notes.md needs updating. Update only operational context — new search queries, dedup pitfalls, high-signal source types, or missing entities. Do NOT add recent developments or a "Key Recent Developments" section; those belong in the update file. Keep one Trackable Indicators table.
-
-Step 8: Deliver your final response using this notification format (the system sends it automatically):
+Step 7: Deliver your final response using this notification format (the system sends it automatically):
 
 # {Topic Name} — Weekly Source Update
 **Date:** {date} | **Sources:** {old_count} → {new_count} ({added_count} new)

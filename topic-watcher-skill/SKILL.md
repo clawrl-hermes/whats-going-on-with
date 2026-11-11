@@ -193,7 +193,7 @@ Follow `references/weekly-source-monitor-prompt.md`. The run owns four files and
 - **Write `updates/<YYYY-MM-DD>.md`** for the run date — 3 to 6 bullets in `- **Headline** — body` form, each ending with source links in parentheses. No frontmatter, no title, no filler. If fewer than three substantive developments, skip the file rather than pad it.
 - **Review `current-situation.md`** and rewrite it only on a material change; otherwise leave it, including `last_updated`. See `references/content-update-policy.md` §3.
 - **Keep `log.md` to counts and pages updated** — never per-source summaries (see Rewrite or Maintain the Ingest Log).
-- **Do not edit static content** — `overview.md`, `timeline/`, `entities/`, `concepts/`. Record any mismatch under "Static content flags" in the run report; the periodic static review owns the fix.
+- **Do not edit static content** — `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`. Record any mismatch under "Static content flags" in the run report; the periodic static review owns the fix.
 
 ### Rewrite or Maintain the Ingest Log
 
@@ -255,7 +255,7 @@ Rules:
 
 ### Create or Update Domain Notes
 
-**Trigger:** User wants to build or update a topic's domain-notes.md, or you discover during a weekly source monitor run that domain-notes.md needs updating (new data points, new dedup pitfalls, new high-signal source types).
+**Trigger:** A static content review reaches the domain-notes step, or the user asks to build or update a topic's domain-notes.md. The weekly monitor reads the file but does not edit it.
 
 **This is distinct from the weekly source ingest** — domain-notes.md is the *permanent topic reference* holding search queries, key data points, dedup pitfalls, and entity tracking guidance. It is consumed by the weekly source monitor (Step 0a) to provide the agent with topic-specific context before it begins searching.
 
@@ -276,7 +276,7 @@ Rules:
 
 **File location:** `/root/wiki/<slug>/domain-notes.md`
 
-**Integration with weekly source monitor:** The cron prompt's Step 0a instructs the agent to read `domain-notes.md` for topic-specific context before proceeding with priority sources or Tavily searches. Step 7 of the weekly monitor then reviews whether domain-notes.md itself needs updating based on what was found during the run, creating a self-maintaining loop.
+**Integration with the two jobs:** The weekly cron prompt's Step 0a instructs the agent to read `domain-notes.md` for topic-specific context before searching, and to flag anything stale under "Static content flags". The monthly static review is what actually edits the file, using the guidance above.
 
 ### Correct Sources After Ingest
 
