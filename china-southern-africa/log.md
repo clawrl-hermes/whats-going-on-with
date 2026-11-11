@@ -99,3 +99,11 @@
 - New sources ingested: 9
 - Updated sources.md (87 → 96), index.md source count (87 → 96)
 - Created Botswana entity; updated timeline, Lobito concept and domain notes
+
+## 2026-11-11 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources (none configured)
+  - 5 from Tavily
+- Updated sources.md (96 → 101), index.md source count (96 → 101)
+- Updated current-situation.md: no (no position, deadline or anchoring number changed)
+- Static content flags: none
