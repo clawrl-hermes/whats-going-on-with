@@ -2,6 +2,8 @@
 
 **Status: draft for review.** Last updated 2026-11-05: timeline events are now sub-bullets under month/season parents. This is what the site reads from the wiki repo. The build checks every file against it and reports the exact file and line that is wrong.
 
+**Companion documents.** `content-substance.md` governs what each file should say; `content-update-policy.md` governs when it is reviewed and by which job. This file governs format and the publish allowlist. Where they overlap, substance defers to the substance guide and format to this file.
+
 Principles:
 
 - **The site shows what the files say.** It does not repair, prune or reinterpret them. If a file follows the contract, it renders as intended.

@@ -18,6 +18,8 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `references/cron-failure-recovery.md` | Procedure for diagnosing and manually recovering from cron job failures |
 | `references/cron-job-management.md` | Cron job model format, ordering dependencies, batch updates, and re-triggering failed jobs |
 | `references/frontend-content-contract.md` | Frontend publish contract: allowlist, per-file schemas, migration procedure, sources normalization recipes, validation |
+| `/root/wiki/content-substance.md` | **Authoritative** substance guidelines: what each published file should say, length, structure, sourcing and attribution |
+| `/root/wiki/content-update-policy.md` | **Authoritative** cadence: which job owns which file, when static content is reviewed, and the current-situation review rule |
 | `templates/source-monitor-notification.md` | Notification format template for Telegram delivery of weekly source monitor results |
 | `templates/overview.md` | Starter overview.md for a new topic (the site's topic page) |
 | `templates/index.md` | Starter index.md for a new topic |
@@ -25,6 +27,8 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `templates/timeline.md` | Starter timeline file |
 | `templates/domain-notes.md` | Starter domain-notes.md with search queries, key data points, dedup pitfalls, and entity tracking |
 | `templates/priority-sources.md` | Starter priority-sources.md for a new topic |
+
+**Authority.** `content-substance.md` and `content-update-policy.md` are the reviewed sources of truth for what to write and when to review it. This skill covers the operational steps (ingestion, scaffolding, migrations, cron). Where a bullet below differs from those files, the guidelines win once their rollout is complete — the policy's §7 tracks that migration.
 
 ## Central Config
 
