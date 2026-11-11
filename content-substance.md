@@ -48,7 +48,7 @@ Voice: plain declarative prose, active verbs, no throat-clearing. A reader shoul
 
 **Model:** Armenia-Azerbaijan's overview states the move from war to a signed peace, the rebalancing away from Russia, and the corridor competition — three paragraphs, no news.
 
-**Review trigger:** the topic's central question changes (war ends, treaty signed, government falls). Not on a schedule.
+**Review trigger:** reviewed monthly or after a structural event, but changed only when the topic's central question changes (war ends, treaty signed, government falls).
 
 ---
 
@@ -175,7 +175,7 @@ Voice: plain declarative prose, active verbs, no throat-clearing. A reader shoul
 
 **Must contain** one `## YYYY` heading per year; month or season parents (`- **June:**`, `- **Fall:**`); every event as a two-space-indented sub-bullet; only defining events that have a direct impact on the topic's direction — leadership changes, agreements signed or blocked, wars and offensives, coercive economic moves, treaties, corridor openings, assassinations, elections. Timeline events should be concise; there's no need to explain why it matters or provide any extraneous support detail.
 
-**Must not contain** day labels, `###`, year ranges, prose paragraphs, commentary, or one event repeated in two months. Target 40-100 lines. Reviewed quarterly, not weekly. Avoid adding events for the sake of it; each month doesn't need to have an event.
+**Must not contain** day labels, `###`, year ranges, prose paragraphs, commentary, or one event repeated in two months. Target 40-100 lines. Reviewed monthly or after a structural event, not weekly. Avoid adding events for the sake of it; each month doesn't need to have an event.
 
 ### Sources
 

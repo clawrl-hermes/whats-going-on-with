@@ -11,7 +11,7 @@ The principle: **ingestion and interpretation run on different clocks.** Weekly 
 | Job | Owns | Cadence | May not touch |
 |---|---|---|---|
 | **Weekly source monitor** (existing cron) | `sources.md`, `updates/<date>.md`, `log.md`, `current-situation.md` review, index counts | Weekly | `overview.md`, `timeline/`, `entities/`, `concepts/`, `articles/` |
-| **Static content review** (new job) | `overview.md`, `timeline/`, `entities/`, `concepts/`, corrections to `index.md` counts | Monthly + event-driven | `sources.md`, `updates/`, new fact-finding |
+| **Static content review** (one job per topic) | `overview.md`, `timeline/`, `entities/`, `concepts/`, corrections to `index.md` counts | Monthly or event-driven | `sources.md`, `updates/`, new fact-finding |
 
 The weekly job **does not edit static content**, even when it spots an error. It records the mismatch in its run report (not in the published update) and the static review acts on it. This keeps the weekly diff small and reviewable, and stops the same fact being re-litigated every week.
 
@@ -28,10 +28,10 @@ The static review **does not ingest**. It works only from what the weekly job al
 | `log.md` | Weekly | Every run | Append counts-only entry |
 | `current-situation.md` | Weekly (review) | Every run, rewrite only on material change | Full rewrite when triggered; otherwise untouched |
 | `index.md` | Weekly (counts) / Static (catalog) | Counts each week; catalog at review | Counts only, then full catalog at review |
-| `overview.md` | Static | Quarterly or event | Rewrite only when the topic's central question changes |
-| `timeline/` | Static | Quarterly | Add defining events; condense; never append news |
-| `entities/` | Static | Quarterly or event | Update position/limits; no weekly news |
-| `concepts/` | Static | Quarterly or event | Update status; add a section only for a new mechanism |
+| `overview.md` | Static | Monthly or event | Rewrite only when the topic's central question changes |
+| `timeline/` | Static | Monthly or event | Add defining events; condense; never append news |
+| `entities/` | Static | Monthly or event | Update position/limits; no weekly news |
+| `concepts/` | Static | Monthly or event | Update status; add a section only for a new mechanism |
 | `articles/` | Static | Quarterly | New file per quarter; no retroactive edits beyond corrections |
 
 A topic with four weekly updates a month therefore produces four small commits and at most one static-review commit.
@@ -64,7 +64,7 @@ Run a static review when **any** of these fires:
 
 | Trigger | Timing | Scope |
 |---|---|---|
-| **Four weekly updates accumulated** | Monthly (default) | All static pages for the topic |
+| **Monthly cycle** | Monthly (default) | All static pages for the topic |
 | **Structural event** | Within one week | The pages the event touches |
 | **Quarter boundary** | Before the quarterly article | Timeline, entities, concepts, overview |
 | **Reported error or contradiction** | Next review | The affected page, plus a search for the same error |
@@ -80,7 +80,7 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 
 1. **Gather.** The last four to six `updates/`, the current `current-situation.md`, the timeline, and `git log --stat` since the last `Static Content Review` entry. Note what changed in `sources.md` but is not yet reflected anywhere.
 2. **Triage each page.** Mark it: *no change* / *wording* / *structural*. Only structural changes should alter the page's argument or section order.
-3. **Cap the blast radius.** At most three pages per monthly cycle unless a structural event justifies more. Prefer the page a reader would consult first.
+3. **Cap the blast radius.** At most five pages per monthly cycle unless a structural event justifies more. Prefer the pages a reader would consult first.
 4. **Apply the substance rules.** Use `content-substance.md` per file type. Keep the actor-first test: does this change how the actor affects the topic?
 5. **Timeline.** Add only defining events, under the correct month parent. If an event is already in an update but is not defining, it does not enter the timeline.
 6. **Entities.** Update `Current Position` only if the actor's stance or leverage changed. Do not turn `Key Actions` into a news log — a new bullet must be an action that moved the process.
@@ -114,7 +114,7 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 
 1. **Review these guidelines.** No topic content changes yet.
 2. **Update the seven weekly cron prompts** to: stop editing static pages, add the current-situation review step, and record static mismatches in the run report rather than the update.
-3. **Create one static-review job** that iterates the published topics monthly (one job across topics is cheaper than seven), with a per-topic commit and the log entry above.
+3. **Create one static-review job per topic**, each running monthly, with its own commit and the log entry above. Separate jobs keep failures isolated and let topics run on different dates.
 4. **Pilot on one topic** — Armenia-Azerbaijan is already the reference — for one cycle. Adjust the caps and triggers before applying to the rest.
 5. **Then standardise the remaining topics**, one at a time, with the user reviewing each.
 
@@ -127,7 +127,7 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 | Can the weekly job fix an entity page? | No. Flag it; static review decides. |
 | Can the weekly job rewrite current-situation every week? | Only on a material change; otherwise leave it. |
 | Can a static review add a new source? | No. It works from `sources.md`. |
-| How often is the timeline touched? | Quarterly, or after a structural event. |
+| How often is the timeline touched? | Monthly, or after a structural event. |
 | What if a static page contradicts a new update? | The update is authoritative for the new fact; the static page is corrected at review, not in the weekly commit. |
 | How do we know when the last static review was? | The `Static Content Review` entry in `log.md`, and the commit history. |
 | What if nothing changed? | No commit; report a no-op. |
