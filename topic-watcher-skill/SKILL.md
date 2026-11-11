@@ -15,6 +15,7 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | File | Purpose |
 |------|---------|
 | `references/weekly-source-monitor-prompt.md` | Cron prompt template for weekly source monitor |
+| `references/monthly-static-review-prompt.md` | Cron prompt template for the monthly static content review |
 | `references/cron-failure-recovery.md` | Procedure for diagnosing and manually recovering from cron job failures |
 | `references/cron-job-management.md` | Cron job model format, ordering dependencies, batch updates, and re-triggering failed jobs |
 | `references/content-contract.md` | **Authoritative** format: publish allowlist, per-file schemas, validation rules |
@@ -194,6 +195,18 @@ Follow `references/weekly-source-monitor-prompt.md`. The run owns four files and
 - **Review `current-situation.md`** and rewrite it only on a material change; otherwise leave it, including `last_updated`. See `references/content-update-policy.md` §3.
 - **Keep `log.md` to counts and pages updated** — never per-source summaries (see Rewrite or Maintain the Ingest Log).
 - **Do not edit static content** — `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`. Record any mismatch under "Static content flags" in the run report; the periodic static review owns the fix.
+
+### Monthly Static Review
+
+**Trigger:** The monthly static-review cron fires, or the user asks to bring a topic's standing pages up to date.
+
+Follow `references/monthly-static-review-prompt.md` and `references/content-update-policy.md` §4-5. The reviewer works only from material already in the wiki — it does not search for sources and does not touch `sources.md`, `updates/` or `articles/`.
+
+- **Owns:** `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, `index.md` catalog.
+- **Basis:** the updates written since the last `Static Content Review` entry, plus the new `sources.md` rows.
+- **Cap:** five pages per cycle; list the rest as deferred.
+- **Rules:** actor-first edits; timeline gets only defining events; overview changes only when the central question changes; domain notes stay structural; no single-source "fixes".
+- **Close:** commit `static review: <slug> <date>`, add the log entry, and report pages changed, deferred, unconfirmed, gaps and anything needing approval. A no-op makes no commit.
 
 ### Rewrite or Maintain the Ingest Log
 
