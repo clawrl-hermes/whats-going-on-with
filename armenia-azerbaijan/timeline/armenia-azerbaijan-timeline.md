@@ -40,7 +40,7 @@
 - **May:**
   - The Akhalkalaki-Kars railway reopens for Armenian freight.
 - **June:**
-  - Civil Contract party wins Armenian parliamentary elections.
+  - Pashinyan's Civil Contract party wins Armenian parliamentary elections.
   - Aliyev escalates his preconditions, demanding the return of former Azerbaijani enclaves and the resettlement of 300,000 Azerbaijanis in Armenia.
 - **July:**
   - Armenian government approves the TRIPP framework bill and sends it to the Constitutional Court.
