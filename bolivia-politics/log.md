@@ -83,3 +83,11 @@
 - New sources ingested: 12
 - Updated sources.md (69 → 81), index.md source count (69 → 81)
 - Updated timeline: Chile normalization, COB and teachers' strikes, El Niño emergency
+
+## 2026-11-11 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources
+  - 7 from Tavily
+- Updated sources.md (81 → 88), index.md source count (81 → 88)
+- Updated current-situation.md: yes (2027 budget breaches the IMF deficit ceiling and funds the gasoline subsidy; Supreme Court president fled abroad; teachers' strike and cancelled evista march)
+- Static content flags: domain-notes.md (China's lithium-refining export controls were extended to 10 January 2027, not activated on 10 November); timeline (Saucedo exile, 2027 budget submission and the November teachers' strike are unrecorded); entities/rodrigo-paz (approval and cabinet figures now dated)
