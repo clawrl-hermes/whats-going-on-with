@@ -187,13 +187,13 @@ This is distinct from the cron-based weekly source monitor — the user is handi
 
 **Trigger:** The weekly cron job fires, or the user says "run <topic>" / "update <topic>".
 
-Follow `references/weekly-source-monitor-prompt.md`. Beyond source ingestion, the run must keep the published content current:
+Follow `references/weekly-source-monitor-prompt.md`. The run owns four files and nothing else:
 
-- **Write `updates/<YYYY-MM-DD>.md`** for the run date — 3 to 6 bullets in `- **Headline** — body` form, no frontmatter and no title. This is the site's weekly update and is not optional. If nothing substantive changed, still write the file (or report clearly that there was no update).
 - **Append `sources.md` rows** in the five-column shape with a clean `Publication` name and an ISO date (`YYYY-MM-DD` or `YYYY-MM`).
-- **Add timeline events** as sub-bullets under the month/season parent, not as flat day-level bullets.
-- **Frontmatter on new pages** — every new entity/concept page needs `title` and `summary`; entities may also carry `role` and `facts`.
+- **Write `updates/<YYYY-MM-DD>.md`** for the run date — 3 to 6 bullets in `- **Headline** — body` form, each ending with source links in parentheses. No frontmatter, no title, no filler. If fewer than three substantive developments, skip the file rather than pad it.
+- **Review `current-situation.md`** and rewrite it only on a material change; otherwise leave it, including `last_updated`. See `references/content-update-policy.md` §3.
 - **Keep `log.md` to counts and pages updated** — never per-source summaries (see Rewrite or Maintain the Ingest Log).
+- **Do not edit static content** — `overview.md`, `timeline/`, `entities/`, `concepts/`. Record any mismatch under "Static content flags" in the run report; the periodic static review owns the fix.
 
 ### Rewrite or Maintain the Ingest Log
 
@@ -204,8 +204,8 @@ The log is an **action record, not a source ledger**. One entry per run, ascendi
 Each entry should record only:
 
 - **Sources ingested by type** — `8 from priority sources`, `1 from Tavily`, `1 manual ingest`. Counts, never titles, outlets, URLs, or per-source summaries.
-- **Files updated with ranges** — `sources.md (69 → 78), index.md source count (69 → 78)`, `timeline with 14 new July 2026 entries`.
-- **Short entity/concept notes** — `Pashinyan entity: Putin call details, EU referendum position`. One clause each, not a narrative.
+- **Files updated with ranges** — `sources.md (69 → 78), index.md source count (69 → 78)`, `current-situation.md rewritten (treaty timetable moved)`, `static content flags: Pashinyan entity position stale`.
+- **Static content flags** — `Pashinyan entity: position on the base is now stale`. One clause per page, no narrative; the weekly run does not edit those pages.
 
 Rules:
 

@@ -2,7 +2,9 @@
 
 You are maintaining a research wiki on {topic_name}, cloned at /root/wiki on GitHub (repo: clawrl-hermes/whats-going-on-with). This topic lives in /root/wiki/{slug}/. Use the git credential helper for auth (no gh CLI).
 
-TASK: Search for new sources on {topic_name} and add any substantive new findings to the wiki. Check curated priority sources first if available, then run broader Tavily searches.
+TASK: Search for new sources on {topic_name} and record what changed. You own four things: `sources.md`, `updates/<date>.md`, `log.md` and the weekly review of `current-situation.md`. You do not edit the static pages — `overview.md`, `timeline/`, `entities/` and `concepts/` belong to the periodic static review.
+
+Read `references/content-substance.md` for what each file should say and `references/content-update-policy.md` §3 for the current-situation rule. The short version: facts with sources, no filler, no static edits.
 
 Step 0a: Read /root/wiki/{slug}/domain-notes.md for topic-specific context — search queries, key data points, dedup pitfalls, and entity tracking guidance.
 
@@ -20,18 +22,29 @@ Step 2: Run the following Tavily searches using the tavily_search tool:
 
 For each search, use time_range="month" and max_results=5. Add a 3-5 second delay between consecutive searches to avoid HTTP 429 rate limit errors.
 
-Step 3: For each promising new source found, use tavily_extract to get full content.
+Step 3: For each promising new source found, use tavily_extract to get full content. Before citing it, confirm the page actually states the specific fact you plan to use — the person's title, the date, the period, the direction of the figure. A source that covers the topic is not evidence for the detail.
 
 Step 4: For each substantive new source:
   a. Summarize key findings in 2-3 sentences
   b. Append a row to /root/wiki/{slug}/sources.md in the five-column shape:
      | N | Publication | [Title](url) | YYYY-MM-DD or YYYY-MM | Summary |
      Publication is the clean outlet name, not an "Outlet: " prefix inside the title. Use exactly one leading pipe.
-  c. If the source contains date-relevant events, add them to the timeline as two-space-indented sub-bullets under the month/season parent
-  d. Update relevant entity/concept pages; any new page needs `title` and `summary` frontmatter
-  e. Update /root/wiki/{slug}/index.md (increment source count, update date)
+  c. Update /root/wiki/{slug}/index.md source count and date only. Do not add or rename pages.
+  Do NOT edit the timeline, entities or concepts. If one of them is now wrong or out of date, note it under "Static content flags" in your final report; the static review will act on it.
 
-Step 4a: Write /root/wiki/{slug}/updates/<YYYY-MM-DD>.md for today's run — 3 to 6 bullets on what changed, each in the form `- **Headline** — body` on one line. No frontmatter and no title. This is the site's weekly update and is not optional; if nothing substantive changed, still write a short file or report that clearly.
+Step 4a: Write /root/wiki/{slug}/updates/<YYYY-MM-DD>.md for today's run — 3 to 6 bullets on what changed, each in the form `- **Headline** — body` on one line. No frontmatter and no title.
+  - One development per bullet; the headline states the consequence, not the event type.
+  - End each body with source links in parentheses: `([OC Media](url), [Eurasianet](url))`.
+  - No background, no filler, no "quiet week" note, nothing about the ingest process.
+  - If fewer than three substantive developments, do not write the file; say so in the report instead of padding it.
+
+Step 4b: Review /root/wiki/{slug}/current-situation.md against what you just recorded. Rewrite the whole page only if a material change occurred:
+  - a position changed (an actor accepted, rejected or redefined a demand)
+  - a dated decision was taken or missed
+  - a deadline moved
+  - an anchoring number shifted materially
+  - an actor entered or left the story
+  If none applies, leave the page untouched, including `last_updated`. If one applies, replace the 3-5 status sentences, the open question and the watch table; set `last_updated` to today; keep the watch table to the next four weeks and drop rows whose date has passed. At most one rewrite per run.
 
 Step 5: Append an entry to /root/wiki/{slug}/log.md in this shape:
   ## YYYY-MM-DD - Weekly Source Update
@@ -39,9 +52,8 @@ Step 5: Append an entry to /root/wiki/{slug}/log.md in this shape:
     - N from priority sources
     - N from Tavily
   - Updated sources.md (old → new), index.md source count (old → new)
-  - Updated timeline with N new entries (month range)
-  - Updated <entity> entity: one-clause description
-  - Updated <concept> concept: one-clause description
+  - Updated current-situation.md: yes/no (one-clause reason)
+  - Static content flags: none, or one clause per page
   Counts and page names only — never per-source titles, URLs, or summaries.
 
 Step 6: Commit and push changes:
@@ -51,7 +63,7 @@ Step 6: Commit and push changes:
   git commit -m "Weekly source update ({slug}): [brief summary of what was added]"
   git push
 
-Step 7: Review whether domain-notes.md needs updating. Update only structural context — new key data points, search queries, dedup pitfalls, high-signal source types, or entities. Do NOT add a "Key Recent Developments" section; recent events belong in the timeline and the update file. Keep one Trackable Indicators table.
+Step 7: Review whether domain-notes.md needs updating. Update only operational context — new search queries, dedup pitfalls, high-signal source types, or missing entities. Do NOT add recent developments or a "Key Recent Developments" section; those belong in the update file. Keep one Trackable Indicators table.
 
 Step 8: Deliver your final response using this notification format (the system sends it automatically):
 
@@ -60,6 +72,6 @@ Step 8: Deliver your final response using this notification format (the system s
 
 For each new source, include: | {N} | {Publication} | [{Title}]({url}) | {YYYY-MM-DD} | {1-2 sentence key finding} |
 
-Then include a **Key Themes This Week** section (max 5 bullet points) and a **Files Updated** section.
+Then include a **Key Themes This Week** section (max 5 bullet points), a **Files Updated** section, and a **Static content flags** section (or "None").
 
 IMPORTANT: Only add sources with real, substantive new information. Quality over quantity. If no new sources were found, report that clearly instead of the table.
