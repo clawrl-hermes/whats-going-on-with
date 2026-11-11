@@ -17,9 +17,10 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `references/weekly-source-monitor-prompt.md` | Cron prompt template for weekly source monitor |
 | `references/cron-failure-recovery.md` | Procedure for diagnosing and manually recovering from cron job failures |
 | `references/cron-job-management.md` | Cron job model format, ordering dependencies, batch updates, and re-triggering failed jobs |
-| `references/frontend-content-contract.md` | Frontend publish contract: allowlist, per-file schemas, migration procedure, sources normalization recipes, validation |
-| `/root/wiki/content-substance.md` | **Authoritative** substance guidelines: what each published file should say, length, structure, sourcing and attribution |
-| `/root/wiki/content-update-policy.md` | **Authoritative** cadence: which job owns which file, when static content is reviewed, and the current-situation review rule |
+| `references/content-contract.md` | **Authoritative** format: publish allowlist, per-file schemas, validation rules |
+| `references/content-substance.md` | **Authoritative** substance: what each published file should say, length, structure, sourcing and attribution |
+| `references/content-update-policy.md` | **Authoritative** cadence: which job owns which file, when static content is reviewed, and the current-situation review rule |
+| `references/content-migration-and-validation.md` | Operational: migration procedure, sources normalization recipes, validation checker, timeline editorial pass, backfill steps, pitfalls |
 | `templates/source-monitor-notification.md` | Notification format template for Telegram delivery of weekly source monitor results |
 | `templates/overview.md` | Starter overview.md for a new topic (the site's topic page) |
 | `templates/index.md` | Starter index.md for a new topic |
@@ -28,7 +29,7 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `templates/domain-notes.md` | Starter domain-notes.md with search queries, key data points, dedup pitfalls, and entity tracking |
 | `templates/priority-sources.md` | Starter priority-sources.md for a new topic |
 
-**Authority.** `content-substance.md` and `content-update-policy.md` are the reviewed sources of truth for what to write and when to review it. This skill covers the operational steps (ingestion, scaffolding, migrations, cron). Where a bullet below differs from those files, the guidelines win once their rollout is complete — the policy's §7 tracks that migration.
+**Authority.** The four `references/content-*.md` files are the reviewed sources of truth: contract for format, substance for what to write, update policy for when to review it, migration-and-validation for the procedures. This skill covers the operational steps (ingestion, scaffolding, cron). Where a bullet below differs from those files, the guidelines win once their rollout is complete — the policy's §7 tracks that migration.
 
 ## Central Config
 
@@ -316,7 +317,7 @@ Removing an output is more than deleting its files — stale references leave da
 
 **Trigger:** User wants a topic to render on the site, references the content contract, or asks to standardize a topic's structure for the frontend.
 
-Load `references/frontend-content-contract.md` for the full schemas, normalization recipes, and validation checker. The working order is: inventory → `git mv` renames to kebab-case → frontmatter on entities/concepts → sources.md five-column rebuild → timeline format → overview.md → `current-situation.md` → create `updates/` and `articles/` → validate.
+Load `references/content-contract.md` for the schemas, `references/content-migration-and-validation.md` for the migration steps, normalization recipes and validation checker, and `references/content-substance.md` for what each page should say. The working order is: inventory → `git mv` renames to kebab-case → frontmatter on entities/concepts → sources.md five-column rebuild → timeline format → overview.md → `current-situation.md` → create `updates/` and `articles/` → validate.
 
 Rules that matter every time:
 
@@ -325,7 +326,7 @@ Rules that matter every time:
 - **Only touch published paths.** `index.md`, `log.md`, `domain-notes.md`, `priority-sources.md` are not read by the site — edit them only to repair wikilinks broken by a rename.
 - **Create `updates/` and `articles/` empty** when asked. Git will not track empty directories; do not add placeholder files.
 - **Timeline condensation is a separate editorial pass.** The migration only fixes heading/label format. When the user says a year is too granular, follow the timeline section of the reference: month/season parent bullets with each event as a two-space-indented sub-bullet, chronological, plus any recent months missing from the timeline but present in `sources.md`.
-- **Keep the contract in sync.** `/root/wiki/content-contract.md` is the versioned copy of the frontend contract (outside the publish allowlist). When an agreed format changes, edit that file in the same commit as the content it governs — the frontend build and the wiki must describe the same structure.
+- **Keep the contract in sync.** `references/content-contract.md` is the versioned copy of the frontend contract. When an agreed format changes, edit that file in the same commit as the content it governs — the frontend build and the wiki must describe the same structure.
 - **Citations are verified against the source, not just attached.** Before publishing, open each cited page and confirm it supports the exact sentence: titles, dates, periods and figures. Reuse one footnote when two claims rest on the same article, and check the citation's date against the claim's time frame.
 - **Updates and articles are generated from the record, not invented.** `updates/YYYY-MM-DD.md` condenses the most recent successful weekly monitor notification into 3-6 contract-format bullets; name it for that notification's run date. A quarterly `articles/YYYY-qN.md` uses only developments from that quarter — when asked to pretend later months are unknown, check the draft for later-quarter names and events before writing. A failed cron run has no notification content; fall back to the last successful output and say so.
 - **No duplicated metadata in entity bodies.** Frontmatter `role` and `facts` are rendered by the site; a body `**Role:**` or `**Party:**` line makes it appear twice. When migrating, move the value into frontmatter and delete the body line.

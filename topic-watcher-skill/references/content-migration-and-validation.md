@@ -1,47 +1,8 @@
-# Frontend content contract
+# Content migration and validation
 
-The site reads a strict subset of the wiki repo. Migrate one topic at a time and let the user review before touching the next.
+Operational companion to `content-contract.md` (format and allowlist), `content-substance.md` (what each file should say) and `content-update-policy.md` (when each file is reviewed). This file holds the procedures that do not belong in any of them: migrating a topic, normalizing legacy tables, validating the result, condensing a timeline, and the pitfalls learned from doing it.
 
-## Allowlist
-
-Published paths only:
-
-```
-<topic>/overview.md
-<topic>/current-situation.md
-<topic>/updates/YYYY-MM-DD.md
-<topic>/articles/YYYY-qN.md
-<topic>/entities/<slug>.md
-<topic>/concepts/<slug>.md
-<topic>/sources.md
-<topic>/timeline/<any-name>.md   (exactly one file)
-```
-
-Never published: `Watch Reports/`, `raw/`, `log.md`, `index.md`, `domain-notes.md`, `priority-sources.md`, `SCHEMA.md`, `watch-reports-summary.md`, `_config.yaml`, `topic-watcher-skill/`, scripts. Do not rewrite these for the site — only update wikilinks that would otherwise break after a rename.
-
-## Per-file requirements
-
-**overview.md** (existence = topic is published). Frontmatter: `title`, `tagline`, `region`, `started`; optional `tone: 1-7`. Body: 1-3 markdown paragraphs. Write it by hand; the agent does not regenerate it.
-
-**current-situation.md** — frontmatter `title` and `last_updated`; body: 3-5 sentences, then `## The Open Question` (one sentence), then `## What to Watch For` with a `| Date | What to Watch | Why It Matters |` table covering the next month. Rewrite when the situation changes; never append.
-
-**updates/YYYY-MM-DD.md** — no frontmatter, no title. Only bullets of the form `- **Headline** — body` on one line. The filename date is the publish date; a future date is scheduled/hidden until that day (UTC).
-
-**articles/YYYY-qN.md** — frontmatter `title`, `summary`, `date`; body starts at `##` (site renders the title).
-
-**entities/**, **concepts/** — frontmatter `title`, `summary` (one sentence), optional `role` (entities), optional `facts:` map, optional `weight:` (lower first). Keep the H1 only if it exactly matches `title`; the site drops a matching leading H1.
-
-**sources.md** — five columns, one leading pipe per row:
-
-```
-| # | Publication | Title | Date | Summary |
-|---|---|---|---|---|
-| 189 | OC Media | [Headline](https://...) | 2026-10-16 | One to three sentences. |
-```
-
-`Publication` is the clean outlet name; `Date` is `YYYY-MM-DD`, `YYYY-MM`, or empty.
-
-**timeline/*.md** — one heading per year (`## 2026`). Under it, each month or season is a parent bullet (`- **June:**`, `- **Fall:**`, optionally `(planned)`), and every event is a two-space-indented sub-bullet beneath it. A top-level bullet that is not a month/season label is a year-level event. No day labels, no `###`, no year ranges, no `(continued)`, no prose paragraphs.
+Migrate one topic at a time and let the user review before touching the next.
 
 ## Migration procedure (per topic)
 
@@ -80,6 +41,7 @@ Run a stdlib-only pass over the published paths (the sandbox `execute_code` inte
 - `sources.md` header contains `Publication`; every row has 5 cells; date matches `^\d{4}-\d{2}(-\d{2})?$|^$`; publication non-empty; no row starts `||`
 - exactly one timeline file; no `###`, no `(continued)`, no `|-`
 - no `|- ` or `||` in any published file (table separator rows `|---|` are legitimate)
+- `current-situation.md` has `last_updated`, exactly one open question, and a watch table whose rows all carry a date
 
 ## Timeline editorial pass
 
@@ -93,18 +55,17 @@ Format normalization and content condensation are separate passes. Run this one 
 6. **Do not duplicate one event across months.** An announcement and the later first shipment/implementation are usually one sub-bullet, not two.
 7. **Validate:** every month/season parent matches `^- \*\*(Month|Season)( \(planned\))?:\*\*$`, every event under it starts with exactly two spaces and `- `, parents ascend chronologically, and no day-number labels remain.
 
-## Generating updates and articles
+## Backfilling updates
 
-- **Update file:** take the most recent successful weekly monitor notification (`~/.hermes/cron/output/<job_id>/YYYY-MM-DD_*.md`, the `## Response` section), reduce it to 3-6 bullets of the form `- **Headline** — body`, and name the file for that run's date. No frontmatter and no title. If the newest runs failed, use the last run with a real response and tell the user the date you used.
-- **Backfilling updates:** enumerate `~/.hermes/cron/output/<job_id>/*.md` in date order and skip any file whose first line contains `(FAILED)` — those have no `## Response`. Parse the `Key Themes This Week` section when present (the heading has appeared as `##`, `###`, and bold text in different runs). Older runs have no themes section and must be condensed from their source tables or prose summaries. One file per successful run, named for the run date; leave failed runs without a file. Reconcile source ranges with git (`git show <commit>:<topic>/sources.md`) rather than trusting the old log, which drifts and does not chain.
-- **Quarterly article:** frontmatter `title`, `summary`, `date`; body begins at `##`. Cover only that quarter's developments. Before finishing, grep the draft for later-quarter names, dates, and events and remove them when the user asks for a period-limited piece.
-- Both are editorial distillations: prefer the structural consequence over the announcement, and do not introduce facts that are absent from `sources.md` or the timeline.
-- **Verify every citation against the source text.** Open the cited page and check that it states the specific claim — the person's title, the date, the period, the direction of the figure. A source that covers the topic is not evidence for the detail. A July report cannot confirm a September status; if the claim is about the end of the quarter, cite something published then. Prefer reported sources for facts and label editorials as opinion, not as the article's framing.
+- Enumerate `~/.hermes/cron/output/<job_id>/*.md` in date order and skip any file whose first line contains `(FAILED)` — those have no `## Response`.
+- Parse the `Key Themes This Week` section when present (the heading has appeared as `##`, `###`, and bold text in different runs). Older runs have no themes section and must be condensed from their source tables or prose summaries.
+- One file per successful run, named for the run date; leave failed runs without a file.
+- Reconcile source ranges with git (`git show <commit>:<topic>/sources.md`) rather than trusting the old log, which drifts and does not chain.
 
 ## Pitfalls
 
 - **Frontmatter replaces body metadata, it does not accompany it.** After deriving `role` and `facts` from `**Role:**`/`**Party:**` lines, delete those lines from the body. The site renders the frontmatter fields, so leaving the old lines shows the same value twice; a frontend check will flag each one.
-- **Contract changes are code changes.** When the agreed structure changes (e.g. timeline sub-bullets), update `/root/wiki/content-contract.md` and commit it with the content. The build validates against the written contract; a stale copy silently contradicts the files.
+- **Contract changes are code changes.** When the agreed structure changes, update `references/content-contract.md` and commit it with the content. The build validates against the written contract; a stale copy silently contradicts the files.
 - **Don't trust `git status` shorthand for "staged".** Check `git diff --cached --stat` first; work described as staged is often only in the working tree.
 - **Split unrelated changes into separate commits.** A structural migration and a pending weekly source update are different commits; stage everything, `git reset` the unrelated paths, commit, then commit the rest.
 - **`git mv` before editing frontmatter** keeps rename detection and avoids delete+add noise in the diff.
