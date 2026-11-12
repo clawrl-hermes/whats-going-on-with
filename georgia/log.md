@@ -104,3 +104,11 @@
 - New sources ingested: 17
 - Updated sources.md (115 → 132), index.md source count (115 → 132)
 - Updated timeline and EU entity
+
+## 2026-11-12 - Weekly Source Update
+- New sources ingested:
+  - 4 from priority sources
+  - 4 from Tavily
+- Updated sources.md (132 → 140), index.md source count (132 → 140)
+- Updated current-situation.md: no (no position change, dated decision or deadline moved)
+- Static content flags: domain-notes.md Russia section lacks the 2025 gas-volume baseline now in sources.md; entities/european-union.md predates the Clingendael ranking that puts Georgia–EU ties below Georgia–Russia
