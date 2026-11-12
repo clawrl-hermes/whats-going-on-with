@@ -110,3 +110,11 @@
 - Updated belt-and-road-initiative concept: China Merchants' SACLH withdrawal as a BRI setback case
 - Updated hambantota-port entity: CMPort's Colombo logistics withdrawal signals strategic reassessment
 - Updated imf-geopolitics concept: post-EFF successor programme confirmed in discussions
+
+## 2026-11-12 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources (no priority-sources.md for this topic)
+  - 6 from Tavily
+- Updated sources.md (79 → 85), index.md source count (79 → 85)
+- Updated current-situation.md: no (2027 budget presentation was already a watch row; no position, deadline or anchoring number moved)
+- Static content flags: domain-notes.md restructuring section omits the pending Hamilton Reserve Bank litigation as an open item
