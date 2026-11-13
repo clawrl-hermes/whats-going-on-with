@@ -1,6 +1,6 @@
 # Philippines — Islamic Extremism Wiki Index
 
-> Content catalog. Last updated: 2026-11-07 | Total pages: 9 | Total sources: 86
+> Content catalog. Last updated: 2026-11-11 | Total pages: 10 | Total sources: 86
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
@@ -18,6 +18,9 @@
 - [[bangsamoro-peace-process|Bangsamoro Peace Process]] -- Transition to the first elected BARMM parliament
 - [[spoiler-dynamics|Spoiler Dynamics]] -- Armed groups, clans and actors that undermine the peace process
 - [[china-influence|China's Influence]] -- Maritime pressure and political influence in the South China Sea
+
+## Priority Sources
+- [[priority-sources]] -- Curated list of regional specialists, think tanks, official sources and advocacy groups for source monitoring
 
 ## Updates
 [auto-populated as weekly updates are written]
