@@ -107,3 +107,11 @@
 - Updated tech-pivot concept: added Jensen Huang visit and Firebird GPU deal
 - Updated resource-curse concept: uranium law amendments and CPC diversification data
 - Updated Caspian concept: new Shokri interview on route diversification, falling water levels, Jamestown CPC chronology
+
+## 2026-11-13 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources (no priority-sources.md)
+  - 8 from Tavily
+- Updated sources.md (128 → 136), index.md source count (128 → 136)
+- Updated current-situation.md: yes (Tokayev proposed admitting Russia to the Turkic bloc)
+- Static content flags: domain-notes.md gives nominal GDP as about $360 billion for 2026 against $397.92 billion in the IMF-based ranking added this week

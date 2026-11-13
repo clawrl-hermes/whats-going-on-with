@@ -1,6 +1,6 @@
 # Kazakhstan — Global Competitiveness Wiki Index
 
-> Content catalog. Last updated: 2026-11-06 | Total pages: 11 | Total sources: 128
+> Content catalog. Last updated: 2026-11-13 | Total pages: 11 | Total sources: 136
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
