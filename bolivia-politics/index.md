@@ -1,6 +1,6 @@
 # Bolivia's Political Situation Wiki Index
 
-> Content catalog. Last updated: 2026-11-11 | Total pages: 9 | Total sources: 88
+> Content catalog. Last updated: 2026-11-13 | Total pages: 10 | Total sources: 88
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
@@ -18,6 +18,9 @@
 - [[bolivia-lithium-geopolitics|Bolivia's Lithium Geopolitics]] -- China, Russia and Western competition over Bolivia's underdeveloped lithium reserves
 - [[south-america-rightward-shift|South America's Rightward Shift]] -- The regional turn toward conservative and strongman governments
 - [[bolivia-post-mas-fragmentation|Bolivia's Post-MAS Fragmentation]] -- The fractured landscape after MAS's collapse and Paz's weak coalition
+
+## Priority Sources
+- [[priority-sources]] -- Curated list of regional specialists, think tanks, official sources and advocacy groups for source monitoring
 
 ## Updates
 [auto-populated as weekly updates are written]
