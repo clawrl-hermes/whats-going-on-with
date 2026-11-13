@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-11-12 | Total pages: 7 | Total sources: 85
+> Last updated: 2026-11-13 | Total pages: 8 | Total sources: 85
 
 ## Overview
 
@@ -21,6 +21,10 @@
 - [[belt-and-road-initiative]] -- BRI projects in Sri Lanka, strategic significance, and impact of the debt crisis
 - [[imf-geopolitics]] -- IMF-China tensions during Sri Lanka's debt restructuring, voting share reform, and China's rise as an alternative lender of last resort
 - [[key-conclusions]] -- Synthesized conclusions on China-Sri Lanka financial relations drawn from multiple sources
+
+## Priority Sources
+
+- [[priority-sources]] -- Curated list of regional specialists, think tanks, official sources and advocacy groups for source monitoring
 
 ## Updates
 
