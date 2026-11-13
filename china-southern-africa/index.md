@@ -1,6 +1,6 @@
 # Chinese Infrastructure and Minerals in Southern Africa — Wiki Index
 
-> Content catalog. Last updated: 2026-11-11 | Total pages: 14 | Total sources: 101
+> Content catalog. Last updated: 2026-11-11 | Total pages: 15 | Total sources: 101
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
@@ -23,6 +23,9 @@
 - [[critical-minerals-strategy|Critical Minerals Strategy]] -- China's drive to secure cobalt, lithium, copper, rare earths and platinum
 - [[infrastructure-for-resources|Infrastructure-for-Resources Model]] -- Trading roads, rail and ports for mining concessions and mineral access
 - [[lobito-corridor|Lobito Corridor]] -- The 1,600km rail route from the Copperbelt to Angola's Atlantic port
+
+## Priority Sources
+- [[priority-sources]] -- Curated list of regional specialists, think tanks, official sources and advocacy groups for source monitoring
 
 ## Updates
 [auto-populated as weekly updates are written]
