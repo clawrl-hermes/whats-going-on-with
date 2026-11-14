@@ -133,3 +133,11 @@
   - 13 from priority sources
 - Updated sources.md (188 → 201), index.md source count (188 → 201)
 - Updated domain-notes.md with the week's key data points
+
+## 2026-11-14 - Weekly Source Update
+- New sources ingested:
+  - 5 from priority sources
+  - 6 from Tavily
+- Updated sources.md (217 → 228), index.md source count (217 → 228)
+- Updated current-situation.md: yes (CSTO penalty applied, Dublin leaders' meeting, TRIPP ratification signed)
+- Static content flags: domain-notes.md (CSTO Article 25 now applied, not pending; Reform Council 30 December deadline; TRIPP term stated as 49 years vs 99-year rights elsewhere), timeline (Dublin meeting, CSTO decision, TRIPP signature missing), entities/pashinyan and entities/putin (December Moscow schedule, CSTO penalty), concepts/tripp (ratification signed 10 November, Iran assurances)
