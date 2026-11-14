@@ -113,3 +113,11 @@
 - Updated timeline with 6 new entries (September-November 2026)
 - Updated MILF, Abu Sayyaf and Marcos entities: chief minister vote, cabinet, exit agreement
 - Updated Bangsamoro peace process, spoiler dynamics and China influence concepts: political track closed, BARMM organs as targets, Laos blocking the Code of Conduct
+
+## 2026-11-14 - Weekly Source Update
+- New sources ingested:
+  - 3 from priority sources
+  - 4 from Tavily
+- Updated sources.md (86 → 93), index.md source count (86 → 93)
+- Updated current-situation.md: yes (2027 budget passage is now the binding deadline, Code of Conduct at 70% on the eve of the summit, decommissioning backlog quantified)
+- Static content flags: timeline has no November entries for the DI-Hassan Group killings (8 and 12 November) or the Basilan judge's assassination; sources.md row 86 gives the summit as 16-18 November, while CNA and DFA briefings put it at 15-17 November; domain-notes still describes the ASG as regrouping in Basilan without the October casualty figure
