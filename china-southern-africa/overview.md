@@ -1,5 +1,5 @@
 ---
-title: Chinese Infrastructure and Minerals in Southern Africa
+title: China's Mineral Strategy in Southern Africa
 tagline: Corridors, concessions and the contest for the Copperbelt.
 region: Southern Africa
 started: 2026-06-03
