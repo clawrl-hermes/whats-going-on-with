@@ -1,21 +1,21 @@
 ---
 title: Current Situation
-last_updated: 2026-11-11
+last_updated: 2026-11-18
 ---
 
-A year into Rodrigo Paz's presidency, the government has begun testing the limits of its own programme rather than defending them. The 2027 budget it sent to the Assembly on 30 October exceeds the IMF deficit ceiling by Bs1.79 billion and funds the gasoline subsidy the programme requires it to end in January 2027. In the courts, Supreme Court president Romer Saucedo left the country on 4 November ahead of a drug-trafficking arrest warrant, carrying the purge that began with the attorney general into the highest court. The urban teachers' 48-hour national strike on 9–10 November re-opened the street front that had been quiet since October, while Evo Morales cancelled his march on La Paz for a third time, leaving organised protest without a national campaign.
+Paz's programme now depends on an Assembly that cannot organise itself: on 17 November the Chamber of Deputies adjourned again without agreeing the committees for the 2026–27 term, leaving the chamber unable to process legislation in an orderly way, including the 2027 budget due by 30 November. Financing is moving regardless, with two IDB credits worth $750 million authorised by decree but payable into the Treasury only once the Assembly ratifies them. The Morales front has shifted from cancelled marches to the Chapare, where an Umopar ambush on 11 November was followed by the government calling him a cartel chief and by the Procuraduría seeking murder charges and an Interpol red notice over the Las Américas raid. The justice purge produced its first convictions, of two Santa Cruz court officials, while the exiled Supreme Court president asks Paz to stop what he calls a persecution. Both Washington and La Paz have now nominated ambassadors, formalising ties that went 18 years without embassy chiefs.
 
 ## The Open Question
 
-Will the Assembly trim the 2027 budget to the IMF's deficit ceiling, or is the programme's fiscal anchor already slipping?
+Will the Assembly cut the 2027 budget to the IMF's deficit ceiling by 30 November, now that it cannot agree even on its committees?
 
 ## What to Watch For
 
 | Date | What to Watch | Why It Matters |
 |---|---|---|
-| By 30 November | Assembly debate and vote on the 2027 budget | The bill must be cut by Bs1.79bn to meet the IMF ceiling, and it keeps Bs11bn of gasoline subsidy |
-| November | Whether the urban teachers extend their strike | Two days shut schools nationwide and the decentralization bill is still before the Assembly |
-| November–December | Saucedo case and the Supreme Court's interim leadership | An arrest warrant against the court's president tests whether the justice purge produces cases or only exile claims |
-| November–December | Forensic examination of the Cerimedo recordings | Prosecutors rejected the first complaint; verification decides whether the audio carries legal weight |
+| By 30 November | Assembly vote on the 2027 budget | The bill must lose Bs1.79bn to meet the IMF ceiling and still carries Bs11bn of gasoline subsidy |
+| By 30 November | Whether the Chamber of Deputies votes its committee lists | Without committees there is no orderly route for the budget or the investment bill |
+| December | Ratification of the $750m in IDB contracts | The credits stay outside the Treasury until the Assembly approves them |
+| December | Interpol's handling of the red-notice request for Morales | Decides whether he can leave the Chapare without immediate detention |
 | December | Gasoline and GNV subsidy decision | The programme schedules elimination for January 2027 and the budget funds it anyway |
 | December | El Niño emergency spending | Drought relief adds to a deficit already above the ceiling |

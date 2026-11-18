@@ -91,3 +91,11 @@
 - Updated sources.md (81 → 88), index.md source count (81 → 88)
 - Updated current-situation.md: yes (2027 budget breaches the IMF deficit ceiling and funds the gasoline subsidy; Supreme Court president fled abroad; teachers' strike and cancelled evista march)
 - Static content flags: domain-notes.md (China's lithium-refining export controls were extended to 10 January 2027, not activated on 10 November); timeline (Saucedo exile, 2027 budget submission and the November teachers' strike are unrecorded); entities/rodrigo-paz (approval and cabinet figures now dated)
+
+## 2026-11-18 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources
+  - 9 from Tavily
+- Updated sources.md (88 → 97), index.md source count (88 → 97)
+- Updated current-situation.md: yes (government redefines Morales as a cartel chief after the Chapare ambush, Procuraduría seeks an Interpol red notice, and the Chamber of Deputies cannot agree its committees before the 30 November budget deadline)
+- Static content flags: entities/evo-morales (page is a chronological news log rather than actor-first Key Actions/Current Position/Constraints, and stops before the cartel accusation and red-notice request); domain-notes.md (approval series ends at 32% in July; an Ipsos poll reported by AS/COA puts approval at 21% in September); timeline (no entries for the November justice purge, the ambassador nominations or the committee deadlock)

@@ -1,6 +1,6 @@
 # Bolivia's Political Situation Wiki Index
 
-> Content catalog. Last updated: 2026-11-13 | Total pages: 10 | Total sources: 88
+> Content catalog. Last updated: 2026-11-18 | Total pages: 10 | Total sources: 97
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
