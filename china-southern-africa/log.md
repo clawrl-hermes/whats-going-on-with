@@ -107,3 +107,11 @@
 - Updated sources.md (96 → 101), index.md source count (96 → 101)
 - Updated current-situation.md: no (no position, deadline or anchoring number changed)
 - Static content flags: none
+
+## 2026-11-18 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources
+  - 4 from Tavily
+- Updated sources.md (101 → 105), index.md source count (101 → 105)
+- Updated current-situation.md: yes (Zimbabwe's miners formally asked to move the January 2027 concentrate ban)
+- Static content flags: domain-notes.md (missing the investment-over-construction pivot and the Zimbabwe ban-delay risk); zimbabwe.md and zambia.md (need the ban request and the $12bn investment figure at review)
