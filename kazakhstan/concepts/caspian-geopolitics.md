@@ -1,133 +1,26 @@
 ---
-title: "Caspian Geopolitics"
-summary: "Energy transit, corridor competition and sanctions pressure around the Caspian Sea."
+title: Caspian Geopolitics
+summary: Energy transit, corridor competition and sanctions pressure around the Caspian Sea.
 ---
 
 # Caspian Geopolitics
 
-Kazakhstan's position in the Caspian region is central to its energy strategy and geopolitical significance. The Caspian Sea is a key arena for competition among regional and global powers.
+## Overview
 
-## Energy transit
-- Kazakhstan's oil exports depend heavily on the CPC (Caspian Pipeline Consortium) pipeline, which runs through Russia to the Black Sea. This creates a structural vulnerability.
-- The Middle Corridor (Trans-Caspian International Transport Route) is being developed as an alternative route to carry Kazakh resources to the West, bypassing Russia.
-- **Turkey's entry:** Turkey's TPAO entered Kazakhstan's energy market in 2026, signaling Ankara's search for a permanent institutional role in Central Asia's energy equation. The Middle Corridor is being framed not just as a trade route but as an energy corridor.
-- Kazakhstan is Turkey's leading trade partner in the Turkic world as of 2025.
+The Caspian is where Kazakhstan's geography becomes both an asset and a liability. Every export route out of the country crosses someone else's territory, and the war in Ukraine has made those crossings political. The result is a competition among Russia, China, Turkey, the EU and the United States over pipelines, ports, shipping lanes and now data cables — with Kazakhstan trying to sell access to all of them.
 
-## Route diversification progress (Sept 2026)
-- **BTC pipeline limitations:** Despite increased volumes, BTC carries only **2.3%** of Kazakhstan's oil production (The Diplomat, Sept 2026). 
-- **Baku-Supsa alternative:** Energy Minister Akkenzhenov identified Baku-Supsa pipeline (Azerbaijan→Georgia Black Sea coast) as a "vital" alternative, capable of carrying ~5M tonnes/yr. No direct negotiations yet with Azerbaijan but preliminary groundwork exists.
-- **Trans-Caspian Enterprise Fund:** US State Department established this fund in 2026 to catalyze private investment in Caspian trade links, signaling growing US commitment to Caspian connectivity.
-- **Middle Corridor update (Sept 2026):** Kazakhstan's Deputy Transport Minister Taizhanov at Batumi Forum (Sept 7-8): TITR freight volumes +22% Jan-Aug 2026; East-West transit +55%. Tez Customs module cut processing from 8 hrs to 30 min. Capacity: 6M tons, 182K TEUs. Delivery times improved 38→13-17 days, targeting 10-12 days. World Bank report (due Sept 27) identifies 16 critical investment priorities worth ~$25B, >75% already underway. Digital map of transport routes initiative announced.
-- **Caspian Sea strategic value:** Identified as the only route out of Central Asia that avoids transit through Russia, China, Iran, or Afghanistan — essential for critical minerals access.
-- **Refining expansion:** Kazakhstan accelerated oil refining expansion to **40M tonnes/yr by 2033** (doubling from 18.4M in 2025). New 4th major refinery planned (up to 10M tonnes/yr). Oil production forecast cut from 98M to 96M tons due to CPC attacks (3.5M tonnes lost). Russian crude processing proposal under consideration with sanctions-compliance risk from EU 21st package Kulevi precedent.
-- Kazakhstan revised its 2026 oil production target down to 98 million tons (from 100.5M) due to Tengiz field outages and CPC pipeline issues.
-- These constraints reinforce the urgency of diversification both in export routes and in the broader economy.
+## The CPC Chokepoint
 
-## Caspian Green Energy Corridor (2026)
-- Kazakhstan, Azerbaijan, and Uzbekistan advancing plans for the **Caspian Green Energy Corridor** — HVDC submarine cable across the Caspian Sea connecting Central Asian renewables to European markets.
-- **5 GW renewable capacity by 2030**. Feasibility study by CESI (Italy, ~€1M, started Jan 2026, ~May 2027). Green Corridor Alliance JV (Azerenerji, Uzbek National Electric Grids, KEGOC) registered Baku July 2025. ADB/AIIB support.
-- Kazakhstan: 3.7 GW renewables installed (169 facilities), 10 GW planned by 2035 (QaJET), 9 new facilities (503 MW) in 2025.
-- Challenges: domestic electricity shortages, import reliance. Potential initial exports ~2032.
-- Complements Middle Corridor as both energy and trade corridor.
+The Caspian Pipeline Consortium carries about 80% of Kazakhstan's oil, roughly 1.7 million barrels a day, from Tengiz and Kashagan through Russia to Novorossiysk. It is co-owned by Russia, Kazakhstan, Chevron and other international shareholders, and it is the country's fiscal lifeline. In July 2026 drone strikes on tankers near the terminal halted loadings, halved Tengiz output and cut national production to 1.63 million barrels a day. The pipeline's exposure to a war Kazakhstan is not fighting is the central vulnerability of its economy.
 
-## Sanctions dimension
-- Russia is trying to anchor Kazakhstan more firmly into its sanctions-era architecture; Kazakhstan is trying to turn that embrace into leverage rather than dependence.
-- The EU's 20th sanctions package (April 2026) deployed a precedent-setting tool to block supplies of sanctioned goods to third countries used for circumvention. Kazakhstan faces growing secondary sanctions risk.
-- UK lowered the Russian oil price cap from $47.60 to $44.10 per barrel, effective January 31, 2026.
-- **UK A-7 network targeting (May 2026):** UK sanctioned 18 entities in Kyrgyzstan and 3 in Georgia targeting the Kremlin-backed A-7 network that handled $90B+ in 2025 (~50% of Russian military procurement). Targets included crypto and illicit finance networks. Russia's 2026 growth forecast cut from 1.3% to 0.4%.
-- **UK active interdiction shift (June 2026):** OFSI interdiction general licence (June 12) enables UK to actively board and inspect ships. 70 new Russia sanctions announced June 16 targeting shadow fleet and GRU-linked procurement. Marks shift from passive listing to "active, repeatable interdiction architecture."
+## The Alternatives
 
-## BTC pipeline diversification
-- Kazakhstan targeting 1.5-2.2 million tons of crude oil exports through the Baku-Tbilisi-Ceyhan (BTC) pipeline in 2026, up from ~1.2 million tons previously. Diversifies export routes away from Russia-dependent CPC pipeline, aligning with Western energy security goals.
+None is large enough to replace the CPC. The BTC route via Aktau carries only about 30,000 barrels a day because the Caspian is too shallow for larger tankers. The Atyrau-Samara route moves 220,000 barrels a day but still runs through Russia. The China pipeline carries about 400,000 barrels a day eastward. Baku-Supsa is under discussion for 3-5 million tonnes a year. The Middle Corridor is growing fast — freight up 22% in January-August 2026 and East-West transit up 55% — but it moves containers and metals, not the volumes of crude the CPC handles.
 
-## CPC tanker crisis (July 2026)
-- **July 17-20, 2026:** Four tankers struck near the CPC terminal at Novorossiysk, two while loading Kazakh crude. Loadings suspended repeatedly. CPC stopped accepting crude into pipeline from Kazakhstan by July 21. As of July 23, no confirmed restart.
-- **80% of Kazakh crude exports (~1.7M b/d)** depend on the CPC route. Tengiz production halved from 925K b/d to 406K b/d. Total Kazakh output dropped to 1.63M b/d vs July average of 2.07M b/d.
-- **CPC pipeline ownership:** Co-owned by Russia (24% via Transneft), Kazakhstan (20.75% via Samruk-Kazyna), Chevron (15%), and other international shareholders. CPC runs 1,510km from Tengiz/Kashagan through Russia to Novorossiysk. In May 2026, CPC loadings reached a record 7.187M tonnes (~1.83M b/d).
-- **CES Intelligence "Landbridge Trap" (Aug 2026):** Leading analytical framework by Thierry Marquez arguing Kazakhstan's multi-alignment strategy is structurally untenable. Core judgment: Kazakhstan's geography, resource endowment, and transit infrastructure make it simultaneously indispensable and uncontrollable for every great power. Chinese companies now control ~1/4 of national oil production via CNPC, Sinopec and subsidiaries across the upstream value chain. The CPC pipeline at 1.7M bpd gives Russia leverage over fiscal stability while exposing that infrastructure to Ukrainian targeting.
-- **Karachaganak:** Orenburg gas processing plant strike (June 24) cut field's liquids output from 34K t/d to 25K t/d (~70K b/d decline).
-- **Alternative routes insufficient:** BTC via Aktau only ~30K b/d (Caspian Sea too shallow for larger vessels). Atyrau-Samara: 220K b/d (still Russia-dependent). Kazakhstan-China pipeline: 400K b/d (already integrated into regional flows). Aktau port lacks storage and loading capacity; Caspian tanker fleet limited.
-- **CPC and KEBCO** together account for **~15% of EU crude imports** (June 2026) — Italy's Trieste port receives 300K b/d serving Austrian, Czech, German refiners.
-- Kazakhstan's Foreign Ministry condemned the attacks as a direct threat to its economic interests, saying an agreed mechanism for sharing information about civilian vessels had been disregarded.
-- OilPrice.com analysis frames this as a **three-part crisis**: war-exposed export system, insufficient alternatives, and recurring operational disruptions at major fields.
-- **July 30, 2026:** A fifth tanker, the Nissos Sifnos, was struck near the CPC terminal — confirming the attacks are a sustained campaign rather than a one-off event.
-- Kazakhstan's oil vulnerability is structural: it is the world's largest landlocked country, bordering Russia, and its export system was not designed for the rupture following Russia's 2022 invasion of Ukraine.
-- **Diplomatic lobbying success (August 2026):** After Astana mounted a lobbying campaign in Washington, US administration officials pressured Ukrainian authorities into pledging to refrain from further strikes against Russian infrastructure handling Kazakh oil exports (Eurasianet). This is a significant diplomatic achievement illustrating Kazakhstan's ability to leverage Western ties to protect its economic interests.
-- **Baku-Supsa route under consideration (August 2026):** Kazakhstan is exploring alternative oil export routes through Azerbaijan, including the Baku-Supsa pipeline and additional Caspian transit, as concerns over Black Sea security deepen — complementing existing BTC pipeline diversification strategy (Astana Times, Aug 2026).
+## The Green and Digital Corridor
 
-## Oil export strategy upgrade — the "managed interdependence" framework (Sept 2026)
-- **Astana Times analysis (Sept 2026):** Kazakhstan moving from "rational efficiency to strategic resilience" in oil exports — from accepting routes toward shaping them. CPC will remain dominant through 2030 but Astana seeking managed interdependence through a deliberately balanced portfolio.
-- **Quantitative milestones:** KazTransOil supplied **155,000 tons** to BTC via Aktau in July 2026 (+11.5% YoY). Energy Minister Akkenzhenov: **2.2M tons** planned through BTC in 2026. Baku-Supsa pipeline discussed with Azerbaijan for **3-5M tonnes** of Kazakh crude annually. Kazakhstan-China pipeline: oil transport rose to **13.1M tons** (KMG Kashagan B.V., Sept 2026).
-- **Kashagan wildcard:** Draft 2027-2029 budget assumes 96M tons oil production in 2027, $70/bbl, 480 tenge/USD exchange rate. Kashagan identified as the key unknown — if expansion outpaces new refineries/alternative routes, infrastructure becomes a constraint. Refining capacity target: 18M → 40M tons by 2040.
-- Core framing: Kazakhstan is not moving from dependence to independence, but from one dominant dependency to a deliberately balanced portfolio of interdependence.
-- **New Kazakhstan-China pipeline data:** Oil transport rose to 13.1M tons (KMG Kashagan B.V., Sept 2026). Kazakhstan and Azerbaijan working to optimize supply chains and increase transit volumes (Trend interview).
+Kazakhstan is trying to make the Caspian a bridge rather than a barrier. The Caspian Green Energy Corridor would run an HVDC cable linking Central Asian renewables to Europe, with 5 GW targeted by 2030. A 380km fibre-optic cable with 400 Tbps capacity entered service in October 2026, creating a "digital Middle Corridor". Both projects deepen ties with Azerbaijan and the EU and give Kazakhstan stakes in connectivity beyond oil.
 
-## Regional dynamics
-- The Caspian region is increasingly contested, with Russia, China, Turkey, and the EU all seeking influence.
-- Kazakhstan's multi-vector approach aims to balance these competing interests while maximizing energy revenues and transit leverage.
-- The SCO marks its 30th anniversary in 2026, with Kyrgyzstan chairing efforts to establish an SCO Development Bank.
+## Current Status
 
-## Alstom Middle Corridor investment (July 2026)
-- **Alstom** has invested **€200M+ ($228M)** in Kazakhstan over 15 years — its largest industrial footprint in Central Asia/Caucasus.
-- Employs **1,300+ people** (96% local). Produced 200+ electric locomotives; signed Dec 2025 for **205 KZ6 container-focused locomotives** (testing 2028, commercial ops 2029).
-- Expanding signaling (digital railway traffic management) business in Kazakhstan.
-- Uses Kazakh operations to serve Azerbaijan, Ukraine, Georgia markets.
-- Alstom President: only 4% of China-Europe freight goes by rail; Middle Corridor appetite growing as sea costs/insurance surge.
-- Validates Kazakhstan's long-term bet on the Middle Corridor as a strategic trade route.
-
-## EU-Kazakhstan trade deepening (June 2026)
-- **19th Kazakhstan-EU Dialogue Platform** (June 11, Astana) chaired by Bektenov: trade turnover $45.2B in 2025; $12.4B in Jan-Apr 2026. Kazakh agricultural exports to EU up 34.3% to $266.2M. EU accounts for >30% of foreign trade. Cumulative EU investment >$200B.
-- **Middle Corridor cargo growth:** Cargo volumes up **69%** in first 5 months of 2026; vehicles using route up 38%.
-- Tokayev's Brussels visit (June 21-23) produced $12B+ in agreements/MoUs with the EU, explicitly framed within the EU's Global Gateway program.
-- Joint statement stressed "strategic importance of the Trans-Caspian International Transport Route."
-- 50 Airbus aircraft deal (€7.1B) — significant for Kazakhstan's aviation connectivity to Europe.
-- Critical raw materials and green hydrogen value chain — positions Kazakhstan as a Western partner in clean-energy supply chain diversification.
-- Trans-Afghan corridor push (Khaf-Herat railway, Kabul visit) extends Kazakhstan's southward connectivity ambitions beyond the Caspian/Caucasus axis.
-
-## Azerbaijan-Kazakhstan connectivity boom (June 2026)
-- **First direct Baku-Shymkent flight** (June 16, 2026) by Azerbaijan Airlines — milestone in bilateral connectivity.
-- Direct flights from Baku to Aktobe and Atyrau (western Kazakhstan) expected to launch soon.
-- **First Caspian submarine fiber-optic cable** (380 km, 400 Tbps capacity) shipped from Azerbaijan to Kuryk Port, Kazakhstan (June 15, 2026); completion expected Q3 2026. Supports cross-border AI and digital infrastructure — a "digital Middle Corridor."
-- Kazakhstan-Azerbaijan bilateral trade: surpassed **$500M in 2022**, now targeting **$1B**.
-- **Kazakh oil via BTC pipeline:** 4 million tons from Tengiz and Kashagan fields have transited the Caspian to Azerbaijan and onward to global markets via the Baku-Tbilisi-Ceyhan pipeline.
-- **Kazakhstan-Azerbaijan Direct Investment Fund** (Samruk-Kazyna JSC and Azerbaijan Investment Holding) signed cooperation agreement with SOCAR (Oct 2025) on energy projects.
-- Joint ventures: **iron plant** in eastern Azerbaijan, **Baku Grain Terminal** storing Kazakh wheat.
-- **Tokayev's planned visit to Baku** later in 2026 — both heads of state have exchanged 14 visits in the last 5 years (Aliyev: 8 to KZ, Tokayev: 6 to AZ).
-
-## Kazakhstan-Uzbekistan financial integration (June 2026)
-- **Saida Mirziyoyeva's visit** to Kazakhstan (June 2026) — Head of Uzbekistan's Presidential Administration; met with Tokayev, First Deputy PM Sklyar, State Counselor Karin.
-- Uzbekistan plans a **Tashkent International Financial Center (TIFC)** modeled on the **Astana International Financial Center (AIFC)** — English common law jurisdiction, zero-percent major tax rates.
-- AIFC Governor Bekturov briefed the Uzbek delegation on AIFC mechanisms; 23 Uzbek companies already registered in AIFC.
-- Bilateral trade **$4.8B in 2025** (+16.2% vs 2024). Principal exports from KZ: wheat, metal products, flour, petroleum products.
-- **7 joint projects worth $1.2B** launched during Tokayev's state visit to Uzbekistan (Nov 2025), covering industry, construction, petrochemicals, finance, logistics, and tourism.
-- Deepening cooperation on **Islamic finance, green finance, sustainable finance, and capital market development**.
-
-## Energy route redundancy: the new geopolitics (August 2026)
-- **Ken Moriyasu** (Hudson Institute) and **Abzal Narymbetov** (oil/gas expert) argue the strategic value of energy is now determined by **route redundancy, not just reserves** (Astana Times, Aug 2026).
-- Hierarchy of Central Asian export routes: **Middle Corridor > Afghanistan > CPC > Iran** — reflecting geopolitical risk assessment of each corridor.
-- **Ukrainian CPC strikes:** Moriyasu argues strikes aim to "internationalize the competition" — the objective is to make stakeholders (Kazakhstan, Japan, buyers) feel pressure to intervene. Moriyasu: "The real threat Tokayev feels is the Ukrainian strategy."
-- **Turkmenistan as critical junction:** Despite enormous gas reserves, sits between China, Iran, Caspian, and South Asia. Moriyasu: "Turkmenistan is the key" — but question is how many viable export routes it can develop.
-- **China's route diversification:** China does not want to be too dependent on Kazakhstan. The China-Kyrgyzstan-Uzbekistan railway is significant not just as a project but as part of creating additional options — onward to Turkmenistan/Iran, or eventually to Afghanistan/Pakistan.
-- **Central Asian route planning:** Uzbekistan increasingly prioritizing Afghanistan as connector to Pakistani ports. Uzbekistan leaders "talking about the importance of Afghanistan" (Moriyasu). Regional governments seeking redundancy through multiple corridors.
-- The analysis confirms Kazakhstan's strategic problem: export infrastructure connecting oil to world markets can become exposed to a war in which Kazakhstan has no direct military role. Eurasia's energy map is being redrawn not because resources have changed, but because the political meaning of routes around them has.
-
-## Oil production losses from Ukraine war (H1 2026)
-- Kazakh oil production fell by **9%** during the first seven months of 2026, translating into roughly a **$3.5 billion loss** in state revenue (regional media reports via Eurasianet, Aug 13, 2026).
-- After Astana mounted a lobbying campaign in Washington, US administration officials pressured Ukrainian authorities into **pledging to refrain from further strikes against Russian infrastructure that handle Kazakh oil exports** (Bloomberg, Aug 8, 2026; confirmed by Eurasianet).
-- The diplomatic success demonstrates Kazakhstan's ability to leverage Washington ties to protect the CPC pipeline route — a practical application of multi-vector balancing.
-- Despite the pledge, the structural vulnerability remains: the CPC system is embedded in Russian infrastructure, and any escalation affecting Russian energy logistics creates spillover risks for Kazakh exports.
-
-## Oil route diversification data (Jan-Aug 2026)
-- **Atasu-Alashankou pipeline (China route):** 863K tons exported Jan-Aug 2026 (+24% YoY). Total 7.6M tons pumped China direction (+3%).
-- **BTC pipeline (Caspian/Georgia route):** Transshipment reached **1M tons** (+12%), reflecting growing use of the Baku-Tbilisi-Ceyhan alternative.
-- **Aktau port (Caspian tanker loading):** 2.4M tons loaded (+6%), demonstrating incremental capacity expansion.
-- **KazTransOil total:** 31.9M tons of oil and petroleum products over 8 months (+4%).
-- **Domestic refineries:** 12.1M tons sent to Kazakh refineries.
-- Source: Central Asian Light/Kursiv.kz (Sept 9, 2026) citing KazTransOil data.
-- Signals accelerating route diversification as Kazakhstan seeks to reduce CPC dependence amidst ongoing disruptions.
-
-## Caspian water levels threaten Trans-Caspian route expansion (Nov 2026)
-- **Times of Central Asia interview with Dr. Umud Shokri** (Nov 2, 2026): Falling water levels are already making shipping more difficult along Kazakhstan's shallow coastline. Vessels may have to carry lighter loads, raising transport costs and reducing competitiveness of oil shipments across the Caspian toward BTC.
-- Kazakhstan responding with dredging at Aktau and Kuryk, but this is a "costly, ongoing adaptation rather than a solution to the underlying decline."
-- **Green Energy Corridor feasibility study** results presented to international investors in Baku (Oct 2026) — moving beyond concept toward practical implementation.
-- **Trans-Caspian fiber-optic cable** launched Oct 15, 2026 (~380 km, 400 Tbps capacity) — turning the Caspian into a "transport, energy and digital bridge between Asia and Europe" (News.az interview with Murad Shamilov).
+Route diversification is real but incremental. BTC volumes and Aktau loadings are rising, refining capacity is being expanded, and Astana has secured a Ukrainian pledge to spare CPC infrastructure after lobbying Washington. The structural problem remains: the country is landlocked, its main route runs through a belligerent, and the alternatives are constrained by water depth, port capacity and cost. Kazakhstan is managing dependence, not escaping it.

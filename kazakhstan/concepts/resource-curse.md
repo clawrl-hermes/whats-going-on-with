@@ -1,63 +1,26 @@
 ---
-title: "Resource Curse"
-summary: "Oil and gas dependence, and the effort to diversify exports and production."
+title: Resource Curse
+summary: Oil and gas dependence, and the effort to diversify exports, production and ownership.
 ---
 
 # Resource Curse
 
-Kazakhstan's economy remains heavily dependent on oil and gas. Hydrocarbons account for approximately 60% of exports and 40% of government revenue, creating structural vulnerabilities.
+## Overview
 
-## The problem
-- **Price volatility:** Oil price swings directly impact government revenue and GDP growth. The 2014–2015 oil price collapse triggered a recession and 40% currency devaluation.
-- **Dutch disease:** Resource wealth crowds out other sectors. Manufacturing and agriculture remain underdeveloped relative to the oil sector.
-- **Institutional weakness:** Resource wealth concentrates power and rents, reinforcing authoritarian governance and limiting economic reform incentives.
+Kazakhstan's economy was built on oil, gas and metals, and the rents they generate still fund the state. Hydrocarbons account for roughly 60% of exports and 40% of government revenue, which makes the budget hostage to prices and export routes. The resource curse here is not that the country is poor; it is that the sectors that generate revenue also concentrate power, discourage reform and crowd out the industries that would survive a price shock.
 
-## Diversification efforts
-- **$400B investment target (2025-2029):** Government aims to raise investment-to-GDP ratio from 14-15% to 23% by 2029. National Managing Holding Baiterek to receive up to 1T tenge capitalization in 2026; total real sector support ~8T tenge. Subsidiaries may finance projects worth $100-120B by 2030. Priority sectors: ferrous/non-ferrous metallurgy, rare earths, petrochemicals, pharmaceuticals, agri-processing.
-- **Economic Complexity Index:** Kazakhstan rose from 87th to 55th globally (2019-2024) — a 32-position improvement in four years. Manufacturing share rose from 11.3% to 12.4% of GDP; mining share fell from 19.5% to 12%; oil/gas extraction fell from 16.5% to 8.1% (2010-2024).
-- **Structural shift (Aug 2026):** Analyst Rysmambetov: Kazakhstan has entered a new investment cycle. Gross FDI $20.5B in 2025 (+14.4%), manufacturing investment +47.4% ($1.4B), mining investment -47% ($3B). Kazakh Invest: 215 projects worth **$78.6B** (88K+ jobs). 66 investment agreements worth $38.6B since 2021. Data Center Valley potentially $30B.
-- **Manufacturing growth (2026 data):** Despite oil production dropping 8.9% (Jan-Jul 2026), manufacturing grew **9%** led by pharmaceuticals (38.5%), fabricated metals (35%), chemicals (26.9%), mechanical engineering (22%), food production (13.9%). Construction grew 15.3%, transport/warehousing 7.4%. Non-oil sector expanded 5.4%. Oil sector now only **7.8% of GDP** (2025, down from 16.3% in 2024). Economists describe growth as "more distributed" across sectors (Astana Times/Halyk Finance, Aug 2026).
-- **Tech pivot:** AI, cryptocurrency mining, startup ecosystem (Astana Hub, GITEX, AI & Digital Bridge forum). $10B NVIDIA/Firebird Data Center Valley deal. 100+ AI startups, first AI unicorn (Higgsfield AI).
-- **FDI target:** Kazakhstan targeting **$25.5B in FDI in 2026** (up from $20B in 2025), with emphasis on technology transfer, production localization, and domestic capability building. 38th Foreign Investors' Council (July 2, 2026) featured Eni (247-MW hybrid plant in Zhanaozen), Baker Hughes (95% local operations), and EBRD (record €1.3B in 2026).
-- **Caspian Green Energy Corridor:** Ambitious plan with Azerbaijan and Uzbekistan for HVDC submarine cable across the Caspian Sea. **5 GW renewable capacity by 2030**. Feasibility study by CESI (Italy, ~May 2027). Green Corridor Alliance JV registered Baku July 2025. Kazakhstan: 3.7 GW renewables installed, 10 GW planned by 2035, 9 new facilities (503 MW) in 2025. Potential exports to Europe ~2032.
-- **Mining:** Uranium (world's largest producer), rare earths, copper, zinc
-- **Agriculture:** Wheat exports, growing agricultural trade with China (grain-trading platform launched May 2026, agri exports to China $1.43B in 2025)
-- **Transit:** Leveraging geographic position as a China-Europe corridor (BRI, Middle Corridor). BTC pipeline expansion (1.5-2.2M tons in 2026, up from ~1.2M) diversifies away from Russia-dependent CPC pipeline.
-- **National crypto reserve:** Government developing $500M-$1B crypto reserve from seized digital assets and state-backed mining proceeds.
+## The Dependence
 
-## OPEC+ dimension
-- **UAE withdrawal (April 2026):** The UAE left OPEC/OPEC+, the fifth voluntary departure in a decade. OPEC's share of global crude fell below 30% for the first time.
-- **Kazakhstan as over-producer:** Kazakhstan is OPEC+'s most consistent over-producer. The same pressures that drove Abu Dhabi out apply in Astana, but CPC pipeline dependence limits how quickly Kazakhstan could realistically leave.
-- **2026 production cut:** Kazakhstan revised its 2026 oil production target down to 98 million tons (from 100.5M) due to Tengiz field outages and CPC pipeline issues. This may ease OPEC+ compliance friction but comes at a revenue cost.
+The 2014-15 oil collapse triggered a recession and a 40% devaluation of the tenge. The 2026 drone strikes on the CPC showed the same vulnerability in physical form: production fell 9% in the first seven months of the year, costing about $3.5 billion in revenue. Oil and gas extraction has fallen to about 7.8% of GDP, but the fiscal share remains far higher, so the state still depends on the sector it is trying to outgrow.
 
-## Tungsten: the new critical minerals frontier
-- Kazakhstan holds the **world's largest known undeveloped tungsten deposit** (Northern Katpar / Upper Kairakty, Karaganda: 1.4M tons WO₃) and ranks **#2 globally** in total tungsten resources (2M tons, behind China).
-- **Northern Katpar + Upper Kairakty project (August 2026 update):** Developed by US Cove Capital (70%) + Tau-Ken Samruk (30%). Combined potential ~12,000 tons/year (15% of current global tungsten mine production). Definitive Feasibility Study runs July 2026 through end-2027. Cove providing at least $1.1B in financing. US EXIM Bank letter of interest for up to $900M; US DFC for up to $700M (potential combined $1.6B). First full-cycle tungsten operation in Kazakhstan — domestic APT (ammonium paratungstate) production, not raw ore export.
-- **Kaz Resources** (US firm, up to $1.6B federal financing) secured development rights — Trump personally negotiated with Tokayev.
-- **Chinese competition:** Boguty mine (Almaty Oblast) entered production April 2025 under Jiaxin International; targeted 7,085 tons in 2026.
-- **Esil-Mining** (UK/Resources Enterprise Limited) plans Aksoran deposit development in northern Kazakhstan from 2027, production targeted 2028.
-- China's 2025 export controls triggered a global tungsten supply crisis: APT prices tripled ($331 → $1,090-1,150/mtu), and China became a net tungsten importer.
-- Tungsten is classified by USGS as a critical mineral and described as a "war metal" (armor-piercing projectiles, missile warheads, semiconductor interconnects).
+## The Diversification
 
-## IsDB industrial diversification
-- **July 2026:** Islamic Development Bank Chairman met with Kazakhstan's Minister of Industry and Construction to expedite the **US$1.3 billion Development of Economic and Industrial Zones Project** — one of the IsDB's landmark financing operations in Kazakhstan.
-- Focus: industrial transformation, economic zones, infrastructure, private sector growth, quality job creation, and long-term economic diversification away from resource dependence.
+The government's target is to raise investment to 23% of GDP by 2029, with a $400 billion pipeline and a $25.5 billion FDI goal for 2026. The results are real but uneven. Manufacturing output exceeded mining for the first time in August 2026, led by pharmaceuticals, fabricated metals and machinery; non-oil growth reached 5.4%; and Kazakhstan climbed from 87th to 55th on the Economic Complexity Index between 2019 and 2024. FDI reached $20.5 billion in 2025, with manufacturing investment up 47% while mining investment fell by the same amount.
 
-## Structural headwinds
-- Oil and gas revenues fund the state apparatus and social spending. Diversification threatens vested interests.
-- The tech ecosystem is small and dependent on government support. Private venture capital is limited.
-- Corruption and weak rule of law deter foreign investment outside the resource sector.
-- Russia's economic gravity (EAEU membership, pipeline dependence) limits diversification options.
+## The New Frontiers
 
-## GDP trajectory (Oeconomus 2026)
-- Kazakhstan's nominal GDP projected at **$360.5B in 2026** (up from $302.8B in 2025) — a ~19% increase reflecting both real growth and resource price effects.
-- Per Oeconomus Foundation comprehensive analysis, Kazakhstan's economy has demonstrated resilience through multiple crises (2014 oil crash, 2020 pandemic, 2022 sanctions shock) and is now benefiting from multi-vector diversification strategies.
-- The GDP milestone positions Kazakhstan firmly as Central Asia's largest economy and the dominant economic power in the post-Soviet space outside Russia.
+Three sectors are meant to replace the rent. Tungsten: the Northern Katpar deposit is the world's largest undeveloped source, and a US-led consortium with up to $1.6 billion of federal financing is developing it, while a Chinese-owned mine already operates at Boguty. Uranium: Kazakhstan mined about 40% of global supply in 2025, and a 2025 subsoil law now requires Kazatomprom to hold 75% of new licences, with an exception for partners that transfer conversion technology — a clause China is best placed to meet. Technology: Data Center Valley, the AI law and the startup ecosystem are the third bet, though they remain small against a $360 billion economy.
 
-## Uranium law reshapes global fuel market (Oct 2026)
-- **The National Interest** analysis by Fyodor Dmitrenko: December 2025 Subsoil Use Code amendments rewrote terms on which foreigners may own Kazakh uranium. New production licenses: Kazatomprom must hold **75%+** (up from 50%). Mine extension/output increase: Kazatomprom must own **90%+**.
-- **Exception clause:** A foreign partner may hold a larger share if it transfers uranium conversion and enrichment technology, builds a processing plant on Kazakh soil, and guarantees to buy at least half that plant's output for the license's life.
-- **China wins:** Ulba-TVS fuel assembly plant (Kazakh-Chinese border) fabricates finished reactor fuel assemblies (~200 tons/yr under contract to 2041). Chinese firms take equity in deposits and build — exactly what the new rules reward.
-- **Russia retreats:** Rosatom sold stakes in Zarechnoye, Khorasan-U, Kyzylkum mines to Chinese entities. Kazatomprom approved a Chinese supply contract while refusing a near-identical Russian one to Rosatom's Siberian Chemical Plant.
-- **West sidelined:** No US firm can transfer enrichment technology and build in Kazakhstan to qualify for a larger stake. France's courtship has not produced fresh supply. The West leaves with communiqués while reactors and uranium go east.
-- Kazakhstan mined **~40% of global uranium supply** in 2025 (world's #1 producer since 2009). The law change is resource nationalism, not alignment — but its effects favor Beijing.
+## Current Status
+
+Diversification is genuine at the margin and fragile at the centre. Manufacturing is growing faster than mining, but it is still smaller in value and dependent on state support. The resource sectors are not shrinking; they are being reorganised around new owners and new processing requirements. Kazakhstan is learning to earn more from each tonne, not yet to earn less from the tonne itself.
