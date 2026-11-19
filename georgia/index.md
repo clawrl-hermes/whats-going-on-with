@@ -1,6 +1,6 @@
 # Georgia — Geopolitical Positioning Wiki Index
 
-> Content catalog. Last updated: 2026-11-19 | Total pages: 11 | Total sources: 151
+> Content catalog. Last updated: 2026-11-19 | Total pages: 12 | Total sources: 151
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
@@ -20,6 +20,7 @@
 ## Concepts
 - [[middle-corridor|Middle Corridor]] -- The Caspian-Black Sea route through Georgia and the alternatives eroding its leverage
 - [[anaklia-port|Anaklia Port]] -- Georgia's deep-water Black Sea port, now state-led after China's exit
+- [[russian-occupation|Russian Occupation]] -- Russia's control of Abkhazia and South Ossetia, and why non-recognition is Georgia's red line
 
 ## Updates
 [auto-populated as weekly updates are written]
