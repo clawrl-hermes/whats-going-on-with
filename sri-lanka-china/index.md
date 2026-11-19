@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-11-13 | Total pages: 8 | Total sources: 85
+> Last updated: 2026-11-19 | Total pages: 8 | Total sources: 89
 
 ## Overview
 

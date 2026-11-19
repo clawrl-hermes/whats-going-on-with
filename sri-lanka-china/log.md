@@ -118,3 +118,11 @@
 - Updated sources.md (79 → 85), index.md source count (79 → 85)
 - Updated current-situation.md: no (2027 budget presentation was already a watch row; no position, deadline or anchoring number moved)
 - Static content flags: domain-notes.md restructuring section omits the pending Hamilton Reserve Bank litigation as an open item
+
+## 2026-11-19 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources (homepages yielded no China items this week)
+  - 4 from Tavily
+- Updated sources.md (85 -> 89), index.md source count (85 -> 89)
+- Updated current-situation.md: yes (Sinopec $3.7bn Hambantota refinery recommended for termination, second Chinese project exit in a month)
+- Static content flags: domain-notes.md Hambantota section still lists the SINOPEC refinery as "pending" and the trackable indicator row assumes an FID decision; timeline has no 2027 budget entry and no party-to-party/CCP channel entry for 2026
