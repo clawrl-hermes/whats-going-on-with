@@ -112,3 +112,11 @@
 - Updated sources.md (132 → 140), index.md source count (132 → 140)
 - Updated current-situation.md: no (no position change, dated decision or deadline moved)
 - Static content flags: domain-notes.md Russia section lacks the 2025 gas-volume baseline now in sources.md; entities/european-union.md predates the Clingendael ranking that puts Georgia–EU ties below Georgia–Russia
+
+## 2026-11-19 - Weekly Source Update
+- New sources ingested:
+  - 10 from priority sources
+  - 1 from Tavily
+- Updated sources.md (140 → 151), index.md source count (140 → 151)
+- Updated current-situation.md: yes (Russia channel revived with a named counterpart and first meeting scheduled)
+- Static content flags: entities/russia.md has no reference to the revived special-representative channel; entities/united-states.md predates the Democratic sweep taking both chambers; domain-notes.md Russia section lacks the format's revival

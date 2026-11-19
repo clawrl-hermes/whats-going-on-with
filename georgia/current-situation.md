@@ -1,21 +1,21 @@
 ---
 title: Current Situation
-last_updated: 2026-11-11
+last_updated: 2026-11-19
 ---
 
-Georgia's European path is now formally stalled and its domestic politics are turning coercive. The European Commission's November enlargement report said accession is "de facto halted", Freedom House downgraded the country's internet freedom status, and the Constitutional Court has begun hearings on a government move to ban five opposition parties holding more than 800,000 votes. Tbilisi is compensating with a regional pivot: it hosted all five Central Asian foreign ministers and appointed a serving deputy foreign minister as envoy to Russia. The government's claim that accommodation with Moscow protects trade was undercut in October when Russia banned imports from seven Georgian companies.
+Georgia has opened a direct channel to Moscow without conceding any of its red lines. On 16 November Russia's Foreign Ministry confirmed contact with Giorgi Zurabashvili, the prime minister's special representative for relations with Russia, naming Deputy Foreign Minister Mikhail Galuzin as his counterpart, with a first meeting expected within weeks; Kobakhidze says full relations cannot be restored while Russia occupies Abkhazia and South Ossetia. Brussels meanwhile left Georgia out of the 15–16 November Enlargement Forum and keeps accession de facto halted, and the IMF now warns that the EU rupture and domestic political tension could deter investors. In Washington, the Democratic sweep of the midterms has put the MEGOBARI Act back within reach.
 
 ## The Open Question
 
-Can Georgian Dream ban the opposition and win the 2027 election while keeping both the EU accession door and Russian trade open?
+Can Georgian Dream turn a revived Moscow channel into trade relief before EU isolation, the party ban and a hostile Congress foreclose its alternatives?
 
 ## What to Watch For
 
 | Date | What to Watch | Why It Matters |
 |---|---|---|
-| November | Constitutional Court hearings on banning five opposition parties | Could remove Georgian Dream's main electoral challengers |
-| December | Court ruling or next hearing | Determines whether the ban takes effect before the 2027 campaign |
-| By end-November | EU response to the enlargement report | Whether visa suspension or funding measures follow the "de facto halted" finding |
-| December | 2027 budget | Shows the government's priorities with accession frozen |
-| November–December | Russian trade measures after the seven-company ban | Tests whether accommodation actually protects Georgian exports |
-| November–December | Work of the new envoy to Russia | Whether the channel produces a deal on Abkhazia or South Ossetia |
+| By end-November | First Galuzin–Zurabashvili meeting, venue unannounced | Whether the revived channel yields trade, transport or visa concessions |
+| November–December | Russian inspections and the seven-company import ban | Whether Moscow eases or extends the October trade restrictions |
+| December | Constitutional Court hearings on banning five opposition parties | Whether the ban advances before the 2027 campaign |
+| December | Passage of the 2027 budget | Tests spending priorities with accession frozen and a 2.5% deficit planned |
+| By mid-December | EU decisions on visa-free travel and sanctions follow-up | Whether Brussels moves from language to measures |
+| December | NBG and IMF data on transfers and investment | Whether falling Russian inflows and delayed capital spending show up in the numbers |
