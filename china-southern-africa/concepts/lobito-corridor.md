@@ -1,39 +1,26 @@
 ---
-title: "Lobito Corridor"
-summary: "The 1,600km rail route from the Copperbelt to Angola's Atlantic port, and the contest over who controls it."
+title: Lobito Corridor
+summary: The 1,600km rail route from the Copperbelt to Angola's Atlantic port, and the contest over who controls it.
 ---
 
 # Lobito Corridor
 
-The Lobito Corridor is a planned 1,600km (1,000 mile) railway and logistics corridor that would connect the mineral-rich Copperbelt of the Democratic Republic of Congo and Zambia to the Atlantic port of Lobito in Angola. It represents one of the most ambitious infrastructure-for-resources projects in Southern Africa and would fundamentally reshape mineral export flows from the region.
+## Overview
 
-## Strategic significance
-- **Bypasses traditional routes:** Currently, Copperbelt minerals flow south through South African ports (Durban) or east through Dar es Salaam (Tanzania). The Lobito Corridor would redirect these flows westward to the Atlantic.
-- **Reduces South Africa's logistics leverage:** South Africa has historically been the dominant logistics hub for Southern African mineral exports. The Lobito Corridor weakens this position.
-- **Chinese backing:** The project is backed by Chinese financing and construction firms, with the EU and US also contributing through the G7 Partnership for Global Infrastructure and Investment (PGII) as a counterweight to Chinese influence.
-- **Transcontinental vision:** African governments (Angola, DRC, Zambia, Tanzania) are pursuing "interoperability" to link the Atlantic port of Lobito with Indian Ocean ports (Dar es Salaam, Mozambican ports), creating a seamless transcontinental mineral export network.
+The Lobito Corridor is a 1,600km railway and logistics route linking the Copperbelt of the DRC and Zambia to the Atlantic port of Lobito in Angola. It is the flagship of Western infrastructure policy in Southern Africa, presented as an alternative to Chinese-controlled routes through Dar es Salaam and Durban. The line itself is a colonial-era railway that China refurbished, which is the central irony of the project.
 
-## Critical assessment (July 2026)
+## Structure
 
-ECDPM analysis (Jones/Hameiri, July 2026) argues the Lobito Corridor narrative is significantly overstated:
+The corridor has three segments. Angola's Lobito Atlantic Railway concession operates the existing line to the coast. In the DRC, Mota-Engil holds a 30-year concession for the 1,004km Dilolo-Sakania section through Kolwezi, Tenke and Lubumbashi, with investment of up to $1.8 billion. In Zambia, the Africa Finance Corporation is developing a 515km extension, having named Webuild, Mota-Engil and Ictas as preferred bidders in October 2026. Rehabilitation aims to lift capacity from about 400,000 tonnes a year toward 4.6 million.
 
-- **Inflated spending figures:** The headline $4B US / €2B EU figures are reached by collating years of pre-existing and often unrelated spending. Actual EU support across all three corridor countries is under €112 million. The $550M US railway loan had not yet been disbursed.
-- **Minerals still flow to China:** 80-95% of copper on the Lobito line is China-bound. The consortium's only major offtake deal is with a mine 45%-owned by a Chinese state enterprise, and the consortium is ~11% Chinese-owned.
-- **Zambian spur unlikely:** The proposed rail link into Zambia's Copperbelt is now costed at $4-5B (not the original $1B assumption) and "almost certainly will not be built."
-- **Not a new railway:** The project is a limited rehabilitation of a colonial-era line in Angola that China had already refurbished.
-- **Corruption concerns:** Consortium members have faced serious corruption allegations tied to Angola's former dos Santos government.
+## Strategic Significance
 
-## Current status (July 2026)
-- Construction is underway but has faced delays
-- Flooding in western Angola in June 2026 suspended rail traffic along sections of the corridor
-- The project remains a focal point of US-China-EU competition for influence in the region
-- 70% of DRC's exports currently go to China; the Lobito Corridor would give these exports an Atlantic option
-- US Millennium Challenge Corporation has expanded a $491M agriculture compact with Zambia to also support Lobito Corridor infrastructure
+The corridor gives Copperbelt minerals an Atlantic outlet that avoids the South African and Tanzanian bottlenecks. Kamoa-Kakula shipped its first copper anodes via Lobito in early 2026, cutting the journey to seven days by rail against three weeks or more by truck. For Washington and Brussels the appeal is geopolitical: a route that does not run through Chinese-financed ports. For Angola it is a chance to convert oil dependence into transit revenue.
 
-## October-November 2026 developments
-- **AFC names Lobito builders (Oct 27, 2026):** AFC names Webuild (Italy), Mota-Engil (Portugal), Ictas (Turkey) as preferred bidders for Zambia's 515km Lobito railway section. Mota-Engil and Odebrecht selected for Angolan section. Construction cost up to $5B. AFC CEO pitches Lobito energy corridor using 2 GW Angolan stranded hydro. Contract talks to start November 2026. $3-5B fundraising targeting late 2027 close. (Source 94, Semafor)
-- **Mota-Engil concession:** DRC awards Mota-Engil a 30-year concession covering ~1,004-km Dilolo-Sakania railway through Kolwezi, Tenke, and Lubumbashi with up to $1.8B investment — the Congolese section of the wider Lobito system (Newsbase, September 2026).
-- **AFC fundraising:** Africa Finance Corporation raising $3-5B for Lobito extension (315 km new rail in DRC, 515 km in Zambia), with financial close targeted Q4 2027 and completion planned 2030. At least 10 African and international lenders in discussions (Newsbase).
-- **Capacity targets:** Lobito rehabilitation to increase capacity from ~400,000 to 4.6M tonnes/year. Current throughput ~200,000 tonnes international cargo in 2025.
-- **Kamoa-Kakula first Lobito shipment:** Shipped first copper anodes via Lobito in early 2026 (7-day rail vs 3+ weeks by truck). Regular copper shipments flowing as of September 2026.
-- **Western financing disbursed:** $753M DFC/DBSA package (December 2025) now disbursed; $553M DFC loan + $200M DBSA.
+## The Paradox
+
+ECDPM's July 2026 analysis found the headline numbers overstated. Actual EU support across the three countries was under €112 million, not the billions advertised, and the $550 million US railway loan had not been disbursed. Between 80% and 95% of the copper moving on the line is China-bound. CEDESA argued that China effectively controls a key segment through its influence over Mota-Engil and its ownership of the mines feeding the line. In September a Chinese contractor, NERIN, won a $498 million tailings contract at Chingola, the corridor's planned Zambian terminus.
+
+## Current Status
+
+The AFC named preferred bidders in October and is targeting financial close in late 2027, with construction costs now estimated at up to $5 billion. A DRC-US joint committee met in November to review the Dilolo-Sakania link and Grand Inga. Throughput remains far below the target, and the commercial logic still points east: the corridor can shorten the route without changing where the copper goes.

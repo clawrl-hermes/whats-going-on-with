@@ -1,33 +1,26 @@
 ---
-title: "Botswana"
-summary: "Diamond-dependent economy diversifying into copper and battery metals, elevated to a comprehensive strategic partnership with China in October 2026."
-role: "Country"
+title: Botswana
+summary: A diamond-dependent economy using Chinese capital to diversify into copper and battery metals.
+role: Country
 ---
 
 # Botswana
 
-Botswana has emerged as a new frontier in China's Southern African mineral strategy. The country holds some of the world's largest diamond reserves and is increasingly exploring its copper, silver, and battery metals potential. In October 2026, Botswana was elevated to a comprehensive strategic cooperative partnership with China following President Duma Boko's maiden state visit to Beijing, marking a significant deepening of bilateral ties.
+Botswana is the newest front in China's Southern African minerals push. The government wants to convert diamond dependence into a copper and battery-metals industry, and it is using Chinese capital and market access to do it. In October 2026 the relationship was elevated to a comprehensive strategic cooperative partnership during President Duma Boko's state visit to Beijing.
 
-## Key minerals
-- Diamonds (one of the world's largest reserves)
-- Copper (emerging)
-- Silver (emerging)
-- Battery metals (exploration stage)
+## Key Actions
 
-## Key Chinese actors
-- MMG (acquired 100% of Khoemacau copper mine)
-- Various Chinese firms exploring green mining cooperation
+- **2024-2026:** China's MMG acquired 100% of the Khoemacau copper mine, adding Botswana to its Copperbelt footprint.
+- **October 2026:** Boko's Beijing visit elevated ties to a comprehensive strategic partnership.
+- **October 2026:** China pledged cooperation on green mining and local beneficiation, and urged Botswana to use its zero-tariff regime for non-diamond exports.
+- **October 2026:** The two sides signed agreements on security cooperation, health and human-resources development.
 
-## Notable developments (2026)
+## Current Position
 
-### Comprehensive Strategic Cooperative Partnership (October 13-14, 2026)
-China and Botswana formally elevated bilateral relations to a comprehensive strategic cooperative partnership during President Duma Boko's state visit to Beijing. President Xi Jinping told Boko that "Africa's resources belong to Africa," positioning China as a champion of African value addition. Multiple cooperation documents were signed covering green mining, security cooperation, health, and human resources development.
+Botswana has the institutions and credit rating that most regional peers lack, which makes it an attractive partner for Chinese firms looking for lower-risk copper. The partnership is broad but shallow on money: the October documents commit to cooperation and expertise rather than announcing large investments. The copper assets are being bought by Chinese companies, not financed by Chinese banks.
 
-Key elements of the partnership:
-- **Green mining commitment:** China pledged to share expertise in sustainable resource extraction and support Botswana in developing mining strategies for greater local beneficiation, moving beyond raw ore exports toward processing and manufacturing.
-- **Zero-tariff access:** Xi urged Botswana to take advantage of China's zero-tariff regime for African countries to boost non-diamond exports, particularly agricultural and agro-processed products.
-- **Digital economy and Smart Education:** China committed to cooperation in digital technology and a Smart Education Project using AI and digital infrastructure to modernize Botswana's educational system.
-- **Security cooperation:** Expanding scope under China's Global Security Initiative, covering capacity building, intelligence sharing, and non-lethal equipment for domestic law enforcement and border management.
+## Constraints
 
-### MMG Khoemacau copper acquisition
-Chinese miner MMG acquired 100% of the Khoemacau copper mine in Botswana (2024-2026), adding Botswana to China's Copperbelt footprint alongside DRC and Zambia operations. White & Case analysis (Oct 2026) identifies this as part of China's pattern of majority-stake acquisitions with patient capital and long-term control.
+- Diamond revenue is falling, and copper projects will take years to replace it.
+- The economy is small, so a single mine acquisition can dominate the sector.
+- The government's reputation for governance gives it leverage to demand beneficiation, but it has little processing capacity of its own.

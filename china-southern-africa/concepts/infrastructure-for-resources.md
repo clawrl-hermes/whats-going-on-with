@@ -1,22 +1,26 @@
 ---
-title: "Infrastructure-for-Resources Model"
-summary: "The model of trading roads, rail and ports for mining concessions and mineral access."
+title: Infrastructure-for-Resources Model
+summary: The model of trading roads, rail and ports for mining concessions and mineral access, and why it is changing.
 ---
 
 # Infrastructure-for-Resources Model
 
-The "infrastructure-for-resources" model is the defining feature of China's engagement in Southern Africa. Under this arrangement, Chinese state-backed banks and construction firms finance and build roads, railways, ports, hospitals, and government buildings in exchange for mining concessions, mineral export rights, or equity stakes in resource deposits. This model allows mineral-rich but capital-poor nations to develop infrastructure they could not otherwise afford, while guaranteeing China long-term access to critical minerals at favorable terms.
+## Overview
 
-The model has evolved from simple extraction deals (2000s–2010s) to more sophisticated arrangements involving local processing requirements, joint ventures, and infrastructure corridors that create entirely new export routes bypassing traditional Western-controlled logistics networks. In June 2026, Zimbabwe took the model further: Finance Minister Mthuli Ncube began discussions with China Railway on resource-backed financing for road and railway construction, explicitly modeled on the DRC's $7 billion Sicomines deal. This represents the infrastructure-for-resources model being applied to transport infrastructure that primarily serves Chinese mining firms' logistics needs.
+Infrastructure-for-resources is the organising model of China's Southern African engagement. Chinese policy banks and state construction firms finance roads, railways, ports and power in exchange for mining concessions, export rights or equity in resource deposits. For cash-poor governments the appeal is speed: the project is built without an IMF programme or Western procurement rules. For Beijing the appeal is a supply chain secured decades into the future.
 
-## Key characteristics
-- **Debt-backed:** Loans from China Exim Bank, China Development Bank, or ICBC secured against mineral exports or mining concessions
-- **Turnkey delivery:** Chinese construction firms build infrastructure, often using Chinese labor and materials
-- **Long-term lock-in:** Mining concessions typically span 25–30 years, locking in Chinese access well into the 2050s
-- **Processing shift:** Host nations (notably Zimbabwe) are increasingly demanding domestic beneficiation, pushing Chinese firms to build processing plants locally
+## How It Works
 
-## Criticisms
-- Debt dependency (Zambia's debt crisis is partially attributed to Chinese lending)
-- Environmental and labor concerns at Chinese-operated mines
-- Limited technology transfer despite promises
-- Undermining of local industries that can't compete with Chinese construction firms
+A typical package combines three contracts. A Chinese bank lends to the host government or a joint venture, usually secured against future mineral revenue. A Chinese contractor builds the asset, often with Chinese labour and equipment. A Chinese mining company receives the concession, offtake or a stake that repays the loan. The DRC's $7 billion Sicomines agreement is the template; Zimbabwe's 2026 talks with China Railway over road and rail financing follow it. The concessions commonly run 25 to 30 years, which is the point: the infrastructure outlives the government that signed for it.
+
+## Why It Persists
+
+The model survives because it solves a real problem. Southern African states need power, rail and ports, and Western finance is slower, smaller and conditional. Chinese lenders also accept mineral collateral that commercial banks will not. The 2026 version adds a new condition from the African side: processing. Governments now want a plant as well as a railway, and Chinese firms have found that building one is the price of keeping access to the ore.
+
+## Where It Breaks Down
+
+The weaknesses are structural. Commodity prices can fall below the value needed to service the loan. Governments lose fiscal room, and the collateral can outlast the political mandate that granted it. Turnkey delivery often transfers little technology, and local suppliers rarely win work. The model also concentrates risk in a single creditor, which is what happened in Zambia's debt crisis.
+
+## Current Status
+
+The model is shifting from "resources for infrastructure" to "resources for processing". Zimbabwe's export bans and the DRC's concentrate ban have forced Chinese firms to fund sulphate and smelter capacity onshore, while Beijing still finances the rail and power those plants need. The bargain now covers more of the value chain, but the ownership and financing structure has not changed.

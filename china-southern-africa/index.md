@@ -1,6 +1,6 @@
 # Chinese Infrastructure and Minerals in Southern Africa — Wiki Index
 
-> Content catalog. Last updated: 2026-11-18 | Total pages: 15 | Total sources: 105
+> Content catalog. Last updated: 2026-11-19 | Total pages: 20 | Total sources: 105
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
@@ -18,6 +18,11 @@
 - [[tanzania]] -- Indian Ocean gateway and emerging rare-earth and processing hub
 - [[zambia]] -- Copperbelt producer and Lobito/TAZARA corridor node
 - [[zimbabwe]] -- Africa's largest lithium reserves and a test case for forced beneficiation
+- [[china]] -- The region's largest trading partner, infrastructure financier and mineral processor
+- [[united-states]] -- The main challenger, backing corridors and mine deals but not processing capacity
+- [[european-union]] -- A large but slow financier of processing and corridors
+- [[united-kingdom]] -- A financial and diplomatic player with historical ties but no corridor-scale money
+- [[india]] -- The newest competitor, entering through private capital and offtake
 
 ## Concepts
 - [[critical-minerals-strategy|Critical Minerals Strategy]] -- China's drive to secure cobalt, lithium, copper, rare earths and platinum

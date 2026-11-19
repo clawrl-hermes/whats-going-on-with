@@ -1,60 +1,26 @@
 ---
-title: "Critical Minerals Strategy"
-summary: "China's drive to secure cobalt, lithium, copper, rare earths and platinum through infrastructure, equity and processing."
+title: Critical Minerals Strategy
+summary: How China uses equity, infrastructure and processing to control Southern Africa's cobalt, copper, lithium and rare-earth chains.
 ---
 
 # Critical Minerals Strategy
 
-China's Southern African infrastructure plays are fundamentally driven by a strategic imperative to secure critical mineral supply chains for the 21st century. The minerals targeted — cobalt, lithium, copper, rare earths, platinum group metals — are essential inputs for electric vehicles, AI computing infrastructure, advanced defense systems, and next-generation energy grids. Africa holds an estimated 30% of the world's critical mineral reserves.
+## Overview
 
-## Minerals of strategic interest
+China's Southern African strategy aims at control of the midstream, not merely access to ore. Cobalt, copper, lithium, platinum-group metals and rare earths feed batteries, grids, defence production and AI infrastructure, and Beijing treats security of those chains as a strategic interest rather than a commercial one. Africa holds roughly 30% of global critical-mineral reserves, and Southern Africa holds most of the cobalt, lithium and platinum that China cannot source at home.
 
-| Mineral | Primary use | Key SA sources | China's position |
-|---------|-------------|----------------|------------------|
-| Cobalt | EV batteries, alloys | DRC (~70% global reserves) | Controls ~60% of DRC exports; dominates global refining |
-| Lithium | EV batteries, energy storage | Zimbabwe (Africa's largest reserves) | Controls >70% of Africa's operating lithium output; $1bn+ invested in Zimbabwe processing; Huayou, Sinomine, Chengxin |
-| Copper | Electronics, wiring, renewables | Zambia (Copperbelt), DRC | Major creditor/operator; ~40% of Zambia's exports routed through Chinese-linked ports |
-| Rare earths | Magnets, electronics, defense | Tanzania (neodymium, praseodymium confirmed 2026) | Chinese firm confirmed Tanzania deposits; China dominates global processing |
-| Platinum group metals | Catalysts, hydrogen tech, jewelry | Zimbabwe | Zimbabwe demanding Chinese firms build smelters domestically |
-| Nickel | EV batteries, stainless steel | Zimbabwe (nickel-copper-PGM deposits) | Chinese investment in nickel production for solar batteries |
+## How It Works
 
-## China's competitive advantages
-- **First-mover:** Decades of sustained investment before Western competition materialized. The OECD counted 79 African mines owned by or involving Chinese interests in 2026 (30 in DRC, 10 in SA, 8 in Zambia); 35 of 38 mines in DRC/Zambia produce copper/cobalt. Chinese companies invested $4.5B (2022-2023) to secure stakes in Africa's lithium mines across Zimbabwe, Namibia, and Mali.
-- **Regional processing consolidation:** Shenghe Resources is building a Mineral Separation Plant in Pangani, Tanzania to serve as its regional heavy mineral sands processing hub for all of Africa — raw materials from Mozambique, South Africa, and Madagascar shipped to Tanzania for value addition. This new model concentrates Chinese mineral processing in one East African hub rather than building processing at each mine site.
-- **Integrated supply chain:** Controls mining operations, processing, refining, and battery manufacturing. Controls >70% of Africa's operating lithium, ~60% of DRC copper/cobalt exports, and 90% of rare earth processing accessible to African mines. BYD alone secured six African lithium mines ensuring feedstock through 2032. Refining concentration across six key transition minerals reached a record 70% share in the top country in 2025 (up from 68% in 2020); for most of these minerals that country is China — the DRC ships most of its cobalt unrefined to Chinese processors, Tanzania and Mozambique ship unrefined graphite, and Zambia exports copper concentrate rather than refined metal.
-- **Processing dominance as strategic chokepoint:** China processes ~90% of the world's battery-grade graphite. The IEA projects China will still refine 90% of battery-grade graphite in 2040 despite diversification efforts. DRC cobalt leaves the country unrefined for Chinese processors; the pattern holds across all six transition minerals: Africa mines, China processes, the world manufactures. Domestic processing in Africa is estimated capable of creating 2.3M jobs and lifting continental GDP by ~12% — representing the scale of what the current arrangement leaves uncaptured.
-- **Dominant offtake position (CRS R49080):** In 2025, Africa supplied 99.9% of China's global cobalt imports, 91% of chromium, 86% of natural graphite, 81% of manganese, 79% of uranium/thorium, 78% of aluminum, and 74% of titanium imports. Chinese state banks provided ~$2.48B of $2.68B credit for CMOC's Tenke Fungurume acquisition alone.
-- **Infrastructure control:** Owns or finances the logistics corridors (rail, port) that minerals flow through. The SADC railway revolution — including TAZARA rehabilitation, Lobito Corridor concession, and Tanzania's standard gauge railway — further integrates Chinese mineral supply chains across the region.
-- **Maritime dominance:** China accounts for ~22% of all African trade; Chinese firms operate/finance/hold stakes in ~1/3 of African ports. New shipping corridors connect African port clusters to Chinese hubs (Qingdao, Tianjin, Yantai) and adjacent free-trade zones. China's maritime integration extends to port operations software, automation, AI, cybersecurity tech, and maritime training programs.
-- **DRC copper cathode exports to US surge:** US DRC copper cathode imports hit record 53,290 tonnes in July 2026 (23.9% of US copper imports). US Section 232 tariff (50%) on semi-finished copper products since August 1, 2025 reshapes trade flows — refined cathode exempt from tariff, boosting imports. Congolese cathode trading at discounts to COMEX-approved metal (bne IntelliNews, September 2026). This shift represents the first significant reorientation of Congolese copper exports away from China toward Western markets.
-- **Financing leverage:** Chinese banks offer loans when Western lenders won't, secured against mineral assets. Zimbabwe (June 2026) is now negotiating resource-backed infrastructure financing with China Railway, modeled on DRC's $7 billion Sicomines deal — extending the infrastructure-for-resources model into new territory.
-- **Beneficiation pivot:** Responding to host-nation demands for domestic processing rather than withdrawing
-- **BRICS coordination:** China is leveraging BRICS as an institutional buffer against G7 de-risking. At the June 2026 BRICS National Security Advisors meeting, Wang Yi called for deeper strategic minerals cooperation. China's embedded position across BRICS supply nodes (DRC cobalt, Zambia copper, Zimbabwe lithium/manganese, Brazil niobium, Russia nickel) creates overlapping supply chains that make a clean Western decoupling impossible.
-- **TAZARA renewal:** China has a ~$1.4B plan to rehabilitate the TAZARA railway (completed 1975, Zambia-Dar es Salaam), renewing its infrastructure position in the Copperbelt's Indian Ocean export route.
-- **BRI investment surge:** In H1 2026, Chinese BRI investment in Africa surged 254% to $33.5B, with Africa attracting 67.24% of global BRI activity. Energy 28.7%, metals/mining 17.2%, transport 14.4% ($46.99B including construction contracts). Report suggests US/EU tariffs on Chinese goods may be accelerating investment into Africa as tariff-avoidance manufacturing hubs.
-## Emerging competitor: India
-A new dimension of competition is emerging as Indian billionaires expand into African minerals, ports, and telecom:
-- **Vedanta Resources** (Anil Agarwal): Copper mining in Zambia via Konkola Copper Mines
-- **Adani Group** (Gautam Adani): Mining, shipping, port, and energy projects facilitating India-Africa trade
-- **ArcelorMittal** (Lakshmi Mittal): Mining and metal operations in Liberia, South Africa
-- **Airtel Africa** (Sunil Bharti Mittal): One of Africa's largest mobile networks, 14-country presence
-- **India's $4B National Critical Mineral Mission:** Launched to target African supply chains for lithium, copper, cobalt, graphite, rare earths
-- Despite India's growth, China remains Africa's largest trading partner with $141B exports to Africa and $60B surplus (2025)
+Four instruments reinforce each other. Chinese firms take equity in mines, often buying distressed or junior assets. Policy banks and state construction companies finance roads, rail, ports and power that the host government cannot fund. Long-term offtake then ties the output to Chinese refineries. When a host government bans raw exports, Chinese processors build the plant onshore, keeping the export channel open while capturing the processing margin. The result is a chain in which China owns the mine, moves the ore, refines it and often sells the finished material back to the region.
 
-## Evolving governance: China's emerging sustainability framework
-China is developing new governance mechanisms for overseas mining, responding to international scrutiny:
-- **CCCMC Sustainable Mining Code:** The China Chamber of Commerce of Metals, Minerals and Chemicals Importers and Exporters opened a call for inputs into a new code covering environmental management, stakeholder engagement, biodiversity conservation, occupational health and safety, mine closure, and community relations — aligning with EU frameworks.
-- **National Human Rights Action Plan (2026-2030):** Encourages Chinese enterprises operating overseas to undertake human rights due diligence, strengthen grievance mechanisms, and minimize adverse social/environmental impacts (inspired by UN Guiding Principles on Business and Human Rights).
+## What China Has Gained
 
-## Competing initiatives: Western counter-strategies
-- **US Millennium Challenge Corporation:** Expanded $491M Zambia agriculture compact to support Lobito Corridor critical minerals infrastructure
-- **US-Kenya Mrima Hill deal:** Preliminary agreement for access to rare earth/niobium deposit valued at $62.4B (June 2026)
-- **G7 Critical Minerals Action Plan:** Adopted at Evian summit (June 17, 2026), targeting supply chain security
-- **FORGE:** Forum on Resource Geostrategic Engagement led by the Trump administration
-- **Minerals Security Partnership:** US-led initiative with partner nations
+In the DRC, Chinese firms hold majority or minority stakes in 54% of critical mining projects and 70-80% ownership of the largest copper and cobalt mines. In Zimbabwe, Huayou's Arcadia plant produced the country's first lithium sulphate in April 2026. Chinese BRI investment in Africa reached $33.5 billion in the first half of 2026, up 254%, with metals and mining taking a growing share. Zero-tariff treatment for 53 African countries, granted in May, adds a trade channel alongside the investment one.
 
-## Africa's export restriction wave
-~13 African countries have introduced export restrictions, taxes, or bans on unprocessed minerals, inspired by Indonesia's nickel policy:
-- Zimbabwe: banned raw lithium ore (2022), set full concentrate export ban for January 2027
-- Namibia: prohibited export of unprocessed lithium, cobalt, graphite, manganese, rare earths without written approval
-- Similar debates underway in Zambia, DRC, Ghana, Tanzania, Malawi, Guinea
+## Where It Is Exposed
+
+Success has raised the price of entry. Export bans in Zimbabwe and the DRC force Chinese firms to invest in processing they might otherwise have sited in China, and host governments now demand local content and technology transfer. Western counter-finance, especially the EU's €12 billion South Africa package and the Quad's $20 billion framework, is beginning to fund alternative projects. Power deficits, rail bottlenecks and currency risk in the DRC and Zimbabwe can stall plants after they are announced.
+
+## Current Status
+
+The 2026 shift is from extraction to processing. Zimbabwe's sulphate plants and the DRC's concentrate ban are the test cases, and both depend on infrastructure China is still building. Beijing presents the model as industrialisation; Western governments call it lock-in. For Southern African states, the practical question is whether the plants survive the export bans and whether any of the margin stays local.

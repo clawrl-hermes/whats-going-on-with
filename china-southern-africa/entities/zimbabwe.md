@@ -1,54 +1,28 @@
 ---
-title: "Zimbabwe"
-summary: "Africa's largest lithium reserves and a test case for forced beneficiation."
-role: "Country"
+title: Zimbabwe
+summary: Africa's largest lithium reserves and the test case for forced beneficiation.
+role: Country
 ---
 
 # Zimbabwe
 
-Zimbabwe holds Africa's largest lithium reserves and significant deposits of platinum, gold, chrome, and diamonds. In 2024, the government banned the export of raw lithium concentrates — a move specifically designed to force Chinese mining companies to invest in domestic processing and beneficiation. The policy worked: Chinese firms (Zhejiang Huayou Cobalt, Sinomine Resource, Chengxin Lithium, Sichuan Yahua Industrial) committed ~$1 billion to lithium sulphate processing plants. In April 2026, Zimbabwe exported its first shipment of lithium sulphate from the Arcadia mine — a continental first. The government has also demanded Chinese investors build platinum smelters and diamond polishing centers locally.
+Zimbabwe is the clearest test of whether export bans can move a mineral chain onshore. It holds Africa's largest lithium reserves and banned raw concentrate exports in 2024, forcing Chinese miners to build sulphate plants. The government now wants to extend the model to platinum, rare earths and batteries, and it is using the threat of a wider 2027 ban to keep investors building.
 
-In April 2026, Zimbabwe adopted a producer quota system for lithium concentrate exports ahead of a planned full ban by 2027. China currently absorbs about 15% of Zimbabwe's lithium concentrate exports. Zimbabwe represents a case study in using resource nationalism to shift China's role from raw extractor to domestic processor.
+## Key Actions
 
-## Key minerals
-- Lithium (Africa's largest reserves)
-- Platinum (including palladium, rhodium, ruthenium, iridium, osmium)
-- Gold
-- Chrome
-- Diamonds
-- Cobalt
-- Rare earth elements
+- **April 2026:** Zimbabwe shipped its first lithium sulphate from Huayou's Arcadia plant.
+- **July 2026:** Mutapa confirmed $300 million from Huayou and Tsingshan for the Sandawana mine and processing plant.
+- **July 2026:** The government designated 13 more minerals, including cobalt, PGMs and rare earths, for a raw-export ban from 2027.
+- **August 2026:** Sinomine secured an extra 300,000-tonne export quota, taking announced Chinese investment in lithium and energy to $2.8 billion.
+- **September 2026:** A delegation led by Deputy Mines Minister Fred Moyo visited Chinese parent companies to study processing and technology transfer.
+- **October 2026:** Tsingshan's Dinson signed a rail partnership with NRZ covering 1.1 million tonnes of coal and 600,000 tonnes of steel.
 
-## Key Chinese actors
-- Zhejiang Huayou Cobalt (Prospect Lithium Zimbabwe, Sandawana Mine JV)
-- Tsingshan Holding Group (Sandawana Mine lithium processing JV with Mutapa Energy Minerals)
-- Sinomine Resource Group
-- Chengxin Lithium
-- Sichuan Yahua Industrial
-- China Railway (resource-backed infrastructure financing discussions, June 2026)
+## Current Position
 
-## Key developments (August-September 2026)
-- **H1 2026 lithium exports up 230%:** Zimbabwe exported lithium products worth $782M in H1 2026 (up from $237M H1 2025). Lithium accounted for ~12% of mineral export revenue, behind only gold and PGMs. Total 2026 lithium production forecast: 2.14M tonnes. Country exported 1.13M tonnes spodumene in 2025 (15% of China's lithium concentrate imports).
-- **ZIDA approves $1.59B in Q2 2026:** ZIDA issued 284 licences. Mining 86 licences ($768.5M), manufacturing 43 ($496.7M). Total mineral export receipts $2.53B in H1 2026; lithium sulphate generated $73.2M. Average manufacturing investment ($11.6M/licence) now exceeds mining ($8.9M).
-- **IMF confirms 8.3% growth in 2025:** Zimbabwe's economy grew 8.3% in 2025, projected ~5% in 2026, supported by agriculture, mining, and favourable gold prices.
-- **Sandawana $300M deal confirmed:** Mutapa Energy Resources secured $300M from Chinese entities (Huayou Cobalt, Tsingshan) to develop the Sandawana lithium deposit with both a mine and processing facilities. Confirms deal previously reported as "negotiating."
-- **Huayou lithium carbonate plant ~90% complete:** Prospect Lithium Zimbabwe nearing completion of its lithium carbonate plant. Huayou investments have generated >$1.1bn in foreign exchange for Zimbabwe.
-- **13-mineral ban extension:** From start of 2027, 13 additional critical minerals — including cobalt, platinum group metals (PGMs: palladium, rhodium, ruthenium, iridium, osmium), and rare earth elements — cannot be exported in raw form. Government frames this as "structured inclusion" rather than exclusion.
-- **Battery/solar panel ambition:** Government ambitions extend beyond lithium sulphate/carbonate to manufacturing lithium batteries and solar panels locally.
-- **Smaller miner concerns:** Smaller miners fear exclusion from processing infrastructure, proposing a toll-smelting system with shared facilities at transparent rates.
-- **Bikita Minerals:** $400M investment for lithium precursor chemicals; phase one (60,000 tonnes/year) expected Q2 2027.
-- **Export data:** Q1 2026 mineral sales reached $983.85M — volumes up 27%, values up 79% following the raw lithium export ban.
-- **Total Chinese investment reaches $2.8B:** Sinomine Resource Group secures additional 300,000t lithium export quota (after initial 200,000t in April). Total announced Chinese investment in Zimbabwe's lithium and energy sector reaches $2.8 billion. Bikita spodumene capacity upgraded to 400,000t/year. Sinomine building 100,000t/year lithium sulphate plant at Bikita (completion mid-2027). Sichuan Yahua also building lithium sulphate plant at Kamativi. (Source 67, August 2026)
-- **Lithium export earnings surge 4x:** Zimbabwe recorded $2.16B in lithium export sales in the nine months to September 30, 2026 — nearly four times total 2025 sales. Driven by 283% increase in spodumene concentrate prices. Spodumene $1.8B, petalite $155M, lithium sulphate $190M — confirming beneficiation strategy driving exponential value growth. (Source 87, October 2026)
-- **Chinese investment in Zimbabwe lithium ~$2B since 2021:** Chinese companies have invested approximately $2 billion in Zimbabwe's lithium sector since 2021. Sinomine's Bikita says it will have invested >$900M in direct beneficiation by end of 2027, including ~$383M by end of 2026. Bikita expanding spodumene flotation from 2 to 3.3 million tonnes by Q2 2027. (Source 88, October 2026)
+The policy has raised export earnings: lithium sales reached $2.16 billion in the nine months to September, nearly four times 2025, and sulphate contributed $190 million. But the plants are Chinese-owned, and miners are already asking to delay the January 2027 ban because capacity will not be ready. Zimbabwe has changed where the processing happens without changing who owns it.
 
-## Non-Chinese investor diversification (September-October 2026)
-- **Indian entry — LOHUM:** Indian critical-minerals company LOHUM dispatched first lithium ore from 10 spodumene blocks (~1,100 ha, 30-40M tonnes ore) in Matabeleland South on September 9, 2026 — first Indian company to produce lithium from overseas assets. Targets ~30,000 tonnes lithium carbonate/year within 2-3 years, with initial processing in Zimbabwe and refining in India. Plans to develop local processing capacity ahead of January 2027 concentrate export ban. (Source 88)
-- **ZIDA-InvestHK MoU:** Zimbabwe Investment and Development Agency signed non-binding MoU with Invest Hong Kong (publicized September 9, 2026) to refer Asian investors into mining, mineral beneficiation, manufacturing, and energy. No specific investment commitments announced. (Source 88)
-- **Karo Platinum special mining lease:** Karo Platinum (Tharisa plc) signed 25-year special mining lease on August 24, 2026 over 23,903 hectares on the Great Dyke. State holds 15% free-carried interest with option to acquire further 11%. Phase 1 targets ~226,000 oz PGMs/year. $300M senior secured bond raised September 2026. First ore targeted late 2027. (Source 88)
+## Constraints
 
-## Lithium beneficiation delegation to China (September 2026)
-On September 17, 2026, Deputy Minister of Mines Fred Moyo led a government delegation to China to visit the parent companies of Chinese lithium investors operating in Zimbabwe — Zhejiang Huayou Cobalt, Sinomine Resource Group, Chengxin Lithium, and Sichuan Yahua. The delegation included engineers, marketers, and commercial specialists alongside the deputy minister, tasked with studying technical and commercial practices at the Chinese parent companies to support technology transfer and beneficiation capacity building. This represents a shift from policy-level beneficiation mandates toward hands-on institutional engagement, with the Zimbabwean government investing organizational capacity to ensure Chinese processing commitments translate into operational capability transfer.
-
-## Tsingshan Dinson Steel rail partnership with NRZ (October 2026)
-On October 5, 2026, Tsingshan's Dinson Iron and Steel Company (Disco) signed a strategic transport partnership with the National Railways of Zimbabwe (NRZ) to significantly expand freight capacity. Grand Railway Solutions, a Dinson subsidiary, will provide locomotives, wagons, and fuel while NRZ contributes infrastructure and train crews. The deal covers haulage of 1.1 million tonnes of coal from Hwange (600km distance) and 600,000 tonnes of finished steel products to markets. The rail upgrade includes a $27 million rehabilitation of the 80km Gweru-Mvuma track and construction of a 50km railway line from Mvuma to the Manhize steel plant under a build-operate-transfer (BOT) model, where Grand Railway Services funds construction, transfers it to NRZ, and recovers costs through offsets. This deal represents Chinese industrial actors directly financing rail infrastructure to support their own logistics — deepening the infrastructure-for-resources model within Zimbabwe beyond the government-to-government framework. NRZ freight collapsed from a peak of 12 million tonnes in the 1990s to 2 million tonnes in 2025.
+- Power shortages and a collapsed railway limit plant utilisation and exports.
+- The 2027 ban may leave 1.4 million tonnes of concentrate stockpiled if plants slip.
+- Currency instability and informal employment weaken the domestic supply chain.
