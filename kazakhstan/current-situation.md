@@ -1,21 +1,21 @@
 ---
 title: Current Situation
-last_updated: 2026-11-13
+last_updated: 2026-11-20
 ---
 
-Kazakhstan is turning its balancing act into institutional membership. At the 30 October summit of Turkic states in Ankara, Tokayev proposed admitting Russia to the OTS+ format or as an observer, extending the multi-vector hedge into the one bloc built on Turkic identity. Washington eased the other side of the squeeze on 16 October, when Executive Order 14436 imposed and then waived the Graham Act's Russia sanctions and third-country tariffs with no expiry date, leaving OFAC listings intact but no new duties on buyers of Russian energy. Oil exports have not rerouted at scale: BTC loadings rose to 168,000 tons in October from 130,000 in September against a 1.7 million ton target for 2026, and analysts expect the CPC and the Middle Corridor to coexist rather than substitute for each other. The AI and minerals hedges advanced mostly on paper, with Kazakhstan at 41st of 70 in IMD's first digital and AI ranking and a World Bank compact targeting up to $20 billion of minerals investment by 2031.
+Kazakhstan's economic machine lost both of its operating chiefs in a single week. On 11 November the security service's anti-corruption arm detained Samruk-Kazyna chief executive Nurlan Zhakupov and Kazakhstan Temir Zholy head Yelzhas Otynshiyev, and on 16 November Tokayev replaced the KNB's own chairman, calling the case a signal of large-scale corruption in state-owned companies; the fund holding roughly $88 billion of state assets, which underwrites the People's Construction programme and owns the railway, is without a permanent head while the prime minister promises investors a replacement and tighter board oversight. The economic data remained strong, with GDP up 4.5% in January-October and manufacturing up 9.3%, but the IMF said on 18 November that "a higher policy rate appears warranted" with inflation at 9.2%, putting it at odds with the National Bank before the 4 December decision. UK sanctions on SIBUR on 12 November brought the compliance problem into the $7.4 billion Silleno polyethylene project, 40.9% built. The external hedge is unchanged: Tokayev's 30 October offer to seat Russia in the Turkic bloc has not been taken up, with the Kremlin saying no invitation had arrived, while the Caspian Bridge with Azerbaijan acquired its first commercial contracts.
 
 ## The Open Question
 
-Does offering Russia a seat in the Turkic bloc buy Tokayev leverage in Moscow, or does it cost him the AI and corridor partnerships that make the hedge worth anything?
+Does the corruption purge restore the credibility of the state holding company, or does it stall the investment programme that the diversification story depends on?
 
 ## What to Watch For
 
 | Date | What to Watch | Why It Matters |
 |---|---|---|
-| Late November | Whether Washington keeps the Graham Act waiver in place | It has no expiry date, so continuation is a political choice that sets Kazakhstan's tariff exposure |
-| November–December | BTC and Baku-Supsa monthly loadings | Whether the reroute becomes structural or stays incremental |
-| December | G20 summit in Miami | Hudson Institute expects Tokayev to use it to renew a Ukraine ceasefire appeal |
+| 1 December | October-November inflation report | Tests whether the IMF's 9.6% year-end forecast holds |
+| 4 December | National Bank base rate decision | Whether the bank holds at 15.75% against IMF advice to tighten |
+| By early December | Appointment of a Samruk-Kazyna chief executive | Decides who runs the $88 billion portfolio and People's Construction |
+| December | Silleno and KPI financing | Whether banks keep lending to ventures with a sanctioned minority shareholder |
+| December | G20 summit in Miami | Tokayev's expected ceasefire appeal and his sideline meetings |
 | December | 2027 budget adoption | Funds People's Construction and the electricity expansion |
-| December | Uranium reserve and processing rules | Whether processing-for-access draws Western buyers under the new World Bank compact |
-| December | AIFC licensing decisions on crypto platforms | Sets the regulatory tone for the digital asset pivot |

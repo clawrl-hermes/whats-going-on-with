@@ -115,3 +115,11 @@
 - Updated sources.md (128 → 136), index.md source count (128 → 136)
 - Updated current-situation.md: yes (Tokayev proposed admitting Russia to the Turkic bloc)
 - Static content flags: domain-notes.md gives nominal GDP as about $360 billion for 2026 against $397.92 billion in the IMF-based ranking added this week
+
+## 2026-11-20 - Weekly Source Update
+- New sources ingested:
+  - 6 from priority sources
+  - 5 from Tavily
+- Updated sources.md (136 → 147), index.md source count (136 → 147)
+- Updated current-situation.md: yes (Samruk-Kazyna and KTZ chiefs detained and KNB chairman replaced)
+- Static content flags: domain-notes.md still gives 2026 nominal GDP as about $360 billion against $397.92 billion in the IMF-based ranking; domain-notes.md domestic-politics section has no Samruk-Kazyna leadership purge or KNB change; timeline has no November entries for the arrests, the SIBUR designation or the IMF mission; index has no entity page for Samruk-Kazyna or KTZ
