@@ -1,6 +1,6 @@
 # Bolivia's Political Situation Wiki Index
 
-> Content catalog. Last updated: 2026-11-18 | Total pages: 10 | Total sources: 97
+> Content catalog. Last updated: 2026-11-20 | Total pages: 12 | Total sources: 97
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
@@ -13,6 +13,8 @@
 - [[evo-morales|Evo Morales]] -- Former president (2006-2019) and MAS leader, a fugitive in Chapare facing multiple warrants
 - [[movement-for-socialism-mas|Movement for Socialism (MAS)]] -- Long-dominant socialist party, reduced to a handful of seats after internal fragmentation
 - [[jorge-quiroga|Jorge Quiroga]] -- Former president and conservative candidate defeated by Paz in the 2025 runoff
+- [[imf|International Monetary Fund]] -- The anchor of the stabilisation programme and the source of its political conditions
+- [[united-states|United States]] -- Paz's closest external backer, supplying security cooperation and critical-minerals access
 
 ## Concepts
 - [[bolivia-lithium-geopolitics|Bolivia's Lithium Geopolitics]] -- China, Russia and Western competition over Bolivia's underdeveloped lithium reserves
