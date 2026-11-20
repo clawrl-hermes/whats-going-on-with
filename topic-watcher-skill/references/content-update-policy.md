@@ -10,8 +10,8 @@ The principle: **ingestion and interpretation run on different clocks.** Weekly 
 
 | Job | Owns | Cadence | May not touch |
 |---|---|---|---|
-| **Weekly source monitor** (existing cron) | `sources.md`, `updates/<date>.md`, `log.md`, `current-situation.md` review, index counts | Weekly | `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, `articles/` |
-| **Static content review** (one job per topic) | `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, corrections to `index.md` counts | Monthly or event-driven | `sources.md`, `updates/`, new fact-finding |
+| **Weekly source monitor** (existing cron) | `sources.md`, `updates/<date>.md`, `log.md`, the `current-situation.md` watch table, index counts | Weekly | `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, `articles/`, the current-situation prose and open question |
+| **Static content review** (one job per topic) | `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, `current-situation.md`, corrections to `index.md` counts | Monthly or event-driven | `sources.md`, `updates/`, new fact-finding |
 
 The weekly job **does not edit static content**, even when it spots an error. It records the mismatch in its run report (not in the published update) and the static review acts on it. This keeps the weekly diff small and reviewable, and stops the same fact being re-litigated every week.
 
@@ -26,7 +26,7 @@ The static review **does not ingest**. It works only from what the weekly job al
 | `sources.md` | Weekly | Every run | Append rows only; never rewrite history |
 | `updates/<date>.md` | Weekly | Every run | New file; corrections only with a note |
 | `log.md` | Weekly | Every run | Append counts-only entry |
-| `current-situation.md` | Weekly (review) | Every run, rewrite only on material change | Full rewrite when triggered; otherwise untouched |
+| `current-situation.md` | Static (prose); Weekly (watch table) | Prose monthly or event; table every run | Weekly may only add, move or remove watch rows. The 3-5 sentences and open question change only at static review. |
 | `index.md` | Weekly (counts) / Static (catalog) | Counts each week; catalog at review | Counts only, then full catalog at review |
 | `domain-notes.md` | Static | Monthly or event | Search queries, data points, dedup pitfalls, source types, indicators — no developments |
 | `overview.md` | Static | Monthly or event | Rewrite only when the topic's central question changes |
@@ -39,23 +39,32 @@ A topic with four weekly updates a month therefore produces four small commits a
 
 ---
 
-## 3. The current-situation review rule
+## 3. The current-situation rule
 
-Every weekly run ends by re-reading `current-situation.md` against the update it just wrote. Rewrite **only** if at least one of these is true:
+`current-situation.md` has two layers with different clocks.
 
-1. **A position changed** — an actor accepted, rejected or redefined a demand.
-2. **A dated decision was taken or missed** — a vote, signing, deadline, court ruling, election.
-3. **A deadline moved** — new date, slipped date, or a scheduled event cancelled.
-4. **An anchoring number shifted materially** — a ratification margin, a trade share, a deployment, a gas volume.
-5. **An actor entered or left** the story in a way that changes the open question.
+**The assessment (3-5 sentences and the open question) — static owned.**
 
-If none applies, leave the page untouched, including `last_updated`. Do not refresh wording for its own sake.
+Rewrite it only at a static review or after a structural event. The open question belongs to the topic, not to the week; it should survive several reviews unchanged. Change it only when the central tension changes — a negotiation concludes, a government falls, a war ends, a strategy is abandoned. Do not rephrase it because a new event made a related question interesting.
 
-When rewriting:
-- Replace the whole page: the 3-5 status sentences, the open question, and the watch table. Never append to the old table.
-- `last_updated` is the revision date, not the newest source's date.
-- The watch table covers the next four weeks from the revision date; remove rows whose date has passed.
-- Cap: one rewrite per weekly run. If two material changes land, the more consequential one defines the page; the other is captured in the update.
+The assessment describes the standing state: the balance of leverage, the binding constraint, the direction of travel. It is not a recap of the last update, and it should not carry a date unless that date marks a change of state.
+
+**The watch table — weekly maintained.**
+
+Every weekly run checks the table against the update it just wrote. Allowed edits:
+
+- move a row whose scheduled date changed;
+- remove a row whose date has passed or whose decision has been taken (the update records what happened);
+- add a row when a new dated decision enters the next four weeks.
+
+Do not rewrite the "Why It Matters" text for style, and do not add speculative rows without a scheduled decision behind them. If a change looks structural — a position changed, an actor entered or left, an anchoring number moved — do not rewrite the prose. Flag it under "Static content flags" and let the next static review decide.
+
+When the static review rewrites the page:
+
+- Replace the whole page, not one sentence.
+- `last_updated` is the revision date.
+- The table covers the next four weeks and every row carries a date.
+- Cap: one rewrite per review.
 
 ---
 
@@ -86,10 +95,11 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 5. **Timeline.** Add only defining events, under the correct month parent. If an event is already in an update but is not defining, it does not enter the timeline.
 6. **Entities.** Update `Current Position` only if the actor's stance or leverage changed. Do not turn `Key Actions` into a news log — a new bullet must be an action that moved the process.
 7. **Concepts.** Update the status section. Add a new section only when a genuinely new mechanism appears (a new corridor, a new legal instrument).
-8. **Domain notes.** Review the search queries, key data points, dedup pitfalls, high-signal source types and the single `Trackable Indicators` table. Fold in what the last month of runs learned. No chronology, no `## Key Recent Developments`. Authoring rules are in `SKILL.md` → Create or Update Domain Notes.
-9. **Overview.** Change only if the central question changed. `tagline`, `region` and `started` require the user's approval.
-10. **Verify and balance.** Run the citation check from `content-substance.md` §11. For bilateral topics, confirm both sides are represented.
-11. **Close the loop.** Update `index.md` counts and catalog. Commit as `static review: <topic> <date>`. Add to `log.md`:
+8. **Current situation.** Read it against the article and the latest updates. Rewrite the 3-5 sentences only if the standing state changed; keep the open question unless the central tension moved. Rebuild the watch table for the next four weeks.
+9. **Domain notes.** Review the search queries, key data points, dedup pitfalls, high-signal source types and the single `Trackable Indicators` table. Fold in what the last month of runs learned. No chronology, no `## Key Recent Developments`. Authoring rules are in `SKILL.md` → Create or Update Domain Notes.
+10. **Overview.** Change only if the central question changed. `tagline`, `region` and `started` require the user's approval.
+11. **Verify and balance.** Run the citation check from `content-substance.md` §11. For bilateral topics, confirm both sides are represented.
+12. **Close the loop.** Update `index.md` counts and catalog. Commit as `static review: <topic> <date>`. Add to `log.md`:
 
     ```
     ## YYYY-MM-DD - Static Content Review
@@ -115,7 +125,7 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 ## 7. Rollout plan
 
 1. **Review these guidelines.** No topic content changes yet.
-2. **Update the seven weekly cron prompts** to: stop editing static pages, add the current-situation review step, and record static mismatches in the run report rather than the update.
+2. **Update the seven weekly cron prompts** to: stop editing static pages, maintain only the current-situation watch table, and record static mismatches in the run report rather than the update.
 3. **Create one static-review job per topic**, each running monthly, with its own commit and the log entry above. Separate jobs keep failures isolated and let topics run on different dates.
 4. **Pilot on one topic** — Armenia-Azerbaijan is already the reference — for one cycle. Adjust the caps and triggers before applying to the rest.
 5. **Then standardise the remaining topics**, one at a time, with the user reviewing each.
@@ -128,7 +138,7 @@ Everything else waits for the monthly cycle. A minister's speech or a single pol
 |---|---|
 | Can the weekly job fix an entity page? | No. Flag it; static review decides. |
 | Can the weekly job update domain-notes.md? | No. It reads it for context; the static review maintains it. |
-| Can the weekly job rewrite current-situation every week? | Only on a material change; otherwise leave it. |
+| Can the weekly job rewrite current-situation prose? | No. It maintains the watch table when a date moves or passes; the static review rewrites the assessment. |
 | Can a static review add a new source? | No. It works from `sources.md`. |
 | How often is the timeline touched? | Monthly, or after a structural event. |
 | What if a static page contradicts a new update? | The update is authoritative for the new fact; the static page is corrected at review, not in the weekly commit. |

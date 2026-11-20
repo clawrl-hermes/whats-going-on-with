@@ -20,7 +20,7 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `references/cron-job-management.md` | Cron job model format, ordering dependencies, batch updates, and re-triggering failed jobs |
 | `references/content-contract.md` | **Authoritative** format: publish allowlist, per-file schemas, validation rules |
 | `references/content-substance.md` | **Authoritative** substance: what each published file should say, length, structure, sourcing and attribution |
-| `references/content-update-policy.md` | **Authoritative** cadence: which job owns which file, when static content is reviewed, and the current-situation review rule |
+| `references/content-update-policy.md` | **Authoritative** cadence: which job owns which file, when static content is reviewed, and how the current-situation assessment and watch table are maintained |
 | `references/content-migration-and-validation.md` | Operational: migration procedure, sources normalization recipes, validation checker, timeline editorial pass, backfill steps, pitfalls |
 | `templates/source-monitor-notification.md` | Notification format template for Telegram delivery of weekly source monitor results |
 | `templates/overview.md` | Starter overview.md for a new topic (the site's topic page) |
@@ -188,11 +188,11 @@ This is distinct from the cron-based weekly source monitor — the user is handi
 
 **Trigger:** The weekly cron job fires, or the user says "run <topic>" / "update <topic>".
 
-Follow `references/weekly-source-monitor-prompt.md`. The run owns four files and nothing else:
+Follow `references/weekly-source-monitor-prompt.md`. The run owns three files and the current-situation watch table, nothing else:
 
 - **Append `sources.md` rows** in the five-column shape with a clean `Publication` name and an ISO date (`YYYY-MM-DD` or `YYYY-MM`).
 - **Write `updates/<YYYY-MM-DD>.md`** for the run date — 3 to 6 bullets in `- **Headline** — body` form, each ending with source links in parentheses. No frontmatter, no title, no filler. If fewer than three substantive developments, skip the file rather than pad it.
-- **Review `current-situation.md`** and rewrite it only on a material change; otherwise leave it, including `last_updated`. See `references/content-update-policy.md` §3.
+- **Maintain the `current-situation.md` watch table** — move, remove or add dated rows when a scheduled decision moves or passes. Do not rewrite the 3-5 sentences or the open question; those are static content. If no row changes, leave the file, including `last_updated`. See `references/content-update-policy.md` §3.
 - **Keep `log.md` to counts and pages updated** — never per-source summaries (see Rewrite or Maintain the Ingest Log).
 - **Do not edit static content** — `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`. Record any mismatch under "Static content flags" in the run report; the periodic static review owns the fix.
 
@@ -202,10 +202,10 @@ Follow `references/weekly-source-monitor-prompt.md`. The run owns four files and
 
 Follow `references/monthly-static-review-prompt.md` and `references/content-update-policy.md` §4-5. The reviewer works only from material already in the wiki — it does not search for sources and does not touch `sources.md`, `updates/` or `articles/`.
 
-- **Owns:** `overview.md`, `timeline/`, `entities/`, `concepts/`, `domain-notes.md`, `index.md` catalog.
+- **Owns:** `overview.md`, `timeline/`, `entities/`, `concepts/`, `current-situation.md`, `domain-notes.md`, `index.md` catalog.
 - **Basis:** the updates written since the last `Static Content Review` entry, plus the new `sources.md` rows.
 - **Cap:** five pages per cycle; list the rest as deferred.
-- **Rules:** actor-first edits; timeline gets only defining events; overview changes only when the central question changes; domain notes stay structural; no single-source "fixes".
+- **Rules:** actor-first edits; timeline gets only defining events; current-situation describes the standing state and keeps its open question unless the central tension moved; overview changes only when the central question changes; domain notes stay structural; no single-source "fixes".
 - **Close:** commit `static review: <slug> <date>`, add the log entry, and report pages changed, deferred, unconfirmed, gaps and anything needing approval. A no-op makes no commit.
 
 ### Rewrite or Maintain the Ingest Log

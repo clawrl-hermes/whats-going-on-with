@@ -38,13 +38,12 @@ Step 4a: Write /root/wiki/{slug}/updates/<YYYY-MM-DD>.md for today's run — 3 t
   - No background, no filler, no "quiet week" note, nothing about the ingest process.
   - If fewer than three substantive developments, do not write the file; say so in the report instead of padding it.
 
-Step 4b: Review /root/wiki/{slug}/current-situation.md against what you just recorded. Rewrite the whole page only if a material change occurred:
-  - a position changed (an actor accepted, rejected or redefined a demand)
-  - a dated decision was taken or missed
-  - a deadline moved
-  - an anchoring number shifted materially
-  - an actor entered or left the story
-  If none applies, leave the page untouched, including `last_updated`. If one applies, replace the 3-5 status sentences, the open question and the watch table; set `last_updated` to today; keep the watch table to the next four weeks and drop rows whose date has passed. At most one rewrite per run.
+Step 4b: Maintain the watch table in /root/wiki/{slug}/current-situation.md. Do NOT rewrite the 3-5 status sentences or the open question — they are static content owned by the monthly review.
+  - Read the table against what you just recorded.
+  - Allowed edits: move a row whose scheduled date changed; remove a row whose date has passed or whose decision was taken; add a row for a new dated decision falling in the next four weeks.
+  - Every row must carry a date and a scheduled decision behind it. No speculative rows.
+  - If the standing situation changed structurally — a position changed, an actor entered or left, an anchoring number moved — do not rewrite the prose. Add it to "Static content flags" and let the monthly review decide.
+  - If no row changes, leave the file untouched, including `last_updated`.
 
 Step 5: Append an entry to /root/wiki/{slug}/log.md in this shape:
   ## YYYY-MM-DD - Weekly Source Update

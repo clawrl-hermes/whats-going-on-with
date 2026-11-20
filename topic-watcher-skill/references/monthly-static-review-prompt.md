@@ -16,6 +16,7 @@ You may edit:
 - `timeline/`
 - `entities/`
 - `concepts/`
+- `current-situation.md`
 - `domain-notes.md`
 - `index.md` (catalog and counts)
 
@@ -40,6 +41,7 @@ Step 2: Triage every static page. Mark each: no change / wording / structural.
 Step 3: Apply the substance rules. The actor-first test decides every edit: does this change how the actor affects the topic?
   - **Entities:** opening paragraph, `Key Actions` (only actions that moved the process), `Current Position`, `Constraints`. Update `Current Position` only if the actor's stance or leverage changed. Do not turn `Key Actions` into a news log. Keep 230-350 words.
   - **Concepts:** update `Current Status` / `Open Issues`. Add a section only for a genuinely new mechanism. Keep 240-420 words.
+  - **Current situation:** describe the standing state, not the week. Rewrite the 3-5 sentences only if the balance of leverage, the binding constraint or the direction of travel changed. Keep the open question unless the central tension moved; it should normally survive several reviews. Rebuild the watch table for the next four weeks.
   - **Timeline:** add only defining events, under the correct month parent, as a two-space-indented sub-bullet. No day labels, no commentary, no event that is merely news. If a month has nothing defining, leave it out. Keep 40-100 lines.
   - **Overview:** change only if the topic's central question changed. `tagline`, `region` and `started` require the user's approval — propose them in the report instead of editing.
   - **Domain notes:** search queries, key data points, dedup pitfalls, high-signal source types, one `Trackable Indicators` table. No chronology, no `## Key Recent Developments`.
