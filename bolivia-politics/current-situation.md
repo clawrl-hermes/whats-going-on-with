@@ -1,21 +1,20 @@
 ---
 title: Current Situation
-last_updated: 2026-11-18
+last_updated: 2026-11-20
 ---
 
-Paz's programme now depends on an Assembly that cannot organise itself: on 17 November the Chamber of Deputies adjourned again without agreeing the committees for the 2026–27 term, leaving the chamber unable to process legislation in an orderly way, including the 2027 budget due by 30 November. Financing is moving regardless, with two IDB credits worth $750 million authorised by decree but payable into the Treasury only once the Assembly ratifies them. The Morales front has shifted from cancelled marches to the Chapare, where an Umopar ambush on 11 November was followed by the government calling him a cartel chief and by the Procuraduría seeking murder charges and an Interpol red notice over the Las Américas raid. The justice purge produced its first convictions, of two Santa Cruz court officials, while the exiled Supreme Court president asks Paz to stop what he calls a persecution. Both Washington and La Paz have now nominated ambassadors, formalising ties that went 18 years without embassy chiefs.
+Paz has stabilised the economy without building the coalition needed to sustain it. The float and the IMF programme ended the immediate currency crisis, but the Assembly cannot organise itself, the fuel-subsidy phase-out is due in January, and the government is ruling by decree against the same streets that produced the blockades. The Morales case has moved from marches to criminal charges, raising the political cost of adjustment. The binding constraint is legislative: the next steps need laws the government cannot pass.
 
 ## The Open Question
 
-Will the Assembly cut the 2027 budget to the IMF's deficit ceiling by 30 November, now that it cannot agree even on its committees?
+Can Paz convert an IMF stabilisation into durable political authority before the fuel-subsidy phase-out and the 2027 budget test his decree-based government?
 
 ## What to Watch For
 
 | Date | What to Watch | Why It Matters |
 |---|---|---|
-| By 30 November | Assembly vote on the 2027 budget | The bill must lose Bs1.79bn to meet the IMF ceiling and still carries Bs11bn of gasoline subsidy |
-| By 30 November | Whether the Chamber of Deputies votes its committee lists | Without committees there is no orderly route for the budget or the investment bill |
-| December | Ratification of the $750m in IDB contracts | The credits stay outside the Treasury until the Assembly approves them |
+| By 30 November | Assembly vote on the 2027 budget | The bill must cut Bs1.79bn to meet the IMF ceiling while still carrying Bs11bn of gasoline subsidy |
+| By 30 November | Chamber of Deputies committee lists | Without committees there is no orderly route for the budget or the investment bill |
+| December | Ratification of the $750 million in IDB credits | The money stays outside the Treasury until the Assembly approves the contracts |
 | December | Interpol's handling of the red-notice request for Morales | Decides whether he can leave the Chapare without immediate detention |
-| December | Gasoline and GNV subsidy decision | The programme schedules elimination for January 2027 and the budget funds it anyway |
-| December | El Niño emergency spending | Drought relief adds to a deficit already above the ceiling |
+| January 2027 | Gasoline and GNV subsidy elimination | The first test of whether the government can enforce the adjustment it legislated |

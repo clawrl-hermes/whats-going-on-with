@@ -1,19 +1,20 @@
 ---
 title: Current Situation
-last_updated: 2026-11-19
+last_updated: 2026-11-20
 ---
 
-Sri Lanka's debt restructuring is effectively finished and the economy is growing, but the investment leg of the China relationship is contracting. Within a month China Merchants Port Holdings walked away from the $392 million Colombo logistics hub and a Cabinet-appointed negotiating committee recommended terminating Sinopec's $3.7 billion Hambantota refinery, inviting fresh proposals instead. Colombo's stated reason is energy sovereignty: it would not hand a private supplier 40% of refinery output after this year's fuel shock exposed how quickly private importers withdraw, and Sinopec — which had already asked to withdraw in March or April — is being let go without compensation. On the sovereign side the seventh review still awaits the IMF board, which tied approval to the 2027 budget presented on 12 November, while reserves were $6.85 billion at end-September against an $8 billion year-end target.
+Sri Lanka's recovery is consolidating while its investment relationship with China contracts. Debt restructuring is essentially complete and growth has returned, but Colombo has now walked away from two flagship Chinese projects, the Colombo logistics hub and the Hambantota refinery, on sovereignty grounds it is unlikely to reverse. Beijing has shifted to smaller renminbi credit, grants and trade rather than mega-infrastructure, while India and the West fill the space. The binding constraint is time: the IMF programme expires in March 2027 and reserves are still below target, so replacement capital must arrive before the fiscal buffer runs out.
 
 ## The Open Question
 
-Can Colombo replace the two Chinese industrial projects it has now walked away from — the Hambantota refinery and the Colombo logistics hub — before the IMF programme expires in March 2027, without conceding the domestic market access it just refused?
+Can Sri Lanka replace the Chinese investment it has given up with Indian, Western or domestic capital before the IMF programme expires?
 
 ## What to Watch For
 
 | Date | What to Watch | Why It Matters |
 |---|---|---|
 | By end-November | IMF Board decision on the seventh review | Releases about $345 million and confirms the programme is on track before its March 2027 expiry |
-| By end-November | Cabinet's formal decision on cancelling the Sinopec agreement | Converts a committee recommendation into a signed cancellation and starts the fresh RFP |
+| December | Cabinet's formal cancellation of the Sinopec agreement | Converts the committee recommendation into a signed decision and starts the replacement process |
 | December | SLPA's PPP tender for the Colombo logistics hub | Tests whether replacement capital exists after China Merchants' exit |
 | December | 2027 budget passage | Confirms the fiscal path the IMF board approved |
+| By end-December | Reserves against the $8 billion target | Shows whether the external buffer is rebuilding fast enough for the programme's final year |
