@@ -121,3 +121,11 @@
 - Updated sources.md (86 → 93), index.md source count (86 → 93)
 - Updated current-situation.md: yes (2027 budget passage is now the binding deadline, Code of Conduct at 70% on the eve of the summit, decommissioning backlog quantified)
 - Static content flags: timeline has no November entries for the DI-Hassan Group killings (8 and 12 November) or the Basilan judge's assassination; sources.md row 86 gives the summit as 16-18 November, while CNA and DFA briefings put it at 15-17 November; domain-notes still describes the ASG as regrouping in Basilan without the October casualty figure
+
+## 2026-11-21 - Weekly Source Update
+- New sources ingested:
+  - 4 from priority sources
+  - 1 from Tavily
+- Updated sources.md (93 → 98), index.md source count (93 → 98)
+- Updated current-situation.md: no (no watch-row date moved, passed or entered the four-week horizon)
+- Static content flags: timeline has no November entries for the fourth-phase decommissioning figure, the Anti-Terrorism Act warrants for the Nabalawag mayor, or the close of the ASEAN chairship without a Code of Conduct; domain-notes still lacks the ASG October casualty figure and a trackable indicator for ATA prosecutions of political violence
