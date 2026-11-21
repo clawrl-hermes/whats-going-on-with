@@ -141,3 +141,11 @@
 - Updated sources.md (217 → 228), index.md source count (217 → 228)
 - Updated current-situation.md: yes (CSTO penalty applied, Dublin leaders' meeting, TRIPP ratification signed)
 - Static content flags: domain-notes.md (CSTO Article 25 now applied, not pending; Reform Council 30 December deadline; TRIPP term stated as 49 years vs 99-year rights elsewhere), timeline (Dublin meeting, CSTO decision, TRIPP signature missing), entities/pashinyan and entities/putin (December Moscow schedule, CSTO penalty), concepts/tripp (ratification signed 10 November, Iran assurances)
+
+## 2026-11-21 - Weekly Source Update
+- New sources ingested:
+  - 3 from priority sources
+  - 10 from Tavily
+- Updated sources.md (228 → 241), index.md source count (228 → 241)
+- Updated current-situation.md: yes (draft constitution publication now dated 23 November, row moved from "by 30 November")
+- Static content flags: domain-notes.md (draft publication now fixed for 23 November; Pashinyan's resignation pledge and the 70-vote referendum threshold absent from domestic constraints), entities/pashinyan (18 November resignation pledge), concepts/tripp (US stake given as 75% by bne IntelliNews against 74% elsewhere; Bayramov's demand for a voice in design parameters), current-situation prose ("two-thirds majority" framing versus the 70-of-105 vote needed to call the referendum)
