@@ -1,33 +1,26 @@
 ---
-title: "Spoiler Dynamics in the Mindanao Conflict"
-summary: "The armed groups, clan networks and political actors that undermine the Bangsamoro peace process."
+title: Spoiler Dynamics in the Mindanao Conflict
+summary: The armed groups, clan networks and political actors that can undermine the Bangsamoro peace process.
 ---
 
 # Spoiler Dynamics in the Mindanao Conflict
 
-"Spoilers" are actors who actively undermine peace processes because they benefit from continued conflict. The Mindanao conflict has a complex spoiler ecology.
+## Overview
 
-## Spoiler types
+A spoiler is an actor who benefits from continued conflict and works to undermine a peace process. Mindanao has several kinds, and they do not share a programme. That fragmentation is what makes the post-election period dangerous: violence is less likely to come from a unified insurgency than from armed groups, clan networks and politicians pursuing separate grievances.
 
-### Total spoilers
-- Hardline Islamist factions (ISIS-affiliated groups in Lanao del Sur/Maguindanao) who reject any peace with Manila and seek to establish an Islamic state through violence
-- Goal: collapse the BARMM process entirely
-- **BIFF (Salahuddin faction):** Being rebuilt by "Muhammad Usman" through familial networks in the SPMS Box marshlands (Maguindanao) — despite the 2023 surrender of Turaife faction, the Salahuddin faction continues fighting.
-- **DIMG (Dawlah Islamiyah-Maute Group):** Leadership vacuum after Abu Zacariah killed (June 2023), but rebuilding underway in Piagapo municipality (Lanao del Sur). Notably recruited children under 10 during the 2017 Marawi siege.
+## Total Spoilers
 
-### Limited spoilers
-- MILF commanders and politicians who lost intra-party power struggles and may resort to violence or sabotage to derail elections
-- Abu Sayyaf criminal-terrorist hybrids who profit from instability
+Jihadist groups reject the peace agreement outright. The BIFF's Salahuddin faction is being rebuilt through family networks in the Maguindanao marshlands, and the Dawlah Islamiyah-Maute Group has regrouped in Lanao del Sur despite losing leaders. Islamic State East Asia Province has been demoted from province status and no longer receives central funding, which reduces its capacity but not its appeal to marginalised youth. These groups cannot defeat the state; they can make governance costly.
 
-### Greedy spoilers
-- Local politicians and strongmen (warlords) who exploit the transition period to consolidate power, control smuggling routes, and extract rents
-- Some have links to both extremist groups and the formal political process
+## Limited and Greedy Spoilers
 
-## China as indirect spoiler
-China is not a direct spoiler of the Bangsamoro peace process. However, Beijing's South China Sea pressure diverts Philippine military and political resources away from Mindanao stabilization, creating space for spoiler groups to operate. This is a structural enabling condition rather than intentional meddling.
+Limited spoilers are actors inside the system who resort to violence when they lose. MILF commanders who lost the BFP-UBJP split, politicians denied nominations, and candidates who hired private armed groups all fit this category. Greedy spoilers are warlords and local strongmen who profit from smuggling, land disputes and the transition's uncertainty. In Maguindanao, rido and electoral rivalry are often the same conflict.
 
-## Counter-spoiler dynamics
-The May 2026 MILF-Army joint anti-ISIS front in Lanao del Norte is a positive signal: when the peace process is credible, former insurgents become partners against extremists. The key variable is whether the September 2026 elections reinforce or undermine that credibility.
-The July 2026 MILF Base Command declarations against DI-MG and NPA (persona non grata) in Lanao del Norte further strengthen the counter-spoiler architecture by extending community-level rejection of extremist groups. However, Commander Bravo's threat of a return to armed struggle (July 2026) introduces the risk that MILF elements themselves could become spoilers if CAB commitments remain unfulfilled — transforming a key counter-spoiler asset into a potential spoiler actor.
-- **August 2026:** Panenekelan Group emerges in Maguindanao del Sur — linked to DI and BIFF, recruiting young individuals (including students), displaying firearms via social media. Twin bombing incidents targeting security personnel after July 16 gun ban. CCAA warns election season creates market for armed groups offering intimidation services to political actors. Stalled MILF decommissioning keeps weapons in circulation — 24 firearms/explosives incidents in 2 weeks of gun ban (avg 2/day).
-- **November 2026:** ACLED notes that with the MILF now embedded in the new parliamentary order, the Bangsamoro government itself becomes a target set — jihadist groups can cast attacks on BARMM organs as strikes on a "man-made" system, which raises the political value of violence even as its frequency stays low.
+## The MILF as Swing Actor
+
+The MILF is both the peace process's main asset and its main risk. Its commanders provide local intelligence and manpower against jihadist groups, as the joint anti-ISIS front in Lanao del Norte showed. But Commander Bravo's threat to return to armed struggle if the agreement is not honoured means the MILF could become a spoiler if decommissioning and reintegration fail. The 2026 election embedded both factions in parliament, which reduces that risk without removing it.
+
+## Current Status
+
+Violence is diffusing rather than disappearing. Jihadist attacks are fewer and more localised, while clan and political violence rises around elections and resource disputes. The new Bangsamoro government is itself a target: attacks on its institutions can be framed as strikes on a man-made system, which raises the political value of violence even at low frequency.

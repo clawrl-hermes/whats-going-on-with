@@ -1,19 +1,26 @@
 ---
-title: "China"
-summary: "South China Sea adversary whose maritime pressure shapes Philippine security and ASEAN diplomacy."
-role: "Country"
+title: China
+summary: South China Sea adversary whose maritime pressure absorbs the Philippine military bandwidth that Mindanao stabilization needs.
+role: State
 ---
 
 # China
 
-The Philippines' largest trading partner and most significant geopolitical adversary. China's activities in the South China Sea — island-building, coast guard harassment, gray-zone coercion — directly impact Philippine security and, by extension, the government's bandwidth for internal stabilization.
+China is not a participant in the Bangsamoro peace process. Its relevance is indirect and structural: the South China Sea confrontation consumes the naval, air and political attention that would otherwise go to Mindanao, and it gives Manila a reason to keep the armed forces oriented north rather than south.
 
-## Relevance to this topic
-- South China Sea confrontation consumes Philippine military and diplomatic resources that could otherwise be directed toward Mindanao stabilization
-- Marcos has floated joint energy cooperation with China in the South China Sea — a controversial pragmatic move that could reduce tensions or be seen as capitulation
-- China has historically avoided direct engagement with the Moro insurgency, preferring to deal solely with Manila
-- Beijing's close ties with Cambodia (traditional Chinese military partner) create ASEAN internal divisions on South China Sea positions
-- The 2026 ASEAN Chairship gives the Philippines an opportunity to push South China Sea Code of Conduct negotiations, but China prefers bilateral deals that maximize leverage
+## Key Actions
 
-## Meddling dynamics
-China's influence in the Philippines operates through economic leverage (trade, infrastructure investment) rather than security engagement in Mindanao. However, Beijing's capacity to distract Manila with South China Sea crises indirectly benefits extremist spoiler groups by reducing government attention on BARMM stabilization.
+- **2026:** Maintained coast guard and maritime militia pressure on Philippine vessels around Second Thomas Shoal and Thitu, keeping the dispute at the top of Manila's security agenda.
+- **2026:** Resisted a binding Code of Conduct during the Philippines' ASEAN chairmanship, preferring bilateral deals.
+- **October 2026:** Shifted its ASEAN blocking role to Laos, which hosts a Chinese military support base, after Cambodia became distracted by its border conflict with Thailand.
+- **November 2026:** Saw the Code of Conduct fail to land at the Manila summit, confirming that Philippine agenda-setting power does not produce ASEAN consensus.
+
+## Current Position
+
+Beijing has no direct leverage over the MILF or the Bangsamoro government, and it has historically avoided engagement with Moro insurgents. Its influence works through distraction: every incident at sea is a day the Palace is not spending on decommissioning, policing or the 2027 budget. That makes China an enabling condition for spoilers rather than a sponsor of them.
+
+## Constraints
+
+- It depends on trade with the Philippines and avoids measures that would push Manila closer to Washington.
+- Its ASEAN blocking strategy requires pliant chairs, which is why Laos matters after Cambodia.
+- It cannot shape Bangsamoro politics without a local partner, and it has none.

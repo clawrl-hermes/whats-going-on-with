@@ -1,6 +1,6 @@
 # Philippines — Islamic Extremism Wiki Index
 
-> Content catalog. Last updated: 2026-11-21 | Total pages: 10 | Total sources: 98
+> Content catalog. Last updated: 2026-11-21 | Total pages: 12 | Total sources: 98
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
@@ -11,6 +11,8 @@
 ## Entities
 - [[abu-sayyaf|Abu Sayyaf Group (ASG)]] -- IS-affiliated jihadist group in Sulu and Basilan
 - [[milf|Moro Islamic Liberation Front (MILF)]] -- Former rebel movement, now split between UBJP and BFP
+- [[abdulraof-macacua|Abdulraof Macacua]] -- First elected chief minister, leader of the breakaway BFP
+- [[murad-ebrahim|Murad Ebrahim]] -- MILF chairman and opposition leader in the Bangsamoro parliament
 - [[marcos-jr|Ferdinand Marcos Jr.]] -- President of the Philippines
 - [[china|China]] -- South China Sea adversary shaping Philippine security priorities
 

@@ -1,30 +1,27 @@
 ---
-title: "Ferdinand Marcos Jr. (Bongbong Marcos)"
-summary: "President of the Philippines, overseeing the Bangsamoro peace process and the country's South China Sea posture."
-role: "President of the Philippines"
+title: Ferdinand Marcos Jr. (Bongbong Marcos)
+summary: President of the Philippines, overseeing the Bangsamoro exit agreement and the country's South China Sea posture.
+role: President of the Philippines
 ---
 
-# Ferdinand Marcos Jr. (Bongbong Marcos)
+# Ferdinand Marcos Jr.
 
-President of the Philippines since June 2022. His administration oversees both the BARMM peace process completion and the Philippines' increasingly confrontational posture toward China in the South China Sea.
+Marcos has presided over the end of the Bangsamoro transition without making the peace process a priority. His administration appointed the interim chief minister who split the MILF, cut the peace budget's political visibility, and now wants an exit agreement signed before he leaves office in 2028. The same period has been dominated by the South China Sea and his feud with the Duterte family.
 
-## Relevance to this topic
-- **June 2026:** COA finds P2.2–4.9 billion in irregularities at MBHTE during Iqbal's tenure. Iqbal acknowledged dismissal, called it "a blessing," but criticized "selective" anti-corruption drive. Macacua ordered charges before the Ombudsman.
-- **June 2026:** MILF Central Committee suspends Macacua as BIAF Chief of Staff — rift penetrates MILF's armed wing.
-- **June 2026:** 1,000+ MILF members leave UBJP for BFP, including Cotabato City Mayor Bruce Matabalao.
-- **June 2026:** Save Bangsamoro Movement protests at Mendiola — appeals to Marcos to "restore the leadership" of BARMM.
-- **June 2026:** Interim Bangsamoro Parliament begins crafting a 10-year strategic framework beyond the transition.
-- **June 8:** Magnitude-7.8 earthquake compounds BARMM's overlapping crises.
-- **July 15:** Marcos appoints Mel Sarmiento as chair of Gov't Peace Implementing Panel for Bangsamoro — fills post vacant since Cesar Yano's resignation.
-- **July 22:** Marcos visits BARMM distributing P3.4B (85% from BARMM funds) but avoids CAB implementation discussion and does not meet MILF leadership.
-- **July 27:** SONA 2026: Bangsamoro peace process receives 40 seconds in 86-minute address — no CAB, decommissioning, or normalization mentions.
-- **October 30:** The first elected Bangsamoro Parliament is inaugurated; Macacua wins the chief minister vote 51-27 over Murad Ebrahim and is sworn in with speaker Amer Zaakaria Rakim. The 2019-2026 transition ends on schedule.
-- **November 5:** Macacua constitutes a 19-member cabinet and pledges continuity of the peace process and "moral governance."
-- **November 5-6:** At Malacañang, Marcos and Murad Ebrahim commit to signing the exit agreement before the end of Marcos's term in 2028 and to completing the fourth and final decommissioning phase by 2027. The commitment is political rather than documented — no new instrument, funding line or timetable was published.
-- Oversight of BARMM transition — his administration's relationship with the MILF-led regional government will determine whether the peace process succeeds or stalls
-- Broached joint energy cooperation with China despite South China Sea tensions — a pragmatic/balancing approach
-- The Philippines holds the 2026 ASEAN Chairship, giving Marcos agenda-setting power on South China Sea Code of Conduct negotiations
-- Simultaneously deepening security ties with the US, Japan, Australia, France, and Vietnam
+## Key Actions
 
-## Domestic context
-The Marcos-Duterte political rupture shapes both foreign policy and domestic security priorities. The feud affects military-intelligence coordination andMindanao stability.
+- **2025:** Appointed Abdulraof Macacua interim chief minister without consulting the MILF Central Committee, triggering the BFP split.
+- **July 2026:** Appointed Mel Sarmiento to chair the government peace panel, filling a post the MILF had demanded be filled.
+- **July 2026:** Devoted 40 seconds of an 86-minute SONA to the peace process, without mentioning the peace agreement or decommissioning.
+- **September 2026:** Oversaw the first Bangsamoro parliamentary election, which produced a hung parliament.
+- **November 2026:** Met Murad Ebrahim in Malacañang and committed to an exit agreement before 2028 and the final decommissioning phase by 2027.
+
+## Current Position
+
+Marcos treats the Bangsamoro file as a legacy item to be closed rather than a political project to be defended. He has the formal power to guarantee the exit agreement and the budget, but his attention is consumed by the South China Sea and the Duterte rupture. The result is a process that advances through deadlines and declarations rather than through sustained presidential engagement.
+
+## Constraints
+
+- The Duterte feud has weakened executive coordination on security and foreign policy.
+- Congress controls the budget line that decommissioning depends on.
+- His 2028 deadline is political, not legal, and the normalization milestones are already behind schedule.

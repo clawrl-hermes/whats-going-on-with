@@ -1,32 +1,28 @@
 ---
-title: "Abu Sayyaf Group (ASG)"
-summary: "The Islamic State-affiliated jihadist group based in Sulu and Basilan, degraded but still capable of low-level attacks."
-role: "Militant group"
+title: Abu Sayyaf Group (ASG)
+summary: The Islamic State-affiliated jihadist group based in Sulu and Basilan, degraded but still capable of lethal ambushes.
+role: Militant group
 ---
 
 # Abu Sayyaf Group (ASG)
 
-Jihadist militant organization based in the Sulu Archipelago (Jolo and Basilan islands). Once the Philippines' most feared terrorist group, now significantly degraded.
+Abu Sayyaf is the oldest of the Philippines' jihadist groups and the most criminalised. Based in the Sulu archipelago, it once mounted the country's deadliest terrorist attack and later became a kidnapping-for-ransom operation. Two decades of military pressure have reduced it to fragmented cells, but not eliminated its capacity for violence.
 
-## Current status
-- Proclaimed allegiance to ISIS in 2014; operates as "Islamic State – East Asia Province"
-- Devastated by Duterte's 2019 All-Out-War campaign: most prominent leaders killed (Isnilon Hapilon, Khadaffy Janjalani, Albader Parad) or arrested
-- Current strength: fragmented cells of 20–50 fighters, primarily criminal-terrorist hybrids focused on kidnapping-for-ransom
-- Recruits from local grievances: poverty, clan vendettas, land disputes in Sulu and Basilan
-- Maintains limited IS ideological branding but operational links to central IS command are negligible
-- **February 2026:** Armed encounter in Patikul, Sulu (Feb 1) left four dead — suspected ASG remnants regrouping in Sulu, reversing the post-2019 decline narrative. CCAA reports ASG remnants regaining ground.
+## Key Actions
 
-## July 2026 developments
-- **July 3:** OPAPRU confirms Sulu remains priority area for peace work despite BARMM exit — 1996 Final Peace Agreement with MNLF still applicable.
-- **July 15:** AFP-WestMinCom begins intensified crackdown on ASG remnants in Basilan and BIFF splinters ahead of July 16 BARMM-wide gun ban. CARES framework rolled out as pre-election security measure.
-- **July 16:** BARMM-wide election gun ban takes effect — security forces establish checkpoints. ASG remnants in Basilan identified as potential tools for political coercion and election-related violence.
-- **October 2026:** ACLED records the group's most lethal engagement in years — a clash with government forces that killed 10 soldiers and an auxiliary. ACLED describes ASG as mostly dormant through 2025-26 but still able to mount a costly ambush, and notes the group has stayed inside its Basilan-Sulu footprint rather than spreading.
+- **2004:** Bombed the MV Superferry 14 in Manila Bay, killing 116 people.
+- **2014:** Pledged allegiance to ISIS and became the core of Islamic State East Asia Province.
+- **2019:** Was largely broken by Duterte's "all-out war" after the Jolo cathedral bombing; most senior leaders were killed or arrested.
+- **February 2026:** Remnants killed four soldiers in Patikul, Sulu, signalling that the group had begun to regroup.
+- **October 2026:** Mounted its deadliest engagement in years, killing ten soldiers and an auxiliary in Basilan.
 
-## Spoiler potential
-ASG remnants serve as a recruitment pipeline for more ideologically committed splinter groups. Former ASG members who reject the MILF's peace deal represent a spoiler threat to the Bangsamoro transition. The February 2026 Patikul encounter suggests the group may be attempting a tactical resurgence ahead of the September elections.
+## Current Position
 
-## RSIS CTTA 2026 Analysis
-- ASG leader Radullan Sahiron long disagreed with IS ideology and rejected foreign fighter recruitment. In late 2022, he ordered ASG remnants to return to their communities, but surrendered combatants remain isolated from mainstream Sulu society.
-- Retributive violence persists: Ustaz Bahang (surrendered radical preacher) was killed by unknown elements in Basilan in October 2025, demonstrating ongoing insecurity for former combatants.
-- Most ASG surrenders occurred after leadership decapitation (e.g., 110 members surrendered in Sulu after Hajan Sawadjaan's death in July 2020).
-- ASG members from the Sahiron faction who surrendered remain socially isolated in Sulu.
+The group operates in small cells of 20 to 50 fighters, mostly in Basilan and Sulu, and funds itself through kidnapping and extortion. It retains an ISIS brand but has negligible operational contact with the central organisation. Its main value to the wider conflict is as a recruitment pipeline and as a pool of armed men available to politicians who need intimidation.
+
+## Constraints
+
+- Leadership decapitation has repeatedly forced surrenders and splits.
+- Surrendered fighters remain socially isolated, which makes reintegration fragile and revenge attacks likely.
+- It has no territorial control and cannot hold ground against the army.
+- Its fighters are ageing and its ransom economy has been squeezed by naval patrols and surrendered commanders.

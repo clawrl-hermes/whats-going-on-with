@@ -1,38 +1,26 @@
 ---
-title: "China's Influence in the South China Sea and the Philippines"
-summary: "Beijing's maritime pressure and political influence in the South China Sea and the Philippines."
+title: China's Influence in the South China Sea and the Philippines
+summary: Beijing's maritime pressure and its indirect effect on Philippine security bandwidth and the Mindanao peace process.
 ---
 
 # China's Influence in the South China Sea and the Philippines
 
-Overview of how Beijing leverages the South China Sea dispute to expand influence in the Philippines and ASEAN.
+## Overview
+
+China is the Philippines' largest trading partner and its most serious external security challenge. Its pressure in the South China Sea does not touch Mindanao directly, but it shapes the resources, attention and political capital Manila can devote to the Bangsamoro transition. The link is one of bandwidth rather than intent.
 
 ## Methods
 
-### Gray-zone coercion
-- China Coast Guard and maritime militia harassment of Philippine vessels in disputed waters
-- Island-building and militarization of reclaimed features (Spratlys)
-- Permanent presence near Philippine-occupied features (Thitu/ Pag-asa Island, Second Thomas Shoal/ Ayungin)
+Beijing operates through gray-zone coercion rather than open conflict: coast guard and maritime militia harassment of Philippine vessels, a permanent presence around Second Thomas Shoal and Thitu, and the militarisation of reclaimed features. It pairs this with economic leverage, including trade dependence, infrastructure offers and proposals for joint energy development in disputed waters. In ASEAN it prefers bilateral deals and uses friendly chairs to block binding language on the sea.
 
-### Economic leverage
-- Philippines' trade dependence on China
-- Infrastructure investment offers (Belt and Road) — though Duterte-era BRI projects largely stalled
-- Joint energy cooperation proposals in disputed waters — Marcos broached this idea in 2026
+## The Code of Conduct Test
 
-### ASEAN manipulation
-- China prefers bilateral negotiations over multilateral ASEAN frameworks to maximize leverage against individual states
-- Uses Cambodia and Laos as ASEAN bloc members to slow consensus on South China Sea positions
-- 26th ASEAN-China SOM-DOC meeting held May 21, 2026 in Kuala Lumpur
-- South China Sea Code of Conduct negotiations ongoing — Philippines pushing for completion during its 2026 Chairship
+The Philippines made a binding Code of Conduct the centrepiece of its 2026 ASEAN chairmanship. The effort failed. Cambodia had been Beijing's usual blocker, but in 2026 the role passed to Laos, which hosts a Chinese military support base and slowed consensus ahead of the Manila summit in November. The failure demonstrated that Manila's agenda-setting power does not translate into regional agreement.
 
-## Impact on counter-terrorism
-- Diverts Philippine military resources (navy, air force) from internal security to South China Sea patrol
-- Creates political pressure on Marcos to demonstrate sovereignty while managing economic ties with Beijing
-- China takes no direct position on Mindanao situation but benefits from any Philippine instability that weakens the US-Philippine alliance
-- **2026:** The Hormuz energy crisis (March 2026) pushed the Philippines into a national energy emergency, prompting Marcos to signal openness to joint oil and gas talks with China at Reed Bank — a potential diplomatic opening that could reshape the SCS dynamic but faces constitutional hurdles (1987 Constitution requires "full control and supervision" over natural resources).
-- **2026:** Marcos-Duterte political rupture (House impeached VP Sara Duterte in May 2026) is eroding executive coordination on foreign policy, complicating Manila's ability to present a unified position on the SCS and ASEAN chairship agenda.
-- **2026:** Balikatan 2026 was the largest edition ever (17,000 troops from 7 nations, Japan deploying combat troops for the first time since 1945). China views this as directed against it, undermining confidence-building measures like the coast guard MoU update.
-- **June 2026:** Philippines targets end-2026 for SCS Code of Conduct. Monthly COC negotiations underway. 59th AMM scheduled July 21. Hormuz crisis adding urgency to maritime cooperation.
-- **July 2026:** 59th AMM outcomes — ASEAN remains divided on SCS approach. Philippines continues COC push but structural impasse persists.
-- **October 27, 2026:** With the CoC deadline weeks away, ASEAN sources identify Laos — now hosting a Chinese joint military support and training base north of Vientiane — as Beijing's replacement spoiler for Cambodia, which is distracted by scam-compound fallout and its Thailand conflict. A binding CoC before the handover to Singapore's 2027 chair is now considered unlikely.
-- **November 16-18, 2026:** The 49th ASEAN Summit in Manila is the last scheduled opportunity for the Philippine chairship to land the CoC; failure would confirm that Manila's agenda-setting power does not translate into consensus.
+## Impact on Mindanao
+
+China takes no direct position on the Bangsamoro and has no relationship with the MILF. Its effect is indirect. Naval and air resources that might support internal security are oriented north, the political class is consumed by sovereignty disputes, and every maritime crisis reduces the attention available for decommissioning, policing and the 2027 budget. That makes Beijing a structural enabler of spoilers without being their sponsor.
+
+## Current Status
+
+The maritime dispute is frozen in a cycle of incidents and failed negotiations. China's leverage is real but limited by trade and by Manila's alliance with Washington; the Philippines' leverage is limited by ASEAN consensus rules. For the Bangsamoro, the practical consequence is a government that must compete for Manila's attention and budget against a permanent external crisis.
