@@ -30,6 +30,7 @@ If a page needs a fact the wiki does not have, put it under "Gaps for the weekly
 Step 1: Establish the basis.
   - Find the last review: `grep -n "Static Content Review" /root/wiki/{slug}/log.md`. If none, use the topic's `started` date from `overview.md`.
   - Read the `updates/` files written since that date (normally four to six).
+  - Read the weekly flags. Extract every `- Static content flags:` line from the weekly entries in `log.md` since the last review. These are the weekly monitor's own findings about static pages; treat them as a checklist. A flag is a lead, not an instruction: verify it against `sources.md` before acting, then record its disposition in the report.
   - Read `current-situation.md` and the current `timeline/`.
   - Run `git log --stat --since=<last review>` in /root/wiki and note what changed in `sources.md`. Read the new rows only — you do not need the whole table.
 
@@ -84,6 +85,7 @@ Step 7: Report in this shape:
 | entities/example.md | Current Position rewritten | Actor shifted from X to Y |
 
 Then:
+- **Weekly flags** — one line per flag from the weekly log since the last review: page, acted / deferred / rejected, and why. Write "None" if there were no flags. Do not repeat flags you acted on in the table above.
 - **Deferred** — pages that need work but exceeded the cap (or "None").
 - **Unconfirmed** — claims left alone pending a second source (or "None").
 - **Gaps for the weekly monitor** — facts the static pages need but `sources.md` does not contain (or "None").

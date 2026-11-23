@@ -203,10 +203,10 @@ Follow `references/weekly-source-monitor-prompt.md`. The run owns three files an
 Follow `references/monthly-static-review-prompt.md` and `references/content-update-policy.md` §4-5. The reviewer works only from material already in the wiki — it does not search for sources and does not touch `sources.md`, `updates/` or `articles/`.
 
 - **Owns:** `overview.md`, `timeline/`, `entities/`, `concepts/`, `current-situation.md`, `domain-notes.md`, `index.md` catalog.
-- **Basis:** the updates written since the last `Static Content Review` entry, plus the new `sources.md` rows.
+- **Basis:** the updates written since the last `Static Content Review` entry, the new `sources.md` rows, and the `Static content flags` lines the weekly monitor logged in that period.
 - **Cap:** five pages per cycle; list the rest as deferred.
 - **Rules:** actor-first edits; timeline gets only defining events; current-situation describes the standing state and keeps its open question unless the central tension moved; overview changes only when the central question changes; domain notes stay structural; no single-source "fixes".
-- **Close:** commit `static review: <slug> <date>`, add the log entry, and report pages changed, deferred, unconfirmed, gaps and anything needing approval. A no-op makes no commit.
+- **Close:** commit `static review: <slug> <date>`, add the log entry, and report pages changed, weekly-flag dispositions, deferred, unconfirmed, gaps and anything needing approval. A no-op makes no commit.
 
 ### Rewrite or Maintain the Ingest Log
 
