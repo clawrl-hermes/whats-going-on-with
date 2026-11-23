@@ -1,93 +1,26 @@
 ---
 title: IMF, China, and Sri Lanka's Debt Restructuring
-summary: "How China's rise as a bilateral lender complicated the IMF's role and leverage in Sri Lanka's debt restructuring."
+summary: How China's role as a bilateral lender complicated the IMF's preferred-creditor framework during Sri Lanka's restructuring.
 ---
 
 # IMF, China, and Sri Lanka's Debt Restructuring
 
-The IMF's role as global lender of last resort was tested during Sri Lanka's 2022-2024 debt restructuring process, exposing deep tensions between China and the United States over the governance of international financial institutions.
+## Overview
 
-## China vs. the IMF During Sri Lanka's Restructuring
+The IMF's rule that it lends only when a country's debt is sustainable, and that it is repaid before private creditors, depends on bilateral creditors agreeing to restructure on comparable terms. China's rise as the largest bilateral lender broke that assumption. Sri Lanka's 2022 default was the first case where the Fund had to operationalise a restructuring with a non-Paris Club creditor of China's size.
 
-When Sri Lanka defaulted in April 2022 and sought an IMF Extended Fund Facility, the IMF required financing assurances from bilateral creditors before proceeding. The process revealed fundamental disagreements:
+## The Mechanism
 
-- **India** was the first nation to provide financing assurances to the IMF for Sri Lanka (January 2023).
-- **China delayed** giving financing assurances, arguing that multilateral debt (World Bank, ADB) should also be restructured alongside bilateral debt. This challenged the long-standing principle of "preferred creditor status" for multilateral development banks.
-- The **United States pushed back**, insisting multilateral debt was not subject to restructuring, as preferred creditor status allows multilaterals to borrow at low rates and lend to the poorest nations.
-- China eventually gave its assurances, but the delay prolonged uncertainty and economic pressure on Sri Lanka during a critical period.
+The IMF requires financing assurances from bilateral creditors before approving a programme. It also treats multilateral debt as preferred, meaning the World Bank and ADB are repaid first, on the argument that this keeps their lending cheap. China challenged both points during the Sri Lanka negotiations, arguing that multilateral debt should share the burden and delaying its own assurances. The standoff held up the programme for months while reserves ran down.
 
-## China's Broader Challenge to the IMF
+## The Resolution
 
-The Sri Lanka case is part of a larger pattern of China challenging Western-dominated financial institutions:
+India provided the first financing assurances in January 2023, which allowed the IMF to proceed. China eventually agreed to a bilateral framework in 2024, alongside the Official Creditor Committee, and the restructuring was implemented through 2025 and 2026. The delay did not stop the programme, but it raised the cost of the crisis and established a precedent other borrowers now cite.
 
-### Scale of Chinese Rescue Lending
-- In 2021, Chinese bailouts of other nations totaled **$40 billion**.
-- In the three years leading to 2021, Chinese rescue lending exceeded **40% of total IMF lending**.
-- China is now the world's largest bilateral lender, having lent more than all Paris Club members combined.
+## The Wider Stakes
 
-### IMF Voting Share Reform
-- The IMF requires an **85% supermajority** for major decisions, giving the **United States (16.49% voting share)** an effective veto.
-- **China holds 6.08%** of IMF voting shares, slightly below Japan's 6.14% — despite China's economy being more than 4 times larger than Japan's.
-- China has been advocating for increased voting shares since at least 2016, when its allocation was raised to the current level.
-- US voting share dropping below 15% would require Congressional approval, making reform politically difficult.
-- Analysts warn that if reform stalls, China may work toward creating an alternative institution to the IMF.
+The Sri Lanka case is part of a larger contest over IMF governance. China holds about 6% of voting shares, below Japan, despite an economy more than four times larger; the United States holds enough to veto major decisions. China has pressed for quota reform since 2016. If reform stalls, Beijing has an incentive to build alternative lending channels, which is one reason its bilateral loans are politically sensitive.
 
-### The Argentine Precedent
-The perception that the IMF serves US interests was reinforced in 2025 when the IMF approved a **$20 billion loan to Argentina** despite concerns from about half of the 25 executive board chairs. Argentine President Javier Milei, a close ally of President Trump, announced the deal hours before board approval. This fueled the perception that geopolitically aligned nations receive faster, more favorable IMF treatment — reinforcing China's argument that the IMF is not a neutral institution.
+## Current Status
 
-## The Way Forward
-
-Economist Talal Rafi (a Sri Lanka-based policy advisor and former ADB consultant) proposes three reforms for the IMF to retain credibility:
-
-1. **Independent decision-making**: Clear, transparent frameworks to prevent political influence over bailout decisions.
-2. **Voting share reform**: Adjust quotas to reflect modern economic realities (particularly China's larger share).
-3. **Agreed debt restructuring framework**: A G20-level agreement on multilateral debt restructuring, transparency, and comparability of treatment to prevent future Sri Lanka-style standoffs between the US and China.
-
-## IMF EFF Program (2022–2026)
-
-On May 27, 2026, the IMF Executive Board completed the combined Fifth and Sixth Reviews of Sri Lanka's EFF-supported program (Press Release PR26/172). Key details:
-
-- **Disbursement**: SDR508 million (about US$695 million) in immediate access
-- **Total purchases under EFF**: SDR1.778 billion (about US$2.4 billion) to date
-- **Performance**: All end-December 2025 quantitative performance criteria were met; most structural benchmarks met or implemented with delay
-- **Waivers**: Staff recommended approval of waiver on new external arrears and exchange restrictions
-- **Debt restructuring**: Nearing completion, but debt sustainability risks remain high
-- **Risks**: War in the Middle East and Cyclone Ditwah aftermath pose downside risks, but economy expected to remain resilient
-- **Staff discussions**: March 25 – April 9, 2026 in Colombo
-- **Reform priorities**: Medium-term revenue strategy, exchange rate flexibility, phasing out balance-of-payments measures, structural reforms for investment climate
-
-This continued disbursement reflects the IMF's assessment that Sri Lanka's reform program remains firmly on track.
-
-## June 2026: IMF Staff Visit Assesses Middle East War Impact (PR26/229)
-
-On June 30, 2026, the IMF concluded a staff visit to Colombo (June 24-30) led by Evan Papageorgiou. This was a preparatory mission ahead of the Seventh EFF Review, scheduled for fall 2026. Key findings from the concluding statement:
-
-### Economic Impact of the Middle East War
-- **Inflation spike**: Headline inflation rose from **1.6% y/y** (February 2026) to **5.5% y/y** (May 2026) following energy price increases driven by the Middle East conflict.
-- **Tourism**: Tourist arrival growth softened and gross international reserves accumulation decelerated.
-- **Policy response**: The Central Bank of Sri Lanka implemented a **100-basis-point policy rate hike** and deployed macroprudential measures.
-- **Fiscal response**: The government rolled out a temporary, on-budget relief package comprising fuel, electricity, and fertilizer subsidies, plus cash transfers to the most vulnerable households.
-
-### Forward Commitments
-- **Primary balance**: Authorities committed to reverting to a primary balance target of **2.3% of GDP in 2027** following fiscal easing in 2026.
-- **SOE reform**: Accelerating state-owned enterprise reform and maintaining cost-recovery energy pricing to minimize fiscal risks.
-- **Debt restructuring**: Described as "nearing completion" but with emphasis on accelerating Public Debt Management Office (PDMO) capacity building.
-- **Monetary policy**: Should remain "prudent, agile, and data-dependent" — exchange rate flexibility is "paramount."
-- **BOP restrictions**: Balance of payments restrictions should be phased out.
-
-### Seventh Review Timeline
-The formal Seventh Review of the EFF arrangement will take place during an upcoming IMF mission in the fall of 2026. This marks the next major checkpoint in Sri Lanka's IMF program.
-
-### Post-EFF Successor Programme (October 2026)
-On October 8, 2026, Deputy Finance Minister Anil Jayantha confirmed to Parliament that Sri Lanka and the IMF are in discussions over a post-EFF programme to begin after the current EFF concludes in March 2027. Jayantha described the shift as moving "from crisis-driven support towards a more sustainable, long-term growth-targeted engagement model." The Seventh Review staff-level agreement was reached on October 4, 2026 (unlocking SDR254M/~$345M), with Board approval contingent on presentation of the 2027 budget to Parliament and completion of financing assurances review. Total IMF disbursements under the EFF would then reach SDR 2.032B (~$2.7B). The successor programme discussions signal the IMF's continued engagement with Sri Lanka beyond the crisis-era framework and will shape the parameters of China-Sri Lanka financial relations in the post-restructuring period.^[EconomyNext, October 8, 2026]^[IMF PR26/318, October 4, 2026]
-
-### Meetings
-The mission held meetings with President and Finance Minister Anura Kumara Dissanayake, Prime Minister Dr. Harini Amarasuriya, Labor Minister and Deputy Finance Minister Prof. Anil Jayantha Fernando, CBSL Governor Dr. P. Nandalal Weerasinghe, Secretary to the Treasury Dr. Harshana Suriyapperuma, and other senior officials, as well as private sector, civil society, and development partners.
-
-## Post-Crisis Milestone: World Bank Reclassification (July 2026)
-
-On July 1, 2026, the World Bank upgraded Sri Lanka from lower-middle to upper-middle income status, citing 5% GDP growth in 2025 and describing the country as "a story of recovery." While not an IMF action, this reclassification reflects the success of the IMF-backed stabilization program — fiscal consolidation, monetary reforms, and external debt restructuring — that Sri Lanka has pursued since 2023. The milestone provides a macroeconomic context for understanding how China-Sri Lanka financial relations are evolving from crisis-era restructuring toward a new phase of normalized engagement.^[The Hindu, July 2, 2026]^[World Bank blog, July 1, 2026]
-
----
-
-See also: [[china-sri-lanka-timeline]], [[debt-trap-debate]], [[belt-and-road-initiative]], [[key-conclusions]]
+Sri Lanka's restructuring is largely complete and the IMF programme is nearing its 2027 expiry, with a successor arrangement under discussion. The governance question remains unresolved: the Fund still has no agreed framework for restructuring multilateral debt, and the next Chinese-linked default will reproduce the same standoff.

@@ -1,65 +1,27 @@
 ---
 title: Hambantota International Port
-summary: "Sri Lanka's Chinese-built deep-sea port, leased to China Merchants for 99 years and the focal point of the global debt-trap debate."
-role: "Deep-sea port in southern Sri Lanka (70% owned by China Merchants Port Holdings)"
+summary: The Chinese-built deep-sea port leased to China Merchants for 99 years, now a growing container hub rather than a white elephant.
+role: Deep-sea port in southern Sri Lanka
 ---
 
 # Hambantota International Port
 
-Hambantota International Port (HIP) is a deep-sea port in southern Sri Lanka, located near major Indian Ocean shipping lanes. It is the most frequently cited example in the global "debt-trap diplomacy" debate.
+Hambantota is the most cited case in the global debate over Chinese lending. Built by China Harbour Engineering with Exim Bank loans, leased to China Merchants in 2017, and long described as a failed project, it has since become a working container port. The turnaround is recent and incomplete, but it has changed the politics of the lease.
 
-## Background
+## Key Actions
 
-- The idea of building a port at Hambantota dates back to the 1920s.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- In 2006-2007, Sri Lanka asked India and then Japan to finance the port. Both declined -- India did not want to build a competitor to Indian ports, and Japan was already Sri Lanka's largest bilateral creditor.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- Sri Lanka then actively persuaded China to finance and build the port from 2007-2012.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
+- **2007-2012:** Built in two phases with Exim Bank financing after India and Japan declined to fund it.
+- **2017:** China Merchants Port Holdings paid $1.12 billion for a 70% stake and a 99-year lease; Sri Lanka retained 30%.
+- **2025:** Container throughput reached 428,036 TEU, up from 53,170 in 2024, as MSC began shifting transshipment calls from Colombo.
+- **July 2026:** MSC entered talks to acquire a stake in the port; the talks remained unresolved at the end of the quarter.
+- **September 2026:** CMPort said it was studying a capacity expansion after volumes surged.
 
-## Financing
+## Current Position
 
-| Year | Amount | Interest Rate | Term | Grace Period | Source |
-|------|--------|---------------|------|--------------|--------|
-| 2007 | $306.7m | 6.4% | 15 years | 3 years | China Exim Bank |
-| 2011 | $144m | 2% | 20 years | 5 years | China Exim Bank |
-| 2011 | $65.1m | 2% | 20 years | 5 years | China Exim Bank |
-| 2011 | $600m | 2% | 20 years | 5 years | China Exim Bank |
-| 2012 | $150m | 2% | 20 years | 5 years | China Exim Bank |
+The port is no longer a symbol of emptiness. Volumes passed one million TEU cumulatively in October 2026, CMPort committed $108 million to cranes and yard equipment, and a second phase of container berths was scheduled for completion at the end of the year. MSC's involvement, if it concludes, would give the port a global carrier as a shareholder and reduce its dependence on transshipment decisions made in Colombo.
 
-The first loan (2007) was at commercial rates (6.4%), but subsequent loans were concessional (2%).^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
+## Constraints
 
-## The 99-Year Lease
-
-- In 2016, the Sri Lankan government decided to lease out the port due to its inability to generate sufficient revenue.
-- India and Japan were again approached and again declined.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- The government lobbied hard to attract China Merchants Port Holdings (CMPort).^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- In 2017, CMPort received a 70% stake and a 99-year lease to operate the port.
-- CMPort paid $1.12 billion -- more than the port's then-valuation -- for its share.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- Sri Lanka retained 30% plus rights to buy 20% more in ten years and the remainder thereafter.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- The lease did NOT erase the HIP loan debt.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- The port assets were NOT included as collateral in the original loan agreements, and the loan contracts contained NO asset seizure clauses.^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]
-- The government can renegotiate or take back the port, and the agreement forbids using it as a foreign military base.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-
-## Commercial Performance
-
-- Like many new ports, HIP did not generate expected revenue in its early years.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- Ports typically take 1-2 decades to become profitable.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- CMPort pledged to spend $400-600 million on improvements including bunkering (fuel provision) and eventually container terminals.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- A planned industrial park is attracting enterprises. Hambantota is Sri Lanka's poorest district but aspires to become like China's Shekou port-park-city model.^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-- In the year of the lease, HIP loans accounted for only 2.4% of Sri Lanka's total foreign debt repayments.^[raw/papers/cari-chinese-lending-sri-lanka-2022.md]
-
-## 2025-2026: New Developments
-
-- **SINOPEC Oil Refinery**: In January 2026, during Chinese Foreign Minister Wang Yi's Colombo stopover, Sri Lanka confirmed the SINOPEC oil refinery agreement for Hambantota would be finalized in Q1 2026, enhancing the port hub's commercial prospects.
-- **Mattala Airport Lease**: In May 2026, Sri Lanka issued a fresh EoI for the adjacent Mattala Rajapaksa International Airport under a 30-year BOT model (deadline June 9, 2026). The offer includes 238 hectares for MRO facilities, flying schools, logistics, and industrial parks. India views this as a strategic opportunity to establish a presence near the Chinese-controlled port.
-- **MSC Stake Talks (July 2026)**: Mediterranean Shipping Co. (MSC), the world's largest container shipping line, entered discussions with CMPort and the Sri Lanka Ports Authority to acquire a significant stake in Hambantota International Port. MSC has already started switching transshipment calls from Colombo to Hambantota for regular and ad hoc sailings. An official announcement is expected soon. This development could transform the port's commercial viability by bringing a major global shipping operator as a stakeholder.^[Journal of Commerce, July 7, 2026]
-- **Volume Surge and CMPort Expansion Plans (September 2026)**: CMPort management, led by Chair Feng Boming, briefed investors on plans to expand container capacity at HIP after H1 2026 container volumes surged. The status of MSC's proposed stake acquisition remained unresolved.^[TradeWinds, September 7, 2026]
-- **1 Million TEU Milestone (October 2026)**: HIP surpassed 1 million TEU in cumulative container throughput. Container growth: 53,170 TEU (2024) -> 428,036 TEU (2025) -> 574,196 TEU (2026 YTD). MSC is the main customer, driving much of the growth. HIP committed US$108M to six new STS cranes, 16 eRTGs, and 40 trailers from ZPMC (due early 2027). Phase II expansion adding four dedicated container berths (total seven) scheduled for end-2026, increasing yard capacity by 30%. CEO Wilson Qu set a long-term target of 2 million TEU annually.^[WorldCargo News, October 2026]
-- **Continued India-China Competition**: India's Mazagon Dock Shipbuilders acquired 51% of Colombo Dockyard PLC in April 2026, further intensifying India-China strategic competition in Sri Lanka's maritime infrastructure.
-- **CMPort Abandons $392M Colombo Logistics Hub** (October 2026): China Merchants Port Holdings withdrew from the South Asia Commercial and Logistics Hub (SACLH) joint venture at Colombo port, citing changes in external circumstances and commercial reassessment. CMPort, SLPA, and Access Engineering signed a settlement recovering ~$29.8M of $37.1M invested. SLPA will pursue a PPP alternative. Second major investor exit from Sri Lanka after Adani Green (February 2025). While the decision is primarily a Colombo port project, it reflects CMPort's broader strategic reassessment of Sri Lankan investment risk that could affect future Hambantota expansion decisions.^[The Hindu, October 19, 2026]
-
-## Significance
-
-HIP has become the global symbol of the debt-trap diplomacy debate. It is cited by both those who see it as evidence of Chinese strategic predation and those who argue it demonstrates Sri Lankan agency and the commercial nature of Chinese lending. The truth, as with most complex international financial arrangements, likely involves elements of both narratives.^[raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]^[raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md]
-
----
-
-See also: [[debt-trap-debate]], [[china-sri-lanka-timeline]], [[key-conclusions]]
+- The original Exim Bank loans remain outstanding; the lease did not cancel the debt.
+- Sri Lanka holds only 30% and has no operational control.
+- The port competes with Colombo for the same transshipment traffic and depends on a single dominant customer.

@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-11-19 | Total pages: 8 | Total sources: 89
+> Last updated: 2026-11-20 | Total pages: 13 | Total sources: 89
 
 ## Overview
 
@@ -13,14 +13,19 @@
 
 ## Entities
 
-- [[hambantota-port]] -- Hambantota International Port: financing, the 99-year lease, and its role in the debt-trap debate
+- [[hambantota-port]] -- Hambantota International Port: the Chinese-built port and its 99-year lease to China Merchants
+- [[china-exim-bank]] -- Sri Lanka's largest bilateral creditor, now lending in renminbi
+- [[cmport]] -- The Chinese operator of Colombo's container terminal and Hambantota
+- [[imf]] -- The anchor of the post-default economic programme
+- [[dissanayake-administration]] -- The NPP government balancing China, India and the IMF
+- [[india]] -- The main counterweight to Chinese influence
+- [[central-bank-of-sri-lanka]] -- Reserves, currency and monetary policy through the crisis and recovery
 
 ## Concepts
 
 - [[debt-trap-debate]] -- The contested question of whether China practices debt-trap diplomacy, with Sri Lanka as the central case
 - [[belt-and-road-initiative]] -- BRI projects in Sri Lanka, strategic significance, and impact of the debt crisis
 - [[imf-geopolitics]] -- IMF-China tensions during Sri Lanka's debt restructuring, voting share reform, and China's rise as an alternative lender of last resort
-- [[key-conclusions]] -- Synthesized conclusions on China-Sri Lanka financial relations drawn from multiple sources
 
 ## Priority Sources
 
