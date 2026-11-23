@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-11-20 | Total pages: 13 | Total sources: 89
+> Last updated: 2026-11-20 | Total pages: 14 | Total sources: 89
 
 ## Overview
 
@@ -14,7 +14,8 @@
 ## Entities
 
 - [[hambantota-port]] -- Hambantota International Port: the Chinese-built port and its 99-year lease to China Merchants
-- [[china-exim-bank]] -- Sri Lanka's largest bilateral creditor, now lending in renminbi
+- [[china]] -- Sri Lanka's largest bilateral creditor, repositioning from loans to trade and grants
+- [[exim-bank]] -- The policy bank that financed the infrastructure build-out, now lending in renminbi
 - [[cmport]] -- The Chinese operator of Colombo's container terminal and Hambantota
 - [[imf]] -- The anchor of the post-default economic programme
 - [[dissanayake-administration]] -- The NPP government balancing China, India and the IMF
