@@ -95,3 +95,20 @@ topics:
       - "Bolivia Evo Morales Chapare arrest warrant"
     cron_jobs:
       weekly_source_monitor: "a12445504ea0"
+  - name: "Libya's Reunification"
+    slug: "libya-reunification"
+    path: "/root/wiki/libya-reunification"
+    created: "2026-11-24"
+    search_queries:
+      - "Libya unified government 2026"
+      - "Libya 4+4 agreement elections"
+      - "Libya High Council of State House of Representatives negotiations"
+      - "Libya Dbeibah Haftar reunification"
+      - "Libya Central Bank dinar crisis"
+      - "Libya National Oil Corporation production disruption"
+      - "UNSMIL Libya political roadmap"
+      - "Libya Turkey maritime agreement"
+      - "Libya Russia Africa Corps Haftar"
+    cron_jobs:
+      weekly_source_monitor: "c0a07c1393ca"
+      static_review: "a63fdc98f626"
