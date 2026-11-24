@@ -101,7 +101,7 @@ topics:
    - Populate `sources.md` with the five-column table (`# | Publication | Title | Date | Summary`, ISO dates).
    - `overview.md`: `title`, `tagline`, `region`, `started` (from `_config.yaml` `created`) and 1-3 paragraphs framing the topic.
    - `current-situation.md`: 3-5 sentences on the standing state (balance of leverage, binding constraint, direction of travel), one-sentence `## The Open Question`, and 3-6 watch rows covering the next four weeks. Every row carries a date and a scheduled decision; no speculative rows.
-   - `timeline/<slug>-timeline.md`: 8-15 defining events under month/season parents, two-space sub-bullets. A new topic will not reach the 40-100 line target until later reviews; do not pad it.
+   - `timeline/<slug>-timeline.md`: 8-15 defining events under month/season parents, two-space sub-bullets. Every event must trace to a row in `sources.md`. Seed research normally covers only recent months, so first ingest 3-5 foundational sources for the historical spine (agreement texts, UN resolutions, landmark reports) or shorten the timeline to the period the sources cover. Do not reconstruct 2011-2025 from memory. A new topic will not reach the 40-100 line target until later reviews; do not pad it.
    - `entities/`: 2-4 actor pages at 230-350 words. Frontmatter `title`, `summary`, `role`; unheaded opening paragraph, `## Key Actions` (four to six dated actions that moved the process), `## Current Position`, `## Constraints`.
    - `concepts/`: 2-3 explainers at 240-420 words. Frontmatter `title` and `summary`; `## Overview`, two to four mechanism sections, `## Current Status`.
    - `index.md`: list every catalogued page with a one-line summary. `Total pages` is the number of entries in that catalog (overview, timeline, entities, concepts, priority-sources); `current-situation.md` is published but not catalogued, so do not count it. Set `Total sources` to the row count.
@@ -113,7 +113,7 @@ topics:
 6. **Populate domain-notes.md:** After completing the initial research, fill in `/root/wiki/<slug>/domain-notes.md` with findings:
    - **Search queries:** Insert the 5-8 canonical search queries from Step 1 (these are already determined upfront)
    - **Key entities:** List the main actors, countries, organizations discovered during research
-   - **Key data points:** Add baseline statistics and figures uncovered in seed research
+   - **Key data points:** Add baseline statistics and figures uncovered in seed research. Every figure must trace to a row in `sources.md`; drop or verify any number you cannot source.
    - **High-signal source types:** Note which outlet categories proved most valuable during research
    - **File update checklist:** Already in the template — keep as-is
 
