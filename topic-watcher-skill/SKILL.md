@@ -24,6 +24,7 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `references/content-migration-and-validation.md` | Operational: migration procedure, sources normalization recipes, validation checker, timeline editorial pass, backfill steps, pitfalls |
 | `templates/source-monitor-notification.md` | Notification format template for Telegram delivery of weekly source monitor results |
 | `templates/overview.md` | Starter overview.md for a new topic (the site's topic page) |
+| `templates/current-situation.md` | Starter current-situation.md with the assessment, open question and watch table |
 | `templates/index.md` | Starter index.md for a new topic |
 | `templates/sources.md` | Starter sources.md |
 | `templates/timeline.md` | Starter timeline file |
@@ -73,7 +74,7 @@ topics:
    ```
    /root/wiki/<slug>/
    ├── overview.md           (from templates/overview.md — write by hand, do not regenerate)
-   ├── current-situation.md  (from templates/current-situation.md — live status page, rewrite when it changes)
+   ├── current-situation.md  (from templates/current-situation.md — standing assessment, open question, dated watch table)
    ├── index.md              (from templates/index.md)
    ├── sources.md            (from templates/sources.md)
    ├── domain-notes.md       (from templates/domain-notes.md)
@@ -93,17 +94,18 @@ topics:
    - **Official Sources** (primary, biased) — presidential/ministry announcements of relevant countries
    - **Advocacy & Diaspora** (useful signal, biased framing) — constituency-based sources
 
-   Ask the user for their known priority sources before researching your own. The user often has specific outlets in mind.
+   Only the first three sections are published by the site; keep Advocacy & Diaspora below them as a private working section. Ask the user for their known priority sources before researching your own. The user often has specific outlets in mind.
 
-4. **Seed initial research:**
-   - Run each search query via `tavily_search` with `time_range="month"`, `max_results=5`
-   - For top results, use `tavily_extract` to get full content
-   - Populate `sources.md` using the five-column table (`# | Publication | Title | Date | Summary`, ISO dates)
-   - Create 3-5 timeline events as sub-bullets under month/season parents
-   - Create 2-4 entity pages and 2-3 concept pages, each with `title` and `summary` frontmatter
-   - Write `overview.md` with `title`, `tagline`, `region`, `started` (from `_config.yaml` `created`)
-   - Create empty `updates/` and `articles/` directories
-   - Write `index.md` with page count and last-updated date
+4. **Seed research and write every page to the contract.** The topic must be publishable when this step ends; do not leave placeholder pages for the first weekly run to fill in.
+   - Run each search query via `tavily_search` with `time_range="month"`, `max_results=5`, and extract the strongest results. Aim for 10-20 substantive sources.
+   - Populate `sources.md` with the five-column table (`# | Publication | Title | Date | Summary`, ISO dates).
+   - `overview.md`: `title`, `tagline`, `region`, `started` (from `_config.yaml` `created`) and 1-3 paragraphs framing the topic.
+   - `current-situation.md`: 3-5 sentences on the standing state (balance of leverage, binding constraint, direction of travel), one-sentence `## The Open Question`, and 3-6 watch rows covering the next four weeks. Every row carries a date and a scheduled decision; no speculative rows.
+   - `timeline/<slug>-timeline.md`: 8-15 defining events under month/season parents, two-space sub-bullets. A new topic will not reach the 40-100 line target until later reviews; do not pad it.
+   - `entities/`: 2-4 actor pages at 230-350 words. Frontmatter `title`, `summary`, `role`; unheaded opening paragraph, `## Key Actions` (four to six dated actions that moved the process), `## Current Position`, `## Constraints`.
+   - `concepts/`: 2-3 explainers at 240-420 words. Frontmatter `title` and `summary`; `## Overview`, two to four mechanism sections, `## Current Status`.
+   - `index.md`: list every catalogued page with a one-line summary. `Total pages` is the number of entries in that catalog (overview, timeline, entities, concepts, priority-sources); `current-situation.md` is published but not catalogued, so do not count it. Set `Total sources` to the row count.
+   - Create empty `updates/` and `articles/` directories.
 
 5. **Populate domain-notes.md:** After completing the initial research, fill in `/root/wiki/<slug>/domain-notes.md` with findings:
    - **Search queries:** Insert the 5-8 canonical search queries from Step 1 (these are already determined upfront)
@@ -112,13 +114,26 @@ topics:
    - **High-signal source types:** Note which outlet categories proved most valuable during research
    - **File update checklist:** Already in the template — keep as-is
 
-6. **Create cron jobs** using the prompt templates in `references/`:
-   - Load `references/weekly-source-monitor-prompt.md`, substitute `{topic_name}`, `{slug}`, `{search_queries}` → create weekly cron job (every 10080 minutes)
-   - **IMPORTANT:** The `cronjob` tool defaults to `repeat: "once"` if you don't explicitly set it. For recurring schedules, you MUST pass `repeat: 0` (forever). After creating, verify with `cronjob(action='list')` — if the job shows `repeat: "once"`, immediately update it with `cronjob(action='update', job_id=<id>, repeat=0)`.
+6. **Create both cron jobs** — the topic is not complete with only the weekly monitor.
+   - **Weekly:** load `references/weekly-source-monitor-prompt.md`, substitute `{topic_name}`, `{slug}`, `{search_queries}`, and create a job on `every 10080m`.
+   - **Static review:** load `references/monthly-static-review-prompt.md`, substitute `{topic_name}` and `{slug}`, and create a job on `every 40320m` (28 days, so it keeps the same weekday). Its first run must fall one day after the weekly job's next run. Interval schedules anchor at creation time, so immediately after creating it, set the job's `next_run_at` in `~/.hermes/cron/jobs.json` to the weekly job's `next_run_at` plus 24 hours (back up the file, write atomically). Do not leave it anchored to creation time.
+   - Set `repeat: 0` (forever) on both. The `cronjob` tool defaults to `repeat: "once"` when omitted. Verify with `cronjob(action='list')` that both show a recurring schedule and the intended next runs.
 
-7. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries, cron job ID).
+7. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries) and both job IDs:
+   ```yaml
+   cron_jobs:
+     weekly_source_monitor: "<weekly_job_id>"
+     static_review: "<static_job_id>"
+   ```
 
-8. **Commit and push everything:**
+8. **Log and commit.** Append to the topic's `log.md`:
+   ```
+   ## YYYY-MM-DD - Topic Created
+   - Sources ingested: N
+   - Pages created: overview, current-situation, timeline (N events), entities (N), concepts (N), priority-sources
+   - Cron: weekly <job_id>, static <job_id>
+   ```
+   Then commit and push:
    ```bash
    cd /root/wiki
    git add {slug}/
@@ -128,6 +143,7 @@ topics:
 
 9. **Report back tersely:**
    - Topic, path, sources found, entity/concept pages created
+   - Both cron jobs with their next run times (weekly, and static one day later)
 
 ### List Topics
 
