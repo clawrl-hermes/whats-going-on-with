@@ -18,3 +18,7 @@
 ## 2026-11-24 - Baseline Figure Correction
 - Replaced unsourced hydrocarbon shares and population with World Bank figures and the existing GDP row
 - Added source 36
+
+## 2026-11-24 - Entity Expansion
+- Added entities: Turkey, Egypt, United Arab Emirates, Russia, United States
+- Added sources 37-44
