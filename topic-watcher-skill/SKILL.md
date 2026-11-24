@@ -88,13 +88,13 @@ topics:
    └── articles/
    ```
 
-3. **Create priority-sources.md:** After scaffolding, research and populate `priority-sources.md` with the topic's curated source list. Categorize sources as:
+3. **Draft a provisional priority-sources.md.** After scaffolding, put 3-5 outlets in each category from domain knowledge and whatever the user names. This is a starting hypothesis for the seed research, not the finished list. Categorize as:
    - **Regional Specialists** (high trust) — outlets dedicated to the region
    - **Think Tanks** (analytical depth) — research institutions producing analysis
    - **Official Sources** (primary, biased) — presidential/ministry announcements of relevant countries
    - **Advocacy & Diaspora** (useful signal, biased framing) — constituency-based sources
 
-   Only the first three sections are published by the site; keep Advocacy & Diaspora below them as a private working section. Ask the user for their known priority sources before researching your own. The user often has specific outlets in mind.
+   Only the first three sections are published by the site; keep Advocacy & Diaspora below them as a private working section.   Ask the user for their known priority sources before researching your own. The user often has specific outlets in mind. Mark the file as provisional in your own notes; do not treat it as final.
 
 4. **Seed research and write every page to the contract.** The topic must be publishable when this step ends; do not leave placeholder pages for the first weekly run to fill in.
    - Run each search query via `tavily_search` with `time_range="month"`, `max_results=5`, and extract the strongest results. Aim for 10-20 substantive sources.
@@ -106,27 +106,30 @@ topics:
    - `concepts/`: 2-3 explainers at 240-420 words. Frontmatter `title` and `summary`; `## Overview`, two to four mechanism sections, `## Current Status`.
    - `index.md`: list every catalogued page with a one-line summary. `Total pages` is the number of entries in that catalog (overview, timeline, entities, concepts, priority-sources); `current-situation.md` is published but not catalogued, so do not count it. Set `Total sources` to the row count.
    - Create empty `updates/` and `articles/` directories.
+   - As you ingest, record which outlets produced a fact no other source had, which merely reprinted wire copy, and which were blocked or unreachable.
 
-5. **Populate domain-notes.md:** After completing the initial research, fill in `/root/wiki/<slug>/domain-notes.md` with findings:
+5. **Finalize priority-sources.md.** Rewrite the provisional list using what the seed research showed. Promote outlets that consistently added original reporting, demote aggregators and reprinters, and add specialists discovered during the pass. Target roughly 20-25 entries across the four categories, flag bot-blocked outlets with a search fallback, and keep Advocacy & Diaspora below the three published sections. The list must be final before the weekly job's first run, because the monitor reads it then.
+
+6. **Populate domain-notes.md:** After completing the initial research, fill in `/root/wiki/<slug>/domain-notes.md` with findings:
    - **Search queries:** Insert the 5-8 canonical search queries from Step 1 (these are already determined upfront)
    - **Key entities:** List the main actors, countries, organizations discovered during research
    - **Key data points:** Add baseline statistics and figures uncovered in seed research
    - **High-signal source types:** Note which outlet categories proved most valuable during research
    - **File update checklist:** Already in the template — keep as-is
 
-6. **Create both cron jobs** — the topic is not complete with only the weekly monitor.
+7. **Create both cron jobs** — the topic is not complete with only the weekly monitor.
    - **Weekly:** load `references/weekly-source-monitor-prompt.md`, substitute `{topic_name}`, `{slug}`, `{search_queries}`, and create a job on `every 10080m`.
    - **Static review:** load `references/monthly-static-review-prompt.md`, substitute `{topic_name}` and `{slug}`, and create a job on `every 40320m` (28 days, so it keeps the same weekday). Its first run must fall one day after the weekly job's next run. Interval schedules anchor at creation time, so immediately after creating it, set the job's `next_run_at` in `~/.hermes/cron/jobs.json` to the weekly job's `next_run_at` plus 24 hours (back up the file, write atomically). Do not leave it anchored to creation time.
    - Set `repeat: 0` (forever) on both. The `cronjob` tool defaults to `repeat: "once"` when omitted. Verify with `cronjob(action='list')` that both show a recurring schedule and the intended next runs.
 
-7. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries) and both job IDs:
+8. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries) and both job IDs:
    ```yaml
    cron_jobs:
      weekly_source_monitor: "<weekly_job_id>"
      static_review: "<static_job_id>"
    ```
 
-8. **Log and commit.** Append to the topic's `log.md`:
+9. **Log and commit.** Append to the topic's `log.md`:
    ```
    ## YYYY-MM-DD - Topic Created
    - Sources ingested: N
@@ -141,7 +144,7 @@ topics:
    git push
    ```
 
-9. **Report back tersely:**
+10. **Report back tersely:**
    - Topic, path, sources found, entity/concept pages created
    - Both cron jobs with their next run times (weekly, and static one day later)
 
