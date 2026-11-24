@@ -31,8 +31,8 @@
 
 ## The Economy
 
-- Hydrocarbons are about 65% of GDP, 93% of exports and 72% of government revenue. Oil output averaged about 1.3 million barrels a day in 2025, with 1.35 million projected for 2026.
-- GDP was $48.1 billion in 2025 for a population of about 7.46 million.
+- Hydrocarbons account for more than 60% of GDP and about 90% of exports and government revenue, according to the World Bank. Oil output averaged about 1.3 million barrels a day in 2025, with 1.35 million projected for 2026.
+- GDP was $48.1 billion in 2025.
 - The Central Bank of Libya holds oil revenue and sets the official exchange rate (about 6.6 dinars to the dollar). The parallel rate reached about 10.70-11 in November 2026.
 - The Libyan Investment Authority holds assets above $80 billion, much of it frozen abroad.
 - The April 2026 unified budget framework was the first shared financial arrangement in 13 years. Public debt is estimated above 300 billion dinars ($46.5 billion).

@@ -14,3 +14,7 @@
 ## 2026-11-24 - Foundational Source Backfill
 - Added sources 25-35 (11 rows) covering 2011-2025
 - Corrected the Bashagha appointment to February 2022
+
+## 2026-11-24 - Baseline Figure Correction
+- Replaced unsourced hydrocarbon shares and population with World Bank figures and the existing GDP row
+- Added source 36

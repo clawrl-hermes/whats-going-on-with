@@ -1,6 +1,6 @@
 # Libya's Reunification Wiki Index
 
-> Content catalog. Last updated: 2026-11-24 | Total pages: 10 | Total sources: 35
+> Content catalog. Last updated: 2026-11-24 | Total pages: 10 | Total sources: 36
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
