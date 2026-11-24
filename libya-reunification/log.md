@@ -10,3 +10,7 @@
 - Basis: topic created 2026-11-24; no updates yet
 - Reason: mock review after topic creation
 - Deferred: domain-notes (unsourced baseline statistics)
+
+## 2026-11-24 - Foundational Source Backfill
+- Added sources 25-35 (11 rows) covering 2011-2025
+- Corrected the Bashagha appointment to February 2022

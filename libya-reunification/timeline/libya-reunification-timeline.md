@@ -27,8 +27,8 @@
   - Osama Hamad replaces Fathi Bashagha as prime minister of the eastern Government of National Stability.
 
 ## 2022
-- **March:**
-  - House of Representatives appoints Fathi Bashagha as prime minister; Dbeibah refuses to hand over.
+- **February:**
+  - House of Representatives selects Fathi Bashagha as prime minister; Dbeibah refuses to hand over.
 - **August:**
   - Clashes in Tripoli end the Bashagha government's attempt to enter the capital.
 
