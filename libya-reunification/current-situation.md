@@ -15,4 +15,3 @@ Can the 4+4 framework produce a single executive before the central bank crisis 
 |---|---|---|
 | By 30 November | High Council of State nominates representatives to the joint committee proposed by the House of Representatives | Decides whether the new initiative co-opts the Council or becomes another parallel track |
 | December | 2027 general and import budgets drafted with the Central Bank | Tests whether the April unified budget framework survives the spending squeeze |
-| December | UNSMIL reports to the Security Council on the roadmap | Sets the international timetable before the mandate's first quarterly review |

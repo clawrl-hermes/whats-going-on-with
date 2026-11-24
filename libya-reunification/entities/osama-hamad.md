@@ -6,7 +6,7 @@ role: Prime Minister of the Government of National Stability
 
 # Osama Hamad
 
-Hamad heads the Government of National Stability, the Benghazi-based administration appointed by the House of Representatives in 2022. His government runs eastern Libya and most southern cities, pays salaries and provides services, but it has no international recognition and no seat at the 4+4 table, where the east is represented by Haftar's military command instead.
+Hamad heads the Government of National Stability, the Benghazi-based administration formed by the House of Representatives in 2022 and led by Hamad since May 2023. His government runs eastern Libya and most southern cities, pays salaries and provides services, but it has no international recognition and no seat at the 4+4 table, where the east is represented by Haftar's military command instead.
 
 ## Key Actions
 

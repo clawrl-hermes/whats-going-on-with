@@ -7,7 +7,7 @@ summary: The US-backed power-sharing proposal that would keep Dbeibah as prime m
 
 ## Overview
 
-The Boulos plan is the US mediation track named after Massad Boulos, President Trump's senior adviser for Arab and African affairs. It proposes a negotiated merger of the two executives rather than an election-first transition: Abdulhamid Dbeibah would remain prime minister, while Saddam Haftar, son of the eastern commander, would become head of the Presidential Council. The arrangement has been discussed with both camps but has not been signed or formally published.
+The Boulos plan is the US mediation track named after Massad Boulos, the US mediator leading the file. It proposes a negotiated merger of the two executives rather than an election-first transition: Abdulhamid Dbeibah would remain prime minister, while Saddam Haftar, son of the eastern commander, would become head of the Presidential Council. The arrangement has been discussed with both camps but has not been signed or formally published.
 
 ## The Proposal
 
@@ -15,7 +15,7 @@ The plan distributes the two most powerful offices between the families that cur
 
 ## Why Turkey Holds a Veto
 
-Turkey's military presence in western Libya and its new maritime memorandum with the eastern parliament give Ankara leverage over both sides. Turkish officials have told Saddam Haftar that Ankara's support depends on the deal, and the eastern parliament ratified the 2019 maritime memorandum five days after the speaker blocking it was removed. Turkey has committed to nothing in return, and any unified government would inherit the maritime agreement.
+Turkey's military presence in western Libya and its new maritime memorandum with the eastern parliament give Ankara leverage over both sides. Turkish officials have told Saddam Haftar that Ankara's support depends on the deal, and the eastern parliament ratified the 2019 maritime memorandum 14 days after the speaker blocking it was removed. Turkey has committed to nothing in return, and any unified government would inherit the maritime agreement.
 
 ## The Critique
 

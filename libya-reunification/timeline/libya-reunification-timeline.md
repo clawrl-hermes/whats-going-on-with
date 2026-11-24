@@ -55,10 +55,12 @@
   - Rival parliaments sign the Skhirat agreement, creating a Presidential Council and a unity government.
 
 ## 2014
+- **May:**
+  - Haftar launches Operation Dignity against Islamist groups in Benghazi.
 - **June:**
   - Parliamentary elections produce a House of Representatives that moves to Tobruk.
 - **August:**
-  - A rival government and parliament take control of Tripoli; Haftar launches Operation Dignity.
+  - A rival government and parliament take control of Tripoli.
 
 ## 2011
 - **October:**
