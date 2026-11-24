@@ -68,7 +68,7 @@ topics:
 
 1. **Generate slug and search queries from the brief:**
    - Slug = lowercase, hyphenated (e.g., "vietnam-philippines")
-   - Generate 5-8 targeted search queries based on the brief
+   - Generate 5-8 targeted search queries based on the brief, including one per external patron the brief implies (for example "Egypt Libya policy" or "UAE Libya Haftar")
 
 2. **Scaffold the folder structure** (use `templates/` files):
    ```
@@ -91,7 +91,7 @@ topics:
 3. **Draft a provisional priority-sources.md.** After scaffolding, put 3-5 outlets in each category from domain knowledge and whatever the user names. This is a starting hypothesis for the seed research, not the finished list. Categorize as:
    - **Regional Specialists** (high trust) — outlets dedicated to the region
    - **Think Tanks** (analytical depth) — research institutions producing analysis
-   - **Official Sources** (primary, biased) — presidential/ministry announcements of relevant countries
+   - **Official Sources** (primary, biased) — presidential and ministry announcements of the countries involved, including the foreign and defence ministries of every external patron
    - **Advocacy & Diaspora** (useful signal, biased framing) — constituency-based sources
 
    Only the first three sections are published by the site; keep Advocacy & Diaspora below them as a private working section.   Ask the user for their known priority sources before researching your own. The user often has specific outlets in mind. Mark the file as provisional in your own notes; do not treat it as final.
@@ -102,7 +102,8 @@ topics:
    - `overview.md`: `title`, `tagline`, `region`, `started` (from `_config.yaml` `created`) and 1-3 paragraphs framing the topic.
    - `current-situation.md`: 3-5 sentences on the standing state (balance of leverage, binding constraint, direction of travel), one-sentence `## The Open Question`, and 3-6 watch rows covering the next four weeks. Every row carries a date and a scheduled decision; no speculative rows.
    - `timeline/<slug>-timeline.md`: 8-15 defining events under month/season parents, two-space sub-bullets. Every event must trace to a row in `sources.md`. Seed research normally covers only recent months, so first ingest 3-5 foundational sources for the historical spine (agreement texts, UN resolutions, landmark reports), searching without the monthly `time_range` limit or with a specific year, or shorten the timeline to the period the sources cover. Do not reconstruct 2011-2025 from memory. A new topic will not reach the 40-100 line target until later reviews; do not pad it.
-   - `entities/`: 2-4 actor pages at 230-350 words. Frontmatter `title`, `summary`, `role`; unheaded opening paragraph, `## Key Actions` (four to six dated actions that moved the process), `## Current Position`, `## Constraints`.
+   - `entities/`: first inventory the actor set, then write the pages at 230-350 words. The inventory covers domestic executives, legislatures and military commands; external states with troops, finance, arms, a UN Security Council veto or a mediation track; and institutions such as the UN or IMF. Write pages for the actors with independent leverage, not everyone mentioned; 2-4 is a floor, not a cap. If rival administrations are backed by different external patrons, at least two external state entities are mandatory.
+   - Entity format: frontmatter `title`, `summary`, `role`; unheaded opening paragraph, `## Key Actions` (four to six dated actions that moved the process), `## Current Position`, `## Constraints`.
    - `concepts/`: 2-3 explainers at 240-420 words. Frontmatter `title` and `summary`; `## Overview`, two to four mechanism sections, `## Current Status`.
    - `index.md`: list every catalogued page with a one-line summary. `Total pages` is the number of entries in that catalog (overview, timeline, entities, concepts, priority-sources); `current-situation.md` is published but not catalogued, so do not count it. Set `Total sources` to the row count.
    - Create empty `updates/` and `articles/` directories.
