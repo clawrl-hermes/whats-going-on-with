@@ -99,3 +99,11 @@
 - Updated sources.md (88 → 97), index.md source count (88 → 97)
 - Updated current-situation.md: yes (government redefines Morales as a cartel chief after the Chapare ambush, Procuraduría seeks an Interpol red notice, and the Chamber of Deputies cannot agree its committees before the 30 November budget deadline)
 - Static content flags: entities/evo-morales (page is a chronological news log rather than actor-first Key Actions/Current Position/Constraints, and stops before the cartel accusation and red-notice request); domain-notes.md (approval series ends at 32% in July; an Ipsos poll reported by AS/COA puts approval at 21% in September); timeline (no entries for the November justice purge, the ambassador nominations or the committee deadlock)
+
+## 2026-11-25 - Weekly Source Update
+- New sources ingested:
+  - 3 from priority sources
+  - 5 from Tavily
+- Updated sources.md (97 → 105), index.md source count (97 → 105)
+- Updated current-situation.md: yes (diesel indexed to international prices; budget now heading for default approval; committee and 30 November rows replaced)
+- Static content flags: domain-notes.md (diesel is no longer fixed at Bs17.95 but adjusts by formula, now Bs20.57; the 2026 inflation projection is 9.2% per the BCB, not near 17%); entities/rodrigo-paz (party vehicle now deregistered; approval series still ends at 32% in July); timeline (no entries for the commission deadlock resolution, the PDC deregistration or the November diesel increase)
