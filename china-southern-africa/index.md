@@ -1,6 +1,6 @@
 # Chinese Infrastructure and Minerals in Southern Africa — Wiki Index
 
-> Content catalog. Last updated: 2026-11-19 | Total pages: 20 | Total sources: 105
+> Content catalog. Last updated: 2026-11-25 | Total pages: 20 | Total sources: 112
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
