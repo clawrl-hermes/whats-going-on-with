@@ -118,8 +118,8 @@
 
 ## 2026-11-25 - Weekly Source Update
 - New sources ingested:
-  - 0 from priority sources
-  - 7 from Tavily
+  - 2 from priority sources (Zambia Monitor)
+  - 5 from Tavily
 - Updated sources.md (105 → 112), index.md source count (105 → 112)
 - Updated current-situation.md: yes (added the DRC cobalt suspension row and moved the AFC Lobito milestone from financial close to EPC conclusion)
 - Static content flags: domain-notes.md (no ARECOMS cobalt quota regime or 30 November suspension; no Zimbabwe sulphate-value export tax); drc.md (needs the cobalt suspension and the quota it reverses); zimbabwe.md (needs the 2027 budget tax basis and 15% local sourcing rule); current-situation.md prose (frames the contest only around finishing plants, not around price-defence export bans)
