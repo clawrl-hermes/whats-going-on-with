@@ -126,3 +126,11 @@
 - Updated sources.md (85 -> 89), index.md source count (85 -> 89)
 - Updated current-situation.md: yes (Sinopec $3.7bn Hambantota refinery recommended for termination, second Chinese project exit in a month)
 - Static content flags: domain-notes.md Hambantota section still lists the SINOPEC refinery as "pending" and the trackable indicator row assumes an FID decision; timeline has no 2027 budget entry and no party-to-party/CCP channel entry for 2026
+
+## 2026-11-26 - Weekly Source Update
+- New sources ingested:
+  - 0 from priority sources (homepages and domain-filtered scans yielded no further China items)
+  - 4 from Tavily
+- Updated sources.md (89 -> 93), index.md source count (89 -> 93)
+- Updated current-situation.md: yes (IMF Board date confirmed for 2 December, row moved from "by end-November")
+- Static content flags: domain-notes.md Trade section has no 2025 China bilateral deficit figure and still describes FTA talks as unconcluded with no RCEP evaluation stage; timeline has no entry for the 2 December Board date or the RCEP accession committee
