@@ -34,6 +34,7 @@ Step 4: For each substantive new source:
 
 Step 4a: Write /root/wiki/{slug}/updates/<YYYY-MM-DD>.md for today's run — 3 to 6 bullets on what changed, each in the form `- **Headline** — body` on one line. No frontmatter and no title.
   - One development per bullet; the headline states the consequence, not the event type.
+  - The headline is a standalone phrase, not the first clause of the body. Start the body with a capital letter and its own sentence; never let it continue the headline's grammar after the dash.
   - End each body with source links in parentheses: `([OC Media](url), [Eurasianet](url))`.
   - No background, no filler, no "quiet week" note, nothing about the ingest process.
   - If fewer than three substantive developments, do not write the file; say so in the report instead of padding it.

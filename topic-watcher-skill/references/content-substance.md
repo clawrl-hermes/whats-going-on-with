@@ -82,7 +82,7 @@ Voice: plain declarative prose, active verbs, no throat-clearing. A reader shoul
 **Must contain**
 - Three to six bullets, each `- **Headline** — body` on one line.
 - A headline that states the consequence, not the event type ("TRIPP becomes law", not "Parliament vote held").
-- A body of one to three sentences: what happened, the number or name that makes it concrete, and why it matters.
+- A body of one to three sentences: what happened, the number or name that makes it concrete, and why it matters. Start the body with a capital letter; it must not continue the headline's grammar after the dash.
 - Source links at the end of the body in parentheses: `([OC Media](url), [Eurasianet](url))`.
 
 **Must not contain**
