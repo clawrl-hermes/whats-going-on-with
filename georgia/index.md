@@ -1,6 +1,6 @@
 # Georgia — Geopolitical Positioning Wiki Index
 
-> Content catalog. Last updated: 2026-11-19 | Total pages: 12 | Total sources: 151
+> Content catalog. Last updated: 2026-11-26 | Total pages: 12 | Total sources: 160
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)

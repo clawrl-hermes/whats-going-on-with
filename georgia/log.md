@@ -120,3 +120,11 @@
 - Updated sources.md (140 → 151), index.md source count (140 → 151)
 - Updated current-situation.md: yes (Russia channel revived with a named counterpart and first meeting scheduled)
 - Static content flags: entities/russia.md has no reference to the revived special-representative channel; entities/united-states.md predates the Democratic sweep taking both chambers; domain-notes.md Russia section lacks the format's revival
+
+## 2026-11-26 - Weekly Source Update
+- New sources ingested:
+  - 7 from priority sources
+  - 2 from Tavily
+- Updated sources.md (151 → 160), index.md source count (151 → 160)
+- Updated current-situation.md: yes (Galuzin meeting row removed as held; court row dated to 30 November; EU sanctions reference now names the 22nd package)
+- Static content flags: entities/russia.md predates the Minsk meeting and Lavrov's normalization statement; entities/european-union.md predates the Kulevi delisting proposal and Kos's Georgia-excluding transport format; domain-notes.md records Prague as the special-representative venue
