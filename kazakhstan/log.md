@@ -123,3 +123,11 @@
 - Updated sources.md (136 → 147), index.md source count (136 → 147)
 - Updated current-situation.md: yes (Samruk-Kazyna and KTZ chiefs detained and KNB chairman replaced)
 - Static content flags: domain-notes.md still gives 2026 nominal GDP as about $360 billion against $397.92 billion in the IMF-based ranking; domain-notes.md domestic-politics section has no Samruk-Kazyna leadership purge or KNB change; timeline has no November entries for the arrests, the SIBUR designation or the IMF mission; index has no entity page for Samruk-Kazyna or KTZ
+
+## 2026-11-27 - Weekly Source Update
+- New sources ingested:
+  - 8 from priority sources
+  - 2 from Tavily
+- Updated sources.md (147 → 157), index.md source count (147 → 157)
+- Updated current-situation.md: yes (2027 budget adopted, so row removed; G20 row dated 14–15 December)
+- Static content flags: domain-notes.md still gives 2026 nominal GDP as about $360 billion against $397.92 billion in the IMF-based ranking; domain-notes.md Russia section has no Druzhba suspension since May 2026 or the request to resume; timeline has no November entries for the budget adoption, the KTZ IPO delay or the Kazatomprom detention; index still has no entity page for Samruk-Kazyna or KTZ
