@@ -149,3 +149,11 @@
 - Updated sources.md (228 → 241), index.md source count (228 → 241)
 - Updated current-situation.md: yes (draft constitution publication now dated 23 November, row moved from "by 30 November")
 - Static content flags: domain-notes.md (draft publication now fixed for 23 November; Pashinyan's resignation pledge and the 70-vote referendum threshold absent from domestic constraints), entities/pashinyan (18 November resignation pledge), concepts/tripp (US stake given as 75% by bne IntelliNews against 74% elsewhere; Bayramov's demand for a voice in design parameters), current-situation prose ("two-thirds majority" framing versus the 70-of-105 vote needed to call the referendum)
+
+## 2026-11-28 - Weekly Source Update
+- New sources ingested:
+  - 4 from priority sources
+  - 7 from Tavily
+- Updated sources.md (241 → 252), index.md source count (241 → 252)
+- Updated current-situation.md: yes (draft publication row passed and removed, OSCE chairmanship decision added)
+- Static content flags: current-situation prose (draft published 23 November, so the Reform Council deadline framing is stale; draft cuts the referendum-calling threshold to three-fifths), domain-notes.md (constitutional draft now 89 articles and public; TRIPP construction began 23 November; Russian border guards slated to leave), concepts/the-constitutional-question (89-article draft, 3/5 threshold, secular clause, diaspora voting), concepts/tripp (practical phase launched and TRIPP Development Company created; 49-year term with a 50-year extension), timeline (23 November TRIPP launch and draft publication missing), entities/pashinyan (border-guard withdrawal statement of 26 November), entities/putin (Peskov's 3 December agenda)
