@@ -129,3 +129,11 @@
 - Updated sources.md (93 → 98), index.md source count (93 → 98)
 - Updated current-situation.md: no (no watch-row date moved, passed or entered the four-week horizon)
 - Static content flags: timeline has no November entries for the fourth-phase decommissioning figure, the Anti-Terrorism Act warrants for the Nabalawag mayor, or the close of the ASEAN chairship without a Code of Conduct; domain-notes still lacks the ASG October casualty figure and a trackable indicator for ATA prosecutions of political violence
+
+## 2026-11-28 - Weekly Source Update
+- New sources ingested:
+  - 4 from priority sources
+  - 0 from Tavily
+- Updated sources.md (98 → 102), index.md source count (98 → 102)
+- Updated current-situation.md: yes (the Murad-bloc watch row was closed by the 24 November Standing Orders and replaced with the 9-10 December sessions)
+- Static content flags: timeline has no November entry for the Standing Orders or the formal Opposition; murad-ebrahim and macacua entity pages do not record the Opposition's statutory status or the 25 per cent committee rule; domain-notes has no trackable indicator for parliamentary rules or opposition rights

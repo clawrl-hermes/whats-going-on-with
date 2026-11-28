@@ -1,6 +1,6 @@
 # Philippines — Islamic Extremism Wiki Index
 
-> Content catalog. Last updated: 2026-11-21 | Total pages: 12 | Total sources: 98
+> Content catalog. Last updated: 2026-11-28 | Total pages: 12 | Total sources: 102
 
 ## Overview
 - [[overview]] -- Topic framing for the site (title, tagline, region, started)
